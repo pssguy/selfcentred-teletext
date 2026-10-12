@@ -1,0 +1,862 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Teletext prototype</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+<style>
+/* Bedstead by Ben Harris (CC0 + CDPA s55), subset to Latin and embedded. */
+@font-face{font-family:"Bedstead";src:url(data:font/woff2;base64,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) format("woff2");font-display:block}
+@font-face{font-family:"BedsteadExt";src:url(data:font/woff2;base64,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) format("woff2");font-display:block}
+
+:root{
+  --bg:#d8d4c8; --fg:#12121a; --muted:#45454f;
+  --key:#efece2; --keyfg:#12121a; --keyline:#8d8a80;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#06060c; --fg:#f2f2f2; --muted:#b4b4cc;
+    --key:#14142a; --keyfg:#f2f2f2; --keyline:#3a3a66;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#06060c; --fg:#f2f2f2; --muted:#b4b4cc;
+  --key:#14142a; --keyfg:#f2f2f2; --keyline:#3a3a66;
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*,*::before,*::after{box-sizing:inherit}
+body{
+  margin:0; background:var(--bg); color:var(--fg);
+  font:17px/1.5 "Bedstead","VT323","Courier New",monospace;
+  display:flex; justify-content:center;
+}
+.wrap{width:100%; max-width:820px; padding:20px 16px 36px}
+h1{margin:0 0 10px; font-size:20px; font-weight:400; line-height:1.3}
+.bar{display:inline-block; background:#2828ff; color:#ffff20; padding:0 .7em}
+.lede{margin:0 0 18px; color:var(--muted); max-width:62ch}
+
+/* ---- the television ---- */
+.cab{
+  display:grid; grid-template-columns:minmax(0,1fr) 116px; gap:16px;
+  padding:clamp(12px,3vw,24px); border-radius:22px;
+  background:
+    repeating-linear-gradient(92deg, rgba(0,0,0,.08) 0 2px, rgba(255,255,255,.04) 2px 6px),
+    linear-gradient(#8f5c2b,#5c3816);
+  box-shadow:0 24px 46px rgba(0,0,0,.5), inset 0 2px 3px rgba(255,255,255,.22), inset 0 -4px 8px rgba(0,0,0,.45);
+}
+.bezel{
+  background:#0c0c0c; border-radius:30px; padding:clamp(8px,2.4vw,16px);
+  box-shadow:inset 0 0 0 2px #262626, inset 0 8px 16px rgba(0,0,0,.85), 0 1px 0 rgba(255,255,255,.12);
+}
+.screen{position:relative; aspect-ratio:4/3; overflow:hidden; background:#000; border-radius:20px / 24px}
+.screen canvas{position:absolute; inset:3.4%; width:93.2%; height:93.2%; display:block; transform-origin:center}
+.crt,.glass{position:absolute; inset:0; pointer-events:none}
+.crt{
+  background:
+    repeating-linear-gradient(to bottom, rgba(0,0,0,0) 0, rgba(0,0,0,0) 2px, rgba(0,0,0,.24) 3px, rgba(0,0,0,0) 4px),
+    radial-gradient(ellipse at center, rgba(0,0,0,0) 58%, rgba(0,0,0,.55) 100%);
+}
+.crt.off{display:none}
+.glass{background:radial-gradient(ellipse 70% 45% at 30% 12%, rgba(255,255,255,.10), rgba(255,255,255,0) 70%); box-shadow:inset 0 0 40px rgba(0,0,0,.8)}
+@keyframes crton{
+  0%{transform:scale(.2,.006); filter:brightness(6)}
+  35%{transform:scale(1,.006); filter:brightness(5)}
+  100%{transform:none; filter:none}
+}
+.screen canvas{animation:crton .9s ease-out both}
+@media (prefers-reduced-motion: reduce){ .screen canvas{animation:none} }
+
+.panel{display:flex; flex-direction:column; align-items:center; gap:18px; padding:6px 0}
+.grille{
+  width:100%; flex:0 0 130px; border-radius:8px;
+  background:repeating-linear-gradient(90deg,#1b1208 0 3px,#4a3519 3px 6px);
+  box-shadow:inset 0 3px 8px rgba(0,0,0,.7), 0 1px 0 rgba(255,255,255,.15);
+}
+.knobs{display:flex; flex-direction:column; align-items:center; gap:14px}
+.knob{
+  width:62px; height:62px; border-radius:50%; position:relative;
+  background:conic-gradient(#d9d1b9,#8b8571,#ebe3cb,#7b7560,#d9d1b9);
+  box-shadow:0 4px 8px rgba(0,0,0,.55), inset 0 0 0 3px rgba(0,0,0,.35);
+  transition:transform .6s cubic-bezier(.3,1.4,.5,1);
+}
+.knob::after{content:""; position:absolute; left:50%; top:6px; width:4px; height:16px; margin-left:-2px; border-radius:2px; background:#1c1c1c}
+.knob.small{width:46px; height:46px}
+.knob.small::after{height:12px}
+.plate{margin-top:auto; text-align:center; font-size:13px; line-height:1.3; color:#eadfc0; text-shadow:0 1px 0 rgba(0,0,0,.6)}
+
+@media (max-width:640px){
+  .cab{grid-template-columns:1fr}
+  .panel{flex-direction:row; justify-content:space-between; align-items:center}
+  .grille{flex:1 1 auto; height:46px}
+  .knobs{flex-direction:row}
+  .knob{width:44px; height:44px}
+  .knob.small{width:34px; height:34px}
+  .knob::after{height:11px; top:5px}
+  .plate{margin:0}
+}
+
+/* ---- controls ---- */
+.st{margin:14px 2px 0; color:var(--muted); min-height:1.5em}
+.remote{margin-top:12px; display:flex; flex-direction:column; gap:8px}
+.row{display:flex; gap:8px; flex-wrap:wrap}
+button{
+  font:inherit; font-size:16px; cursor:pointer;
+  border-radius:10px; border:1px solid var(--keyline);
+  background:var(--key); color:var(--keyfg);
+  padding:8px 6px; min-width:44px; flex:1 1 44px;
+}
+button:focus-visible{outline:3px solid #3b82f6; outline-offset:2px}
+button:active{transform:translateY(1px)}
+.col{border:0; color:#000}
+.col.r{background:#ff3a3a}.col.g{background:#2fe05a}.col.y{background:#ffe93a}.col.c{background:#3fe6f2}
+.wide{flex:1 1 130px}
+.sr{position:absolute;width:1px;height:1px;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:pre}
+.note{margin:18px 2px 0; color:var(--muted); font-size:15px; max-width:66ch}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1><span class="bar">TELETEXT PROTOTYPE</span></h1>
+  <p class="lede">A teletext front end for news feeds. This preview runs on an invented demo feed. On your own site it reads feed.json, written on a schedule by an R script. Type a page number or use the coloured keys.</p>
+
+  <div class="cab">
+    <div class="bezel">
+      <div class="screen">
+        <canvas id="tv" role="img" aria-label="Teletext screen"></canvas>
+        <div class="crt" id="crt"></div>
+        <div class="glass"></div>
+      </div>
+    </div>
+    <div class="panel" aria-hidden="true">
+      <div class="grille"></div>
+      <div class="knobs"><div class="knob" id="k1"></div><div class="knob small" id="k2"></div></div>
+      <div class="plate">BROLLYVISION<br>TX-100</div>
+    </div>
+  </div>
+
+  <div class="st" id="st" aria-live="polite"></div>
+
+  <div class="remote">
+    <div class="row">
+      <button class="col r" id="bR">News</button>
+      <button class="col g" id="bG">Sport</button>
+      <button class="col y" id="bY">Weather</button>
+      <button class="col c" id="bC">Index</button>
+    </div>
+    <div class="row" id="digs"></div>
+    <div class="row">
+      <button class="wide" id="bUp">Next page</button>
+      <button class="wide" id="bDn">Previous page</button>
+      <button class="wide" id="bHold">Hold</button>
+      <button class="wide" id="bCrt">CRT effect: on</button>
+      <button class="wide" id="bClk">Clock: UK time</button>
+    </div>
+    <div class="row">
+      <button class="wide" id="bArt">Teletext-ify an image...</button>
+      <input type="file" id="file" accept="image/*" hidden>
+    </div>
+  </div>
+
+  <p class="note">Try 101 (top stories), 120, 140, 200, 300, 700 (new adverts each UK day) and 800 (art lab). Pages marked (s) are invented samples. Keyboard: 0-9, R G Y C, up/down arrows, space to hold, backspace to clear. The clock shows UK time, matching the feed. Typeface: Bedstead by Ben Harris.</p>
+  <section aria-label="Text of the current page"><pre class="sr" id="mirror"></pre></section>
+</div>
+
+<script>
+(function(){
+'use strict';
+
+/* ---------- canvas setup: 40 x 24 cells, 16 x 20 px each ---------- */
+const CW=16, CH=20, S=2;
+const cv=document.getElementById('tv');
+cv.width=640*S; cv.height=480*S;
+const ctx=cv.getContext('2d');
+ctx.scale(S,S);
+
+const PAL=['#000000','#ff2020','#20ff40','#ffff20','#2828ff','#ff28ff','#20ffff','#ffffff'];
+
+/* ---------- control-code tokens used when writing pages ---------- */
+const TOK={R:1,G:2,Y:3,B:4,M:5,C:6,W:7, fl:8, st:9, sh:12, dh:13,
+  gR:17,gG:18,gY:19,gB:20,gM:21,gC:22,gW:23, cg:25, sg:26, bk:28, nb:29, hm:30, rl:31};
+
+function parse(s){
+  const out=[]; const re=/\[(\w+)\]|([\s\S])/g; let m;
+  while((m=re.exec(s)) && out.length<40){
+    if(m[1]!==undefined){
+      const c=TOK[m[1]];
+      if(c===undefined){ console.warn('Unknown token',m[1]); continue; }
+      out.push(c);
+    } else out.push(m[2].charCodeAt(0));
+  }
+  while(out.length<40) out.push(0x20);
+  return out;
+}
+
+/* ---------- teletext row decoder: control codes occupy a cell ---------- */
+function decode(codes){
+  let fg=7,bg=0,mos=false,sep=false,dh=false,fl=false,hm=false,held=0x20,hsep=false;
+  const out=[];
+  for(const c of codes){
+    if(c<0x20){
+      let post=null;
+      if(c>=1&&c<=7) post=()=>{mos=false;fg=c;held=0x20;};
+      else if(c===8) post=()=>{fl=true;};
+      else if(c===9) fl=false;
+      else if(c===12) dh=false;
+      else if(c===13) post=()=>{dh=true;};
+      else if(c>=17&&c<=23) post=()=>{mos=true;fg=c-16;};
+      else if(c===25) sep=false;
+      else if(c===26) sep=true;
+      else if(c===28) bg=0;
+      else if(c===29) bg=fg;
+      else if(c===30) hm=true;
+      else if(c===31) post=()=>{hm=false;};
+      const showHeld=hm&&mos;
+      out.push({ch:showHeld?held:0x20,mos:showHeld,sep:showHeld?hsep:false,fg,bg,dh,fl});
+      if(post) post();
+    } else {
+      const m=mos&&((c>=0x20&&c<=0x3f)||(c>=0x60&&c<=0x7f));
+      if(m){held=c;hsep=sep;}
+      out.push({ch:c,mos:m,sep,fg,bg,dh,fl});
+    }
+  }
+  return out;
+}
+
+/* ---------- font calibration: Bedstead Extended is drawn for a 16 x 20 cell ---------- */
+let FONT='20px monospace', SX=1, BASE=16, crt=true, flashOn=true;
+function calibrate(){
+  const fam='"BedsteadExt","VT323","Courier New",monospace';
+  ctx.save(); ctx.setTransform(1,0,0,1,0,0);
+  ctx.font='100px '+fam;
+  const asc=ctx.measureText('H').actualBoundingBoxAscent||70;
+  const fs=100*14/asc;
+  ctx.font=fs+'px '+fam;
+  SX=CW/ctx.measureText('M').width;
+  FONT=ctx.font;
+  ctx.restore();
+}
+
+/* ---------- cell drawing; half: 0 normal, 1 top of double height, 2 bottom ---------- */
+const MB=[[1,0,0],[2,8,0],[4,0,1],[8,8,1],[16,0,2],[64,8,2]];
+const MY=[0,7,13], MH=[7,6,7];
+function drawCell(cell,col,row,half){
+  const x=col*CW, y=row*CH;
+  ctx.fillStyle=PAL[cell.bg]; ctx.fillRect(x,y,CW,CH);
+  if(cell.ch===0x20) return;
+  if(cell.fl && !flashOn) return;
+  ctx.save();
+  ctx.beginPath(); ctx.rect(x,y,CW,CH); ctx.clip();
+  ctx.translate(x, y-(half===2?CH:0));
+  if(half) ctx.scale(1,2);
+  ctx.fillStyle=PAL[cell.fg];
+  if(cell.mos){
+    for(const [m,bx,r] of MB){
+      if(cell.ch&m){
+        if(cell.sep) ctx.fillRect(bx+1,MY[r]+1,7,MH[r]-1);
+        else ctx.fillRect(bx,MY[r],8,MH[r]);
+      }
+    }
+  } else {
+    if(crt){ ctx.shadowColor=PAL[cell.fg]; ctx.shadowBlur=3; }
+    ctx.font=FONT; ctx.textBaseline='alphabetic';
+    ctx.scale(SX,1);
+    ctx.fillText(String.fromCharCode(cell.ch),0,BASE);
+  }
+  ctx.restore();
+}
+
+function render(rows){
+  ctx.fillStyle='#000'; ctx.fillRect(0,0,640,480);
+  let prev=null;
+  for(let r=0;r<24;r++){
+    if(prev && prev.some(c=>c.dh)){
+      prev.forEach((c,i)=>{
+        if(c.dh) drawCell(c,i,r,2);
+        else drawCell({ch:0x20,mos:false,fg:c.fg,bg:c.bg,fl:false,dh:false},i,r,0);
+      });
+      prev=null; continue;
+    }
+    const cells=decode(rows[r]);
+    cells.forEach((c,i)=>drawCell(c,i,r,c.dh?1:0));
+    prev=cells;
+  }
+}
+
+/* ---------- mosaic art: 2 x 3 sub-pixels per cell, drawn from X/. maps ---------- */
+function artRows(px){
+  const h=px.length, w=px[0].length, out=[];
+  for(let cy=0;cy<h/3;cy++){
+    let s='';
+    for(let cx=0;cx<w/2;cx++){
+      const p=(dx,dy)=>px[cy*3+dy][cx*2+dx]==='X';
+      const code=0x20+(p(0,0)?1:0)+(p(1,0)?2:0)+(p(0,1)?4:0)+(p(1,1)?8:0)+(p(0,2)?16:0)+(p(1,2)?0x40:0);
+      s+=String.fromCharCode(code);
+    }
+    out.push(s);
+  }
+  return out;
+}
+const GL={
+  C:["XXXX","X...","X...","X...","X...","XXXX"],
+  E:["XXXX","X...","XXX.","X...","X...","XXXX"],
+  F:["XXXX","X...","XXX.","X...","X...","X..."],
+  A:[".XX.","X..X","X..X","XXXX","X..X","X..X"],
+  X:["X..X","X..X",".XX.",".XX.","X..X","X..X"]
+};
+const LOGO=(()=>{
+  const cols=['gR','gY','gG','gC','gM','gW']; const rows=['',''];
+  'CEEFAX'.split('').forEach((ch,i)=>{
+    const a=artRows(GL[ch]);
+    rows[0]+=`[${cols[i]}]`+a[0]; rows[1]+=`[${cols[i]}]`+a[1];
+  });
+  return rows;
+})();
+const BLOCK5=String.fromCharCode(0x7f).repeat(5);
+const RAINBOW='  '+['gR','gY','gG','gC','gM','gB'].map(c=>`[${c}]${BLOCK5}`).join('');
+const SUN=artRows(["....XXXX....","..XXXXXXXX..",".XXXXXXXXXX.",".XXXXXXXXXX.",".XXXXXXXXXX.",".XXXXXXXXXX.","..XXXXXXXX..","....XXXX....","............"]);
+const WAVE=artRows([".XX..XX..XX..XX..XX..XX.","X..XX..XX..XX..XX..XX..X","........................"]);
+
+/* ---------- page building helpers ---------- */
+const PAGES={};
+const SUBMS=8000;
+const DEF={R:[101,'News'],G:[300,'Sport'],Y:[400,'Weather'],C:[100,'Index']};
+
+function wrap(t,w){
+  const out=[]; let l='';
+  for(const wd of t.split(' ')){
+    const n=l?l+' '+wd:wd;
+    if(n.length>w && l){ out.push(l); l=wd; } else l=n;
+  }
+  if(l) out.push(l);
+  return out;
+}
+const para=(c,t,w)=>wrap(t,w||36).map(l=>`[${c}]${l}`);
+
+function titleRow(t,i,n){
+  const right=n>1?`${i}/${n}`:'';
+  const inner=(' '+t.toUpperCase()).padEnd(36-right.length)+right+' ';
+  return `[B][nb][Y]${inner}`;
+}
+function fastRow(f){
+  return ['R','G','Y','C'].map(k=>`[${k}]${f[k][1].padEnd(9).slice(0,9)}`).join('');
+}
+function fit(rows){ const a=rows.slice(); while(a.length<22) a.push(''); return a.slice(0,22); }
+function mk(num,title,subs,fast){
+  PAGES[num]={num,title,fast:fast||DEF,
+    subs:subs.map((rows,i)=>fit([titleRow(title,i+1,subs.length)].concat(rows)))};
+}
+function notFound(n){
+  return {num:n,title:'Not available',fast:DEF,
+    subs:[fit([titleRow('Not available',1,1),'',`[R]Page ${n} is not in service.`,'',
+      ...para('W','It may never have been. Try the index.')])]};
+}
+
+/* ---------- clock: the feed is UK-based, so the header defaults to UK time ---------- */
+const DAYS=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+const MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const p2=n=>String(n).padStart(2,'0');
+let clockUK=true;
+function partsOf(d,tz){
+  const f=new Intl.DateTimeFormat('en-GB',{timeZone:tz,weekday:'short',day:'2-digit',month:'numeric',year:'numeric',
+    hour:'2-digit',minute:'2-digit',second:'2-digit',hourCycle:'h23'});
+  const o={}; f.formatToParts(d).forEach(p=>{o[p.type]=p.value;}); return o;
+}
+const stamp=iso=>{ const o=partsOf(new Date(iso),'Europe/London'); return `${o.day} ${MON[+o.month-1]} ${o.hour}:${o.minute}`; };
+const clean=s=>String(s==null?'':s).replace(/[\u2018\u2019]/g,"'").replace(/[\u201c\u201d]/g,'"').replace(/[\u2013\u2014]/g,'-').replace(/\s+/g,' ').trim();
+
+/* ---------- feed data. feed.json (from the R script) wins; otherwise this invented demo feed is used ---------- */
+const DEMO={
+  top:[
+    ["Minister confirms review of review is under review","Officials said the process would be thorough, eventually. A further review will report next spring."],
+    ["Storm brings flooding to coastal towns","Residents were advised to move belongings upstairs. Several said they were already there."],
+    ["Hospital study finds waiting rooms still full of waiting","Researchers described patients as patient, mostly. The study took four years and a long wait for results."],
+    ["Inflation falls; prices stay put","Economists called the figures encouraging in theory. Shoppers called them theoretical."],
+    ["AI system trained on headlines gets worse at headlines","Developers said the model had read thousands of real examples. Editors declined to comment, which was wise."],
+    ["World leaders agree to meet again","Talks ended with a commitment to hold further talks. The communique runs to 40 pages and a footnote."]],
+  world:[
+    ["Summit ends with pledge to hold another summit","Delegates praised the constructive atmosphere. The catering was described as ambitious."],
+    ["Rare snowfall closes desert airport","Passengers were offered blankets, then a refund, then another blanket."],
+    ["Football federation bans team for excess enthusiasm","The decision followed a goal celebration that lasted into the second half."],
+    ["Port workers strike over length of lunch break","Management offered a longer lunch break. Talks continue, over lunch."],
+    ["Volcano erupts; tourists report good light","Officials urged visitors to keep a safe distance and stop asking for a second take."],
+    ["Treaty signed with pen that did not work","The ceremony was repeated with a pencil, which delegates called a sensible compromise."]],
+  uk:[
+    ["Council finds missing roundabout","Officials said it had been misfiled. Local drivers said they had noticed."],
+    ["Rail passengers offered apology instead of train","The operator said the apology was on time. The train was not."],
+    ["Hospital car park declared full of cars","A spokesperson said the finding was consistent with previous findings."],
+    ["Heatwave warning issued for Tuesday, then withdrawn","Forecasters said conditions had changed. Residents said they had noticed that too."],
+    ["Pensioner wins argument with sat nav","Neighbours reported a long silence, then a short cheer at the end of the road."],
+    ["Village fete runs out of tombola","Organisers blamed demand. Attendees blamed the vicar, who had won four times."]],
+  business:[
+    ["Biscuit firm reports crumbly quarter","Shares dipped after the company admitted it had been dunking profits."],
+    ["Bank raises rates, lowers expectations","The move was welcomed by savers and nobody else."],
+    ["Retailer blames weather, calendar, customers","Sales fell for the third quarter in a row. Management said the quarters were unhelpful."],
+    ["Energy bills to fall, in a manner of speaking","Suppliers said the reduction would be visible with the right lighting."],
+    ["Start-up valued at several million adjectives","Investors praised the disruptive, scalable, synergistic vision. A product is planned."],
+    ["Jobs market resilient, say people with jobs","Analysts noted that people without jobs were unavailable for comment."]],
+  sport:[
+    ["Wetwang Wanderers hold Nether Wallop to goalless draw","Fans described the match as a game of two halves, both of them empty."],
+    ["Cricket: rain stops play; play stops rain","The umpires called an early tea, then a late lunch, then the whole thing off."],
+    ["Tennis star blames shoes, court, ball","The player said the opponent had also been present and was not helpful."],
+    ["Rugby side name new captain, same excuses","The new captain said the team was looking forward to looking forward."],
+    ["Golf: leader overtaken by weather","Play was suspended as the course became a lake and the lake became a course."],
+    ["Manager not worried for fourth week running","The club said the manager's position was safe, which fans took as a warning."]]
+};
+function demoFeed(){
+  const now=Date.now(), out={source:'Demo (invented)',fetchedAt:new Date(now).toISOString(),sections:{}};
+  for(const k in DEMO) out.sections[k]=DEMO[k].map((t,i)=>({title:t[0],desc:t[1],pubDate:new Date(now-(i+1)*47*60000).toISOString(),link:''}));
+  return out;
+}
+let FEED=demoFeed(), feedMode='demo';
+
+const SECTIONS=[
+  {key:'top',index:101,title:'Top stories'},
+  {key:'world',index:120,title:'World'},
+  {key:'uk',index:140,title:'UK'},
+  {key:'business',index:200,title:'Business'},
+  {key:'sport',index:300,title:'Sport'}
+];
+
+/* ---------- story art: a mosaic icon chosen from the story's words ---------- */
+const CLOUD_PX=["....XXXXXX......","..XXXXXXXXXXXX..",".XXXXXXXXXXXXXX.","XXXXXXXXXXXXXXXX","XXXXXXXXXXXXXXXX",".XXXXXXXXXXXXXX."];
+const RAIN_PX=["..X...X...X...X.",".X...X...X...X..","..X...X...X...X."];
+const ICON_PX={
+  globe:["....XXXXXXXX....","..XX...XX...XX..",".X.....XX.....X.",".X.....XX.....X.","X......XX......X","XXXXXXXXXXXXXXXX","X......XX......X",".X.....XX.....X.",".X.....XX.....X.","..XX...XX...XX..","....XXXXXXXX....","................"],
+  building:["......XXXX......","....XXXXXXXX....","..XXXXXXXXXXXX..","XXXXXXXXXXXXXXXX","................",".XX..XX..XX..XX.",".XX..XX..XX..XX.",".XX..XX..XX..XX.",".XX..XX..XX..XX.","................","XXXXXXXXXXXXXXXX","XXXXXXXXXXXXXXXX"],
+  chart:["................",".............XX.",".............XX.",".............XX.",".........XX..XX.",".........XX..XX.",".....XX..XX..XX.",".....XX..XX..XX.",".XX..XX..XX..XX.",".XX..XX..XX..XX.",".XX..XX..XX..XX.","XXXXXXXXXXXXXXXX"],
+  ball:["....XXXXXXXX....","..XX...XX...XX..",".X....XXXX....X.",".X...XXXXXX...X.","X.XX..XXXX..XX.X","XXX....XX....XXX","XXX....XX....XXX","X.XX..XXXX..XX.X",".X...XXXXXX...X.",".X....XXXX....X.","..XX...XX...XX..","....XXXXXXXX...."],
+  weather:[...CLOUD_PX,...RAIN_PX,"................","................","................"],
+  cross:["......XXXX......","......XXXX......","......XXXX......","......XXXX......","..XXXXXXXXXXXX..","..XXXXXXXXXXXX..","..XXXXXXXXXXXX..","..XXXXXXXXXXXX..","......XXXX......","......XXXX......","......XXXX......","......XXXX......"],
+  monitor:["XXXXXXXXXXXXXXXX","X..............X","X.XXXXXXXX.....X","X..............X","X.XXXXXX.......X","X..............X","X.XXXXXXXXXX...X","X..............X","XXXXXXXXXXXXXXXX","......XXXX......","......XXXX......","....XXXXXXXX...."]
+};
+const ICON_COL={globe:['gC','gC','gC','gC'],building:['gY','gW','gW','gW'],chart:['gG','gG','gG','gW'],ball:['gW','gW','gW','gW'],
+  weather:['gW','gW','gC','gW'],cross:['gR','gR','gR','gR'],monitor:['gM','gM','gM','gM']};
+const ICON_LABEL={globe:'World',building:'Politics',chart:'Business',ball:'Sport',weather:'Weather',cross:'Health',monitor:'Technology'};
+const RULES=[
+  ['weather',/storm|flood|rain\b|snow|weather|hurricane|heatwave|gale|fog\b/i],
+  ['cross',/nhs|hospital|health|doctor|cancer|vaccine|virus|patient|medical/i],
+  ['monitor',/\bai\b|artificial intelligence|tech|\bapp\b|google|apple|microsoft|cyber|hack|online|social media|computer|robot|software/i],
+  ['building',/minister|government|prime minister|labour|tory|\bmps?\b|parliament|election|vote|president|council|talks|treaty|summit|court|review|police/i]
+];
+const SEC_DEFAULT={top:'globe',world:'globe',uk:'building'};
+function pickIcon(text,sec){
+  if(sec==='sport') return 'ball';
+  if(sec==='business') return 'chart';
+  for(const [n,re] of RULES) if(re.test(text)) return n;
+  return SEC_DEFAULT[sec]||'globe';
+}
+const iconRows=n=>artRows(ICON_PX[n]).map((r,i)=>`[${ICON_COL[n][i]}]${r}`);
+
+/* ---------- feed pages: section index + one page per story ---------- */
+const chunk=(a,n)=>{const o=[];for(let i=0;i<a.length;i+=n)o.push(a.slice(i,i+n));return o;};
+const attr=()=>`[Y]Source: ${FEED.source}, ${stamp(FEED.fetchedAt)}`;
+function entryRows(title,num){
+  const L=wrap(clean(title),32).slice(0,3);
+  return L.map((l,i)=>i===L.length-1?`[C]${l.padEnd(32)}[Y]${num}`:`[C]${l}`);
+}
+function storyRows(it,sec,i,n){
+  const rows=[];
+  wrap(clean(it.title).toUpperCase(),36).slice(0,3).forEach(l=>{rows.push(`[dh][Y]${l}`,'');});
+  rows.push('');
+  const ic=pickIcon(clean(it.title+' '+(it.desc||'')),sec), ir=iconRows(ic);
+  const side=[`[C]  ${ICON_LABEL[ic]}`,it.pubDate?`[W]  ${stamp(it.pubDate)} UK`:'',`[W]  Story ${i+1} of ${n}`,''];
+  ir.forEach((r,k)=>rows.push(r+side[k]));
+  rows.push('');
+  wrap(clean(it.desc||''),36).slice(0,Math.max(0,20-rows.length)).forEach(l=>rows.push(`[W]${l}`));
+  while(rows.length<20) rows.push('');
+  rows.push(attr());
+  return rows;
+}
+function buildFeedPages(){
+  for(const s of SECTIONS){
+    const items=((FEED.sections&&FEED.sections[s.key])||[]).slice(0,8);
+    const first=s.index+1;
+    const subs=chunk(items.map((it,i)=>({it,num:first+i})),4).map(pg=>{
+      const rows=[''];
+      pg.forEach(o=>{rows.push(...entryRows(o.it.title,o.num),'');});
+      while(rows.length<20) rows.push('');
+      rows.push(attr());
+      return rows;
+    });
+    if(!subs.length) subs.push(['','[R]No stories loaded.']);
+    mk(s.index,s.title,subs,{R:[101,'Top'],G:[120,'World'],Y:[140,'UK'],C:[100,'Index']});
+    items.forEach((it,i)=>{
+      mk(first+i,s.title,[storyRows(it,s.key,i,items.length)],
+        {R:[s.index,'Headlines'],G:[first+((i+1)%items.length),'Next'],Y:[first+((i+items.length-1)%items.length),'Previous'],C:[100,'Index']});
+    });
+  }
+}
+
+/* ---------- 100 index ---------- */
+const menu=(a,b)=>`[C]${a[0].padEnd(12)}[W]${a[1]}`+(b?`   [C]${b[0].padEnd(12)}[W]${b[1]}`:'');
+function buildIndex(){
+  PAGES[100]={num:100,title:'Index',fast:{R:[101,'News'],G:[300,'Sport'],Y:[400,'Weather'],C:[500,'TV']},
+    subs:[fit([
+      ` ${LOGO[0]}[W]  Headlines: ${FEED.source===('BBC News')?'BBC':'demo'}`.slice(0,200),
+      ` ${LOGO[1]}[C]  ${feedMode==='live'?'Live feed':'Demo feed'}`,
+      '',
+      '[B][nb][dh][Y] THE SAMPLE SERVICE',
+      '',
+      '[B][nb][W]TYPE A PAGE NUMBER OR USE THE COLOURS',
+      '',
+      menu(['News',101],['TV (s)',500]),
+      menu(['World',120],['Late deals',700]),
+      menu(['UK',140],['Art lab',800]),
+      menu(['Business',200],['Subtitles',888]),
+      menu(['Sport',300],['Results (s)',390]),
+      menu(['Weather (s)',400],['Table (s)',391]),
+      '',
+      RAINBOW,
+      '',
+      `[W]${FEED.source}, ${stamp(FEED.fetchedAt)}`,
+      '[R][fl]  (S) = INVENTED SAMPLE PAGES',
+      '',
+      '[W]Keys: 0-9  R G Y C  Space = HOLD'
+    ])]};
+}
+
+/* ---------- 390 / 391 sample football ---------- */
+const res=(h,a,hs,as)=>`[C]${h.padStart(15)}[Y] ${hs}-${as} [C]${a}`;
+mk(390,'Football results (s)',[
+  ['',
+   '[Y]Saturday',
+   '',
+   res('Nether Wallop','Little Snoring',2,1),
+   res('Wetwang Wndrs','Slaughter Utd',3,0),
+   res('Giggleswick Rov','Pratts Bottom',1,1),
+   res('Piddletrenthide','Sodbury Town',0,0),
+   '',
+   ...para('C','None of these clubs exist. Their grievances do.')],
+  ['',
+   '[Y]Fixtures',
+   '',
+   '[W]Tuesday 19:45',
+   '[C]Wetwang Wndrs[W] v [C]Nether Wallop',
+   '',
+   '[W]Wednesday 19:45',
+   '[C]Little Snoring[W] v [C]Giggleswick Rov',
+   '[C]Slaughter Utd[W] v [C]Piddletrenthide',
+   '',
+   '[W]Saturday 15:00',
+   '[C]Pratts Bottom[W] v [C]Sodbury Town']
+],{R:[391,'Table'],G:[300,'Sport'],Y:[101,'News'],C:[100,'Index']});
+
+const TEAMS=[['Wetwang Wndrs',7,2,1],['Giggleswick Rov',6,3,1],['Nether Wallop',6,1,3],['Little Snoring',5,3,2],
+  ['Slaughter Utd',4,2,4],['Pratts Bottom',3,3,4],['Piddletrenthide',2,2,6],['Sodbury Town',0,4,6]]
+  .map(t=>({n:t[0],w:t[1],d:t[2],l:t[3],pts:3*t[1]+t[2]})).sort((a,b)=>b.pts-a.pts);
+const trow=(pos,name,p,w,d,l,pts,col)=>`[${col}]${String(pos).padStart(2)} ${name.padEnd(15)}[W]${[p,w,d,l].map(x=>String(x).padStart(3)).join('')}[Y]${String(pts).padStart(4)}`;
+mk(391,'League table (s)',[[
+  '',
+  trow('','Club','P','W','D','L','Pts','Y'),
+  ...TEAMS.map((t,i)=>trow(i+1,t.n,t.w+t.d+t.l,t.w,t.d,t.l,t.pts,i<2?'G':(i>=TEAMS.length-2?'R':'C'))),
+  '',
+  ...para('C','Green: promotion. Red: reflection.')
+]],{R:[390,'Results'],G:[300,'Sport'],Y:[101,'News'],C:[100,'Index']});
+
+/* ---------- 400 weather (sample) ---------- */
+const CLOUD=artRows(CLOUD_PX), RAIN=artRows(RAIN_PX);
+const wrow=(c,w,t)=>`[C]${c.padEnd(14)}[W]${w.padEnd(10)}[Y]${(t+'C').padStart(4)}`;
+const orow=(d,c,t)=>`[Y]${d}[W] ${c.padEnd(19)}[C]${t.padStart(4)}`;
+mk(400,'Weather (s)',[
+  ['',
+   `[gW]${CLOUD[0]}[Y]  Grey. Then grey again.`,
+   `[gW]${CLOUD[1]}[C]  Rain at times, mostly`,
+   `[gC]${RAIN[0]}[C]  at the times you are out`,
+   '',
+   `[Y]${'City'.padEnd(14)}[Y]${'Today'.padEnd(10)}[Y]${'Max'.padStart(4)}`,
+   wrow('Glasgow','Drizzle',9),
+   wrow('Belfast','Showers',10),
+   wrow('Leeds','Rain',11),
+   wrow('Cardiff','Rain',12),
+   wrow('London','Overcast',14),
+   wrow('Penzance','Gale',12),
+   '',
+   ...para('C','Forecast is invented, like most forecasts.')],
+  ['',
+   '[Y]Five-day outlook',
+   '',
+   orow('Mon','Rain','11C'),
+   orow('Tue','Drizzle','10C'),
+   orow('Wed','Rain (heavy)','9C'),
+   orow('Thu','Brief dry spell','12C'),
+   orow('Fri','Rain, but lighter','11C'),
+   '',
+   ...para('G','Umbrella sales are described as robust.')]
+],{R:[101,'News'],G:[300,'Sport'],Y:[500,'TV'],C:[100,'Index']});
+
+/* ---------- 500 TV (sample) ---------- */
+const tv=(t,s)=>`[Y]${t}[W]${s}`;
+mk(500,'Tonight on TV (s)',[
+  ['',
+   tv('18:30','Local News, Weather (it is wet)'),'',
+   tv('19:00',"Gardeners' Question Time"),'',
+   tv('19:30','The Antiques Roadshow Roadshow'),'',
+   tv('20:00',"Britain's Slowest Roads"),'',
+   tv('21:00','Drama: The Long Inquest'),'',
+   tv('22:00','News and Weather (still wet)')],
+  ['',
+   tv('22:30','Snooker: Frame 114'),'',
+   tv('23:45','Late Review of Early Review'),'',
+   tv('00:30','Closedown'),'',
+   ...para('C','The test card is available on request.')]
+],{R:[101,'News'],G:[300,'Sport'],Y:[400,'Weather'],C:[100,'Index']});
+
+/* ---------- 888 subtitles ---------- */
+mk(888,'Subtitles',[[
+  '',
+  ...para('W','Subtitles appear on this page when a programme provides them.'),
+  '','','','','','','','','','','',
+  '[Y]  (Rain intensifies.)',
+  '[C]  Well. That is that, then.',
+  '[G]  (Door closes, loudly.)'
+]]);
+
+/* ---------- 700 adverts: invented, new set every UK day ---------- */
+function mulberry(a){return()=>{a|=0;a=a+0x6D2B79F5|0;let t=Math.imul(a^a>>>15,1|a);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296;};}
+function adRows(o){
+  const rows=['',`[R][dh][Y]${o.title}`,'',''];
+  if(o.art){
+    o.art.forEach((a,i)=>rows.push(a+(o.lines[i]?`[W]  ${o.lines[i]}`:'')));
+    if(o.tag) rows.push('',...para('C',o.tag));
+  } else o.lines.forEach(l=>rows.push(`[W]${l}`));
+  rows.push('',`[G][fl]${o.flash}`);
+  if(o.foot) rows.push(`[W]${o.foot}`);
+  rows.push('',`[Y]Phone 01632 960${o.num} now`);
+  return rows;
+}
+function buildAds(){
+  const o=partsOf(new Date(),'Europe/London');
+  const r=mulberry((+o.year)*10000+(+o.month)*100+(+o.day));
+  const pick=a=>a[Math.floor(r()*a.length)];
+  const pickN=(a,n)=>{const c=a.slice(),out=[];while(out.length<n&&c.length)out.push(c.splice(Math.floor(r()*c.length),1)[0]);return out;};
+  const num=()=>String(100+Math.floor(r()*900));
+  const holiday=()=>adRows({
+    title:pick(['COSTA DEL DRIZZLE','LAKE BOREDOM','PIDDLE BAY','MUCKLE SANDS','COSTA FAIRLY-NICE']),
+    art:[`[gY]${SUN[0]}`,`[gY]${SUN[1]}`,`[gY]${SUN[2]}`,`[gC]${WAVE[0]}`,`[gC]${WAVE[1]}`],
+    lines:pickN(['Sea view (of a sort)','Pool (seasonal)','Entertainment (optional)','Coach transfer (eventually)','Sunshine (not guaranteed)','Breakfast (continental, ish)'],3),
+    flash:`FROM \u00a3${79+10*Math.floor(r()*10)} PER PERSON*`,foot:'*Per fortnight. Extras extra.',num:num()});
+  const gadget=()=>{
+    const prod=pick(['home computer','video recorder','answering machine','digital watch','pocket calculator','car telephone']);
+    return adRows({
+      title:pick(['MICRO','COMPU','TELE','VIDEO','HYPER','MEGA'])+pick(['MATIC','TRON','DYNE','VOX','SONIC'])+' '+pick(['2000','64K','MK II','XL','PLUS']),
+      art:iconRows('monitor'),
+      lines:[`The ${prod}`,...pickN(['Plugs into your telly.','Batteries sold separately.','Manual runs to 3 pages.','Tape recorder not included.','Now with a clock.','Silver. Obviously.'],2)],
+      tag:pick(['Thinks it is a business machine.','Ahead of its time. Behind on delivery.','The future, in beige.','Fits in a handbag (large).']),
+      flash:`ONLY \u00a3${99+10*Math.floor(r()*40)}*`,foot:'*Plus the bits you need.',num:num()});
+  };
+  const food=()=>adRows({
+    title:pick(['CRUNCHY BRICKS','WOBBLE JELLY','TINNED SUNSHINE','GRAVY GRANULES DELUXE','CHEESE-FLAVOUR CHEESE','FIZZY PEBBLES']),
+    lines:pickN(['Now with 3% real fruit.','Part of a balanced breakfast.','As seen on telly.','Tested on a panel of uncles.','Recipe unchanged since Tuesday.'],3),
+    flash:`ONLY ${30+5*Math.floor(r()*12)}P`,foot:'Available in shops. Some shops.',num:num()});
+  const service=()=>adRows({
+    title:pick(["DAVE'S CARPETS","GARY KNOWS A MAN","DOUBLE-GLAZING DIRECT","PHIL THE TILER","BIG KEV'S SKIPS","MOONLIGHT MINICABS"]),
+    lines:pickN(['Free quotes. Expensive quotes.','Cash preferred.','We come to you. Eventually.','No job too small. Some too large.','Estimates in writing (pencil).','Ask for Dave. Dave is out.'],3),
+    flash:'RING NOW - CASH WELCOME',foot:'Lines open when we are.',num:num()});
+  mk(700,'Advert',[holiday(),gadget(),food(),service(),gadget()],{R:[101,'News'],G:[300,'Sport'],Y:[400,'Weather'],C:[100,'Index']});
+}
+
+/* ---------- 800 art lab: any image becomes a teletext page ---------- */
+const PALRGB=[[0,0,0],[255,0,0],[0,255,0],[255,255,0],[0,0,255],[255,0,255],[0,255,255],[255,255,255]];
+const CODE_NAMES=['','gR','gG','gY','gB','gM','gC','gW'];
+function nearest(r,g,b){
+  const lum=0.3*r+0.59*g+0.11*b;
+  if(lum<38) return 0;
+  r=lum+(r-lum)*1.5; g=lum+(g-lum)*1.5; b=lum+(b-lum)*1.5;
+  let best=1,bd=1e12;
+  for(let i=1;i<8;i++){const p=PALRGB[i],d=(r-p[0])**2+(g-p[1])**2+(b-p[2])**2;if(d<bd){bd=d;best=i;}}
+  return best;
+}
+function artFromPixels(data,w,h){
+  const cols=w/2, rows=h/3, out=[], idx=new Uint8Array(w*h);
+  for(let i=0;i<w*h;i++) idx[i]=nearest(data[i*4],data[i*4+1],data[i*4+2]);
+  const BIT=[1,2,4,8,16,0x40], OFF=[[0,0],[1,0],[0,1],[1,1],[0,2],[1,2]];
+  for(let cy=0;cy<rows;cy++){
+    const cells=[];
+    for(let cx=0;cx<cols;cx++){
+      const px=OFF.map(([dx,dy])=>idx[(cy*3+dy)*w+cx*2+dx]);
+      const cnt=new Array(8).fill(0); px.forEach(v=>{if(v)cnt[v]++;});
+      let col=0,m=0; for(let c=1;c<8;c++) if(cnt[c]>m){m=cnt[c];col=c;}
+      if(!col){cells.push({blank:true});continue;}
+      let code=0x20; px.forEach((v,k)=>{if(v===col)code+=BIT[k];});
+      cells.push({col,ch:String.fromCharCode(code)});
+    }
+    const first=cells.find(c=>!c.blank), start=first?first.col:7;
+    let cur=start; const o=[`[${CODE_NAMES[start]}]`,'[hm]'];
+    cells.forEach(c=>{
+      if(c.blank){o.push(' ');return;}
+      if(c.col!==cur){
+        if(o.length>2&&o[o.length-1]===' '){o[o.length-1]=`[${CODE_NAMES[c.col]}]`;cur=c.col;o.push(c.ch);}
+        else {o.push(`[${CODE_NAMES[c.col]}]`);cur=c.col;}
+      } else o.push(c.ch);
+    });
+    out.push(' '+o.join(''));
+  }
+  return out;
+}
+function convertImage(img,name){
+  const cols=36, rows=18, w=cols*2, h=rows*3;
+  const c=document.createElement('canvas'); c.width=w; c.height=h;
+  const x=c.getContext('2d'); x.imageSmoothingQuality='high';
+  const target=(w*8)/(h*20/3);               /* sub-pixels are 8 x 6.67 px, so the art area is 1.6:1 */
+  let sw=img.width, sh=img.height, sx=0, sy=0;
+  if(sw/sh>target){const nw=sh*target;sx=(sw-nw)/2;sw=nw;} else {const nh=sw/target;sy=(sh-nh)/2;sh=nh;}
+  x.drawImage(img,sx,sy,sw,sh,0,0,w,h);
+  const art=artFromPixels(x.getImageData(0,0,w,h).data,w,h);
+  mk(800,'Art lab',[[...art,'',`[C]${clean(name).slice(0,36)}`]],{R:[101,'News'],G:[300,'Sport'],Y:[700,'Adverts'],C:[100,'Index']});
+}
+function buildArtLab(){
+  mk(800,'Art lab',[['',
+    ...para('W','Press the button under the TV and choose an image. It is cut down to 8 colours and 2 x 3 blocks, then shown here.'),
+    '',
+    ...para('C','Pictures that suit it: bold shapes, strong colours, not much detail.')]],
+    {R:[101,'News'],G:[300,'Sport'],Y:[700,'Adverts'],C:[100,'Index']});
+}
+
+function buildAll(){ buildIndex(); buildFeedPages(); buildAds(); }
+buildArtLab();
+buildAll();
+
+
+/* ---------- state ---------- */
+let view={page:100,sub:0,nextAt:performance.now()+SUBMS};
+let search=null, buf='', hold=false, lastSig='', knobA=0;
+const curPage=()=>PAGES[view.page]||notFound(view.page);
+const $=id=>document.getElementById(id);
+const st=$('st');
+const btn={R:$('bR'),G:$('bG'),Y:$('bY'),C:$('bC')};
+
+function pageText(p,si){
+  return p.subs[si%p.subs.length].map(r=>decode(parse(r)).map(c=>c.mos?' ':String.fromCharCode(c.ch)).join('').replace(/\s+$/,'')).filter(Boolean).join('\n');
+}
+function updateUI(){
+  const p=curPage(), n=p.subs.length;
+  st.textContent=`Page ${view.page}: ${p.title}${n>1?`, subpage ${(view.sub%n)+1} of ${n}`:''}${hold?', held':''}`;
+  for(const k of ['R','G','Y','C']) btn[k].textContent=p.fast[k][1];
+  $('bHold').textContent=hold?'Release':'Hold';
+  $('mirror').textContent=p.title+'\n'+pageText(p,view.sub);
+  document.title=`Page ${view.page} ${p.title} - Teletext prototype`;
+  try{ history.replaceState(null,'','#'+view.page); }catch(e){}
+  lastSig='';
+}
+function turnKnob(){
+  knobA+=47; $('k1').style.transform=`rotate(${knobA}deg)`;
+  $('k2').style.transform=`rotate(${-knobA*0.6}deg)`;
+}
+
+function go(n){
+  if(!(n>=100&&n<=899)) return;
+  buf='';
+  const from=view.page, dist=(n-from+800)%800;
+  search={from,to:n,t0:performance.now(),dur:Math.min(1600,350+dist*3),dist};
+  lastSig='';
+}
+function digit(d){
+  if(buf.length===0 && (d<1||d>8)) return;
+  buf+=d;
+  if(buf.length===3) go(parseInt(buf,10));
+  lastSig='';
+}
+function color(k){ go(curPage().fast[k][0]); }
+function step(dir){
+  const list=Object.keys(PAGES).map(Number).sort((a,b)=>a-b);
+  let i=list.indexOf(view.page); if(i<0) i=0;
+  go(list[(i+dir+list.length)%list.length]);
+}
+function toggleHold(){
+  hold=!hold;
+  if(!hold) view.nextAt=performance.now()+SUBMS;
+  updateUI();
+}
+
+/* ---------- header and frame loop ---------- */
+function frame(){
+  const now=performance.now();
+  if(search && now-search.t0>=search.dur){
+    view={page:search.to,sub:0,nextAt:now+SUBMS}; search=null; turnKnob(); updateUI();
+  } else if(!search && !hold){
+    const p=curPage();
+    if(p.subs.length>1 && now>=view.nextAt){
+      view.sub=(view.sub+1)%p.subs.length; view.nextAt=now+SUBMS; updateUI();
+    }
+  }
+  flashOn=(now%1000)<700;
+
+  let a, b=view.page;
+  if(buf) a='P'+buf.padEnd(3,'-');
+  else if(hold) a='HOLD';
+  else a='P'+(search?search.to:view.page);
+  if(search){
+    const prog=Math.min(1,(now-search.t0)/search.dur);
+    b=((search.from-100+Math.floor(prog*search.dist))%800)+100;
+  }
+  const o=partsOf(new Date(),clockUK?'Europe/London':undefined);
+  const hdr=`[W]${a}[R]CEEFAX 1[W] ${b}[Y] ${o.weekday} ${o.day} ${MON[+o.month-1]}[C]${o.hour}:${o.minute}/${o.second}`;
+
+  const p=curPage();
+  const sub=p.subs[view.sub%p.subs.length];
+  const sig=[hdr,view.page,view.sub,flashOn,crt].join('|');
+  if(sig===lastSig) return;
+  lastSig=sig;
+  const rows=[parse(hdr)].concat(sub.map(parse),[parse(fastRow(p.fast))]);
+  render(rows);
+}
+
+/* ---------- controls ---------- */
+const digs=$('digs');
+'1234567890'.split('').forEach(d=>{
+  const b=document.createElement('button'); b.textContent=d; b.setAttribute('aria-label','Digit '+d);
+  b.addEventListener('click',()=>digit(+d)); digs.appendChild(b);
+});
+for(const k of ['R','G','Y','C']) btn[k].addEventListener('click',()=>color(k));
+$('bUp').addEventListener('click',()=>step(1));
+$('bDn').addEventListener('click',()=>step(-1));
+$('bHold').addEventListener('click',toggleHold);
+$('bCrt').addEventListener('click',()=>{
+  crt=!crt; $('crt').classList.toggle('off',!crt);
+  $('bCrt').textContent='CRT effect: '+(crt?'on':'off'); lastSig='';
+});
+$('bClk').addEventListener('click',()=>{
+  clockUK=!clockUK; $('bClk').textContent='Clock: '+(clockUK?'UK time':'your time'); lastSig='';
+});
+$('bArt').addEventListener('click',()=>$('file').click());
+$('file').addEventListener('change',e=>{
+  const f=e.target.files&&e.target.files[0]; if(!f) return;
+  const fr=new FileReader();
+  fr.onload=()=>{ const im=new Image(); im.onload=()=>{ convertImage(im,f.name.replace(/\.[^.]+$/,'')); go(800); }; im.src=fr.result; };
+  fr.readAsDataURL(f); e.target.value='';
+});
+addEventListener('keydown',e=>{
+  if(e.metaKey||e.ctrlKey||e.altKey) return;
+  const k=e.key;
+  if(/^[0-9]$/.test(k)) digit(+k);
+  else if(k.length===1 && 'rgyc'.includes(k.toLowerCase())) color(k.toUpperCase());
+  else if(k==='ArrowUp'){ e.preventDefault(); step(1); }
+  else if(k==='ArrowDown'){ e.preventDefault(); step(-1); }
+  else if(k===' '){ if(document.activeElement.tagName!=='BUTTON'){ e.preventDefault(); toggleHold(); } }
+  else if(k==='Backspace'||k==='Escape'){ buf=''; lastSig=''; }
+});
+
+/* ---------- live feed.json (written by the R script) replaces the demo feed when it exists ---------- */
+function loadFeed(){
+  fetch('feed.json',{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject())
+    .then(j=>{ if(!j||!j.sections) return; FEED=j; feedMode='live'; buildAll(); updateUI(); }).catch(()=>{});
+}
+loadFeed(); setInterval(()=>{ if(feedMode==='live') loadFeed(); },600000);
+
+/* ---------- start once the font is ready (or after a short timeout) ---------- */
+try{ const h0=parseInt((location.hash||'').slice(1),10); if(h0>=100&&h0<=899) view.page=h0; }catch(e){}
+updateUI();
+const fontReady=(document.fonts&&document.fonts.load)
+  ? Promise.race([document.fonts.load('20px BedsteadExt','H'),new Promise(r=>setTimeout(r,2500))])
+  : Promise.resolve();
+fontReady.catch(()=>{}).then(()=>{ calibrate(); frame(); setInterval(frame,100); });
+})();
+</script>
+</body>
+</html>
