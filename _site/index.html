@@ -36,7 +36,18 @@ body{
   font:17px/1.5 "Bedstead","VT323","Courier New",monospace;
   display:flex; justify-content:center;
 }
-.wrap{width:100%; max-width:820px; padding:20px 16px 36px}
+.wrap{width:100%; max-width:1140px; padding:20px 16px 36px}
+.stage{display:grid; grid-template-columns:minmax(0,1fr) 300px; gap:22px; align-items:start}
+.main{min-width:0}
+.side{position:sticky; top:16px; background:#000; color:#fff; border-radius:14px; overflow:hidden; padding-bottom:16px;
+  box-shadow:0 18px 36px rgba(0,0,0,.4), inset 0 0 0 1px #2a2a55}
+.side .hd{background:#2828ff; color:#ffff20; padding:2px 14px; font-size:18px; letter-spacing:.02em}
+.side p{margin:14px 16px 0; font-size:17px; line-height:1.5}
+.side .y{color:#ffff20}.side .c{color:#20ffff}.side .g{color:#20ff40}
+.side .fl{color:#ff3030; animation:blink 1.2s steps(1) infinite}
+@keyframes blink{0%{opacity:1}70%{opacity:0}100%{opacity:1}}
+@media (prefers-reduced-motion: reduce){ .side .fl{animation:none} }
+@media (max-width:900px){ .stage{grid-template-columns:1fr} .side{position:static} }
 h1{margin:0 0 10px; font-size:20px; font-weight:400; line-height:1.3}
 .bar{display:inline-block; background:#2828ff; color:#ffff20; padding:0 .7em}
 .lede{margin:0 0 18px; color:var(--muted); max-width:62ch}
@@ -122,9 +133,8 @@ button:active{transform:translateY(1px)}
 </head>
 <body>
 <div class="wrap">
-  <h1><span class="bar">TELETEXT PROTOTYPE</span></h1>
-  <p class="lede">A teletext front end for news feeds. This preview runs on an invented demo feed. On your own site it reads feed.json, written on a schedule by an R script. Type a page number or use the coloured keys.</p>
-
+<div class="stage">
+<div class="main">
   <div class="cab">
     <div class="bezel">
       <div class="screen">
@@ -165,6 +175,17 @@ button:active{transform:translateY(1px)}
 
   <p class="note">Try 101 (top stories), 120, 140, 200, 300, 700 (new adverts each UK day) and 800 (art lab). Pages marked (s) are invented samples. Keyboard: 0-9, R G Y C, up/down arrows, space to hold, backspace to clear. The clock shows UK time, matching the feed. Typeface: Bedstead by Ben Harris.</p>
   <section aria-label="Text of the current page"><pre class="sr" id="mirror"></pre></section>
+</div>
+
+<aside class="side" aria-label="About this site">
+  <div class="hd">REMEMBER CEEFAX?</div>
+  <p>Remember the days before social media and the internet? You'd check Ceefax, see that <span class="y">the Berlin Wall had opened</span>, and think, "I should catch that on the Nine O'Clock News."</p>
+  <p>Well, now you can hark back to that time with an <span class="c">updated Teletext TV</span>.</p>
+  <p>No scrolling, no comments, no notifications. Just a three-digit number and a short wait while the page arrives.</p>
+  <p class="g" id="feedline"></p>
+  <p><span class="fl">Press the red key to start.</span></p>
+</aside>
+</div>
 </div>
 
 <script>
@@ -740,6 +761,7 @@ function updateUI(){
   for(const k of ['R','G','Y','C']) btn[k].textContent=p.fast[k][1];
   $('bHold').textContent=hold?'Release':'Hold';
   $('mirror').textContent=p.title+'\n'+pageText(p,view.sub);
+  $('feedline').textContent=feedMode==='live'?'Headlines are live from the BBC feed.':'Headlines in this preview are an invented demo feed.';
   document.title=`Page ${view.page} ${p.title} - Teletext prototype`;
   try{ history.replaceState(null,'','#'+view.page); }catch(e){}
   lastSig='';
