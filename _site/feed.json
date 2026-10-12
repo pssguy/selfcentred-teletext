@@ -2,7 +2,7 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-12T20:36:49Z",
+      "fetchedAt": "2026-10-12T20:51:13Z",
       "sections": {
         "top": [
           {
@@ -258,7 +258,7 @@
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-12T20:36:50Z",
+      "fetchedAt": "2026-10-12T20:51:14Z",
       "sections": {
         "top": [
           {
@@ -459,7 +459,60 @@
             "pubDate": "2026-10-12T11:00:00Z",
             "link": "https://www.cbc.ca/news/canada/legal-loophole-undermining-species-at-risk-act-9.7368066?cmp=rss"
           }
+        ],
+        "local": [
+          {
+            "title": "'Speechless': Dan Levy slams Shane Gillis’ SNL monologue about women’s gym clothing",
+            "desc": "Canadian actor, writer and director Dan Levy is calling out Shane Gillis’ \"Saturday Night Live\" monologue and urging more men to stand up against the American comedian's remarks about women.",
+            "pubDate": "2026-10-13T03:32:58Z",
+            "link": "https://www.nsnews.com/the-mix/speechless-dan-levy-slams-shane-gillis-snl-monologue-about-womens-gym-clothing-12884546"
+          },
+          {
+            "title": "FBI issues actor Selma Blair a summons accusing her of assaults aboard a plane, AP source says",
+            "desc": "NEW YORK (AP) — FBI issues actor Selma Blair a summons accusing her of assaults aboard a plane, AP source says.   THIS IS AN APNewsAlert. Check back for updates. AP's earlier story is below.",
+            "pubDate": "2026-10-13T03:31:59Z",
+            "link": "https://www.nsnews.com/the-mix/fbi-issues-actor-selma-blair-a-summons-accusing-her-of-assaults-aboard-a-plane-ap-source-says-12884547"
+          },
+          {
+            "title": "Native athlete pride: Shiyazh Pete recognized on Indigenous Peoples Day",
+            "desc": "ALBUQUERQUE, N.M. (AP) — The first member the Navajo Nation to play in the NFL received a hero's welcome Monday in New Mexico, where he signed footballs and jerseys and posed with fans for photos on Indigenous Peoples Day.",
+            "pubDate": "2026-10-13T03:27:32Z",
+            "link": "https://www.nsnews.com/world-news/native-athlete-pride-shiyazh-pete-recognized-on-indigenous-peoples-day-12883547"
+          },
+          {
+            "title": "Native athlete pride: Shiyazh Pete recognized on Indigenous Peoples Day",
+            "desc": "ALBUQUERQUE, N.M. (AP) — The first member the Navajo Nation to play in the NFL received a hero's welcome Monday in New Mexico, where he signed footballs and jerseys and posed with fans for photos on Indigenous Peoples Day.",
+            "pubDate": "2026-10-13T03:27:32Z",
+            "link": "https://www.nsnews.com/national-sports/native-athlete-pride-shiyazh-pete-recognized-on-indigenous-peoples-day-12883548"
+          },
+          {
+            "title": "What is Indigenous Peoples Day? A day of celebration, protest and reclaiming history",
+            "desc": "Indigenous people celebrate their  centuries-long history of resilience  with ceremonies, dances and speeches.   Former President Joe Biden  officially commemorated Indigenous Peoples Day  in 2021.",
+            "pubDate": "2026-10-13T03:26:02Z",
+            "link": "https://www.nsnews.com/the-mix/what-is-indigenous-peoples-day-a-day-of-celebration-protest-and-reclaiming-history-12883937"
+          },
+          {
+            "title": "Contagious case of measles reported at Montreal's airport",
+            "desc": "MONTREAL — Montreal's public health authority has reported a new measles case.",
+            "pubDate": "2026-10-13T03:21:50Z",
+            "link": "https://www.nsnews.com/national-business/contagious-case-of-measles-reported-at-montreals-airport-12884653"
+          },
+          {
+            "title": "Contagious case of measles reported at Montreal's airport",
+            "desc": "MONTREAL — Montreal's public health authority has reported a new measles case.",
+            "pubDate": "2026-10-13T03:21:50Z",
+            "link": "https://www.nsnews.com/the-mix/contagious-case-of-measles-reported-at-montreals-airport-12884650"
+          },
+          {
+            "title": "US stocks hover near their latest record in mixed trading on Wall Street",
+            "desc": "Stocks kicked off a busy week with mixed trading on Wall Street that kept the market hovering around its all-time high set last week. The S&amp;P 500 slipped 0.1% Monday. The Dow Jones Industrial Average rose 0.4%, and the Nasdaq composite fell 0.4%.",
+            "pubDate": "2026-10-13T03:06:31Z",
+            "link": "https://www.nsnews.com/the-mix/us-stocks-hover-near-their-latest-record-in-mixed-trading-on-wall-street-12883858"
+          }
         ]
+      },
+      "sectionSource": {
+        "local": "North Shore News"
       }
     }
   }
