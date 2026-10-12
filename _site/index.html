@@ -100,6 +100,19 @@ h1{margin:0 0 10px; font-size:20px; font-weight:400; line-height:1.3}
 .knob.small{width:46px; height:46px}
 .knob.small::after{height:12px}
 .plate{margin-top:auto; text-align:center; font-size:13px; line-height:1.3; color:#eadfc0; text-shadow:0 1px 0 rgba(0,0,0,.6)}
+.chans{display:flex; flex-direction:column; gap:8px; width:100%}
+.chan{position:relative; flex:0 0 auto; min-width:0; font:inherit; font-size:14px; letter-spacing:.05em; padding:7px 6px 7px 24px;
+  border-radius:6px; border:1px solid #2b2013; background:linear-gradient(#ece4cc,#b7ae93); color:#2a2418;
+  box-shadow:0 3px 0 #6d6450, 0 5px 6px rgba(0,0,0,.45); transition:transform .12s, box-shadow .12s}
+.chan i{position:absolute; left:9px; top:50%; width:8px; height:8px; margin-top:-4px; border-radius:50%; background:#3a2a1a; box-shadow:inset 0 1px 1px rgba(0,0,0,.6)}
+.chan[aria-pressed="true"]{transform:translateY(3px); box-shadow:0 0 0 #6d6450, 0 1px 2px rgba(0,0,0,.5); background:linear-gradient(#d0c8ae,#a89f85)}
+.chan[aria-pressed="true"] i{background:#4dff6a; box-shadow:0 0 6px #4dff6a}
+.cab.ca{background:repeating-linear-gradient(0deg, rgba(255,255,255,.04) 0 1px, rgba(0,0,0,0) 1px 3px), linear-gradient(#2d2d31,#151518);
+  box-shadow:0 24px 46px rgba(0,0,0,.5), inset 0 0 0 3px #8a8a94, inset 0 -4px 8px rgba(0,0,0,.45)}
+.cab.ca .grille{background:repeating-linear-gradient(90deg,#0c0c0e 0 3px,#3a3a42 3px 6px)}
+.cab.ca .knob{background:conic-gradient(#dfe1e6,#82858f,#f0f2f6,#6e717b,#dfe1e6)}
+.cab.ca .plate{color:#ececf1}
+@media (max-width:640px){ .chans{flex-direction:row; width:auto} .chan{padding:6px 8px 6px 22px} }
 
 @media (max-width:640px){
   .cab{grid-template-columns:1fr}
@@ -135,7 +148,7 @@ button:active{transform:translateY(1px)}
 <div class="wrap">
 <div class="stage">
 <div class="main">
-  <div class="cab">
+  <div class="cab" id="cab">
     <div class="bezel">
       <div class="screen">
         <canvas id="tv" role="img" aria-label="Teletext screen"></canvas>
@@ -143,10 +156,14 @@ button:active{transform:translateY(1px)}
         <div class="glass"></div>
       </div>
     </div>
-    <div class="panel" aria-hidden="true">
-      <div class="grille"></div>
-      <div class="knobs"><div class="knob" id="k1"></div><div class="knob small" id="k2"></div></div>
-      <div class="plate">BROLLYVISION<br>TX-100</div>
+    <div class="panel">
+      <div class="grille" aria-hidden="true"></div>
+      <div class="knobs" aria-hidden="true"><div class="knob" id="k1"></div><div class="knob small" id="k2"></div></div>
+      <div class="chans" role="group" aria-label="Channel">
+        <button class="chan" data-ch="uk" aria-pressed="true"><i></i>UK</button>
+        <button class="chan" data-ch="ca" aria-pressed="false"><i></i>CAN</button>
+      </div>
+      <div class="plate" id="plate" aria-hidden="true">BROLLYVISION<br>TX-100</div>
     </div>
   </div>
 
@@ -181,7 +198,7 @@ button:active{transform:translateY(1px)}
   <div class="hd">REMEMBER CEEFAX?</div>
   <p>Remember the days before social media and the internet? You'd check Ceefax, see that <span class="y">the Berlin Wall had opened</span>, and think, "I should catch that on the Nine O'Clock News."</p>
   <p>Well, now you can hark back to that time with an <span class="c">updated Teletext TV</span>.</p>
-  <p>No scrolling, no comments, no notifications. Just a three-digit number and a short wait while the page arrives.</p>
+  <p>No scrolling, no links, no notifications. Just a three-digit number and a short wait while the page arrives.</p>
   <p class="g" id="feedline"></p>
   <p><span class="fl">Press the red key to start.</span></p>
 </aside>
@@ -344,7 +361,7 @@ const SUN=artRows(["....XXXX....","..XXXXXXXX..",".XXXXXXXXXX.",".XXXXXXXXXX.","
 const WAVE=artRows([".XX..XX..XX..XX..XX..XX.","X..XX..XX..XX..XX..XX..X","........................"]);
 
 /* ---------- page building helpers ---------- */
-const PAGES={};
+let PAGES={};
 const SUBMS=8000;
 const DEF={R:[101,'News'],G:[300,'Sport'],Y:[400,'Weather'],C:[100,'Index']};
 
@@ -369,30 +386,49 @@ function fastRow(f){
 }
 function fit(rows){ const a=rows.slice(); while(a.length<22) a.push(''); return a.slice(0,22); }
 function mk(num,title,subs,fast){
-  PAGES[num]={num,title,fast:fast||DEF,
+  PAGES[num]={num,title,fast:fast||CHANNELS[CUR].def,
     subs:subs.map((rows,i)=>fit([titleRow(title,i+1,subs.length)].concat(rows)))};
 }
 function notFound(n){
-  return {num:n,title:'Not available',fast:DEF,
+  return {num:n,title:'Not available',fast:CHANNELS[CUR].def,
     subs:[fit([titleRow('Not available',1,1),'',`[R]Page ${n} is not in service.`,'',
       ...para('W','It may never have been. Try the index.')])]};
 }
 
-/* ---------- clock: the feed is UK-based, so the header defaults to UK time ---------- */
+/* ---------- clock: each channel's header follows its own feed's timezone ---------- */
 const DAYS=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
 const MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 const p2=n=>String(n).padStart(2,'0');
-let clockUK=true;
+let clockUK=true;   /* true = the channel's own timezone, false = the viewer's */
 function partsOf(d,tz){
   const f=new Intl.DateTimeFormat('en-GB',{timeZone:tz,weekday:'short',day:'2-digit',month:'numeric',year:'numeric',
     hour:'2-digit',minute:'2-digit',second:'2-digit',hourCycle:'h23'});
   const o={}; f.formatToParts(d).forEach(p=>{o[p.type]=p.value;}); return o;
 }
-const stamp=iso=>{ const o=partsOf(new Date(iso),'Europe/London'); return `${o.day} ${MON[+o.month-1]} ${o.hour}:${o.minute}`; };
 const clean=s=>String(s==null?'':s).replace(/[\u2018\u2019]/g,"'").replace(/[\u201c\u201d]/g,'"').replace(/[\u2013\u2014]/g,'-').replace(/\s+/g,' ').trim();
 
-/* ---------- feed data. feed.json (from the R script) wins; otherwise this invented demo feed is used ---------- */
+/* ---------- channels ---------- */
+const CHANNELS={
+  uk:{key:'uk',mask:'CEEFAX 1',tz:'Europe/London',tzLabel:'UK',tzShort:'UK',source:'BBC News',plate:'BROLLYVISION<br>TX-100',
+    def:{R:[101,'News'],G:[300,'Sport'],Y:[400,'Weather'],C:[100,'Index']},
+    home:{R:[101,'News'],G:[300,'Sport'],Y:[400,'Weather'],C:[500,'TV']},
+    secFast:{R:[101,'Top'],G:[120,'World'],Y:[140,'UK'],C:[100,'Index']},
+    sections:[{key:'top',index:101,title:'Top stories'},{key:'world',index:120,title:'World'},{key:'uk',index:140,title:'UK'},
+      {key:'business',index:200,title:'Business'},{key:'sport',index:300,title:'Sport'}]},
+  ca:{key:'ca',mask:'CANADA 1',tz:'America/Vancouver',tzLabel:'Pacific',tzShort:'PT',source:'CBC News',plate:'MOOSEVISION<br>CS-84',
+    def:{R:[101,'Top'],G:[140,'Canada'],Y:[160,'B.C.'],C:[100,'Index']},
+    home:{R:[101,'Top'],G:[120,'World'],Y:[160,'B.C.'],C:[180,'Local']},
+    secFast:{R:[101,'Top'],G:[140,'Canada'],Y:[160,'B.C.'],C:[100,'Index']},
+    sections:[{key:'top',index:101,title:'Top stories'},{key:'world',index:120,title:'World'},{key:'canada',index:140,title:'Canada'},
+      {key:'bc',index:160,title:'B.C.'},{key:'local',index:180,title:'Local'}]}
+};
+let CHN='uk', CUR='uk';   /* CHN = channel being watched; CUR = channel the builders are working on */
+
+const stamp=iso=>{ const o=partsOf(new Date(iso),CHANNELS[CUR].tz); return `${o.day} ${MON[+o.month-1]} ${o.hour}:${o.minute}`; };
+
+/* ---------- demo feeds (invented). feed.json replaces them when it exists ---------- */
 const DEMO={
+ uk:{
   top:[
     ["Minister confirms review of review is under review","Officials said the process would be thorough, eventually. A further review will report next spring."],
     ["Storm brings flooding to coastal towns","Residents were advised to move belongings upstairs. Several said they were already there."],
@@ -427,22 +463,47 @@ const DEMO={
     ["Tennis star blames shoes, court, ball","The player said the opponent had also been present and was not helpful."],
     ["Rugby side name new captain, same excuses","The new captain said the team was looking forward to looking forward."],
     ["Golf: leader overtaken by weather","Play was suspended as the course became a lake and the lake became a course."],
-    ["Manager not worried for fourth week running","The club said the manager's position was safe, which fans took as a warning."]]
+    ["Manager not worried for fourth week running","The club said the manager's position was safe, which fans took as a warning."]]},
+ ca:{
+  top:[
+    ["Moose blocks highway, apologises to motorists","Wildlife officers said the moose was unhurt and unrepentant. Traffic was cleared after a lengthy stand-off."],
+    ["Snow forecast for October; nation reports shock","Forecasters said the snow was expected. Residents said they had expected to be surprised anyway."],
+    ["Coffee queue reaches next province","Drivers described the line as long but orderly. Several reported moving up one car length."],
+    ["Hockey fans demand review of referee review","League officials said the process was thorough. Fans said the process was loud."],
+    ["Federal panel studies study of earlier study","The committee said findings would be released when the findings were ready."]],
+  world:[
+    ["Leaders agree to disagree, in two languages","Delegates said the translation was excellent and the agreement was not."],
+    ["Rare snow closes tropical airport","Passengers were offered blankets, then a refund, then another blanket."],
+    ["Volcano erupts; tourists report good light","Officials urged visitors to keep a safe distance and stop asking for a second take."],
+    ["Port workers strike over length of lunch break","Management offered a longer lunch break. Talks continue, over lunch."],
+    ["Treaty signed with pen that did not work","The ceremony was repeated with a pencil, which delegates called a sensible compromise."]],
+  canada:[
+    ["Province finds missing roundabout","Officials said it had been misfiled. Local drivers said they had noticed."],
+    ["Rail line offers apology instead of train","The operator said the apology was on time. The train was not."],
+    ["Hospital parking lot declared full of cars","A spokesperson said the finding was consistent with previous findings."],
+    ["Pensioner wins argument with GPS","Neighbours reported a long silence, then a short cheer at the end of the road."],
+    ["Town fair runs out of raffle tickets","Organisers blamed demand. Attendees blamed the mayor, who had won four times."]],
+  bc:[
+    ["Rain forecast for Vancouver; residents unmoved","Forecasters said it would rain. Residents said that was the forecast for the entire year."],
+    ["Ferry arrives early, passengers suspicious","Staff said the vessel had simply been quick. Passengers said they would wait for the catch."],
+    ["Bear spotted in garden; garden unbothered","Officials asked residents to keep bins secure. The bear asked for nothing."],
+    ["Mountain trail closed for trail maintenance maintenance","Crews said the work would finish soon. Hikers said they had heard that before."],
+    ["Condo for sale described as cosy; it is a cupboard","The agent said the cupboard had excellent natural light. The cupboard declined to comment."]],
+  local:[
+    ["Council votes to discuss voting on discussion","Councillors said the debate would be brief. It was not."],
+    ["Community hall booked for meeting about hall bookings","Organisers said parking would be limited to people who arrived early."],
+    ["Library extends hours; reading remains optional","A spokesperson said the library was open longer. Books were not available for comment."],
+    ["Police warn of scam; scam warns of police","Officers said residents should hang up. The scam hung up first."],
+    ["Farmers market runs out of market","Stallholders reported brisk trade, then no trade, then a tent."]]}
 };
-function demoFeed(){
+function demoFeed(ch){
   const now=Date.now(), out={source:'Demo (invented)',fetchedAt:new Date(now).toISOString(),sections:{}};
-  for(const k in DEMO) out.sections[k]=DEMO[k].map((t,i)=>({title:t[0],desc:t[1],pubDate:new Date(now-(i+1)*47*60000).toISOString(),link:''}));
+  for(const k in DEMO[ch]) out.sections[k]=DEMO[ch][k].map((t,i)=>({title:t[0],desc:t[1],pubDate:new Date(now-(i+1)*47*60000).toISOString(),link:''}));
   return out;
 }
-let FEED=demoFeed(), feedMode='demo';
-
-const SECTIONS=[
-  {key:'top',index:101,title:'Top stories'},
-  {key:'world',index:120,title:'World'},
-  {key:'uk',index:140,title:'UK'},
-  {key:'business',index:200,title:'Business'},
-  {key:'sport',index:300,title:'Sport'}
-];
+const STORE={uk:{pages:{},feed:demoFeed('uk'),mode:'demo'},ca:{pages:{},feed:demoFeed('ca'),mode:'demo'}};
+PAGES=STORE.uk.pages;
+let FEED=STORE.uk.feed, feedMode='demo';
 
 /* ---------- story art: a mosaic icon chosen from the story's words ---------- */
 const CLOUD_PX=["....XXXXXX......","..XXXXXXXXXXXX..",".XXXXXXXXXXXXXX.","XXXXXXXXXXXXXXXX","XXXXXXXXXXXXXXXX",".XXXXXXXXXXXXXX."];
@@ -454,18 +515,20 @@ const ICON_PX={
   ball:["....XXXXXXXX....","..XX...XX...XX..",".X....XXXX....X.",".X...XXXXXX...X.","X.XX..XXXX..XX.X","XXX....XX....XXX","XXX....XX....XXX","X.XX..XXXX..XX.X",".X...XXXXXX...X.",".X....XXXX....X.","..XX...XX...XX..","....XXXXXXXX...."],
   weather:[...CLOUD_PX,...RAIN_PX,"................","................","................"],
   cross:["......XXXX......","......XXXX......","......XXXX......","......XXXX......","..XXXXXXXXXXXX..","..XXXXXXXXXXXX..","..XXXXXXXXXXXX..","..XXXXXXXXXXXX..","......XXXX......","......XXXX......","......XXXX......","......XXXX......"],
-  monitor:["XXXXXXXXXXXXXXXX","X..............X","X.XXXXXXXX.....X","X..............X","X.XXXXXX.......X","X..............X","X.XXXXXXXXXX...X","X..............X","XXXXXXXXXXXXXXXX","......XXXX......","......XXXX......","....XXXXXXXX...."]
+  monitor:["XXXXXXXXXXXXXXXX","X..............X","X.XXXXXXXX.....X","X..............X","X.XXXXXX.......X","X..............X","X.XXXXXXXXXX...X","X..............X","XXXXXXXXXXXXXXXX","......XXXX......","......XXXX......","....XXXXXXXX...."],
+  leaf:[".......XX.......","......XXXX......","..X..XXXXXX..X..","..XXXXXXXXXXXX..","...XXXXXXXXXX...","..XXXXXXXXXXXX..",".XXXXXXXXXXXXXX.","..X.XXXXXXXX.X..",".......XX.......",".......XX.......",".......XX.......","................"]
 };
 const ICON_COL={globe:['gC','gC','gC','gC'],building:['gY','gW','gW','gW'],chart:['gG','gG','gG','gW'],ball:['gW','gW','gW','gW'],
-  weather:['gW','gW','gC','gW'],cross:['gR','gR','gR','gR'],monitor:['gM','gM','gM','gM']};
-const ICON_LABEL={globe:'World',building:'Politics',chart:'Business',ball:'Sport',weather:'Weather',cross:'Health',monitor:'Technology'};
+  weather:['gW','gW','gC','gW'],cross:['gR','gR','gR','gR'],monitor:['gM','gM','gM','gM'],leaf:['gR','gR','gR','gR']};
+const ICON_LABEL={globe:'World',building:'Politics',chart:'Business',ball:'Sport',weather:'Weather',cross:'Health',monitor:'Technology',leaf:'Canada'};
 const RULES=[
   ['weather',/storm|flood|rain\b|snow|weather|hurricane|heatwave|gale|fog\b/i],
   ['cross',/nhs|hospital|health|doctor|cancer|vaccine|virus|patient|medical/i],
   ['monitor',/\bai\b|artificial intelligence|tech|\bapp\b|google|apple|microsoft|cyber|hack|online|social media|computer|robot|software/i],
+  ['ball',/hockey|nhl|cfl|canucks/i],
   ['building',/minister|government|prime minister|labour|tory|\bmps?\b|parliament|election|vote|president|council|talks|treaty|summit|court|review|police/i]
 ];
-const SEC_DEFAULT={top:'globe',world:'globe',uk:'building'};
+const SEC_DEFAULT={top:'globe',world:'globe',uk:'building',canada:'leaf',bc:'leaf',local:'building'};
 function pickIcon(text,sec){
   if(sec==='sport') return 'ball';
   if(sec==='business') return 'chart';
@@ -473,6 +536,22 @@ function pickIcon(text,sec){
   return SEC_DEFAULT[sec]||'globe';
 }
 const iconRows=n=>artRows(ICON_PX[n]).map((r,i)=>`[${ICON_COL[n][i]}]${r}`);
+
+/* ---------- logos ---------- */
+Object.assign(GL,{
+  N:["X..X","XX.X","XX.X","X.XX","X.XX","X..X"],
+  D:["XXX.","X..X","X..X","X..X","X..X","XXX."]
+});
+function logo(word,cols){
+  const rows=['',''];
+  word.split('').forEach((ch,i)=>{
+    const a=artRows(GL[ch]), c=cols[i%cols.length];
+    rows[0]+=`[${c}]`+a[0]; rows[1]+=`[${c}]`+a[1];
+  });
+  return rows;
+}
+const LOGO_CA=logo('CANADA',['gR','gW']);
+const FLAGBAND='  '+['gR','gW','gR','gW','gR','gW'].map(c=>`[${c}]${BLOCK5}`).join('');
 
 /* ---------- feed pages: section index + one page per story ---------- */
 const chunk=(a,n)=>{const o=[];for(let i=0;i<a.length;i+=n)o.push(a.slice(i,i+n));return o;};
@@ -486,7 +565,7 @@ function storyRows(it,sec,i,n){
   wrap(clean(it.title).toUpperCase(),36).slice(0,3).forEach(l=>{rows.push(`[dh][Y]${l}`,'');});
   rows.push('');
   const ic=pickIcon(clean(it.title+' '+(it.desc||'')),sec), ir=iconRows(ic);
-  const side=[`[C]  ${ICON_LABEL[ic]}`,it.pubDate?`[W]  ${stamp(it.pubDate)} UK`:'',`[W]  Story ${i+1} of ${n}`,''];
+  const side=[`[C]  ${ICON_LABEL[ic]}`,it.pubDate?`[W]  ${stamp(it.pubDate)} ${CHANNELS[CUR].tzShort}`:'',`[W]  Story ${i+1} of ${n}`,''];
   ir.forEach((r,k)=>rows.push(r+side[k]));
   rows.push('');
   wrap(clean(it.desc||''),36).slice(0,Math.max(0,20-rows.length)).forEach(l=>rows.push(`[W]${l}`));
@@ -495,7 +574,8 @@ function storyRows(it,sec,i,n){
   return rows;
 }
 function buildFeedPages(){
-  for(const s of SECTIONS){
+  const C=CHANNELS[CUR];
+  for(const s of C.sections){
     const items=((FEED.sections&&FEED.sections[s.key])||[]).slice(0,8);
     const first=s.index+1;
     const subs=chunk(items.map((it,i)=>({it,num:first+i})),4).map(pg=>{
@@ -506,7 +586,7 @@ function buildFeedPages(){
       return rows;
     });
     if(!subs.length) subs.push(['','[R]No stories loaded.']);
-    mk(s.index,s.title,subs,{R:[101,'Top'],G:[120,'World'],Y:[140,'UK'],C:[100,'Index']});
+    mk(s.index,s.title,subs,C.secFast);
     items.forEach((it,i)=>{
       mk(first+i,s.title,[storyRows(it,s.key,i,items.length)],
         {R:[s.index,'Headlines'],G:[first+((i+1)%items.length),'Next'],Y:[first+((i+items.length-1)%items.length),'Previous'],C:[100,'Index']});
@@ -517,10 +597,13 @@ function buildFeedPages(){
 /* ---------- 100 index ---------- */
 const menu=(a,b)=>`[C]${a[0].padEnd(12)}[W]${a[1]}`+(b?`   [C]${b[0].padEnd(12)}[W]${b[1]}`:'');
 function buildIndex(){
-  PAGES[100]={num:100,title:'Index',fast:{R:[101,'News'],G:[300,'Sport'],Y:[400,'Weather'],C:[500,'TV']},
-    subs:[fit([
-      ` ${LOGO[0]}[W]  Headlines: ${FEED.source===('BBC News')?'BBC':'demo'}`.slice(0,200),
-      ` ${LOGO[1]}[C]  ${feedMode==='live'?'Live feed':'Demo feed'}`,
+  const C=CHANNELS[CUR], live=feedMode==='live';
+  const stampLine=`[W]${FEED.source}, ${stamp(FEED.fetchedAt)}`;
+  let rows;
+  if(CUR==='uk'){
+    rows=[
+      ` ${LOGO[0]}[W]  Headlines: ${live?'BBC':'demo'}`,
+      ` ${LOGO[1]}[C]  ${live?'Live feed':'Demo feed'}`,
       '',
       '[B][nb][dh][Y] THE SAMPLE SERVICE',
       '',
@@ -535,110 +618,96 @@ function buildIndex(){
       '',
       RAINBOW,
       '',
-      `[W]${FEED.source}, ${stamp(FEED.fetchedAt)}`,
+      stampLine,
       '[R][fl]  (S) = INVENTED SAMPLE PAGES',
       '',
-      '[W]Keys: 0-9  R G Y C  Space = HOLD'
-    ])]};
+      '[W]Keys: 0-9  R G Y C  Space = HOLD'];
+  } else {
+    rows=[
+      ` ${LOGO_CA[0]}[W]  Headlines: ${live?'CBC':'demo'}`,
+      ` ${LOGO_CA[1]}[C]  ${live?'Live feed':'Demo feed'}`,
+      '',
+      '[B][nb][dh][Y] THE NORTHERN SERVICE',
+      '',
+      '[B][nb][W]TYPE A PAGE NUMBER OR USE THE COLOURS',
+      '',
+      menu(['Top stories',101],['Late deals',700]),
+      menu(['World',120],['Art lab',800]),
+      menu(['Canada',140],['Subtitles',888]),
+      menu(['B.C.',160]),
+      menu(['Local',180]),
+      '',
+      FLAGBAND,
+      '',
+      stampLine,
+      live?'':'[R][fl]  DEMO DATA - NOTHING HERE IS REAL',
+      '',
+      '[W]Keys: 0-9  R G Y C  Space = HOLD'];
+  }
+  PAGES[100]={num:100,title:'Index',fast:C.home,subs:[fit(rows)]};
 }
 
-/* ---------- 390 / 391 sample football ---------- */
+/* ---------- UK-only sample pages (390 / 391 football, 400 weather, 500 TV) ---------- */
 const res=(h,a,hs,as)=>`[C]${h.padStart(15)}[Y] ${hs}-${as} [C]${a}`;
-mk(390,'Football results (s)',[
-  ['',
-   '[Y]Saturday',
-   '',
-   res('Nether Wallop','Little Snoring',2,1),
-   res('Wetwang Wndrs','Slaughter Utd',3,0),
-   res('Giggleswick Rov','Pratts Bottom',1,1),
-   res('Piddletrenthide','Sodbury Town',0,0),
-   '',
-   ...para('C','None of these clubs exist. Their grievances do.')],
-  ['',
-   '[Y]Fixtures',
-   '',
-   '[W]Tuesday 19:45',
-   '[C]Wetwang Wndrs[W] v [C]Nether Wallop',
-   '',
-   '[W]Wednesday 19:45',
-   '[C]Little Snoring[W] v [C]Giggleswick Rov',
-   '[C]Slaughter Utd[W] v [C]Piddletrenthide',
-   '',
-   '[W]Saturday 15:00',
-   '[C]Pratts Bottom[W] v [C]Sodbury Town']
-],{R:[391,'Table'],G:[300,'Sport'],Y:[101,'News'],C:[100,'Index']});
-
 const TEAMS=[['Wetwang Wndrs',7,2,1],['Giggleswick Rov',6,3,1],['Nether Wallop',6,1,3],['Little Snoring',5,3,2],
   ['Slaughter Utd',4,2,4],['Pratts Bottom',3,3,4],['Piddletrenthide',2,2,6],['Sodbury Town',0,4,6]]
   .map(t=>({n:t[0],w:t[1],d:t[2],l:t[3],pts:3*t[1]+t[2]})).sort((a,b)=>b.pts-a.pts);
 const trow=(pos,name,p,w,d,l,pts,col)=>`[${col}]${String(pos).padStart(2)} ${name.padEnd(15)}[W]${[p,w,d,l].map(x=>String(x).padStart(3)).join('')}[Y]${String(pts).padStart(4)}`;
-mk(391,'League table (s)',[[
-  '',
-  trow('','Club','P','W','D','L','Pts','Y'),
-  ...TEAMS.map((t,i)=>trow(i+1,t.n,t.w+t.d+t.l,t.w,t.d,t.l,t.pts,i<2?'G':(i>=TEAMS.length-2?'R':'C'))),
-  '',
-  ...para('C','Green: promotion. Red: reflection.')
-]],{R:[390,'Results'],G:[300,'Sport'],Y:[101,'News'],C:[100,'Index']});
-
-/* ---------- 400 weather (sample) ---------- */
-const CLOUD=artRows(CLOUD_PX), RAIN=artRows(RAIN_PX);
 const wrow=(c,w,t)=>`[C]${c.padEnd(14)}[W]${w.padEnd(10)}[Y]${(t+'C').padStart(4)}`;
 const orow=(d,c,t)=>`[Y]${d}[W] ${c.padEnd(19)}[C]${t.padStart(4)}`;
-mk(400,'Weather (s)',[
-  ['',
-   `[gW]${CLOUD[0]}[Y]  Grey. Then grey again.`,
-   `[gW]${CLOUD[1]}[C]  Rain at times, mostly`,
-   `[gC]${RAIN[0]}[C]  at the times you are out`,
-   '',
-   `[Y]${'City'.padEnd(14)}[Y]${'Today'.padEnd(10)}[Y]${'Max'.padStart(4)}`,
-   wrow('Glasgow','Drizzle',9),
-   wrow('Belfast','Showers',10),
-   wrow('Leeds','Rain',11),
-   wrow('Cardiff','Rain',12),
-   wrow('London','Overcast',14),
-   wrow('Penzance','Gale',12),
-   '',
-   ...para('C','Forecast is invented, like most forecasts.')],
-  ['',
-   '[Y]Five-day outlook',
-   '',
-   orow('Mon','Rain','11C'),
-   orow('Tue','Drizzle','10C'),
-   orow('Wed','Rain (heavy)','9C'),
-   orow('Thu','Brief dry spell','12C'),
-   orow('Fri','Rain, but lighter','11C'),
-   '',
-   ...para('G','Umbrella sales are described as robust.')]
-],{R:[101,'News'],G:[300,'Sport'],Y:[500,'TV'],C:[100,'Index']});
-
-/* ---------- 500 TV (sample) ---------- */
 const tv=(t,s)=>`[Y]${t}[W]${s}`;
-mk(500,'Tonight on TV (s)',[
-  ['',
-   tv('18:30','Local News, Weather (it is wet)'),'',
-   tv('19:00',"Gardeners' Question Time"),'',
-   tv('19:30','The Antiques Roadshow Roadshow'),'',
-   tv('20:00',"Britain's Slowest Roads"),'',
-   tv('21:00','Drama: The Long Inquest'),'',
-   tv('22:00','News and Weather (still wet)')],
-  ['',
-   tv('22:30','Snooker: Frame 114'),'',
-   tv('23:45','Late Review of Early Review'),'',
-   tv('00:30','Closedown'),'',
-   ...para('C','The test card is available on request.')]
-],{R:[101,'News'],G:[300,'Sport'],Y:[400,'Weather'],C:[100,'Index']});
+function buildUkStatic(){
+  mk(390,'Football results (s)',[
+    ['','[Y]Saturday','',
+     res('Nether Wallop','Little Snoring',2,1),
+     res('Wetwang Wndrs','Slaughter Utd',3,0),
+     res('Giggleswick Rov','Pratts Bottom',1,1),
+     res('Piddletrenthide','Sodbury Town',0,0),
+     '',...para('C','None of these clubs exist. Their grievances do.')],
+    ['','[Y]Fixtures','','[W]Tuesday 19:45','[C]Wetwang Wndrs[W] v [C]Nether Wallop','',
+     '[W]Wednesday 19:45','[C]Little Snoring[W] v [C]Giggleswick Rov','[C]Slaughter Utd[W] v [C]Piddletrenthide','',
+     '[W]Saturday 15:00','[C]Pratts Bottom[W] v [C]Sodbury Town']
+  ],{R:[391,'Table'],G:[300,'Sport'],Y:[101,'News'],C:[100,'Index']});
+  mk(391,'League table (s)',[[
+    '',trow('','Club','P','W','D','L','Pts','Y'),
+    ...TEAMS.map((t,i)=>trow(i+1,t.n,t.w+t.d+t.l,t.w,t.d,t.l,t.pts,i<2?'G':(i>=TEAMS.length-2?'R':'C'))),
+    '',...para('C','Green: promotion. Red: reflection.')
+  ]],{R:[390,'Results'],G:[300,'Sport'],Y:[101,'News'],C:[100,'Index']});
+  const CLOUD=artRows(CLOUD_PX), RAIN=artRows(RAIN_PX);
+  mk(400,'Weather (s)',[
+    ['',
+     `[gW]${CLOUD[0]}[Y]  Grey. Then grey again.`,
+     `[gW]${CLOUD[1]}[C]  Rain at times, mostly`,
+     `[gC]${RAIN[0]}[C]  at the times you are out`,
+     '',
+     `[Y]${'City'.padEnd(14)}[Y]${'Today'.padEnd(10)}[Y]${'Max'.padStart(4)}`,
+     wrow('Glasgow','Drizzle',9),wrow('Belfast','Showers',10),wrow('Leeds','Rain',11),
+     wrow('Cardiff','Rain',12),wrow('London','Overcast',14),wrow('Penzance','Gale',12),
+     '',...para('C','Forecast is invented, like most forecasts.')],
+    ['','[Y]Five-day outlook','',
+     orow('Mon','Rain','11C'),orow('Tue','Drizzle','10C'),orow('Wed','Rain (heavy)','9C'),
+     orow('Thu','Brief dry spell','12C'),orow('Fri','Rain, but lighter','11C'),
+     '',...para('G','Umbrella sales are described as robust.')]
+  ],{R:[101,'News'],G:[300,'Sport'],Y:[500,'TV'],C:[100,'Index']});
+  mk(500,'Tonight on TV (s)',[
+    ['',tv('18:30','Local News, Weather (it is wet)'),'',tv('19:00',"Gardeners' Question Time"),'',
+     tv('19:30','The Antiques Roadshow Roadshow'),'',tv('20:00',"Britain's Slowest Roads"),'',
+     tv('21:00','Drama: The Long Inquest'),'',tv('22:00','News and Weather (still wet)')],
+    ['',tv('22:30','Snooker: Frame 114'),'',tv('23:45','Late Review of Early Review'),'',
+     tv('00:30','Closedown'),'',...para('C','The test card is available on request.')]
+  ],{R:[101,'News'],G:[300,'Sport'],Y:[400,'Weather'],C:[100,'Index']});
+}
 
 /* ---------- 888 subtitles ---------- */
-mk(888,'Subtitles',[[
-  '',
-  ...para('W','Subtitles appear on this page when a programme provides them.'),
-  '','','','','','','','','','','',
-  '[Y]  (Rain intensifies.)',
-  '[C]  Well. That is that, then.',
-  '[G]  (Door closes, loudly.)'
-]]);
+function buildSubs(){
+  mk(888,'Subtitles',[[
+    '',...para('W','Subtitles appear on this page when a programme provides them.'),
+    '','','','','','','','','','','',
+    '[Y]  (Rain intensifies.)','[C]  Well. That is that, then.','[G]  (Door closes, loudly.)'
+  ]]);
+}
 
-/* ---------- 700 adverts: invented, new set every UK day ---------- */
+/* ---------- 700 adverts: invented, new set every day in the channel's timezone ---------- */
 function mulberry(a){return()=>{a|=0;a=a+0x6D2B79F5|0;let t=Math.imul(a^a>>>15,1|a);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296;};}
 function adRows(o){
   const rows=['',`[R][dh][Y]${o.title}`,'',''];
@@ -648,20 +717,31 @@ function adRows(o){
   } else o.lines.forEach(l=>rows.push(`[W]${l}`));
   rows.push('',`[G][fl]${o.flash}`);
   if(o.foot) rows.push(`[W]${o.foot}`);
-  rows.push('',`[Y]Phone 01632 960${o.num} now`);
+  rows.push('',`[Y]Phone ${o.phone} now`);
   return rows;
 }
+const AD={
+  uk:{cur:'\u00a3',unit:'P',phone:r=>'01632 960'+(100+Math.floor(r()*900)),hbase:79,gbase:99,
+    places:['COSTA DEL DRIZZLE','LAKE BOREDOM','PIDDLE BAY','MUCKLE SANDS','COSTA FAIRLY-NICE'],
+    hol:['Sea view (of a sort)','Pool (seasonal)','Entertainment (optional)','Coach transfer (eventually)','Sunshine (not guaranteed)','Breakfast (continental, ish)'],
+    food:['CRUNCHY BRICKS','WOBBLE JELLY','TINNED SUNSHINE','GRAVY GRANULES DELUXE','CHEESE-FLAVOUR CHEESE','FIZZY PEBBLES'],
+    svc:["DAVE'S CARPETS","GARY KNOWS A MAN","DOUBLE-GLAZING DIRECT","PHIL THE TILER","BIG KEV'S SKIPS","MOONLIGHT MINICABS"]},
+  ca:{cur:'$',unit:'\u00a2',phone:r=>'604 555 01'+String(Math.floor(r()*100)).padStart(2,'0'),hbase:89,gbase:99,
+    places:['SNOWBIRD SPECIAL','LAKE BOREDOM LODGE','COSTA DEL RAIN','POUTINE BAY','COTTAGE COUNTRY-ISH'],
+    hol:['Lake view (of a sort)','Hot tub (seasonal)','Entertainment (optional)','Shuttle (eventually)','Sunshine (not guaranteed)','Breakfast (maple-ish)'],
+    food:['MAPLE-ISH SYRUP','CRUNCHY BRICKS','BUTTER TART BITES','FIZZY PEBBLES','GRAVY GRANULES DELUXE'],
+    svc:["DAVE'S SNOW REMOVAL","GARY KNOWS A MAN","PHIL THE TILER","BIG KEV'S SKIPS","TOQUE & SON, PLUMBERS"]}
+};
 function buildAds(){
-  const o=partsOf(new Date(),'Europe/London');
-  const r=mulberry((+o.year)*10000+(+o.month)*100+(+o.day));
+  const A=AD[CUR], o=partsOf(new Date(),CHANNELS[CUR].tz);
+  const r=mulberry((+o.year)*10000+(+o.month)*100+(+o.day)+(CUR==='ca'?7:0));
   const pick=a=>a[Math.floor(r()*a.length)];
   const pickN=(a,n)=>{const c=a.slice(),out=[];while(out.length<n&&c.length)out.push(c.splice(Math.floor(r()*c.length),1)[0]);return out;};
-  const num=()=>String(100+Math.floor(r()*900));
   const holiday=()=>adRows({
-    title:pick(['COSTA DEL DRIZZLE','LAKE BOREDOM','PIDDLE BAY','MUCKLE SANDS','COSTA FAIRLY-NICE']),
+    title:pick(A.places),
     art:[`[gY]${SUN[0]}`,`[gY]${SUN[1]}`,`[gY]${SUN[2]}`,`[gC]${WAVE[0]}`,`[gC]${WAVE[1]}`],
-    lines:pickN(['Sea view (of a sort)','Pool (seasonal)','Entertainment (optional)','Coach transfer (eventually)','Sunshine (not guaranteed)','Breakfast (continental, ish)'],3),
-    flash:`FROM \u00a3${79+10*Math.floor(r()*10)} PER PERSON*`,foot:'*Per fortnight. Extras extra.',num:num()});
+    lines:pickN(A.hol,3),
+    flash:`FROM ${A.cur}${A.hbase+10*Math.floor(r()*10)} PER PERSON*`,foot:'*Per fortnight. Extras extra.',phone:A.phone(r)});
   const gadget=()=>{
     const prod=pick(['home computer','video recorder','answering machine','digital watch','pocket calculator','car telephone']);
     return adRows({
@@ -669,17 +749,17 @@ function buildAds(){
       art:iconRows('monitor'),
       lines:[`The ${prod}`,...pickN(['Plugs into your telly.','Batteries sold separately.','Manual runs to 3 pages.','Tape recorder not included.','Now with a clock.','Silver. Obviously.'],2)],
       tag:pick(['Thinks it is a business machine.','Ahead of its time. Behind on delivery.','The future, in beige.','Fits in a handbag (large).']),
-      flash:`ONLY \u00a3${99+10*Math.floor(r()*40)}*`,foot:'*Plus the bits you need.',num:num()});
+      flash:`ONLY ${A.cur}${A.gbase+10*Math.floor(r()*40)}*`,foot:'*Plus the bits you need.',phone:A.phone(r)});
   };
   const food=()=>adRows({
-    title:pick(['CRUNCHY BRICKS','WOBBLE JELLY','TINNED SUNSHINE','GRAVY GRANULES DELUXE','CHEESE-FLAVOUR CHEESE','FIZZY PEBBLES']),
+    title:pick(A.food),
     lines:pickN(['Now with 3% real fruit.','Part of a balanced breakfast.','As seen on telly.','Tested on a panel of uncles.','Recipe unchanged since Tuesday.'],3),
-    flash:`ONLY ${30+5*Math.floor(r()*12)}P`,foot:'Available in shops. Some shops.',num:num()});
+    flash:`ONLY ${30+5*Math.floor(r()*12)}${A.unit}`,foot:'Available in shops. Some shops.',phone:A.phone(r)});
   const service=()=>adRows({
-    title:pick(["DAVE'S CARPETS","GARY KNOWS A MAN","DOUBLE-GLAZING DIRECT","PHIL THE TILER","BIG KEV'S SKIPS","MOONLIGHT MINICABS"]),
+    title:pick(A.svc),
     lines:pickN(['Free quotes. Expensive quotes.','Cash preferred.','We come to you. Eventually.','No job too small. Some too large.','Estimates in writing (pencil).','Ask for Dave. Dave is out.'],3),
-    flash:'RING NOW - CASH WELCOME',foot:'Lines open when we are.',num:num()});
-  mk(700,'Advert',[holiday(),gadget(),food(),service(),gadget()],{R:[101,'News'],G:[300,'Sport'],Y:[400,'Weather'],C:[100,'Index']});
+    flash:'RING NOW - CASH WELCOME',foot:'Lines open when we are.',phone:A.phone(r)});
+  mk(700,'Advert',[holiday(),gadget(),food(),service(),gadget()]);
 }
 
 /* ---------- 800 art lab: any image becomes a teletext page ---------- */
@@ -729,19 +809,28 @@ function convertImage(img,name){
   if(sw/sh>target){const nw=sh*target;sx=(sw-nw)/2;sw=nw;} else {const nh=sw/target;sy=(sh-nh)/2;sh=nh;}
   x.drawImage(img,sx,sy,sw,sh,0,0,w,h);
   const art=artFromPixels(x.getImageData(0,0,w,h).data,w,h);
-  mk(800,'Art lab',[[...art,'',`[C]${clean(name).slice(0,36)}`]],{R:[101,'News'],G:[300,'Sport'],Y:[700,'Adverts'],C:[100,'Index']});
+  mk(800,'Art lab',[[...art,'',`[C]${clean(name).slice(0,36)}`]]);
 }
 function buildArtLab(){
   mk(800,'Art lab',[['',
     ...para('W','Press the button under the TV and choose an image. It is cut down to 8 colours and 2 x 3 blocks, then shown here.'),
     '',
-    ...para('C','Pictures that suit it: bold shapes, strong colours, not much detail.')]],
-    {R:[101,'News'],G:[300,'Sport'],Y:[700,'Adverts'],C:[100,'Index']});
+    ...para('C','Pictures that suit it: bold shapes, strong colours, not much detail.')]]);
 }
 
-function buildAll(){ buildIndex(); buildFeedPages(); buildAds(); }
-buildArtLab();
-buildAll();
+/* ---------- building and refreshing channels ---------- */
+function buildChannel(ch){          /* rebuild a channel's feed-driven pages without disturbing the one on screen */
+  const sp=PAGES, sf=FEED, sm=feedMode, sc=CUR;
+  CUR=ch; PAGES=STORE[ch].pages; FEED=STORE[ch].feed; feedMode=STORE[ch].mode;
+  buildIndex(); buildFeedPages(); buildAds();
+  PAGES=sp; FEED=sf; feedMode=sm; CUR=sc;
+}
+for(const ch of ['uk','ca']){
+  CUR=ch; PAGES=STORE[ch].pages; FEED=STORE[ch].feed; feedMode=STORE[ch].mode;
+  buildArtLab(); buildSubs(); if(ch==='uk') buildUkStatic();
+  buildIndex(); buildFeedPages(); buildAds();
+}
+CUR=CHN; PAGES=STORE[CHN].pages; FEED=STORE[CHN].feed; feedMode=STORE[CHN].mode;
 
 
 /* ---------- state ---------- */
@@ -756,15 +845,27 @@ function pageText(p,si){
   return p.subs[si%p.subs.length].map(r=>decode(parse(r)).map(c=>c.mos?' ':String.fromCharCode(c.ch)).join('').replace(/\s+$/,'')).filter(Boolean).join('\n');
 }
 function updateUI(){
-  const p=curPage(), n=p.subs.length;
-  st.textContent=`Page ${view.page}: ${p.title}${n>1?`, subpage ${(view.sub%n)+1} of ${n}`:''}${hold?', held':''}`;
+  const p=curPage(), n=p.subs.length, C=CHANNELS[CHN];
+  st.textContent=`${CHN==='ca'?'Canada: ':''}Page ${view.page}: ${p.title}${n>1?`, subpage ${(view.sub%n)+1} of ${n}`:''}${hold?', held':''}`;
   for(const k of ['R','G','Y','C']) btn[k].textContent=p.fast[k][1];
   $('bHold').textContent=hold?'Release':'Hold';
+  $('bClk').textContent='Clock: '+(clockUK?C.tzLabel+' time':'your time');
   $('mirror').textContent=p.title+'\n'+pageText(p,view.sub);
-  $('feedline').textContent=feedMode==='live'?'Headlines are live from the BBC feed.':'Headlines in this preview are an invented demo feed.';
+  $('feedline').textContent=feedMode==='live'?`Headlines are live from ${C.source}.`:'Headlines in this preview are an invented demo feed.';
   document.title=`Page ${view.page} ${p.title} - Teletext prototype`;
-  try{ history.replaceState(null,'','#'+view.page); }catch(e){}
+  try{ history.replaceState(null,'','#'+(CHN==='ca'?'ca/':'')+view.page); }catch(e){}
   lastSig='';
+}
+function setChannel(ch,quiet){
+  if(!CHANNELS[ch]||ch===CHN) return;
+  CHN=ch; CUR=ch; PAGES=STORE[ch].pages; FEED=STORE[ch].feed; feedMode=STORE[ch].mode;
+  search=null; buf=''; hold=false;
+  view={page:100,sub:0,nextAt:performance.now()+SUBMS};
+  $('cab').classList.toggle('ca',ch==='ca');
+  $('plate').innerHTML=CHANNELS[ch].plate;
+  document.querySelectorAll('.chan').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.ch===ch)));
+  if(!quiet){ turnKnob(); cv.style.animation='none'; void cv.offsetWidth; cv.style.animation=''; }
+  updateUI();
 }
 function turnKnob(){
   knobA+=47; $('k1').style.transform=`rotate(${knobA}deg)`;
@@ -817,8 +918,8 @@ function frame(){
     const prog=Math.min(1,(now-search.t0)/search.dur);
     b=((search.from-100+Math.floor(prog*search.dist))%800)+100;
   }
-  const o=partsOf(new Date(),clockUK?'Europe/London':undefined);
-  const hdr=`[W]${a}[R]CEEFAX 1[W] ${b}[Y] ${o.weekday} ${o.day} ${MON[+o.month-1]}[C]${o.hour}:${o.minute}/${o.second}`;
+  const o=partsOf(new Date(),clockUK?CHANNELS[CHN].tz:undefined);
+  const hdr=`[W]${a}[R]${CHANNELS[CHN].mask}[W] ${b}[Y] ${o.weekday} ${o.day} ${MON[+o.month-1]}[C]${o.hour}:${o.minute}/${o.second}`;
 
   const p=curPage();
   const sub=p.subs[view.sub%p.subs.length];
@@ -843,9 +944,8 @@ $('bCrt').addEventListener('click',()=>{
   crt=!crt; $('crt').classList.toggle('off',!crt);
   $('bCrt').textContent='CRT effect: '+(crt?'on':'off'); lastSig='';
 });
-$('bClk').addEventListener('click',()=>{
-  clockUK=!clockUK; $('bClk').textContent='Clock: '+(clockUK?'UK time':'your time'); lastSig='';
-});
+$('bClk').addEventListener('click',()=>{ clockUK=!clockUK; updateUI(); });
+document.querySelectorAll('.chan').forEach(b=>b.addEventListener('click',()=>setChannel(b.dataset.ch)));
 $('bArt').addEventListener('click',()=>$('file').click());
 $('file').addEventListener('change',e=>{
   const f=e.target.files&&e.target.files[0]; if(!f) return;
@@ -865,19 +965,33 @@ addEventListener('keydown',e=>{
 });
 
 /* ---------- live feed.json (written by the R script) replaces the demo feed when it exists ---------- */
-function loadFeed(){
-  fetch('feed.json',{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject())
-    .then(j=>{ if(!j||!j.sections) return; FEED=j; feedMode='live'; buildAll(); updateUI(); }).catch(()=>{});
+function applyFeed(ch,f){
+  STORE[ch].feed=f||{source:CHANNELS[ch].source,fetchedAt:new Date().toISOString(),sections:{}};
+  STORE[ch].mode='live';
+  buildChannel(ch);
+  if(ch===CHN){ FEED=STORE[ch].feed; feedMode='live'; }
 }
-loadFeed(); setInterval(()=>{ if(feedMode==='live') loadFeed(); },600000);
+function loadFeed(){
+  return fetch('feed.json',{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject())
+    .then(j=>{
+      const chans=j&&(j.channels||(j.sections?{uk:j}:null)); if(!chans) return;
+      for(const ch of ['uk','ca']) applyFeed(ch,chans[ch]&&chans[ch].sections?chans[ch]:null);
+      updateUI();
+    }).catch(()=>{});
+}
+const feedReady=Promise.race([loadFeed(),new Promise(r=>setTimeout(r,1500))]);
+setInterval(()=>{ if(STORE.uk.mode==='live'||STORE.ca.mode==='live') loadFeed(); },600000);
 
 /* ---------- start once the font is ready (or after a short timeout) ---------- */
-try{ const h0=parseInt((location.hash||'').slice(1),10); if(h0>=100&&h0<=899) view.page=h0; }catch(e){}
+try{
+  const m=/^#(?:(ca)\/)?(\d{3})$/.exec(location.hash||'');
+  if(m){ if(m[1]) setChannel('ca',true); const h0=parseInt(m[2],10); if(h0>=100&&h0<=899) view.page=h0; }
+}catch(e){}
 updateUI();
 const fontReady=(document.fonts&&document.fonts.load)
   ? Promise.race([document.fonts.load('20px BedsteadExt','H'),new Promise(r=>setTimeout(r,2500))])
   : Promise.resolve();
-fontReady.catch(()=>{}).then(()=>{ calibrate(); frame(); setInterval(frame,100); });
+Promise.all([fontReady.catch(()=>{}),feedReady]).then(()=>{ calibrate(); frame(); setInterval(frame,100); });
 })();
 </script>
 </body>

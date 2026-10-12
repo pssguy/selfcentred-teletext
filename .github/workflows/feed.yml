@@ -1,0 +1,64 @@
+# .github/workflows/feed.yml
+# Refreshes _site/feed.json from the BBC and CBC feeds every 3 hours and commits it only if the headlines changed.
+# Cloudflare Pages (connected to this repo, no build command, output directory _site) then redeploys on the push.
+
+name: Update feed
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # every 3 hours at :17 UTC, off the congested top of the hour
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::tidyRSS
+            any::dplyr
+            any::purrr
+            any::jsonlite
+
+      - name: Keep a copy of the current feed
+        run: cp _site/feed.json /tmp/old.json || true
+
+      - name: Fetch feeds
+        working-directory: _site
+        run: Rscript ../scripts/fetch_feeds.R
+
+      - name: Check the new feed looks sane
+        run: jq -e '([.channels[].sections | length] | add) >= 5' _site/feed.json
+
+      - name: Did the headlines change?
+        id: changed
+        run: |
+          if [ -f /tmp/old.json ] && diff -q <(jq -S 'del(.channels[]?.fetchedAt)' /tmp/old.json) <(jq -S 'del(.channels[]?.fetchedAt)' _site/feed.json) > /dev/null; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: steps.changed.outputs.changed == 'true'
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add _site/feed.json
+          git commit -m "Update feed $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
