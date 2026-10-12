@@ -1,0 +1,9 @@
+{
+  // Must match the Project name on Cloudflare's setup screen.
+  "name": "selfcentred-teletext",
+  "compatibility_date": "2026-10-01",
+  // Assets only: no Worker script, so nothing here counts toward Workers request limits.
+  "assets": {
+    "directory": "./_site"
+  }
+}
