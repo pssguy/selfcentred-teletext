@@ -3,7 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Teletext prototype</title>
+<title>Teletext TV | selfcentred.me</title>
+<meta name="description" content="A 1980s-style teletext TV rebuilt for the web: live BBC and CBC headlines, invented retro adverts and an art lab. Switch between a UK and a Canadian set.">
+<link rel="canonical" href="https://teletext.selfcentred.me/">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta property="og:title" content="Teletext TV">
+<meta property="og:description" content="A 1980s-style teletext TV rebuilt for the web: live BBC and CBC headlines, invented retro adverts and an art lab.">
+<meta property="og:url" content="https://teletext.selfcentred.me/">
+<meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
@@ -142,11 +149,20 @@ button:active{transform:translateY(1px)}
 .col.r{background:#ff3a3a}.col.g{background:#2fe05a}.col.y{background:#ffe93a}.col.c{background:#3fe6f2}
 .wide{flex:1 1 130px}
 .sr{position:absolute;width:1px;height:1px;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:pre}
+.top{margin:0 0 16px}
+.back{display:inline-flex; align-items:center; min-height:44px; padding:8px 18px; border:1.5px solid var(--fg); border-radius:999px;
+  color:var(--fg); text-decoration:none; font-size:16px}
+.back:hover{background:var(--fg); color:var(--bg)}
+.back:focus-visible{outline:3px solid #3b82f6; outline-offset:3px}
+.foot{margin:36px 0 0; padding:20px 0 8px; border-top:1px solid var(--keyline); font-size:15px; color:var(--muted)}
+.foot p{margin:0}
+.foot a{color:var(--fg)}
 .note{margin:18px 2px 0; color:var(--muted); font-size:15px; max-width:66ch}
 </style>
 </head>
 <body>
 <div class="wrap">
+<nav class="top" aria-label="Back to the hub"><a class="back" href="https://selfcentred.me/#projects">&larr; selfcentred.me</a></nav>
 <div class="stage">
 <div class="main">
   <div class="cab" id="cab">
@@ -204,6 +220,7 @@ button:active{transform:translateY(1px)}
   <p><span class="fl">Press the red key to start.</span></p>
 </aside>
 </div>
+<footer class="foot"><p>selfcentred.me is published by Chai Publications. &copy; 2026 Andrew Clark. <a href="https://selfcentred.me/#projects">Back to all projects</a></p></footer>
 </div>
 
 <script>
@@ -853,7 +870,7 @@ function updateUI(){
   $('bClk').textContent='Clock: '+(clockUK?C.tzLabel+' time':'your time');
   $('mirror').textContent=p.title+'\n'+pageText(p,view.sub);
   $('feedline').textContent=feedMode==='live'?`Headlines are live from ${[...new Set([FEED.source,...Object.values(FEED.sectionSource||{})])].join(' and ')}.`:'Headlines in this preview are an invented demo feed.';
-  document.title=`Page ${view.page} ${p.title} - Teletext prototype`;
+  document.title=`Page ${view.page} ${p.title} - Teletext TV`;
   try{ history.replaceState(null,'','#'+(CHN==='ca'?'ca/':'')+view.page); }catch(e){}
   lastSig='';
 }
