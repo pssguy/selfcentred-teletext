@@ -2,7 +2,7 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-13T10:31:53Z",
+      "fetchedAt": "2026-10-13T11:27:46Z",
       "sections": {
         "top": [
           {
@@ -49,8 +49,8 @@
           },
           {
             "title": "Hundreds more prisoners being freed in second phase of early release scheme ",
-            "desc": "Second tranche of prisoners being released includes those serving up to two and a half years.",
-            "pubDate": "2026-10-13T09:45:50Z",
+            "desc": "The second tranche of prisoners being released includes those serving up to two and a half years.",
+            "pubDate": "2026-10-13T11:19:04Z",
             "link": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss"
           }
         ],
@@ -80,10 +80,16 @@
             "link": "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
-            "desc": "Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks.",
-            "pubDate": "2026-10-13T08:52:48Z",
+            "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+            "desc": "Eleven crew members are missing after a merchant ship was sunk overnight, local officials say.",
+            "pubDate": "2026-10-13T10:57:17Z",
             "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Ex-president named leader of new DR Congo rebel coalition ",
+            "desc": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
+            "pubDate": "2026-10-13T11:23:55Z",
+            "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
@@ -96,12 +102,6 @@
             "desc": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
             "pubDate": "2026-10-13T07:31:10Z",
             "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Watch: US man eyes pumpkin world record after fifth contest win",
-            "desc": "Horticulture teacher Travis Gienger hauled his pumpkin from Minnesota to Half Moon Bay, California where he won the annual event.",
-            "pubDate": "2026-10-13T04:04:57Z",
-            "link": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
@@ -113,8 +113,8 @@
           },
           {
             "title": "Hundreds more prisoners being freed in second phase of early release scheme ",
-            "desc": "Second tranche of prisoners being released includes those serving up to two and a half years.",
-            "pubDate": "2026-10-13T09:45:50Z",
+            "desc": "The second tranche of prisoners being released includes those serving up to two and a half years.",
+            "pubDate": "2026-10-13T11:19:04Z",
             "link": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -144,14 +144,14 @@
           {
             "title": "Raye hits back at ticket touts who 'overwhelmed' sign-up for Albert Hall show",
             "desc": "The award-winning singer said there were 1.8 million sign-ups for her 5,000-seat Royal Albert Hall show.",
-            "pubDate": "2026-10-13T09:19:50Z",
+            "pubDate": "2026-10-13T11:25:43Z",
             "link": "https://www.bbc.co.uk/news/articles/c8vgxpwlx9wko?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
-            "desc": "A group of clinicians warns technology use in English schools is driving a rise in health problems like short-sightedness.",
-            "pubDate": "2026-10-13T09:35:43Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&at_campaign=rss"
+            "title": "Martin Freeman to give Gromit a voice for first time in new audiobook",
+            "desc": "Martin Freeman will be the voice of Aardman's Gromit in new audiobook.",
+            "pubDate": "2026-10-13T09:58:11Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6x23gvgkv99o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
@@ -212,7 +212,7 @@
             "link": "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Australia close on win but Markram remains for South Africa - scorecard",
+            "title": "Hazlewood takes six as Australia beat South Africa by 214 runs - scorecard",
             "desc": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
             "pubDate": "2026-10-13T00:00:00Z",
             "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss"
@@ -222,12 +222,6 @@
             "desc": "Rwanda signs a 10-year deal with Formula 1 to host races in the African country, starting \"in the early 2030s\".",
             "pubDate": "2026-10-13T09:20:09Z",
             "link": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Is Man Utd's Fernandes issue a symptom or reason for their form?",
-            "desc": "Manchester United skipper Bruno Fernandes is yet to reach the highs of last season - is it because of his side's poor start or the reason for it?",
-            "pubDate": "2026-10-13T05:47:49Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Bethell returns as England call up youngsters Jack and Rew",
@@ -252,13 +246,19 @@
             "desc": "Wales and Bristol star Louis Rees-Zammit calls for the end of artificial playing surfaces in top-flight rugby.",
             "pubDate": "2026-10-13T10:13:53Z",
             "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c680z7dr7l93o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Is Man Utd's Fernandes issue a symptom or reason for their form?",
+            "desc": "Manchester United skipper Bruno Fernandes is yet to reach the highs of last season - is it because of his side's poor start or the reason for it?",
+            "pubDate": "2026-10-13T05:47:49Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-13T10:31:54Z",
+      "fetchedAt": "2026-10-13T11:27:47Z",
       "sections": {
         "top": [
           {
@@ -274,12 +274,6 @@
             "link": "https://www.cbc.ca/news/canada/canadian-cybersecurity-expert-arrested-fbi-shinyhunters-9.7378256?cmp=rss"
           },
           {
-            "title": "Billions more for defence, but Canada's military still faces an old budget squeeze",
-            "desc": "",
-            "pubDate": "2025-08-26T05:15:23Z",
-            "link": "https://www.cbc.ca/news/politics/military-spending-budget-cuts-carney-9.7375802?cmp=rss"
-          },
-          {
             "title": "Ottawa wants to expand the oilsands, but the industry's wastewater problem will grow with it",
             "desc": "The recent decision by Prime Minister Mark Carney to fast-track a new oil export pipeline to the West Coast is adding urgency for Ottawa to finally decide what to do with a long-standing environmental issue plaguing the oilsands in Northern Alberta — what to do with tailings ponds.",
             "pubDate": "2026-10-13T04:00:00Z",
@@ -292,22 +286,28 @@
             "link": "https://www.cbc.ca/news/business/sidhu-moose-wala-hologram-concert-tour-9.7378115?cmp=rss"
           },
           {
+            "title": "Billions more for defence, but Canada's military still faces an old budget squeeze",
+            "desc": "",
+            "pubDate": "2025-08-26T05:15:23Z",
+            "link": "https://www.cbc.ca/news/politics/military-spending-budget-cuts-carney-9.7375802?cmp=rss"
+          },
+          {
+            "title": "Slow down a honey bee stinging and you see impressive mechanisms at work",
+            "desc": "New research is showing what makes honeybee stings an effective, self-driving weapon. High speed cameras reveal how the stinger uses a double-piston that pumps up and down to drive it deeper while delivering its poison.",
+            "pubDate": "2026-10-12T15:00:00Z",
+            "link": "https://www.cbc.ca/news/science/honey-bee-sting-explained-9.7376578?cmp=rss"
+          },
+          {
+            "title": "Castlevania: Belmont's Curse resurrects the classic vampire hunting game in bold, bloody fashion",
+            "desc": "Belmont's Curse is mostly a roaring resurrection for the 40-year-old series — but its punishing difficulty could make it hard to recommend to newcomers to the genre.",
+            "pubDate": "2026-10-13T04:00:00Z",
+            "link": "https://www.cbc.ca/news/entertainment/castlevania-belmonts-curse-review-9.7378023?cmp=rss"
+          },
+          {
             "title": "Drones hit ships in Black Sea, sinking 1 and prompting rescue, Bulgaria says",
             "desc": "Drones struck two ships in the Black Sea off  Bulgaria on Tuesday, sinking one and prompting emergency rescue operations, Prime Minister Rumen Radev said.",
             "pubDate": "2026-10-13T04:44:15Z",
             "link": "https://www.cbc.ca/news/world/drone-black-sea-bulgaria-9.7378361?cmp=rss"
-          },
-          {
-            "title": "Is Danielle Smith ready for the Alberta referendum fallout?",
-            "desc": "Premier Danielle Smith sits down with CBC News chief correspondent Adrienne Arsenault to talk about Alberta’s high-stakes referendum, what happens after the vote on Oct. 19 and why she’s ‘public enemy no.1’ with many separatists.",
-            "pubDate": "2026-10-12T17:55:55Z",
-            "link": "https://www.cbc.ca/player/play/9.7378201?cmp=rss"
-          },
-          {
-            "title": "Travel nurses filling gaps in rural hospitals say they haven’t been paid for months",
-            "desc": "Emergency rooms in rural Saskatchewan often rely on travel nurses to stay open, but a group of those nurses say they've gone months without pay and the private agency that deployed them has gone silent.",
-            "pubDate": "2026-10-13T06:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/saskatoon/travel-nurses-not-paid-for-months-9.7371784?cmp=rss"
           }
         ],
         "world": [
@@ -328,6 +328,12 @@
             "desc": "Drones struck two ships in the Black Sea off  Bulgaria on Tuesday, sinking one and prompting emergency rescue operations, Prime Minister Rumen Radev said.",
             "pubDate": "2026-10-13T04:44:15Z",
             "link": "https://www.cbc.ca/news/world/drone-black-sea-bulgaria-9.7378361?cmp=rss"
+          },
+          {
+            "title": "Hurricane Simon, storm Rachel leave 5 dead in western Mexico",
+            "desc": "Hurricane Simon pounded western Mexico, causing one death in the state of Guerrero, while four people died and some are missing in the state of Baja California due to the impact of post-tropical cyclone Rachel.",
+            "pubDate": "2026-10-13T06:45:28Z",
+            "link": "https://www.cbc.ca/news/world/hurricane-simon-rachel-mexico-california-9.7378373?cmp=rss"
           },
           {
             "title": "Zelenskyy says Russia violating Trump's 'energy ceasefire' as attacks on Ukraine continue",
@@ -352,12 +358,6 @@
             "desc": "While endometriosis affects one in 10 women, Canada’s health care system is doing a “poor” job in providing them care and many women are seeking treatment outside the country.",
             "pubDate": "2026-10-12T04:00:00Z",
             "link": "https://www.cbc.ca/news/world/endometriosis-canada-health-care-mexico-9.7375759?cmp=rss"
-          },
-          {
-            "title": "Nobel memorial prize in economics awarded to Robert E. Hall and Michael Woodford",
-            "desc": "American-born economists' models have helped governments and central banks manage economic shocks and \"smooth out the economy's peaks and troughs,\" says Royal Swedish Academy of Sciences.",
-            "pubDate": "2026-10-12T07:06:42Z",
-            "link": "https://www.cbc.ca/news/world/hall-woodford-nobel-economics-9.7377888?cmp=rss"
           }
         ],
         "canada": [
@@ -374,8 +374,8 @@
             "link": "https://www.cbc.ca/news/politics/military-spending-budget-cuts-carney-9.7375802?cmp=rss"
           },
           {
-            "title": "This Canadian-Punjabi rapper was murdered in 2022. His new tour is testing the market for holographic concerts",
-            "desc": "Sidhu Moose Wala’s Signed to God world tour kicked off in Toronto last Friday, with a hologram standing in on stage for the Canadian-Punjabi rap star who was shot and killed in 2022. Fans lined up for the show seemed eager to see what was in store, while tech and music industry observers say it's an intersting test of the technology.",
+            "title": "This Punjabi rapper was murdered in 2022. His new tour is testing the market for holographic concerts",
+            "desc": "Sidhu Moose Wala’s Signed to God world tour kicked off in Toronto last Friday, with a hologram standing in on stage for the Punjabi rap star who was shot and killed in 2022. Fans lined up for the show seemed eager to see what was in store, while tech and music industry observers say it's an interesting test of the technology.",
             "pubDate": "2026-10-13T04:00:00Z",
             "link": "https://www.cbc.ca/news/business/sidhu-moose-wala-hologram-concert-tour-9.7378115?cmp=rss"
           },
@@ -462,6 +462,24 @@
         ],
         "local": [
           {
+            "title": "Pope's motorcade leaves Vatican for expected admission to hospital for surgery to remove lung nodule",
+            "desc": "ROME (AP) — A motorcade of cars carrying Pope Leo XIV left the Vatican on Tuesday ahead of his expected admission to the hospital for surgery to remove a lung nodule.",
+            "pubDate": "2026-10-13T11:01:59Z",
+            "link": "https://www.nsnews.com/world-news/popes-motorcade-leaves-vatican-for-expected-admission-to-hospital-for-surgery-to-remove-lung-nodule-12885455"
+          },
+          {
+            "title": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says",
+            "desc": "SOFIA, Bulgaria (AP) — Drones struck two ships in the Black Sea off Bulgaria on Tuesday, sinking one and prompting emergency rescue operations, Prime Minister Rumen Radev said.",
+            "pubDate": "2026-10-13T10:42:29Z",
+            "link": "https://www.nsnews.com/world-news/drones-hit-ships-in-black-sea-sinking-1-and-prompting-rescue-operations-bulgaria-says-12885343"
+          },
+          {
+            "title": "I thought I had these 3 retirement topics figured out. Here’s why I changed my mind",
+            "desc": "As much as there are immutable truths in investing and money matters — costs matter and getting started earlier is best, for example — many of the precepts we hold true as investors depend on the data. When the data change, so should our thinking.",
+            "pubDate": "2026-10-13T10:11:20Z",
+            "link": "https://www.nsnews.com/the-mix/i-thought-i-had-these-3-retirement-topics-figured-out-heres-why-i-changed-my-mind-12885441"
+          },
+          {
             "title": "More damaging AI hacking incidents to come unless changes are made, scientists warn",
             "desc": "OTTAWA — Dozens of Canadian academics are among an international group of scientists calling for better containment measures for AI models.",
             "pubDate": "2026-10-13T10:00:09Z",
@@ -472,12 +490,6 @@
             "desc": "NEW YORK (AP) — Actor  Selma Blair  was arrested after she was accused of injuring two flight attendants on a trip from Los Angeles to New York.",
             "pubDate": "2026-10-13T09:29:00Z",
             "link": "https://www.nsnews.com/the-mix/selma-blair-accused-of-attacking-2-flight-attendants-and-assaulting-a-police-officer-and-nurse-12884547"
-          },
-          {
-            "title": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says",
-            "desc": "SOFIA, Bulgaria (AP) — Drones struck two ships in the Black Sea off Bulgaria on Tuesday, sinking one and prompting emergency rescue operations, Prime Minister Rumen Radev said.",
-            "pubDate": "2026-10-13T09:18:31Z",
-            "link": "https://www.nsnews.com/world-news/drones-hit-ships-in-black-sea-sinking-1-and-prompting-rescue-operations-bulgaria-says-12885343"
           },
           {
             "title": "Simplii Financial rolls out tools for DIY banking in bid for growth",
@@ -496,18 +508,6 @@
             "desc": "This is not an article about politics,  capital punishment  or whether the Fort Hood shooter deserves to be  executed  in public  for his crimes.",
             "pubDate": "2026-10-13T08:54:28Z",
             "link": "https://www.nsnews.com/the-mix/experts-urge-parents-to-prepare-kids-for-possible-livestreamed-execution-12885239"
-          },
-          {
-            "title": "In the news today: countries denounce Iran, France crab licence, Alberta unity event",
-            "desc": "Here is a roundup of stories from The Canadian Press designed to bring you up to speed …   Canada signs joint statement denouncing Iran after U.K.",
-            "pubDate": "2026-10-13T08:17:55Z",
-            "link": "https://www.nsnews.com/national-news/in-the-news-today-countries-denounce-iran-france-crab-licence-alberta-unity-event-12885395"
-          },
-          {
-            "title": "B.C. party leaders make campaign stop at Vancouver trade board ahead of election",
-            "desc": "VANCOUVER — The leaders of British Columbia's three major political parties will pitch their plans to business leaders in Vancouver with less than two weeks to go before the provincial election.",
-            "pubDate": "2026-10-13T08:00:13Z",
-            "link": "https://www.nsnews.com/national-news/bc-party-leaders-make-campaign-stop-at-vancouver-trade-board-ahead-of-election-12885396"
           }
         ]
       },
