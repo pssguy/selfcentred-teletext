@@ -2,76 +2,88 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-14T04:58:48Z",
+      "fetchedAt": "2026-10-14T11:49:13Z",
       "sections": {
         "top": [
           {
+            "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+            "desc": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+            "pubDate": "2026-10-14T11:32:07Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Watch: What we know about Russia's overnight strikes on Ukraine",
+            "desc": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
+            "pubDate": "2026-10-14T09:25:03Z",
+            "link": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
             "desc": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-            "pubDate": "2026-10-13T23:58:56Z",
+            "pubDate": "2026-10-14T11:45:24Z",
             "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-            "desc": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-            "pubDate": "2026-10-14T00:17:00Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+            "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+            "desc": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+            "pubDate": "2026-10-14T10:06:48Z",
+            "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+            "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+            "desc": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
+            "pubDate": "2026-10-14T05:01:07Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Watch: BBC joins police on front line against car theft",
+            "desc": "Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.",
+            "pubDate": "2026-10-14T05:00:37Z",
+            "link": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Saudi employee charged with planting recording device in OpenAI office",
             "desc": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
             "pubDate": "2026-10-13T21:42:49Z",
             "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Zelensky and Burnham to meet in Downing Street",
-            "desc": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
-            "pubDate": "2026-10-13T21:31:30Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Royal Mail losing 400 postal workers a week, says union",
-            "desc": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
-            "pubDate": "2026-10-13T23:03:59Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-            "desc": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-            "pubDate": "2026-10-13T19:51:14Z",
-            "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-            "desc": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-            "pubDate": "2026-10-13T18:25:28Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-            "desc": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
-            "pubDate": "2026-10-13T18:23:22Z",
-            "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss"
+            "title": "Shipwreck thought to be 4,700 years old found off coast of Turkey",
+            "desc": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+            "pubDate": "2026-10-14T05:00:35Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
           {
+            "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+            "desc": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+            "pubDate": "2026-10-14T11:32:07Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-            "desc": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-            "pubDate": "2026-10-14T00:17:00Z",
+            "desc": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+            "pubDate": "2026-10-14T11:17:51Z",
             "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+            "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+            "desc": "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+            "pubDate": "2026-10-14T09:32:54Z",
+            "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Saudi employee charged with planting recording device in OpenAI office",
             "desc": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
             "pubDate": "2026-10-13T21:42:49Z",
             "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-            "desc": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-            "pubDate": "2026-10-13T23:42:22Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+            "title": "Turkish police raid opposition TV station, halting live broadcasts",
+            "desc": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
+            "pubDate": "2026-10-14T10:50:11Z",
+            "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
@@ -80,110 +92,98 @@
             "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-            "desc": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-            "pubDate": "2026-10-14T04:20:17Z",
+            "title": "Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot",
+            "desc": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
+            "pubDate": "2026-10-14T11:33:24Z",
             "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Bank of America hit with $1.2bn fine for money laundering failings",
-            "desc": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
-            "pubDate": "2026-10-14T02:05:32Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
             "desc": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
             "pubDate": "2026-10-13T19:23:28Z",
             "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-            "desc": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-            "pubDate": "2026-10-14T04:36:06Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
           {
             "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
             "desc": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-            "pubDate": "2026-10-13T23:58:56Z",
+            "pubDate": "2026-10-14T11:45:24Z",
             "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Zelensky and Burnham to meet in Downing Street",
-            "desc": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
-            "pubDate": "2026-10-13T21:31:30Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss"
+            "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+            "desc": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
+            "pubDate": "2026-10-14T05:01:07Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-            "desc": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-            "pubDate": "2026-10-13T15:52:15Z",
-            "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
+            "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+            "desc": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+            "pubDate": "2026-10-14T10:06:48Z",
+            "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Football regulator says he would quit over any political interference in Man City case",
-            "desc": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
-            "pubDate": "2026-10-13T16:00:18Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss"
+            "title": "Pastor died when festival arch fell, inquest told",
+            "desc": "Horsham District Council is continuing a health and safety investigation into what happened.",
+            "pubDate": "2026-10-14T11:00:56Z",
+            "link": "https://www.bbc.co.uk/news/articles/crz65d6pw9geo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-            "desc": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-            "pubDate": "2026-10-13T17:36:43Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss"
+            "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+            "desc": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
+            "pubDate": "2026-10-13T23:55:49Z",
+            "link": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "MI5 chief warns against overstating Russian interference in Brexit vote",
-            "desc": "It comes after Andy Burnham said Moscow had tried to interfere in the 2016 referendum.",
-            "pubDate": "2026-10-13T17:06:18Z",
-            "link": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o?at_medium=RSS&at_campaign=rss"
+            "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+            "desc": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
+            "pubDate": "2026-10-14T07:18:08Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Supreme Court hears church warden murder appeal",
-            "desc": "The Supreme Court is considering arguments over who legally caused Peter Farquhar’s death.",
-            "pubDate": "2026-10-13T13:04:11Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqly384j8x3mo?at_medium=RSS&at_campaign=rss"
+            "title": "Mechanic who falsified MOT before fatal crash handed community order",
+            "desc": "The court heard that the seatbelts on the car had not ever been replaced and were clearly defective.",
+            "pubDate": "2026-10-14T10:57:28Z",
+            "link": "https://www.bbc.co.uk/news/articles/cvlydwygdkz4o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Majority of English football clubs on the edge of financial disaster, report says",
-            "desc": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
-            "pubDate": "2026-10-13T16:00:11Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&at_campaign=rss"
+            "title": "One man dead and two missing as search goes on for fishing boat off Lewis",
+            "desc": "The alarm was raised after a boat failed to return as planned to Lewis.",
+            "pubDate": "2026-10-14T09:21:12Z",
+            "link": "https://www.bbc.co.uk/news/articles/c3vgx720r577o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
           {
-            "title": "Royal Mail losing 400 postal workers a week, says union",
-            "desc": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
-            "pubDate": "2026-10-13T23:03:59Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss"
+            "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+            "desc": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
+            "pubDate": "2026-10-14T11:04:12Z",
+            "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Is it OK for jobseekers or employers to use AI?",
+            "title": "Civil servant wore make up so he could juggle five jobs from home, court hears",
+            "desc": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
+            "pubDate": "2026-10-14T11:40:43Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Wayfair among firms fined millions for misleading sales tactics",
+            "desc": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+            "pubDate": "2026-10-14T11:05:16Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
             "desc": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
-            "pubDate": "2026-10-13T23:04:39Z",
+            "pubDate": "2026-10-14T08:27:17Z",
             "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Bank of America hit with $1.2bn fine for money laundering failings",
-            "desc": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
-            "pubDate": "2026-10-14T02:05:32Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Three things we've learnt about the UK economy from the IMF",
-            "desc": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
-            "pubDate": "2026-10-13T11:58:43Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-            "desc": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
-            "pubDate": "2026-10-13T15:59:07Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss"
+            "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+            "desc": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
+            "pubDate": "2026-10-14T07:18:08Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "How long will humans be needed for translation?",
@@ -192,30 +192,54 @@
             "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-            "desc": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
-            "pubDate": "2026-10-13T21:42:49Z",
-            "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+            "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
+            "desc": "Thomas Woldbye tells the Today progamme it would be \"good to know\" the government's position on the project, after comments made by the prime minister.",
+            "pubDate": "2026-10-14T04:59:06Z",
+            "link": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Poundland in rescue talks as owners seek buyer",
-            "desc": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
-            "pubDate": "2026-10-13T12:17:17Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss"
+            "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+            "desc": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+            "pubDate": "2026-10-14T02:05:32Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "sport": [
           {
-            "title": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
+            "title": "Struijk red card shown after VAR intervention is overturned",
+            "desc": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
+            "pubDate": "2026-10-14T10:18:45Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+            "desc": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+            "pubDate": "2026-10-14T10:06:48Z",
+            "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Man Utd defender Martinez issues scathing attack on board",
             "desc": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League.",
             "pubDate": "2026-10-13T21:43:09Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
-            "desc": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England.",
-            "pubDate": "2026-10-13T22:15:44Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do?at_medium=RSS&at_campaign=rss"
+            "title": "'No excuses' - but is Villa's stadium rebuild affecting team?",
+            "desc": "With Villa Park's North Stand currently closed for building work, is the reduced capacity affecting Aston Villa's performances?",
+            "pubDate": "2026-10-14T05:41:06Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx054n684g7do?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Rams player suspended for punch & kicker cut by club",
+            "desc": "The fallout from the Los Angeles Rams' defeat by the Buffalo Bills continues as offensive lineman Alaric Jackson is suspended for punching an opponent while kicker Harrison Mevis is released.",
+            "pubDate": "2026-10-13T21:47:36Z",
+            "link": "https://www.bbc.co.uk/sport/american-football/articles/c5zjxnwm8dzpo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Who am I? Plus today's other quizzes",
+            "desc": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+            "pubDate": "2026-10-14T06:19:21Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c933xdrl731lo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Saka responds to Arteta's challenge with 'huge impact'",
@@ -224,43 +248,31 @@
             "link": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
-            "desc": "How Rwanda has succeeded where Morocco and South Africa, among others, have failed by agreeing a deal to stage the African Grand Prix.",
-            "pubDate": "2026-10-13T15:01:17Z",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Pressure on Norway in play-off final - Wilkinson",
-            "desc": "Rhian Wilkinson says the pressure will be on Gemma Grainger's Norway in their Women's World Cup play-off final against Wales in December.",
-            "pubDate": "2026-10-13T21:32:09Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ck4g17rrz1j5o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Porro eyes La Liga return - Wednesday's gossip",
-            "desc": "Tottenham's Pedro Porro wants Barcelona move, multiple Premier League clubs chase Croatia striker Dion Beljo, Chelsea eye January swoop for Frenkie de Jong.",
-            "pubDate": "2026-10-13T20:06:30Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm62yxegwy41o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Swans' Eom the target of alleged racism at Millwall",
-            "desc": "Swansea City head coach Vitor Matos says the lengthy stoppage during their 1-0 win away at Millwall was a result of racist abuse aimed at winger Ji-sung Eom.",
-            "pubDate": "2026-10-13T22:23:48Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "PSG's Luis Enrique hopes Man City avoid sanctions",
-            "desc": "PSG boss Luis Enrique says he was surprised to learn Manchester City had been found guilty of breaching Premier League financial rules and  hopes the club avoid sanctions.",
-            "pubDate": "2026-10-13T17:33:33Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ck1wvd91v4pwo?at_medium=RSS&at_campaign=rss"
+            "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
+            "desc": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England.",
+            "pubDate": "2026-10-13T22:15:44Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-14T04:58:49Z",
+      "fetchedAt": "2026-10-14T11:49:14Z",
       "sections": {
         "top": [
+          {
+            "title": "Canada paused Black Hawk helicopter deal over Trump's trade war: sources",
+            "desc": "",
+            "pubDate": "2025-08-26T05:15:23Z",
+            "link": "https://www.cbc.ca/news/politics/black-hawks-us-military-canada-helicopter-deal-9.7378775?cmp=rss"
+          },
+          {
+            "title": "Charlottetown police lost the evidence in a P.E.I. cold-case murder. How did it happen?",
+            "desc": "",
+            "pubDate": "2026-10-14T05:51:35Z",
+            "link": "https://www.cbc.ca/news/canada/prince-edward-island/pei-byron-carr-cold-case-murder-how-did-police-lose-evidence-9.7379634?cmp=rss"
+          },
           {
             "title": "A Brexit scholar travelled to an Alberta separatist meeting. Here’s what he took away",
             "desc": "",
@@ -268,49 +280,73 @@
             "link": "https://www.cbc.ca/news/canada/calgary/ian-cooper-brexit-mitch-sylvestre-alberta-referendum-9.7379509?cmp=rss"
           },
           {
-            "title": "‘Catastrophic’ brake failure, neglected repairs contributed to deadly 2020 icefield bus rollover, judge finds",
-            "desc": "A complete failure of the braking system triggered by neglected mechanical repairs contributed to a deadly tour bus rollover in the Columbia Icefield, a fatality inquiry has concluded.",
-            "pubDate": "2026-10-13T15:39:44Z",
-            "link": "https://www.cbc.ca/news/canada/edmonton/alta-icefield-crash-9.7379170?cmp=rss"
-          },
-          {
-            "title": "12 U.S. senators, including 6 Republicans, tell Trump to drop diesel deal with Russia",
-            "desc": "",
-            "pubDate": "2025-01-12T14:14:22Z",
-            "link": "https://www.cbc.ca/news/world/us-senators-trump-russia-diesel-deal-9.7379187?cmp=rss"
-          },
-          {
-            "title": "Man who witnessed deadly roller-coaster fall at Six Flags prays it was 'just a freak accident'",
+            "title": "A man's death on a U.S. roller-coaster triggered closures in Canada. Are the rides safe?",
             "desc": "",
             "pubDate": "2026-10-13T08:18:49Z",
-            "link": "https://www.cbc.ca/radio/asithappens/six-flags-witness-9.7379429?cmp=rss"
+            "link": "https://www.cbc.ca/news/world/rollercoaster-death-six-flags-georgia-safety-9.7379266?cmp=rss"
           },
           {
-            "title": "The National | Pope Leo diagnosed with lung cancer",
-            "desc": "Oct. 13, 2026 | The Vatican says a surgery to remove a portion of Pope Leo's lung confirms a diagnosis of lung cancer. Three popular Canadian roller coasters are closed after a deadly U.S. incident. And longtime Trump ally Kimberly Guilfoyle, who was previously engaged to Donald Trump Jr., is shown the door.",
-            "pubDate": "2026-10-13T21:00:00Z",
-            "link": "https://www.cbc.ca/player/play/9.4236164?cmp=rss"
-          },
-          {
-            "title": "Canadian health reporter Helen Branswell dead at 69, remembered as 'pretty kickass' journalist",
-            "desc": "Helen Branswell, a journalist celebrated for her years of coverage on public health and infectious diseases, has died at the age of 69.",
-            "pubDate": "2026-10-13T19:55:00Z",
-            "link": "https://www.cbc.ca/news/health/helen-branswell-health-reporter-obituary-9.7379264?cmp=rss"
-          },
-          {
-            "title": "NDP leaders call on Carney to nationalize Hamilton steelmaker as Stelco rebuffs demand to halt layoffs",
+            "title": "Russian strikes kill at least 3, as Ukraine reports intelligence, Starlink disruptions",
             "desc": "",
-            "pubDate": "2025-12-01T18:01:27Z",
-            "link": "https://www.cbc.ca/news/canada/hamilton/ndp-calls-nationalize-stelco-9.7379251?cmp=rss"
+            "pubDate": "2025-01-12T14:14:22Z",
+            "link": "https://www.cbc.ca/news/world/russia-attacks-ukraine-energy-infrastructure-9.7379859?cmp=rss"
           },
           {
-            "title": "Grad student accused of trying to flee U.S. after police questioned her about alleged poisoning",
-            "desc": "A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents, then tried to flee the U.S. after police questioned her.",
-            "pubDate": "2026-10-13T21:29:57Z",
-            "link": "https://www.cbc.ca/news/world/university-wyoming-microbiology-grad-student-arrested-9.7379753?cmp=rss"
+            "title": "A fridge hack spoiled food in hundreds of French supermarkets. Cybersecurity experts say it's a wake-up call",
+            "desc": "The cyberattack on French supermarkets earlier this week that left hundreds of fridges worth of food spoiled should be a wake-up call about the vulnerabilities of digitized systems and devices that are connected to the internet, cybersecurity experts say.",
+            "pubDate": "2026-10-14T04:00:00Z",
+            "link": "https://www.cbc.ca/news/business/france-fridge-hack-smart-devices-food-system-9.7379613?cmp=rss"
+          },
+          {
+            "title": "N.S. couple cycles through their grief as hospital tests vaccine to save other babies",
+            "desc": "Months after the death of their baby girl, Carly Wedge and Alexandre Genest are touring around Nova Scotia on their bicycles — working through their grief, raising money for the hospital that tried to save her, and spreading the word about a vaccine that’s in development.",
+            "pubDate": "2026-10-14T05:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/nova-scotia/as-this-couple-cycles-through-their-grief-a-vaccine-to-save-other-babies-is-tested-9.7379116?cmp=rss"
+          },
+          {
+            "title": "Why Zelenskyy's claims that Ukraine drone attack halted Russian bot traffic don't hold up",
+            "desc": "When Ukrainian drones hit three data centres owned by Russian technology and AI company Yandex this weekend, President Volodymyr Zelenskyy initially said it resulted in a sudden drop in pro-Russia bot activity on social media. Some experts are casting doubt on his claim, instead suggesting people are misinterpreting data collected after the strikes.",
+            "pubDate": "2026-10-14T04:00:00Z",
+            "link": "https://www.cbc.ca/news/world/yankex-russia-ukraine-bots-9.7379086?cmp=rss"
           }
         ],
         "world": [
+          {
+            "title": "Black Hawk down: Trump's trade war pauses Canadian helicopter deal",
+            "desc": "The Carney government quietly suspended plans to purchase 16 Black Hawk helicopters for Canada's special forces amid escalating tensions with Washington. The decision reflects Ottawa's growing reluctance to buy American military equipment, even as commanders seek urgently needed capabilities. Critics warn short-term political calculations could undermine long-term military readiness.",
+            "pubDate": "2026-10-14T04:00:00Z",
+            "link": "https://www.cbc.ca/news/politics/black-hawks-us-military-canada-helicopter-deal-9.7378775?cmp=rss"
+          },
+          {
+            "title": "Why Zelenskyy's claims that Ukraine drone attack halted Russian bot traffic don't hold up",
+            "desc": "When Ukrainian drones hit three data centres owned by Russian technology and AI company Yandex this weekend, President Volodymyr Zelenskyy initially said it resulted in a sudden drop in pro-Russia bot activity on social media. Some experts are casting doubt on his claim, instead suggesting people are misinterpreting data collected after the strikes.",
+            "pubDate": "2026-10-14T04:00:00Z",
+            "link": "https://www.cbc.ca/news/world/yankex-russia-ukraine-bots-9.7379086?cmp=rss"
+          },
+          {
+            "title": "Saudi Aramco administrative building attacked by Houthis, limited fire reported",
+            "desc": "An administrative building belonging to Saudi Arabia's state-owned oil company Saudi Aramco in the eastern city of Dhahran was attacked, causing a limited fire, the Energy Ministry said in a statement Wednesday, as fighting between Yemen's Iran-allied Houthis and the kingdom intensified.",
+            "pubDate": "2026-10-14T04:50:39Z",
+            "link": "https://www.cbc.ca/news/world/saudi-arabia-aramco-houthis-missile-9.7379854?cmp=rss"
+          },
+          {
+            "title": "Russian strikes kill at least 3, as Ukraine reports intelligence, Starlink disruptions",
+            "desc": "Russian strikes killed three people in Kyiv and plunged hundreds of thousands into darkness overnight, authorities said Wednesday, in an attack Ukrainian President Volodymyr Zelenskyy called \"ostentatious disrespect\" to Donald Trump's peace effort.",
+            "pubDate": "2026-10-14T04:48:42Z",
+            "link": "https://www.cbc.ca/news/world/russia-attacks-ukraine-energy-infrastructure-9.7379859?cmp=rss"
+          },
+          {
+            "title": "Italian wine thieves nab $8M of vino in heist. Here's why wine is a 'great target'",
+            "desc": "A winery in Tuscany is reeling after thieves made off with about 30,000 bottles of some of Italy's most prized wines last week in what the producer described as the country’s largest wine theft on record.",
+            "pubDate": "2026-10-14T04:00:00Z",
+            "link": "https://www.cbc.ca/news/world/wine-heist-italy-9.7378655?cmp=rss"
+          },
+          {
+            "title": "A fridge hack spoiled food in hundreds of French supermarkets. Cybersecurity experts say it's a wake-up call",
+            "desc": "The cyberattack on French supermarkets earlier this week that left hundreds of fridges worth of food spoiled should be a wake-up call about the vulnerabilities of digitized systems and devices that are connected to the internet, cybersecurity experts say.",
+            "pubDate": "2026-10-14T04:00:00Z",
+            "link": "https://www.cbc.ca/news/business/france-fridge-hack-smart-devices-food-system-9.7379613?cmp=rss"
+          },
           {
             "title": "Cornell suspends all frat parties as alleged gang rape fuels continued calls for action",
             "desc": "Cornell University has suspended all frat parties and events for the rest of the 2026-27 academic year, president Michael Kotlikoff announced Tuesday, as an alleged gang rape at one of the school's fraternities continues to fuel calls for action and accountability.",
@@ -322,42 +358,6 @@
             "desc": "Pope Leo's surgery confirmed that he has lung cancer, and he had the lower lobe of his right lung removed, the Vatican said Tuesday.",
             "pubDate": "2026-10-13T07:47:44Z",
             "link": "https://www.cbc.ca/news/world/pope-leo-hospital-surgery-9.7378399?cmp=rss"
-          },
-          {
-            "title": "Grad student accused of trying to flee U.S. after police questioned her about alleged poisoning",
-            "desc": "A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents, then tried to flee the U.S. after police questioned her.",
-            "pubDate": "2026-10-13T21:29:57Z",
-            "link": "https://www.cbc.ca/news/world/university-wyoming-microbiology-grad-student-arrested-9.7379753?cmp=rss"
-          },
-          {
-            "title": "12 U.S. senators, including 6 Republicans, tell Trump to drop diesel deal with Russia",
-            "desc": "A dozen U.S. senators, including six of U.S. President ‌Donald Trump's fellow Republicans, called on the president on Tuesday to rescind his diesel oil deal with Russia, days before his administration must decide whether to formally impose new sanctions on Moscow over its war in Ukraine.",
-            "pubDate": "2026-10-13T15:38:16Z",
-            "link": "https://www.cbc.ca/news/world/us-senators-trump-russia-diesel-deal-9.7379187?cmp=rss"
-          },
-          {
-            "title": "OpenAI engineer arrested, accused of planting listening device inside company's office",
-            "desc": "U.S. federal agents arrested a Saudi national employed as an OpenAI engineer and charged him with installing ​a hidden audio recording device in an ​executive conference room at the AI company, the U.S. Justice Department said on Tuesday.",
-            "pubDate": "2026-10-13T17:05:12Z",
-            "link": "https://www.cbc.ca/news/world/open-ai-listening-device-fbi-9.7379357?cmp=rss"
-          },
-          {
-            "title": "Man who witnessed deadly roller-coaster fall at Six Flags prays it was 'just a freak accident'",
-            "desc": "",
-            "pubDate": "2026-10-13T08:18:49Z",
-            "link": "https://www.cbc.ca/radio/asithappens/six-flags-witness-9.7379429?cmp=rss"
-          },
-          {
-            "title": "IN PHOTOS | France student protests spread across Europe",
-            "desc": "Nationwide protests by high school students over education in France in recent weeks have spread to other parts of Europe.",
-            "pubDate": "2026-10-13T16:50:00Z",
-            "link": "https://www.cbc.ca/news/world/france-student-protests-spread-scroller-9.7379099?cmp=rss"
-          },
-          {
-            "title": "Kimberly Guilfoyle, U.S. ambassador to Greece, resigns after reports alleging corruption",
-            "desc": "U.S. President Donald Trump's ambassador to Greece, Kimberly Guilfoyle, resigned on Tuesday after allegations of improper conduct but insisted she'll \"vigorously defend\" herself.",
-            "pubDate": "2026-10-13T13:33:01Z",
-            "link": "https://www.cbc.ca/news/world/us-white-house-guilfoyle-resignation-ambassador-greece-9.7378888?cmp=rss"
           }
         ],
         "canada": [
@@ -368,10 +368,28 @@
             "link": "https://www.cbc.ca/news/canada/hamilton/ndp-calls-nationalize-stelco-9.7379251?cmp=rss"
           },
           {
+            "title": "Seniors displaced by fatal fire in Fort Frances, Ont., won't be able to return until next year",
+            "desc": "Tenants at a seniors’ apartment building in Fort Frances, Ont., that was damaged by a fire last month won’t be able to return home until next year. A fatal fire at Rose Manor on Sept. 22 resulted in the death of a 92-year-old tenant. All other residents of the seniors’ apartment building have been displaced since then. Here's the latest on the situation.",
+            "pubDate": "2026-10-14T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/thunder-bay/rose-manor-fort-frances-update-9.7379584?cmp=rss"
+          },
+          {
             "title": "Roller-coaster fatality in Georgia leads to temporary closure of 3 rides at Canadian parks",
             "desc": "A 42-year-old man killed while riding a roller-coaster at Six Flags Over Georgia was thrown from his seat and struck other patrons before landing below the ride, police said Tuesday.",
             "pubDate": "2026-10-12T23:03:47Z",
             "link": "https://www.cbc.ca/news/world/roller-coaster-six-flags-georgia-death-9.7378332?cmp=rss"
+          },
+          {
+            "title": "A Brexit scholar travelled to an Alberta separatist meeting. Here’s what he took away",
+            "desc": "Much of what has transpired in Alberta as the referendum approaches reminds Brexit scholar Ian Cooper of parallels to the United Kingdom leaving the European Union.",
+            "pubDate": "2026-10-13T18:33:50Z",
+            "link": "https://www.cbc.ca/news/canada/calgary/ian-cooper-brexit-mitch-sylvestre-alberta-referendum-9.7379509?cmp=rss"
+          },
+          {
+            "title": "Chronic homelessness in Winnipeg greatly overestimated due to faulty data, memo says",
+            "desc": "Data errors connected to a federal system used by End Homelessness Winnipeg have led to a significant overestimation of the number of people experiencing homelessness in the city, an internal organizational memo obtained by CBC News says.",
+            "pubDate": "2026-10-13T22:40:06Z",
+            "link": "https://www.cbc.ca/news/canada/manitoba/chronic-homelessness-winnipeg-overestimated-hifis-9.7379314?cmp=rss"
           },
           {
             "title": "Prime Minister Carney to attend 2 Forever Canadian rallies in Alberta ahead of Oct. 19 referendum",
@@ -390,24 +408,6 @@
             "desc": "Irene Mathyssen, an NDP politician who represented London, Ont., at the federal and provincial level in an impressive political career that stretched back to 1990, has died. She was 75.",
             "pubDate": "2026-10-13T18:47:24Z",
             "link": "https://www.cbc.ca/news/canada/london/irene-mathyssen-9.7379570?cmp=rss"
-          },
-          {
-            "title": "Vote on Alberta’s future brings together former premiers who once sparred in legislature",
-            "desc": "Former premiers Rachel Notley and Jason Kenney have joined forces to push Albertans to vote to remain in Canada in the upcoming provincial referendum.",
-            "pubDate": "2026-10-13T20:53:53Z",
-            "link": "https://www.cbc.ca/news/canada/edmonton/alberta-referendum-kenney-notley-ucp-separatism-9.7379561?cmp=rss"
-          },
-          {
-            "title": "A Brexit scholar travelled to an Alberta separatist meeting. Here’s what he took away",
-            "desc": "Much of what has transpired in Alberta as the referendum approaches reminds Brexit scholar Ian Cooper of parallels to the United Kingdom leaving the European Union.",
-            "pubDate": "2026-10-13T18:33:50Z",
-            "link": "https://www.cbc.ca/news/canada/calgary/ian-cooper-brexit-mitch-sylvestre-alberta-referendum-9.7379509?cmp=rss"
-          },
-          {
-            "title": "Alleged Tumbler Ridge co-conspirator James Cody Bryant denied bail",
-            "desc": "Assistant United States attorney Todd Greenberg, who is prosecuting the case against Bryant, argued that Bryant posed a flight risk and a danger to the public. He said there were substance abuse issues and mental health concerns that should also be factored in.",
-            "pubDate": "2026-10-13T16:38:53Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bryant-bail-hearing-9.7379185?cmp=rss"
           }
         ],
         "bc": [
@@ -462,52 +462,52 @@
         ],
         "local": [
           {
-            "title": "Kelly Clarkson and a Brooklyn store clashed on social media. Behind it, power dynamics loomed",
-            "desc": "NEW YORK (AP) — It was something most people have likely done at one time or another: complain to others about feeling judged or dismissed during an interaction, maybe even take to social media to post about it.",
-            "pubDate": "2026-10-14T04:08:50Z",
-            "link": "https://www.nsnews.com/the-mix/kelly-clarkson-and-a-brooklyn-store-clashed-on-social-media-behind-it-power-dynamics-loomed-12889965"
+            "title": "Houthis struck Saudi oil giant Aramco's headquarters overnight, regional officials say",
+            "desc": "CAIRO (AP) — Two regional officials say offices belonging to senior executives with Saudi oil giant Aramco were hit in an overnight Houthi strike on the company’s headquarters, in the latest demonstration of the Iran-backed rebels’ ability to attack",
+            "pubDate": "2026-10-14T11:27:44Z",
+            "link": "https://www.nsnews.com/world-news/houthis-struck-saudi-oil-giant-aramcos-headquarters-overnight-regional-officials-say-12890057"
           },
           {
-            "title": "Guenther, Sergachev each have goal and assist in Mammoth's 5-4 win over Maple Leafs",
-            "desc": "SALT LAKE CITY (AP) — Dylan Guenther and Mikhail Sergachev each had a goal and an assist in the second period to help the Utah Mammoth beat the Toronto Maple Leafs 5-4 on Tuesday night.",
-            "pubDate": "2026-10-14T04:08:38Z",
-            "link": "https://www.nsnews.com/national-sports/guenther-sergachev-each-have-goal-and-assist-in-mammoths-5-4-win-over-maple-leafs-12889966"
+            "title": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments",
+            "desc": "Iran said Wednesday that a cargo ship has sunk after hitting a naval mine in the Strait of Hormuz, with few immediate details.   Meanwhile, a hospital in Gaza said that an Israeli strike has killed a woman.",
+            "pubDate": "2026-10-14T11:11:09Z",
+            "link": "https://www.nsnews.com/world-news/iran-says-a-ship-sank-after-striking-a-mine-in-strait-of-hormuz-and-other-middle-east-developments-12890142"
           },
           {
-            "title": "China’s trade surplus hits $938 billion for Jan-Sep as pressure ramps up to rebalance trade",
-            "desc": "HONG KONG (AP) — China’s exports surged 36.",
-            "pubDate": "2026-10-14T04:02:34Z",
-            "link": "https://www.nsnews.com/national-business/chinas-trade-surplus-hits-938-billion-for-jan-sep-as-pressure-ramps-up-to-rebalance-trade-12889880"
+            "title": "Indonesia’s top Muslim council opposes upcoming Andrea Bocelli concerts over Israel ties",
+            "desc": "JAKARTA, Indonesia (AP) — Indonesia’s top Islamic council met with government officials Wednesday to voice its opposition to two upcoming concerts by Italian tenor  Andrea Bocelli , arguing that the singer's past support for Israel is incompatible wi",
+            "pubDate": "2026-10-14T11:03:33Z",
+            "link": "https://www.nsnews.com/the-mix/indonesias-top-muslim-council-opposes-upcoming-andrea-bocelli-concerts-over-israel-ties-12890172"
           },
           {
-            "title": "New White House press secretary's debut: Brief, limited questions and some harsh reviews",
-            "desc": "President Donald Trump's new press secretary stepped to the podium, the eyes of a packed room of journalists — and many in their audiences — upon her. She smiled broadly at the sea of faces both probing and friendly.",
-            "pubDate": "2026-10-14T04:02:33Z",
-            "link": "https://www.nsnews.com/the-mix/new-white-house-press-secretarys-debut-brief-limited-questions-and-some-harsh-reviews-12889915"
+            "title": "Prosecution labels Russell Brand a ruthless sexual predator at opening of his sex assault trial",
+            "desc": "LONDON (AP) —  Russell Brand  behaved as a “ruthless” sexual predator when he assaulted six women over the course of a decade, a prosecutor said Wednesday as she opened the rape and sexual assault case against the actor-comedian.",
+            "pubDate": "2026-10-14T10:42:33Z",
+            "link": "https://www.nsnews.com/the-mix/prosecution-labels-russell-brand-a-ruthless-sexual-predator-at-opening-of-his-sex-assault-trial-12890141"
           },
           {
-            "title": "Peralta, Hicks lift Rays to 3-1 win over Guardians that evens ALCS at 1-1",
-            "desc": "ST. PETERSBURG, Fla.",
-            "pubDate": "2026-10-14T03:57:21Z",
-            "link": "https://www.nsnews.com/national-sports/peralta-hicks-lift-rays-to-3-1-win-over-guardians-that-evens-alcs-at-1-1-12889918"
+            "title": "Pope Leo spent a peaceful night in the hospital after surgery to remove cancer, Vatican says",
+            "desc": "ROME (AP) —  Pope Leo XIV  spent a peaceful night in Rome’s Gemelli hospital after doctors removed the lower lobe of his right lung and confirmed he has cancer, the Vatican said Wednesday.",
+            "pubDate": "2026-10-14T10:33:59Z",
+            "link": "https://www.nsnews.com/world-news/pope-leo-spent-a-peaceful-night-in-the-hospital-after-surgery-to-remove-cancer-vatican-says-12890039"
           },
           {
-            "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House",
-            "desc": "A federal judge on Tuesday extended an order blocking the Trump administration from  banning reporters  for three news outlets from the White House, a pivotal operational development for the news organizations as the extraordinary case pitting the pr",
-            "pubDate": "2026-10-14T03:50:43Z",
-            "link": "https://www.nsnews.com/world-news/judge-extends-order-blocking-trump-from-banning-cnn-ms-now-and-politico-reporters-from-white-house-12889878"
+            "title": "Former Ukrainian officer goes on trial in Germany over Nord Stream gas pipeline blasts",
+            "desc": "HAMBURG, Germany (AP) — A former Ukrainian army officer went on trial in Germany on Wednesday over the undersea explosions four years ago that  damaged the Nord Stream gas pipelines  linking Russia and Germany in what is considered one of Europe’s bi",
+            "pubDate": "2026-10-14T10:27:41Z",
+            "link": "https://www.nsnews.com/the-mix/former-ukrainian-officer-goes-on-trial-in-germany-over-nord-stream-gas-pipeline-blasts-12890130"
           },
           {
-            "title": "'He had his fastball': Hutson, Guhle step up for Canadiens in win over Sabres",
-            "desc": "MONTREAL — Martin St. Louis has come to expect dazzling play from Lane Hutson night after night.  But even by those lofty standards, Hutson raised the bar Tuesday.",
-            "pubDate": "2026-10-14T03:43:41Z",
-            "link": "https://www.nsnews.com/national-sports/he-had-his-fastball-hutson-guhle-step-up-for-canadiens-in-win-over-sabres-12889919"
+            "title": "Former Ukrainian officer goes on trial in Germany over Nord Stream gas pipeline blasts",
+            "desc": "HAMBURG, Germany (AP) — A former Ukrainian army officer went on trial in Germany on Wednesday over the undersea explosions four years ago that  damaged the Nord Stream gas pipelines  linking Russia and Germany in what is considered one of Europe’s bi",
+            "pubDate": "2026-10-14T10:27:41Z",
+            "link": "https://www.nsnews.com/national-business/former-ukrainian-officer-goes-on-trial-in-germany-over-nord-stream-gas-pipeline-blasts-12890133"
           },
           {
-            "title": "Senators come up flat against Blues as power play continues to struggle",
-            "desc": "OTTAWA — As captain Thomas Chabot knows, he carries a certain responsibility to evaluate his team’s performance.  Tuesday night he clearly stated his Ottawa Senators just weren’t good enough.  “Not good, not good at all,” he said.",
-            "pubDate": "2026-10-14T03:38:32Z",
-            "link": "https://www.nsnews.com/national-sports/senators-come-up-flat-against-blues-as-power-play-continues-to-struggle-12889920"
+            "title": "Her son has serious disabilities. She believes she's the best person to teach him",
+            "desc": "WHITE SULPHUR SPRINGS, Mont. (AP) — “You can’t hit me, Will. You know that,” Katherine Walter says to her 11-year-old son, deflecting a swat.   “Why?” William asks, half-heartedly pushing his chest into his mother’s open hands.",
+            "pubDate": "2026-10-14T10:06:29Z",
+            "link": "https://www.nsnews.com/the-mix/her-son-has-serious-disabilities-she-believes-shes-the-best-person-to-teach-him-12890150"
           }
         ]
       },
