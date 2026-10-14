@@ -2,7 +2,7 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-14T00:17:49Z",
+      "fetchedAt": "2026-10-14T04:58:48Z",
       "sections": {
         "top": [
           {
@@ -22,12 +22,6 @@
             "desc": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
             "pubDate": "2026-10-13T21:42:49Z",
             "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-            "desc": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-            "pubDate": "2026-10-13T15:52:15Z",
-            "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Zelensky and Burnham to meet in Downing Street",
@@ -52,6 +46,12 @@
             "desc": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
             "pubDate": "2026-10-13T18:25:28Z",
             "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+            "desc": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
+            "pubDate": "2026-10-13T18:23:22Z",
+            "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
@@ -82,14 +82,14 @@
           {
             "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
             "desc": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-            "pubDate": "2026-10-13T22:29:55Z",
+            "pubDate": "2026-10-14T04:20:17Z",
             "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-            "desc": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-            "pubDate": "2026-10-13T19:51:14Z",
-            "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
+            "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+            "desc": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+            "pubDate": "2026-10-14T02:05:32Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
@@ -98,10 +98,10 @@
             "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Zimbabwean author denies using AI to write award-winning story",
-            "desc": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
-            "pubDate": "2026-10-13T23:31:10Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss"
+            "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+            "desc": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+            "pubDate": "2026-10-14T04:36:06Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
@@ -168,6 +168,12 @@
             "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss"
           },
           {
+            "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+            "desc": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+            "pubDate": "2026-10-14T02:05:32Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "title": "Three things we've learnt about the UK economy from the IMF",
             "desc": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
             "pubDate": "2026-10-13T11:58:43Z",
@@ -180,28 +186,22 @@
             "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-            "desc": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
-            "pubDate": "2026-10-13T21:42:49Z",
-            "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "How long will humans be needed for translation?",
             "desc": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
             "pubDate": "2026-10-13T23:05:29Z",
             "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss"
           },
           {
+            "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+            "desc": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+            "pubDate": "2026-10-13T21:42:49Z",
+            "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "title": "Poundland in rescue talks as owners seek buyer",
             "desc": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
             "pubDate": "2026-10-13T12:17:17Z",
             "link": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "BA flight forced to turn back over cracked window",
-            "desc": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
-            "pubDate": "2026-10-13T11:48:07Z",
-            "link": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "sport": [
@@ -258,7 +258,7 @@
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-14T00:17:49Z",
+      "fetchedAt": "2026-10-14T04:58:49Z",
       "sections": {
         "top": [
           {
@@ -268,22 +268,16 @@
             "link": "https://www.cbc.ca/news/canada/calgary/ian-cooper-brexit-mitch-sylvestre-alberta-referendum-9.7379509?cmp=rss"
           },
           {
-            "title": "12 U.S. senators, including 6 Republicans, tell Trump to drop diesel deal with Russia",
-            "desc": "",
-            "pubDate": "2025-01-12T14:14:22Z",
-            "link": "https://www.cbc.ca/news/world/us-senators-trump-russia-diesel-deal-9.7379187?cmp=rss"
-          },
-          {
-            "title": "NDP leaders call on Carney to nationalize Hamilton steelmaker as Stelco rebuffs demand to halt layoffs",
-            "desc": "",
-            "pubDate": "2025-12-01T18:01:27Z",
-            "link": "https://www.cbc.ca/news/canada/hamilton/ndp-calls-nationalize-stelco-9.7379251?cmp=rss"
-          },
-          {
             "title": "‘Catastrophic’ brake failure, neglected repairs contributed to deadly 2020 icefield bus rollover, judge finds",
             "desc": "A complete failure of the braking system triggered by neglected mechanical repairs contributed to a deadly tour bus rollover in the Columbia Icefield, a fatality inquiry has concluded.",
             "pubDate": "2026-10-13T15:39:44Z",
             "link": "https://www.cbc.ca/news/canada/edmonton/alta-icefield-crash-9.7379170?cmp=rss"
+          },
+          {
+            "title": "12 U.S. senators, including 6 Republicans, tell Trump to drop diesel deal with Russia",
+            "desc": "",
+            "pubDate": "2025-01-12T14:14:22Z",
+            "link": "https://www.cbc.ca/news/world/us-senators-trump-russia-diesel-deal-9.7379187?cmp=rss"
           },
           {
             "title": "Man who witnessed deadly roller-coaster fall at Six Flags prays it was 'just a freak accident'",
@@ -292,10 +286,10 @@
             "link": "https://www.cbc.ca/radio/asithappens/six-flags-witness-9.7379429?cmp=rss"
           },
           {
-            "title": "Surgery confirms Pope has lung cancer, Vatican says",
-            "desc": "Pope Leo's surgery confirmed that he has lung cancer, and he had the lower lobe of his right lung removed, the Vatican said Tuesday.",
-            "pubDate": "2026-10-13T07:47:44Z",
-            "link": "https://www.cbc.ca/news/world/pope-leo-hospital-surgery-9.7378399?cmp=rss"
+            "title": "The National | Pope Leo diagnosed with lung cancer",
+            "desc": "Oct. 13, 2026 | The Vatican says a surgery to remove a portion of Pope Leo's lung confirms a diagnosis of lung cancer. Three popular Canadian roller coasters are closed after a deadly U.S. incident. And longtime Trump ally Kimberly Guilfoyle, who was previously engaged to Donald Trump Jr., is shown the door.",
+            "pubDate": "2026-10-13T21:00:00Z",
+            "link": "https://www.cbc.ca/player/play/9.4236164?cmp=rss"
           },
           {
             "title": "Canadian health reporter Helen Branswell dead at 69, remembered as 'pretty kickass' journalist",
@@ -304,10 +298,16 @@
             "link": "https://www.cbc.ca/news/health/helen-branswell-health-reporter-obituary-9.7379264?cmp=rss"
           },
           {
-            "title": "B.C. NDP Leader David Eby defends family's enrolment in $10-a-day child-care",
-            "desc": "NDP Leader David Eby is defending his family's enrolment in British Columbia's $10-a-day child-care program. Eby is under attack from Conservatives who say his \"wealthy family\" should not benefit from the program that they say is inaccessible to many low-income families.",
-            "pubDate": "2026-10-13T14:57:39Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/ndp-leader-david-eby-child-care-donation-9.7379043?cmp=rss"
+            "title": "NDP leaders call on Carney to nationalize Hamilton steelmaker as Stelco rebuffs demand to halt layoffs",
+            "desc": "",
+            "pubDate": "2025-12-01T18:01:27Z",
+            "link": "https://www.cbc.ca/news/canada/hamilton/ndp-calls-nationalize-stelco-9.7379251?cmp=rss"
+          },
+          {
+            "title": "Grad student accused of trying to flee U.S. after police questioned her about alleged poisoning",
+            "desc": "A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents, then tried to flee the U.S. after police questioned her.",
+            "pubDate": "2026-10-13T21:29:57Z",
+            "link": "https://www.cbc.ca/news/world/university-wyoming-microbiology-grad-student-arrested-9.7379753?cmp=rss"
           }
         ],
         "world": [
@@ -318,16 +318,22 @@
             "link": "https://www.cbc.ca/news/world/cornell-suspends-frat-parties-9.7378963?cmp=rss"
           },
           {
-            "title": "12 U.S. senators, including 6 Republicans, tell Trump to drop diesel deal with Russia",
-            "desc": "A dozen U.S. senators, including six of U.S. President ‌Donald Trump's fellow Republicans, called on the president on Tuesday to rescind his diesel oil deal with Russia, days before his administration must decide whether to formally impose new sanctions on Moscow over its war in Ukraine.",
-            "pubDate": "2026-10-13T15:38:16Z",
-            "link": "https://www.cbc.ca/news/world/us-senators-trump-russia-diesel-deal-9.7379187?cmp=rss"
-          },
-          {
             "title": "Surgery confirms Pope has lung cancer, Vatican says",
             "desc": "Pope Leo's surgery confirmed that he has lung cancer, and he had the lower lobe of his right lung removed, the Vatican said Tuesday.",
             "pubDate": "2026-10-13T07:47:44Z",
             "link": "https://www.cbc.ca/news/world/pope-leo-hospital-surgery-9.7378399?cmp=rss"
+          },
+          {
+            "title": "Grad student accused of trying to flee U.S. after police questioned her about alleged poisoning",
+            "desc": "A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents, then tried to flee the U.S. after police questioned her.",
+            "pubDate": "2026-10-13T21:29:57Z",
+            "link": "https://www.cbc.ca/news/world/university-wyoming-microbiology-grad-student-arrested-9.7379753?cmp=rss"
+          },
+          {
+            "title": "12 U.S. senators, including 6 Republicans, tell Trump to drop diesel deal with Russia",
+            "desc": "A dozen U.S. senators, including six of U.S. President ‌Donald Trump's fellow Republicans, called on the president on Tuesday to rescind his diesel oil deal with Russia, days before his administration must decide whether to formally impose new sanctions on Moscow over its war in Ukraine.",
+            "pubDate": "2026-10-13T15:38:16Z",
+            "link": "https://www.cbc.ca/news/world/us-senators-trump-russia-diesel-deal-9.7379187?cmp=rss"
           },
           {
             "title": "OpenAI engineer arrested, accused of planting listening device inside company's office",
@@ -352,12 +358,6 @@
             "desc": "U.S. President Donald Trump's ambassador to Greece, Kimberly Guilfoyle, resigned on Tuesday after allegations of improper conduct but insisted she'll \"vigorously defend\" herself.",
             "pubDate": "2026-10-13T13:33:01Z",
             "link": "https://www.cbc.ca/news/world/us-white-house-guilfoyle-resignation-ambassador-greece-9.7378888?cmp=rss"
-          },
-          {
-            "title": "Duane (Keffe D) Davis gets 40 years to life in prison for orchestrating murder of Tupac Shakur",
-            "desc": "Duane (Keffe D) Davis received a sentence of to 40 years to life in prison Tuesday for orchestrating the murder of rap icon Tupac Shakur, who was gunned down off the Las Vegas Strip over 30 years ago.",
-            "pubDate": "2026-10-13T11:26:11Z",
-            "link": "https://www.cbc.ca/news/world/duane-davis-tupac-shakur-sentencing-9.7378679?cmp=rss"
           }
         ],
         "canada": [
@@ -368,10 +368,22 @@
             "link": "https://www.cbc.ca/news/canada/hamilton/ndp-calls-nationalize-stelco-9.7379251?cmp=rss"
           },
           {
+            "title": "Roller-coaster fatality in Georgia leads to temporary closure of 3 rides at Canadian parks",
+            "desc": "A 42-year-old man killed while riding a roller-coaster at Six Flags Over Georgia was thrown from his seat and struck other patrons before landing below the ride, police said Tuesday.",
+            "pubDate": "2026-10-12T23:03:47Z",
+            "link": "https://www.cbc.ca/news/world/roller-coaster-six-flags-georgia-death-9.7378332?cmp=rss"
+          },
+          {
             "title": "Prime Minister Carney to attend 2 Forever Canadian rallies in Alberta ahead of Oct. 19 referendum",
             "desc": "Prime Minister Mark Carney says he’s accepted an invitation to attend two Forever Canadian rallies in Alberta this week ahead of the Oct. 19 referendum. Carney will make a stop in Calgary on Thursday and another in Edmonton Friday.",
             "pubDate": "2026-10-13T19:24:29Z",
             "link": "https://www.cbc.ca/news/canada/edmonton/carney-alberta-rallies-canadian-unity-9.7379637?cmp=rss"
+          },
+          {
+            "title": "Canadian health reporter Helen Branswell dead at 69, remembered as 'pretty kickass' journalist",
+            "desc": "Helen Branswell, a journalist celebrated for her years of coverage on public health and infectious diseases, has died at the age of 69.",
+            "pubDate": "2026-10-13T19:55:00Z",
+            "link": "https://www.cbc.ca/news/health/helen-branswell-health-reporter-obituary-9.7379264?cmp=rss"
           },
           {
             "title": "Irene Mathyssen, longtime London NDP MP and 'fierce advocate for human rights,' dead at 75",
@@ -380,10 +392,10 @@
             "link": "https://www.cbc.ca/news/canada/london/irene-mathyssen-9.7379570?cmp=rss"
           },
           {
-            "title": "Canadian health reporter Helen Branswell dead at 69, remembered as 'pretty kickass' journalist",
-            "desc": "Helen Branswell, a journalist celebrated for her years of coverage on public health and infectious diseases, has died at the age of 69.",
-            "pubDate": "2026-10-13T19:55:00Z",
-            "link": "https://www.cbc.ca/news/health/helen-branswell-health-reporter-obituary-9.7379264?cmp=rss"
+            "title": "Vote on Alberta’s future brings together former premiers who once sparred in legislature",
+            "desc": "Former premiers Rachel Notley and Jason Kenney have joined forces to push Albertans to vote to remain in Canada in the upcoming provincial referendum.",
+            "pubDate": "2026-10-13T20:53:53Z",
+            "link": "https://www.cbc.ca/news/canada/edmonton/alberta-referendum-kenney-notley-ucp-separatism-9.7379561?cmp=rss"
           },
           {
             "title": "A Brexit scholar travelled to an Alberta separatist meeting. Here’s what he took away",
@@ -396,21 +408,15 @@
             "desc": "Assistant United States attorney Todd Greenberg, who is prosecuting the case against Bryant, argued that Bryant posed a flight risk and a danger to the public. He said there were substance abuse issues and mental health concerns that should also be factored in.",
             "pubDate": "2026-10-13T16:38:53Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/bryant-bail-hearing-9.7379185?cmp=rss"
-          },
-          {
-            "title": "‘Catastrophic’ brake failure, neglected repairs contributed to deadly 2020 icefield bus rollover, judge finds",
-            "desc": "A complete failure of the braking system triggered by neglected mechanical repairs contributed to a deadly tour bus rollover in the Columbia Icefield, a fatality inquiry has concluded.",
-            "pubDate": "2026-10-13T15:39:44Z",
-            "link": "https://www.cbc.ca/news/canada/edmonton/alta-icefield-crash-9.7379170?cmp=rss"
-          },
-          {
-            "title": "What does Alberta’s referendum separation question even mean? | About That",
-            "desc": "On Oct. 19th, Albertans will head to the polls to answer a question: Should Alberta remain a part of Canada or should the legal process required for separation discussions begin with another future referendum? Andrew Chang breaks down the legal fine print behind Alberta’s separation question, how Indigenous treaty rights shaped the ballot and why a \"yes\" result is far from a done deal.",
-            "pubDate": "2026-10-13T17:57:19Z",
-            "link": "https://www.cbc.ca/player/play/9.7379475?cmp=rss"
           }
         ],
         "bc": [
+          {
+            "title": "Kelowna man pleads guilty in 2023 hit-and-run death of 15-year-old",
+            "desc": "Brandon Kazakoff pleaded guilty to a 2023 hit-and-run which left 15-year-old Tristan Seeger dead.",
+            "pubDate": "2026-10-13T20:40:14Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/man-pleads-guilty-2023-hit-and-run-9.7379664?cmp=rss"
+          },
           {
             "title": "Alleged Tumbler Ridge co-conspirator James Cody Bryant denied bail",
             "desc": "Assistant United States attorney Todd Greenberg, who is prosecuting the case against Bryant, argued that Bryant posed a flight risk and a danger to the public. He said there were substance abuse issues and mental health concerns that should also be factored in.",
@@ -452,62 +458,56 @@
             "desc": "TC Energy Corp. says it has completed an investment deal that gives five First Nations an economic interest in the Coastal GasLink pipeline.",
             "pubDate": "2026-10-13T09:41:48Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/tc-energy-indigenous-investment-deal-coastal-gaslink-9.7378473?cmp=rss"
-          },
-          {
-            "title": "How B.C.'s major parties say they'll improve ferry service",
-            "desc": "With the clock ticking down to British Columbia's provincial election, the major parties have released their platforms on B.C. Ferries.",
-            "pubDate": "2026-10-13T08:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-election-bc-ferries-9.7378284?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Duane ‘Keffe D’ Davis gets 40 years to life in prison for orchestrating the murder of Tupac Shakur",
-            "desc": "LAS VEGAS (AP) — An aging ex-gang leader was sentenced Tuesday to 40 years to life in prison for orchestrating the 1996 drive-by shooting of  rap icon Tupac Shakur  near the Las Vegas Strip.",
-            "pubDate": "2026-10-13T23:56:30Z",
-            "link": "https://www.nsnews.com/the-mix/duane-keffe-d-davis-gets-40-years-to-life-in-prison-for-orchestrating-the-murder-of-tupac-shakur-12885240"
+            "title": "Kelly Clarkson and a Brooklyn store clashed on social media. Behind it, power dynamics loomed",
+            "desc": "NEW YORK (AP) — It was something most people have likely done at one time or another: complain to others about feeling judged or dismissed during an interaction, maybe even take to social media to post about it.",
+            "pubDate": "2026-10-14T04:08:50Z",
+            "link": "https://www.nsnews.com/the-mix/kelly-clarkson-and-a-brooklyn-store-clashed-on-social-media-behind-it-power-dynamics-loomed-12889965"
           },
           {
-            "title": "Eby, Lowan and Doerkson offer depressed business community their economic vision",
-            "desc": "Greater Vancouver Board of Trade members are not expressing much hope these days as they seek capital from investors and affordability for workers",
-            "pubDate": "2026-10-13T23:56:00Z",
-            "link": "https://www.nsnews.com/economy-law-politics/eby-lowan-and-doerkson-offer-depressed-business-community-their-economic-vision-12889464"
+            "title": "Guenther, Sergachev each have goal and assist in Mammoth's 5-4 win over Maple Leafs",
+            "desc": "SALT LAKE CITY (AP) — Dylan Guenther and Mikhail Sergachev each had a goal and an assist in the second period to help the Utah Mammoth beat the Toronto Maple Leafs 5-4 on Tuesday night.",
+            "pubDate": "2026-10-14T04:08:38Z",
+            "link": "https://www.nsnews.com/national-sports/guenther-sergachev-each-have-goal-and-assist-in-mammoths-5-4-win-over-maple-leafs-12889966"
           },
           {
-            "title": "Dolly Parton's nephew denies threatening to harm her estate, pushes back against restraining order",
-            "desc": "Dolly Parton’s  nephew and longtime head of security said in a Tennessee court filing Tuesday that he was a close friend and ally of Parton's longtime manager Danny Nozell before Nozell took out a  restraining order  accusing him of threatening to do",
-            "pubDate": "2026-10-13T23:50:29Z",
-            "link": "https://www.nsnews.com/the-mix/dolly-partons-nephew-denies-threatening-to-harm-her-estate-pushes-back-against-restraining-order-12889583"
+            "title": "China’s trade surplus hits $938 billion for Jan-Sep as pressure ramps up to rebalance trade",
+            "desc": "HONG KONG (AP) — China’s exports surged 36.",
+            "pubDate": "2026-10-14T04:02:34Z",
+            "link": "https://www.nsnews.com/national-business/chinas-trade-surplus-hits-938-billion-for-jan-sep-as-pressure-ramps-up-to-rebalance-trade-12889880"
           },
           {
-            "title": "A Wyoming grad student who allegedly poisoned a colleague has been arrested fleeing to China",
-            "desc": "CHEYENNE, Wyo.",
-            "pubDate": "2026-10-13T23:45:58Z",
-            "link": "https://www.nsnews.com/world-news/a-wyoming-grad-student-who-allegedly-poisoned-a-colleague-has-been-arrested-fleeing-to-china-12889584"
+            "title": "New White House press secretary's debut: Brief, limited questions and some harsh reviews",
+            "desc": "President Donald Trump's new press secretary stepped to the podium, the eyes of a packed room of journalists — and many in their audiences — upon her. She smiled broadly at the sea of faces both probing and friendly.",
+            "pubDate": "2026-10-14T04:02:33Z",
+            "link": "https://www.nsnews.com/the-mix/new-white-house-press-secretarys-debut-brief-limited-questions-and-some-harsh-reviews-12889915"
           },
           {
-            "title": "Here's why 'Synthetic' stations are showing up on SkyTrain maps",
-            "desc": "No, it won't take you to the heart of an AI data centre.",
-            "pubDate": "2026-10-13T23:45:00Z",
-            "link": "https://www.nsnews.com/highlights/synthetic-stations-skytrain-maps-vancouver-12889270"
+            "title": "Peralta, Hicks lift Rays to 3-1 win over Guardians that evens ALCS at 1-1",
+            "desc": "ST. PETERSBURG, Fla.",
+            "pubDate": "2026-10-14T03:57:21Z",
+            "link": "https://www.nsnews.com/national-sports/peralta-hicks-lift-rays-to-3-1-win-over-guardians-that-evens-alcs-at-1-1-12889918"
           },
           {
-            "title": "A list of US roller coaster fatalities dating back to 2003",
-            "desc": "A man who fell to his death from a roller coaster at an Atlanta-area amusement park was not the first to die on such a ride in recent years.",
-            "pubDate": "2026-10-13T23:22:10Z",
-            "link": "https://www.nsnews.com/the-mix/a-list-of-us-roller-coaster-fatalities-dating-back-to-2003-12887270"
+            "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House",
+            "desc": "A federal judge on Tuesday extended an order blocking the Trump administration from  banning reporters  for three news outlets from the White House, a pivotal operational development for the news organizations as the extraordinary case pitting the pr",
+            "pubDate": "2026-10-14T03:50:43Z",
+            "link": "https://www.nsnews.com/world-news/judge-extends-order-blocking-trump-from-banning-cnn-ms-now-and-politico-reporters-from-white-house-12889878"
           },
           {
-            "title": "Saudi Ministry of Energy reports limited fire in building at Aramco compound targeted in attack",
-            "desc": "CAIRO (AP) — A limited fire broke out Tuesday in an administrative building at Aramco, one of the world’s largest oil facilities, that was targeted in an attack in the country’s Eastern Province,  Saudi Arabia's  Ministry of Energy said.",
-            "pubDate": "2026-10-13T23:20:30Z",
-            "link": "https://www.nsnews.com/world-news/saudi-ministry-of-energy-reports-limited-fire-in-building-at-aramco-compound-targeted-in-attack-12886057"
+            "title": "'He had his fastball': Hutson, Guhle step up for Canadiens in win over Sabres",
+            "desc": "MONTREAL — Martin St. Louis has come to expect dazzling play from Lane Hutson night after night.  But even by those lofty standards, Hutson raised the bar Tuesday.",
+            "pubDate": "2026-10-14T03:43:41Z",
+            "link": "https://www.nsnews.com/national-sports/he-had-his-fastball-hutson-guhle-step-up-for-canadiens-in-win-over-sabres-12889919"
           },
           {
-            "title": "Kawhi Leonard gets warm welcome in Raptors' re-debut in pre-season game vs. Knicks",
-            "desc": "TORONTO — Kawhi Leonard received the loudest ovation during team introductions as he made his re-debut for the Toronto Raptors.  Leonard was in the starting lineup as Toronto hosted the New York Knicks in a pre-season game on Tuesday night.",
-            "pubDate": "2026-10-13T23:19:25Z",
-            "link": "https://www.nsnews.com/national-sports/kawhi-leonard-gets-warm-welcome-in-raptors-re-debut-in-pre-season-game-vs-knicks-12888995"
+            "title": "Senators come up flat against Blues as power play continues to struggle",
+            "desc": "OTTAWA — As captain Thomas Chabot knows, he carries a certain responsibility to evaluate his team’s performance.  Tuesday night he clearly stated his Ottawa Senators just weren’t good enough.  “Not good, not good at all,” he said.",
+            "pubDate": "2026-10-14T03:38:32Z",
+            "link": "https://www.nsnews.com/national-sports/senators-come-up-flat-against-blues-as-power-play-continues-to-struggle-12889920"
           }
         ]
       },
