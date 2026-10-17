@@ -2,32 +2,38 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-16T23:34:57Z",
+      "fetchedAt": "2026-10-17T04:22:03Z",
       "sections": {
         "top": [
           {
-            "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
-            "desc": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
-            "pubDate": "2026-10-16T15:45:10Z",
-            "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss"
+            "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+            "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+            "pubDate": "2026-10-17T01:19:04Z",
+            "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-            "desc": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-            "pubDate": "2026-10-16T16:00:30Z",
-            "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
+            "title": "Trump waives several Russia sanctions as new US law takes effect",
+            "desc": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+            "pubDate": "2026-10-17T02:48:36Z",
+            "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
-            "desc": "Rebecca Louise Burwood saw the vulnerable victim \"as her nanna\" but stole to fund her lifestyle.",
-            "pubDate": "2026-10-16T16:07:37Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss"
+            "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+            "desc": "It comes after the prime minister refused to say whether he backed expansion.",
+            "pubDate": "2026-10-17T03:57:16Z",
+            "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Man killed by tiger may have had medical records breached by NHS staff",
-            "desc": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.",
-            "pubDate": "2026-10-16T16:53:07Z",
-            "link": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss"
+            "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
+            "desc": "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.",
+            "pubDate": "2026-10-16T21:02:18Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Five days, one briefing: How Katie Zacharia’s short tenure unfolded",
+            "desc": "The White House says the new press secretary is \"transitioning out\" of the role just days after taking the job.",
+            "pubDate": "2026-10-16T20:28:59Z",
+            "link": "https://www.bbc.co.uk/news/videos/c6j47ewnn0vyo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
@@ -36,25 +42,43 @@
             "link": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Watch: Did Tesla really just unveil a flying car?",
-            "desc": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
-            "pubDate": "2026-10-16T12:32:31Z",
-            "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss"
+            "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
+            "desc": "Miranda Hart became emotional and spoke about her health problems as more action unfolded on Friday.",
+            "pubDate": "2026-10-17T01:34:52Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Police feared Andrew would delay search by saying King owned his home, documents show",
-            "desc": "Legal records have emerged which show why police wanted to search the royal's home and what they were looking for.",
-            "pubDate": "2026-10-16T18:37:26Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6wyrk0gxlw2o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-            "desc": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-            "pubDate": "2026-10-16T14:31:04Z",
-            "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
+            "title": "Faisal Islam: What I learned from a week with the world's top finance leaders",
+            "desc": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
+            "pubDate": "2026-10-17T01:59:48Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
+          {
+            "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+            "desc": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+            "pubDate": "2026-10-17T02:33:09Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+            "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+            "pubDate": "2026-10-17T01:19:04Z",
+            "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Trump waives several Russia sanctions as new US law takes effect",
+            "desc": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+            "pubDate": "2026-10-17T02:48:36Z",
+            "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+            "desc": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+            "pubDate": "2026-10-17T03:11:10Z",
+            "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
             "desc": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
@@ -62,46 +86,22 @@
             "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-            "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-            "pubDate": "2026-10-16T23:07:38Z",
-            "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
             "desc": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
             "pubDate": "2026-10-16T14:31:04Z",
             "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-            "desc": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
-            "pubDate": "2026-10-16T23:07:18Z",
-            "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss"
+            "title": "Katie Zacharia leaving her White House role less than five days on the job",
+            "desc": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
+            "pubDate": "2026-10-16T21:05:05Z",
+            "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Trump denies limiting Ukraine access to Starlink network",
-            "desc": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
-            "pubDate": "2026-10-16T19:33:48Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Pope pictured for first time since surgery and cancer diagnosis",
-            "desc": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-            "pubDate": "2026-10-16T23:20:37Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "India's 'cockroach' party founder detained ahead of protest",
-            "desc": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
-            "pubDate": "2026-10-16T11:44:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-            "desc": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-            "pubDate": "2026-10-16T05:00:17Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss"
+            "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+            "desc": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+            "pubDate": "2026-10-16T23:54:35Z",
+            "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
@@ -122,6 +122,12 @@
             "desc": "Rebecca Louise Burwood saw the vulnerable victim \"as her nanna\" but stole to fund her lifestyle.",
             "pubDate": "2026-10-16T16:07:37Z",
             "link": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Why hasn't the UK had any named storms yet?",
+            "desc": "So far this autumn wet and windy weather patterns have been steered away from the UK. When could we see that change?",
+            "pubDate": "2026-10-17T01:53:34Z",
+            "link": "https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
@@ -146,12 +152,6 @@
             "desc": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
             "pubDate": "2026-10-16T13:43:21Z",
             "link": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Banks expect to be hit with higher taxes in Budget",
-            "desc": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-            "pubDate": "2026-10-16T10:16:27Z",
-            "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
@@ -258,14 +258,20 @@
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-16T23:34:58Z",
+      "fetchedAt": "2026-10-17T04:22:04Z",
       "sections": {
         "top": [
           {
-            "title": "Ontario toddler survives rattlesnake bite, partly thanks to 18 doses of antivenom",
-            "desc": "A 15-month-old boy from Sarnia, Ont., is recovering at home after being bitten by an eastern massasauga rattlesnake on the Thanksgiving long weekend while visiting a family cottage on the Bruce Peninsula. The bite required treatment at two hospitals and 18 doses of antivenom.",
-            "pubDate": "2026-10-16T15:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/london/snake-bite-toddler-bruce-peninsula-9.7383551?cmp=rss"
+            "title": "Carney warns 'stakes are high' at pro-Confederation rally in Edmonton",
+            "desc": "",
+            "pubDate": "2026-10-15T13:43:16Z",
+            "link": "https://www.cbc.ca/news/canada/edmonton/smith-carney-pitch-unity-referendum-9.7384054?cmp=rss"
+          },
+          {
+            "title": "Trump pauses sanctions package targeted at Russian economy",
+            "desc": "U.S. President Donald Trump on Friday signed an executive order that puts on hold a sweeping new sanctions package targeting the Russian economy, telling Congress the pause was in the national interest.",
+            "pubDate": "2026-10-16T22:36:07Z",
+            "link": "https://www.cbc.ca/news/world/trump-waiver-russia-sanctions-ukraine-9.7385045?cmp=rss"
           },
           {
             "title": "‘Crypto King’ spent $16.3M of investor funds on cars, credit cards, jets, security, accountant testifies",
@@ -274,10 +280,10 @@
             "link": "https://www.cbc.ca/news/canada/toronto/crypto-king-spent-16-3m-of-investor-funds-on-cars-credit-cards-jets-security-accountant-testifies-9.7384413?cmp=rss"
           },
           {
-            "title": "Nova Scotia to host massive data centre to power Anthropic's AI assistant Claude",
-            "desc": "",
-            "pubDate": "2026-10-16T11:59:31Z",
-            "link": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-to-host-massive-data-centre-to-power-anthropic-s-ai-assistant-claude-9.7383129?cmp=rss"
+            "title": "Ontario toddler survives rattlesnake bite, partly thanks to 18 doses of antivenom",
+            "desc": "A 15-month-old boy from Sarnia, Ont., is recovering at home after being bitten by an eastern massasauga rattlesnake on the Thanksgiving long weekend while visiting a family cottage on the Bruce Peninsula. The bite required treatment at two hospitals and 18 doses of antivenom.",
+            "pubDate": "2026-10-16T15:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/london/snake-bite-toddler-bruce-peninsula-9.7383551?cmp=rss"
           },
           {
             "title": "McNuggets, booze smuggled by drone into Canada's most secure prison: union",
@@ -286,31 +292,31 @@
             "link": "https://www.cbc.ca/news/politics/drone-smuggling-mcdonalds-sainte-anne-des-plaines-special-handling-unit-9.7384273?cmp=rss"
           },
           {
-            "title": "Carney appeals for a 'decisive' vote to settle the Alberta independence question",
-            "desc": "",
-            "pubDate": "2026-10-15T13:43:16Z",
-            "link": "https://www.cbc.ca/news/politics/carney-speech-alberta-referendum-analysis-9.7384083?cmp=rss"
-          },
-          {
             "title": "High-profile legionnaire apologizes following profanity-laced outburst at Carbonear, N.L., wedding reception",
             "desc": "A wedding reception at the Royal Canadian Legion branch in Carbonear ended earlier this month in an angry outburst after high-profile legionnaire and veteran Berkley Lawrence confronted the bride as she prepared to throw her wedding bouquet.",
             "pubDate": "2026-10-16T16:23:59Z",
             "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/legion-wedding-outburst-9.7383382?cmp=rss"
           },
           {
-            "title": "He followed a debunked conspiracy theory to claim a tax refund. So why did the CRA agree to a $40M payout?",
+            "title": "Nova Scotia to host massive data centre to power Anthropic's AI assistant Claude",
             "desc": "",
-            "pubDate": "2025-08-22T05:58:08Z",
-            "link": "https://www.cbc.ca/news/canada/sovereign-citizens-tax-refunds-9.7381911?cmp=rss"
+            "pubDate": "2026-10-16T11:59:31Z",
+            "link": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-to-host-massive-data-centre-to-power-anthropic-s-ai-assistant-claude-9.7383129?cmp=rss"
           },
           {
-            "title": "Police release more details on fiery, fatal bus crash in Calgary",
-            "desc": "Calgary police are still investigating what led to a collision between two city buses and multiple other vehicles on Thursday, where a significant fire and explosion left three dead and 16 injured.",
-            "pubDate": "2026-10-16T13:35:34Z",
-            "link": "https://www.cbc.ca/news/canada/calgary/fire-fatal-bus-crash-9.7383854?cmp=rss"
+            "title": "Convicted killer attending McGill law school divides students over safety, 2nd chances",
+            "desc": "A convicted murderer’s presence at McGill University's law school while on day parole has sparked debate over public safety and rehabilitation. Several students say they feel vulnerable and frustrated by a lack of transparency regarding Jeffrey George Ewert's violent past against women, while his lawyer and student supporters argue he deserves a second chance.",
+            "pubDate": "2026-10-16T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/montreal/convicted-killer-mcgill-law-school-9.7382625?cmp=rss"
           }
         ],
         "world": [
+          {
+            "title": "Trump pauses sanctions package targeted at Russian economy",
+            "desc": "U.S. President Donald Trump on Friday signed an executive order that puts on hold a sweeping new sanctions package targeting the Russian economy, telling Congress the pause was in the national interest.",
+            "pubDate": "2026-10-16T22:36:07Z",
+            "link": "https://www.cbc.ca/news/world/trump-waiver-russia-sanctions-ukraine-9.7385045?cmp=rss"
+          },
           {
             "title": "White House press secretary Katie Zacharia leaving her role a week after starting it: official",
             "desc": "U.S. President Donald Trump's press secretary Katie Zacharia is leaving her role a mere week after he put her in it, a White House official confirmed to CBC News.",
@@ -330,10 +336,16 @@
             "link": "https://www.cbc.ca/news/world/oregon-school-shooting-bystander-9.7384075?cmp=rss"
           },
           {
-            "title": "U.S. Coast Guard rescues 16 people floating in the Pacific, including one with a suspected shark bite",
-            "desc": "Sixteen people were rescued from the Pacific Ocean off Mexico's Baja California coast on Friday after the U.S. Coast Guard responded to a May Day call reporting the vessel was sinking. Another 11 people were believed to be missing.",
+            "title": "U.S. Coast Guard rescues 16 people floating in the Pacific, including one with suspected shark bite",
+            "desc": "Sixteen people were rescued from the Pacific Ocean off Mexico's Baja California coast on Friday after the U.S. Coast Guard responded to a mayday call reporting a vessel was sinking. Another 11 people are believed to be missing.",
             "pubDate": "2026-10-16T12:23:15Z",
             "link": "https://www.cbc.ca/news/world/mexico-ocean-rescue-coast-guard-9.7383598?cmp=rss"
+          },
+          {
+            "title": "Homes burn in Southern California amid fast-moving fire, prompting evacuation orders",
+            "desc": "A fast-moving fire fueled by high winds burned at least six homes in Southern California on Friday, engulfing expensive coastal properties and prompting thousands to evacuate.",
+            "pubDate": "2026-10-16T19:41:44Z",
+            "link": "https://www.cbc.ca/news/world/southern-california-wildfires-9.7384743?cmp=rss"
           },
           {
             "title": "See the Amazon rainforest wildfires that have politicians pointing fingers amid Brazil presidential elections",
@@ -346,18 +358,6 @@
             "desc": "A BMX cycling qualifying event in Saudi Arabia for the 2028 Los Angeles Olympics was cancelled Friday after deadly missile attacks from neighbouring Yemen.",
             "pubDate": "2026-10-16T10:31:35Z",
             "link": "https://www.cbc.ca/sports/olympics/summer/cycling/bmx/bmx-olympic-qualifier-cancelled-saudi-arabia-9.7383321?cmp=rss"
-          },
-          {
-            "title": "EU debates Ukraine funding, as Zelenskyy's relations with the Trump administration ebb again",
-            "desc": "Ukrainian President Volodymyr Zelenskyy took aim on Friday at U.S. President Donald Trump's diesel deal with Russia and welcomed the prospect of European allies stepping up their role in talks, calling Moscow's ‌stance a \"parody\" of peace negotiations.",
-            "pubDate": "2026-10-16T07:23:45Z",
-            "link": "https://www.cbc.ca/news/world/eu-summit-ukraine-russia-war-9.7383053?cmp=rss"
-          },
-          {
-            "title": "3 children, 1 teacher dead after shooting at Oregon elementary school, police say",
-            "desc": "A 16-year-old shooter opened fire on Thursday at an elementary school in Bend, Ore., killing four people, including three children, before being killed by an armed person ​who had pursued the assailant into the school, ​police said.",
-            "pubDate": "2026-10-15T20:49:23Z",
-            "link": "https://www.cbc.ca/news/world/oregon-school-shooting-9.7382749?cmp=rss"
           }
         ],
         "canada": [
@@ -374,16 +374,22 @@
             "link": "https://www.cbc.ca/news/canada/hamilton/daniel-senecal-sexual-assault-toddler-dangerous-offender-9.7383846?cmp=rss"
           },
           {
-            "title": "Carney appeals for a 'decisive' vote to settle the Alberta independence question",
+            "title": "Carney warns 'stakes are high' at pro-Confederation rally in Edmonton",
             "desc": "",
             "pubDate": "2026-10-15T13:43:16Z",
-            "link": "https://www.cbc.ca/news/politics/carney-speech-alberta-referendum-analysis-9.7384083?cmp=rss"
+            "link": "https://www.cbc.ca/news/canada/edmonton/smith-carney-pitch-unity-referendum-9.7384054?cmp=rss"
           },
           {
             "title": "High-profile legionnaire apologizes following profanity-laced outburst at Carbonear, N.L., wedding reception",
             "desc": "A wedding reception at the Royal Canadian Legion branch in Carbonear ended earlier this month in an angry outburst after high-profile legionnaire and veteran Berkley Lawrence confronted the bride as she prepared to throw her wedding bouquet.",
             "pubDate": "2026-10-16T16:23:59Z",
             "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/legion-wedding-outburst-9.7383382?cmp=rss"
+          },
+          {
+            "title": "Nova Scotia to host massive data centre to power Anthropic's AI assistant Claude",
+            "desc": "A massive data centre to provide computing power for artificial intelligence is under pre-construction just outside a town on Cape Breton Island, Nova Scotia.",
+            "pubDate": "2026-10-16T10:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-to-host-massive-data-centre-to-power-anthropic-s-ai-assistant-claude-9.7383129?cmp=rss"
           },
           {
             "title": "Police release more details on fiery, fatal bus crash in Calgary",
@@ -402,15 +408,45 @@
             "desc": "Zakaria Amara, one of the ringleaders of the thwarted Toronto 18 terror plot, has been granted full parole after the Parole Board of Canada found he no longer showed \"any signs of holding onto extremist beliefs or radical ideologies.\"",
             "pubDate": "2026-10-16T17:14:09Z",
             "link": "https://www.cbc.ca/news/canada/toronto/ont-toronto18-parole-9.7384467?cmp=rss"
-          },
-          {
-            "title": "Winnipeg zoo's newest orphaned polar bear cub now has a name: Mantayo",
-            "desc": "The first polar bear cub to arrive at Winnipeg's Assiniboine Park Zoo in nearly a decade now has a name.",
-            "pubDate": "2026-10-16T12:48:36Z",
-            "link": "https://www.cbc.ca/news/canada/manitoba/winnipeg-zoo-polar-bear-cub-mantayo-9.7383216?cmp=rss"
           }
         ],
         "bc": [
+          {
+            "title": "Highway 99 closed in Surrey, B.C., after multi-vehicle crash injures 13",
+            "desc": "Highway 99 in South Surrey, B.C., is closed just east of the Highway 99 and Highway 91 interchange due to a multi-vehicle crash on Friday evening.",
+            "pubDate": "2026-10-16T21:03:53Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/highway-99-closure-south-surrey-highway-91-9.7384983?cmp=rss"
+          },
+          {
+            "title": "How the municipal election is playing out in northern B.C. and the Interior",
+            "desc": "Incumbents are squaring off against experienced city councillors and new faces in some of the key municipal election races happening in northern B.C. and the Interior. Though the region is spread out over a huge geographical area, many of the key issues are the same with public safety, housing and the economy taking centre stage in most races.",
+            "pubDate": "2026-10-16T23:27:10Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/kelowna-kamloops-prince-george-interior-north-election-races-to-watch-9.7385059?cmp=rss"
+          },
+          {
+            "title": "9 Metro Vancouver municipalities we’re watching closely on election day",
+            "desc": "Over the past two months, CBC conducted seven mayoral debates for different Metro Vancouver municipalities, and profiled mayoral candidates in two other cities.",
+            "pubDate": "2026-10-16T20:59:19Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/metro-vancouver-races-watch-municipal-civic-election-2026-9.7384923?cmp=rss"
+          },
+          {
+            "title": "B.C. speed skater Laura Hall upends Valérie Maltais for her first long track nationals title",
+            "desc": "Laura Hall took advantage of a weakened speed skating field Friday to capture her first career title at the Canadian long track championships.",
+            "pubDate": "2026-10-16T21:34:11Z",
+            "link": "https://www.cbc.ca/sports/olympics/winter/speed-skating/laura-hall-long-track-nationals-speed-skating-lamarche-dubreuil-9.7384994?cmp=rss"
+          },
+          {
+            "title": "B.C.'s Douglas College suspends men's soccer program after brawl caught on video",
+            "desc": "Douglas College suspended its men's soccer program for the rest of the 2026-27 season after a brawl broke out at a game earlier this month.",
+            "pubDate": "2026-10-16T20:33:27Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/douglas-college-capilano-university-mens-soccer-suspended-9.7384844?cmp=rss"
+          },
+          {
+            "title": "Charges stayed against 2 men in connection with fatal 2018 hit and run near Terrace, B.C.",
+            "desc": "Charges have been stayed against two men arrested in connection to a fatal hit and run near Terrace in northwest B.C. eight years ago.",
+            "pubDate": "2026-10-16T19:43:45Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/charges-stayed-terrace-hit-and-run-cameron-kerr-9.7384789?cmp=rss"
+          },
           {
             "title": "Indigenous leaders condemn Conservative candidate's comments about First Nations being 'conquered'",
             "desc": "A response posted to the Conservative Party of B.C.'s X account on behalf of Juan de Fuca-Malahat candidate Mike Hicks said the video was taken out of context.",
@@ -422,92 +458,56 @@
             "desc": "Burnaby RCMP found the bodies of 31-year-old Kiesha Garie and 30-year-old Umair Kasim inside a vehicle on Alpha Avenue on Oct. 17, 2022.",
             "pubDate": "2026-10-16T18:31:50Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/burnaby-double-homicide-charges-9.7384731?cmp=rss"
-          },
-          {
-            "title": "Body of missing paddleboarder recovered from Okanagan Lake, says Hutterite dive team",
-            "desc": "Kyle Yrjola went missing while paddleboarding with his girlfriend on Okanagan Lake last month.",
-            "pubDate": "2026-10-16T18:15:44Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/okanagan-lake-paddleboarder-recovered-9.7384415?cmp=rss"
-          },
-          {
-            "title": "Steph Labbé parts ways with Vancouver Rise FC",
-            "desc": "Olympic gold and bronze medallist Steph Labbé was the first person hired by the Northern Super League club.",
-            "pubDate": "2026-10-16T18:09:41Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/steph-labbe-parts-ways-with-vancouver-rise-fc-9.7384143?cmp=rss"
-          },
-          {
-            "title": "Myles Gray was 'strongest man I've dealt with' in career, Vancouver officer tells hearing",
-            "desc": "A Vancouver police officer has told a public hearing into the fatal arrest of Myles Gray that he was the strongest man he has ever encountered in 15 years of policing.",
-            "pubDate": "2026-10-16T15:37:23Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/myles-gray-hearing-vancouver-police-officers-testify-9.7384036?cmp=rss"
-          },
-          {
-            "title": "Campbell River ballot misprint may affect school trustee votes",
-            "desc": "Municipal election ballots issued in Campbell River, B.C., before Oct. 13 included a misprint in the school trustee portion, according to a local election official.",
-            "pubDate": "2026-10-16T15:50:25Z",
-            "link": "https://www.cbc.ca/news/elections/what-happens-when-ballot-has-misprint-9.7382163?cmp=rss"
-          },
-          {
-            "title": "B.C. Green leader wins endorsement of Grand Chief Stewart Phillip, whose wife was NDP MLA",
-            "desc": "Grand Chief Stewart Phillip, a longtime B.C. NDP ally whose late wife was a legislator for the party, has endorsed Green Party Leader Emily Lowan.",
-            "pubDate": "2026-10-16T13:25:57Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/grand-chief-stewart-phillip-emily-lowan-green-9.7383673?cmp=rss"
-          },
-          {
-            "title": "Convicted B.C. killer attending McGill law school divides students over safety, 2nd chances",
-            "desc": "A convicted murderer’s presence at McGill University's law school while on day parole has sparked debate over public safety and rehabilitation. Several students say they feel vulnerable and frustrated by a lack of transparency regarding Jeffrey George Ewert's violent past against women, while his lawyer and student supporters argue he deserves a second chance.",
-            "pubDate": "2026-10-16T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/convicted-killer-mcgill-law-school-9.7382625?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Photos: Handsworth hosts Argyle in first senior football game at new turf field",
-            "desc": "The Royals christened the new North Vancouver field with a thrilling one-point win over the Pipers",
-            "pubDate": "2026-10-16T23:26:03Z",
-            "link": "https://www.nsnews.com/local-sports/photos-handsworth-hosts-argyle-in-first-senior-football-game-at-new-turf-field-12904669"
+            "title": "Hurricane Trudy strengthens slightly as it moves towards Mexico’s Pacific coast",
+            "desc": "MIAMI (AP) — Hurricane Trudy strengthened slightly Friday evening as it moved towards southwestern and west-central areas of Mexico's Pacific coast and could keep growing through Saturday, forecasters said.",
+            "pubDate": "2026-10-17T03:58:41Z",
+            "link": "https://www.nsnews.com/world-news/hurricane-trudy-strengthens-slightly-as-it-moves-towards-mexicos-pacific-coast-12899900"
           },
           {
-            "title": "Grand Chief Stewart Phillip endorses B.C. Greens' Lowan, while backing Eby as premier",
-            "desc": "VICTORIA — Grand Chief Stewart Phillip, a longtime British Columbia NDP ally whose late wife was a legislator for the party, has thrown his support behind Green Party Leader Emily Lowan in her bid to win in her Vancouver Island riding.",
-            "pubDate": "2026-10-16T23:05:08Z",
-            "link": "https://www.nsnews.com/national-news/grand-chief-stewart-phillip-endorses-bc-greens-lowan-while-backing-eby-as-premier-12901469"
+            "title": "Streak Over: Canada beats top-ranked England 24-21 in women's rugby match in Toronto",
+            "desc": "TORONTO — For the second time in a month, the Canadian women's rugby team ended a significant England streak.   This time around — in front of a boisterous home crowd at BMO Field — the result was much sweeter for the host side.",
+            "pubDate": "2026-10-17T03:19:55Z",
+            "link": "https://www.nsnews.com/national-sports/streak-over-canada-beats-top-ranked-england-24-21-in-womens-rugby-match-in-toronto-12904920"
           },
           {
-            "title": "Chuck Lorre gets candid on hits, flops and hard lessons in new memoir 'Sitcom'",
-            "desc": "After creating TV hits like  “The Big Bang Theory,”  “Two and a Half Men,”  and “Young Sheldon,” legendary producer Chuck Lorre is looking back at his milestones and missteps in a new memoir called “Sitcom.",
-            "pubDate": "2026-10-16T23:03:12Z",
-            "link": "https://www.nsnews.com/the-mix/chuck-lorre-gets-candid-on-hits-flops-and-hard-lessons-in-new-memoir-sitcom-12901881"
+            "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest",
+            "desc": "WASHINGTON (AP) — President  Donald Trump  on Friday signed an executive order that puts on hold a  sweeping new sanctions package  targeting the Russian economy, telling Congress the pause was in the national interest.",
+            "pubDate": "2026-10-17T03:19:41Z",
+            "link": "https://www.nsnews.com/world-news/trump-puts-new-russia-sanctions-that-he-recently-signed-into-law-on-hold-citing-national-interest-12904973"
           },
           {
-            "title": "Ottawa adding new express entry points for immigrants in 'high-wage' jobs",
-            "desc": "OTTAWA — Ottawa is adding new express entry points for some permanent residency applicants in \"high-wage\" jobs, Immigration Minister Lena Diab said Friday.",
-            "pubDate": "2026-10-16T22:59:34Z",
-            "link": "https://www.nsnews.com/national-news/ottawa-adding-new-express-entry-points-for-immigrants-in-high-wage-jobs-12901185"
+            "title": "Coastal homes burn as hot winds fuel California fires",
+            "desc": "SANTA ANA, Calif. (AP) — A fast-moving fire fueled by high winds burned at least six homes in Southern California on Friday, engulfing expensive coastal properties and prompting thousands to evacuate.",
+            "pubDate": "2026-10-17T03:15:25Z",
+            "link": "https://www.nsnews.com/world-news/coastal-homes-burn-as-hot-winds-fuel-california-fires-12904191"
           },
           {
-            "title": "Multiple Southern California homes are ablaze in a fast-moving wildfire fueled by hot, windy weather",
-            "desc": "SANTA ANA, Calif. (AP) — A fast-moving fire burned at least four homes in Southern California as hot, windy weather gripped the region Friday, prompting evacuations and power outages.",
-            "pubDate": "2026-10-16T22:58:49Z",
-            "link": "https://www.nsnews.com/world-news/multiple-southern-california-homes-are-ablaze-in-a-fast-moving-wildfire-fueled-by-hot-windy-weather-12904191"
+            "title": "Carney wraps up pro-Canada barnstorming tour in hometown of Edmonton",
+            "desc": "EDMONTON — Prime Minister Mark Carney wrapped up his two-day, pro-Canada barnstorming tour of Alberta by rallying with thousands of supporters in his hometown on Friday night.",
+            "pubDate": "2026-10-17T03:12:01Z",
+            "link": "https://www.nsnews.com/national-news/carney-wraps-up-pro-canada-barnstorming-tour-in-hometown-of-edmonton-12899964"
           },
           {
-            "title": "California officials who process ballots from suspected noncitizens risk prosecution, US warns",
-            "desc": "WASHINGTON (AP) — The Trump administration is  escalating its fight with California  ahead of next month's midterm election, warning that local officials who process and tabulate ballots submitted by suspected noncitizen voters are putting themselves",
-            "pubDate": "2026-10-16T22:57:14Z",
-            "link": "https://www.nsnews.com/world-news/california-officials-who-process-ballots-from-suspected-noncitizens-risk-prosecution-us-warns-12904505"
+            "title": "No reports of serious injuries in B.C. crash involving semi-truck, bus, cars: police",
+            "desc": "SURREY — Police say there are no reports of serious injuries after a crash involving a semi-truck and trailer, a bus and several other vehicles that forced the closure of Highway 99 in both directions in south Surrey, B.C., on Friday.  Staff Sgt.",
+            "pubDate": "2026-10-17T02:53:21Z",
+            "link": "https://www.nsnews.com/bc-news/no-reports-of-serious-injuries-in-bc-crash-involving-semi-truck-bus-cars-police-12904971"
           },
           {
-            "title": "Calgary Stampeders look to keep CFL playoff hopes alive against surging B.C. Lions",
-            "desc": "CALGARY — With their CFL playoff fate out of their hands, the Calgary Stampeders can only try to beat the surging B.C. Lions in their regular-season finale and see where they land.  The Stampeders (8-9) host the B.C.",
-            "pubDate": "2026-10-16T22:53:09Z",
-            "link": "https://www.nsnews.com/national-sports/calgary-stampeders-look-to-keep-cfl-playoff-hopes-alive-against-surging-bc-lions-12904617"
+            "title": "Ottawa Redblacks end 22-game losing skid with 40-39 win over Toronto Argonauts",
+            "desc": "OTTAWA — Rookie quarterback Bryson Barnes led the Ottawa Redblacks to a 40-39 victory over the Toronto Argonauts on Friday in his first CFL start, snapping the team’s 22-game losing skid.",
+            "pubDate": "2026-10-17T02:22:45Z",
+            "link": "https://www.nsnews.com/national-sports/ottawa-redblacks-end-22-game-losing-skid-with-40-39-win-over-toronto-argonauts-12904993"
           },
           {
-            "title": "Ottawa confirms funding for rare disease research as other questions remain",
-            "desc": "WINNIPEG — The federal government confirmed at a meeting of Canadian health ministers that it is extending a funding deal on rare disease research, while wider questions on health-care funding remain unanswered.",
-            "pubDate": "2026-10-16T22:39:06Z",
-            "link": "https://www.nsnews.com/national-news/ottawa-confirms-funding-for-rare-disease-research-as-other-questions-remain-12904428"
+            "title": "Jackson-Davis has 23 points in Raptors' 129-125 loss to Pistons to end pre-season",
+            "desc": "DETROIT — Trayce Jackson-Davis led all scorers with 23 points — including 15 made free throws — but the Toronto Raptors still fell to the Detroit Pistons 129-125 on Friday in the final pre-season game for both teams.",
+            "pubDate": "2026-10-17T02:09:45Z",
+            "link": "https://www.nsnews.com/national-sports/jackson-davis-has-23-points-in-raptors-129-125-loss-to-pistons-to-end-pre-season-12904994"
           }
         ]
       },
