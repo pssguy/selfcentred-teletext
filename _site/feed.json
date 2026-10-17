@@ -2,14 +2,32 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-17T20:34:28Z",
+      "fetchedAt": "2026-10-17T23:07:50Z",
       "sections": {
         "top": [
+          {
+            "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+            "desc": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+            "pubDate": "2026-10-17T20:52:17Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "How day of protests unfolded as disorder breaks out across France",
+            "desc": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+            "pubDate": "2026-10-17T21:33:17Z",
+            "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "More NHS staff sacked over attacks victims' records",
             "desc": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
             "pubDate": "2026-10-17T16:34:39Z",
             "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Anti-government protesters battle with police in Albania ",
+            "desc": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+            "pubDate": "2026-10-17T20:53:00Z",
+            "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "European diplomats attacked by Israeli settlers in West Bank",
@@ -18,48 +36,60 @@
             "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
-            "desc": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
-            "pubDate": "2026-10-17T12:56:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "Swinney's emotional explanation for his commitment to independence",
             "desc": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
             "pubDate": "2026-10-17T18:11:42Z",
             "link": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Pope discharged from hospital days after lung cancer surgery",
-            "desc": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
-            "pubDate": "2026-10-17T13:51:36Z",
-            "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
+            "title": "Dubois destroys Wardley in two rounds to retain title ",
+            "desc": "WBO world champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
+            "pubDate": "2026-10-17T22:27:49Z",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
-            "desc": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
-            "pubDate": "2026-10-17T16:02:31Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
-            "desc": "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year.",
-            "pubDate": "2026-10-16T23:27:01Z",
-            "link": "https://www.bbc.co.uk/news/articles/crn4ej7vdwdno?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Why people who have never smoked are getting hooked on vapes",
-            "desc": "More than one million people now vape who have never been smokers, according to the ONS.",
-            "pubDate": "2026-10-16T23:49:16Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck62y33489zqo?at_medium=RSS&at_campaign=rss"
+            "title": "The playground murder: Trauma, loss and a love that endured",
+            "desc": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
+            "pubDate": "2026-10-17T23:04:50Z",
+            "link": "https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
+          {
+            "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+            "desc": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+            "pubDate": "2026-10-17T20:52:17Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
             "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
             "pubDate": "2026-10-17T19:19:19Z",
             "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "European diplomats attacked by Israeli settlers in West Bank",
+            "desc": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+            "pubDate": "2026-10-17T18:38:57Z",
+            "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Anti-government protesters battle with police in Albania ",
+            "desc": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+            "pubDate": "2026-10-17T20:53:00Z",
+            "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "At least 17 dead in crush at Hindu festival event in India",
+            "desc": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+            "pubDate": "2026-10-17T19:19:16Z",
+            "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+            "desc": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+            "pubDate": "2026-10-17T22:09:50Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
@@ -72,36 +102,6 @@
             "desc": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
             "pubDate": "2026-10-17T03:11:10Z",
             "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-            "desc": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-            "pubDate": "2026-10-17T02:33:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-            "desc": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
-            "pubDate": "2026-10-17T12:11:58Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
-            "desc": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
-            "pubDate": "2026-10-17T10:46:41Z",
-            "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Pope discharged from hospital days after lung cancer surgery",
-            "desc": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
-            "pubDate": "2026-10-17T13:51:36Z",
-            "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Katie Zacharia leaving White House role less than five days into job",
-            "desc": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-            "pubDate": "2026-10-17T09:14:10Z",
-            "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
@@ -206,34 +206,10 @@
         ],
         "sport": [
           {
-            "title": "Liverpool come from behind to beat nine-man Brentford",
-            "desc": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and  Vitaly Janelt.",
-            "pubDate": "2026-10-17T19:00:13Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Haaland nets double as Man City go six points clear at the top",
-            "desc": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
-            "pubDate": "2026-10-17T19:00:09Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Manzambi heads Villa to victory at Newcastle",
-            "desc": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
-            "pubDate": "2026-10-17T19:12:02Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Neto scores twice as Chelsea win at Everton",
-            "desc": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
-            "pubDate": "2026-10-17T19:00:03Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Iwobi delivers Fulham's first win of season",
-            "desc": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
-            "pubDate": "2026-10-17T19:00:06Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo?at_medium=RSS&at_campaign=rss"
+            "title": "Dubois destroys Wardley in two rounds to retain title ",
+            "desc": "WBO world champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
+            "pubDate": "2026-10-17T22:27:49Z",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Wirtz delivers but remains Liverpool's conundrum",
@@ -242,36 +218,60 @@
             "link": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss"
           },
           {
+            "title": "Boos and bananas on day of defiance at Man City ",
+            "desc": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
+            "pubDate": "2026-10-17T18:02:39Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Villa's Manzambi shows Newcastle what they missed out on",
+            "desc": "Aston Villa are a side back in form, with Johan Manzambi scoring the winner against a Newcastle team he turned down to move to Villa Park.",
+            "pubDate": "2026-10-17T21:18:26Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
             "desc": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
             "pubDate": "2026-10-17T16:02:31Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Boos and bananas on day of defiance at Man City ",
-            "desc": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
-            "pubDate": "2026-10-17T18:02:39Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss"
+            "title": "Tributes to Andrews before Champions Cup matches",
+            "desc": "Lions and Sale Sharks are among the clubs to pay tribute to Hyron Andrews at their matches on Saturday, following the South African's death aged 31.",
+            "pubDate": "2026-10-17T19:08:14Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "McDermott seeks fix as England fight to save their World Cup",
+            "desc": "Brian McDermott says he can fix the errors that led to England's Rugby League World Cup defeat by Tonga - but is it already too late?",
+            "pubDate": "2026-10-17T14:12:33Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/crwyqgjg5y8wo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Bath loss rounds off tough day for Prem clubs in Champions Cup",
+            "desc": "Montpellier score 22 second-half points without reply to beat Bath on the opening weekend of the Champions Cup.",
+            "pubDate": "2026-10-17T21:02:25Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c370pxwklgwjo?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-17T20:34:29Z",
+      "fetchedAt": "2026-10-17T23:07:51Z",
       "sections": {
         "top": [
           {
-            "title": "Young protester's hand severed amid violent protests in France over rising cost of living, officials say",
+            "title": "France shaken by fiery street protests uniting students, workers and 'yellow vests'",
             "desc": "",
             "pubDate": "2026-10-17T10:19:35Z",
-            "link": "https://www.cbc.ca/news/world/livestory/france-protests-9.7385148?cmp=rss"
+            "link": "https://www.cbc.ca/news/world/french-student-protest-9.7385328?cmp=rss"
           },
           {
-            "title": "Three Italian ‘hobbits’ flew to Ireland to return this man’s ring — and it was precious",
-            "desc": "Irishman Patrick Mohr thought his wedding ring was lost forever after it slipped off his finger into a fast-moving river in Italy. That is until three Italian strangers made it their mission to find it.",
-            "pubDate": "2026-10-17T04:00:00Z",
-            "link": "https://www.cbc.ca/radio/asithappens/kindness-friendship-story-italy-ireland-9.7383392?cmp=rss"
+            "title": "Ontario to import U.S. electricity this winter, months after Ford threatened to cut power exports",
+            "desc": "Ontario will import power from the United States this winter, the province's independent electricity operator has announced, just a few months after Premier Doug Ford threatened to cut exports to the U.S. amid the ongoing trade war.",
+            "pubDate": "2026-10-17T14:40:18Z",
+            "link": "https://www.cbc.ca/news/canada/toronto/ontario-electricty-contract-ieso-doug-ford-trade-war-9.7385325?cmp=rss"
           },
           {
             "title": "Do Alberta’s temporary residents pay little tax, reap lots of benefits? We asked economists",
@@ -280,34 +280,34 @@
             "link": "https://www.cbc.ca/news/canada/calgary/alberta-temporary-residents-tax-9.7383858?cmp=rss"
           },
           {
+            "title": "Three Italian ‘hobbits’ flew to Ireland to return this man’s ring — and it was precious",
+            "desc": "Irishman Patrick Mohr thought his wedding ring was lost forever after it slipped off his finger into a fast-moving river in Italy. That is until three Italian strangers made it their mission to find it.",
+            "pubDate": "2026-10-17T04:00:00Z",
+            "link": "https://www.cbc.ca/radio/asithappens/kindness-friendship-story-italy-ireland-9.7383392?cmp=rss"
+          },
+          {
+            "title": "Here's why some people say the 2-day weekend is due for a makeover",
+            "desc": "In October 1926, Henry Ford announced his factories would close not just on Sundays but Saturdays, too, making his company the first big North American employer to do so. But advocates for a shorter workweek say it’s time for an update to reflect both how we work and live today.",
+            "pubDate": "2026-10-17T04:00:00Z",
+            "link": "https://www.cbc.ca/radio/costofliving/two-day-weekend-is-100-years-old-9.7382232?cmp=rss"
+          },
+          {
             "title": "From ‘killing the golden goose’ to better than ever: Has Alberta's relationship with Ottawa changed?",
             "desc": "Alberta Premier Danielle Smith once said Ottawa \"couldn't help\" but be fixated on \"punishing\" the energy sector. Now, she says Canada is working better than it ever has. So what changed? And will it stick?",
             "pubDate": "2026-10-17T06:00:00Z",
             "link": "https://www.cbc.ca/news/canada/calgary/alberta-danielle-smith-mark-carney-ottawa-referendum-9.7384604?cmp=rss"
           },
           {
+            "title": "Pope Leo returns to Vatican after lung cancer surgery",
+            "desc": "Pope Leo XIV returned to the Vatican on Saturday days after lung cancer surgery, as his surgeon said there are \"no clinical reasons\" to prevent his planned trip to Latin America next month.",
+            "pubDate": "2026-10-17T18:46:07Z",
+            "link": "https://www.cbc.ca/news/world/pope-leo-lung-cancer-surgery-9.7385445?cmp=rss"
+          },
+          {
             "title": "This West Bank teen feared he wouldn't survive the year. Now, he's dead",
             "desc": "Omar Nassan was a student at a West Bank school where a gunman, later identified as an Israeli military reservist, opened fire this spring, killing two Palestinians. Half a year later, Omar himself died in a melee involving the Israeli Defence Forces.",
             "pubDate": "2026-10-17T04:00:00Z",
             "link": "https://www.cbc.ca/news/world/this-west-bank-teen-feared-he-wouldn-t-survive-the-year-now-he-s-dead-9.7383812?cmp=rss"
-          },
-          {
-            "title": "What the Ukraine dispute reveals about U.S. control over Starlink",
-            "desc": "The potential ability of the U.S government to affect the operation of a Starlink related satellite system may have also raised questions about Washington's power to affect commerical users of the system.",
-            "pubDate": "2026-10-17T04:00:00Z",
-            "link": "https://www.cbc.ca/news/world/satellite-us-government-starlink-starshield-9.7383834?cmp=rss"
-          },
-          {
-            "title": "Family of Quebec boy killed while cycling calls off ghost bike memorial, cites hate messages",
-            "desc": "The family of an 11-year-old boy who was fatally struck while riding his bicycle in Quebec City’s Beauport borough is calling off its plans to install a ghost bike in his honour this weekend, citing hateful messages they received.",
-            "pubDate": "2026-10-17T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/quebec-city-ghost-bike-memorial-11-year-old-killed-9.7384040?cmp=rss"
-          },
-          {
-            "title": "In Canada's drone-killing 'Sandbox,' companies compete for a $1M prize",
-            "desc": "As part of Canada's drive to jump-start a domestic defence drone industry, two dozen companies showcased their technologies and competed for a million-dollar prize at a military base in Suffield, Alta., over the last several weeks. CBC News visited the site of the competition, where Ukrainian representatives were there to observe the results — and offer their own experience in drone warfare.",
-            "pubDate": "2026-10-17T04:00:00Z",
-            "link": "https://www.cbc.ca/news/politics/counter-drone-sandbox-competition-alberta-9.7382438?cmp=rss"
           }
         ],
         "world": [
@@ -324,10 +324,22 @@
             "link": "https://www.cbc.ca/news/world/livestory/france-protests-9.7385148?cmp=rss"
           },
           {
+            "title": "Pope Leo returns to Vatican after lung cancer surgery",
+            "desc": "Pope Leo XIV returned to the Vatican on Saturday days after lung cancer surgery, as his surgeon said there are \"no clinical reasons\" to prevent his planned trip to Latin America next month.",
+            "pubDate": "2026-10-17T18:46:07Z",
+            "link": "https://www.cbc.ca/news/world/pope-leo-lung-cancer-surgery-9.7385445?cmp=rss"
+          },
+          {
             "title": "Three Italian ‘hobbits’ flew to Ireland to return this man’s ring — and it was precious",
             "desc": "Irishman Patrick Mohr thought his wedding ring was lost forever after it slipped off his finger into a fast-moving river in Italy. That is until three Italian strangers made it their mission to find it.",
             "pubDate": "2026-10-17T04:00:00Z",
             "link": "https://www.cbc.ca/radio/asithappens/kindness-friendship-story-italy-ireland-9.7383392?cmp=rss"
+          },
+          {
+            "title": "Suspicious white powder sent to multiple U.S. election, congressional offices",
+            "desc": "Federal and local law enforcement agencies in the United States are investigating a series of suspicious packages containing a potentially hazardous white powder that were sent to multiple election and congressional offices.",
+            "pubDate": "2026-10-17T09:14:05Z",
+            "link": "https://www.cbc.ca/player/play/9.7385170?cmp=rss"
           },
           {
             "title": "Zelenskyy urges support for new U.S. sanctions on Russia hours after Trump paused them",
@@ -346,18 +358,6 @@
             "desc": "U.S. President Donald Trump's press secretary Katie Zacharia is leaving her role a mere week after he put her in it, a White House official confirmed to CBC News.",
             "pubDate": "2026-10-16T14:10:14Z",
             "link": "https://www.cbc.ca/news/world/trump-zacharia-press-secretary-future-9.7383948?cmp=rss"
-          },
-          {
-            "title": "Israeli settlers attack Palestinians, American journalist during West Bank olive harvest",
-            "desc": "Dozens of masked Israeli settlers attacked Palestinians and injured an American journalist during olive harvesting in the occupied West Bank, according to witnesses and video footage. The Israeli army says the incident \"will be examined.\"",
-            "pubDate": "2026-10-16T10:34:39Z",
-            "link": "https://www.cbc.ca/news/world/israeli-settlers-attack-olive-harvest-9.7383174?cmp=rss"
-          },
-          {
-            "title": "Trump pauses sanctions package targeted at Russian economy",
-            "desc": "U.S. President Donald Trump on Friday signed an executive order that puts on hold a sweeping new sanctions package targeting the Russian economy, telling Congress the pause was in the national interest.",
-            "pubDate": "2026-10-16T22:36:07Z",
-            "link": "https://www.cbc.ca/news/world/trump-waiver-russia-sanctions-ukraine-9.7385045?cmp=rss"
           }
         ],
         "canada": [
@@ -372,6 +372,12 @@
             "desc": "The family of an 11-year-old boy who was fatally struck while riding his bicycle in Quebec City’s Beauport borough is calling off its plans to install a ghost bike in his honour this weekend, citing hateful messages they received.",
             "pubDate": "2026-10-17T04:00:00Z",
             "link": "https://www.cbc.ca/news/canada/montreal/quebec-city-ghost-bike-memorial-11-year-old-killed-9.7384040?cmp=rss"
+          },
+          {
+            "title": "Ontario to import U.S. electricity this winter, months after Ford threatened to cut power exports",
+            "desc": "Ontario will import power from the United States this winter, the province's independent electricity operator has announced, just a few months after Premier Doug Ford threatened to cut exports to the U.S. amid the ongoing trade war.",
+            "pubDate": "2026-10-17T14:40:18Z",
+            "link": "https://www.cbc.ca/news/canada/toronto/ontario-electricty-contract-ieso-doug-ford-trade-war-9.7385325?cmp=rss"
           },
           {
             "title": "From ‘killing the golden goose’ to better than ever: Has Alberta's relationship with Ottawa changed?",
@@ -402,12 +408,6 @@
             "desc": "Voters are set to cast ballots in 162 municipalities and 27 regional districts.",
             "pubDate": "2026-10-17T07:00:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/bc-municipal-elections-voting-9.7383785?cmp=rss"
-          },
-          {
-            "title": "Waymo is coming to Toronto. Will its self-driving cars be winter-ready?",
-            "desc": "Snow-covered objects can become hard to detect, while cameras and sensors sometimes struggle in snowy conditions. Experts say they're not insurmountable — but they will take more training data and time for Waymo to adjust to.",
-            "pubDate": "2026-10-17T04:00:00Z",
-            "link": "https://www.cbc.ca/news/business/waymo-toronto-winter-self-driving-9.7384550?cmp=rss"
           }
         ],
         "bc": [
@@ -418,10 +418,22 @@
             "link": "https://www.cbc.ca/news/canada/british-columbia/bc-votes-election-9.7385209?cmp=rss"
           },
           {
+            "title": "Police asking for dashcam footage after 6-vehicle highway crash in Surrey",
+            "desc": "Police are asking anyone with dashcam footage of a multi-vehicle collision that injured 13 people on Highway 99 Friday afternoon to come forward.",
+            "pubDate": "2026-10-17T18:00:22Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/police-dashcam-footage-9.7385412?cmp=rss"
+          },
+          {
             "title": "9 Metro Vancouver municipalities we’re watching closely on election day",
             "desc": "Over the past two months, CBC conducted seven mayoral debates for different Metro Vancouver municipalities, and profiled mayoral candidates in two other cities.",
             "pubDate": "2026-10-16T20:59:19Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/metro-vancouver-races-watch-municipal-civic-election-2026-9.7384923?cmp=rss"
+          },
+          {
+            "title": "CentreBC pledges $25M to keep rural emergency rooms open",
+            "desc": "Sturko, who is CentreBC's only incumbent legislator, says her party's plan will reduce wait times and increase public accountability in health care.",
+            "pubDate": "2026-10-17T15:13:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/rural-emergency-rooms-9.7385334?cmp=rss"
           },
           {
             "title": "How the municipal election is playing out in northern B.C. and the Interior",
@@ -436,12 +448,6 @@
             "link": "https://www.cbc.ca/news/canada/british-columbia/kitimat-dog-mayor-race-9.7382752?cmp=rss"
           },
           {
-            "title": "CentreBC pledges $25M to keep rural emergency rooms open",
-            "desc": "Sturko, who is CentreBC's only incumbent legislator, says her party's plan will reduce wait times and increase public accountability in health care.",
-            "pubDate": "2026-10-17T15:13:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/rural-emergency-rooms-9.7385334?cmp=rss"
-          },
-          {
             "title": "Where do B.C.’s parties stand on transportation ahead of the provincial election?",
             "desc": "B.C.'s provincial parties are outlining their priorities for transportation ahead of the Oct. 24 provincial election, with promises ranging from a hybrid insurance model, lower gas prices, and more public transit options.",
             "pubDate": "2026-10-17T09:00:00Z",
@@ -452,62 +458,56 @@
             "desc": "Police have arrested one woman and are searching for two more suspects after three separate unprovoked stranger attacks happened in Vancouver on Thursday.",
             "pubDate": "2026-10-17T14:24:36Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/stranger-attacks-vancouver-arrest-9.7385294?cmp=rss"
-          },
-          {
-            "title": "Victoria writer explores impacts of extinction on humanity in new book",
-            "desc": "Scientists estimate about 99 per cent of species that have existed on Earth are extinct — thanks largely to five mass extinctions over hundreds of millions of years.",
-            "pubDate": "2026-10-17T10:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/neil-griffin-victoria-bc-endings-encounters-with-extinction-9.7382812?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Opinion: Mr. Eby, give us our money back",
-            "desc": "As the provincial election approaches, former Premier Gordon Campbell urges voters to consider whether the government is providing adequate value for their tax dollars.",
-            "pubDate": "2026-10-17T20:00:00Z",
-            "link": "https://www.nsnews.com/opinion/opinion-mr-eby-give-us-our-money-back-12896618"
+            "title": "Canada's Ruck takes silver medal in 100-metre backstroke at World Cup stop",
+            "desc": "ASTANA — Taylor Ruck earned a silver medal in the women's 100-metre backstroke at a World Aquatics Swimming World Cup on Saturday.   Marrit Steenbergen of the Netherlands won gold in 55.43 seconds.  Ruck, from Kelowna, B.C., was next in 56.",
+            "pubDate": "2026-10-17T22:59:06Z",
+            "link": "https://www.nsnews.com/national-sports/canadas-ruck-takes-silver-medal-in-100-metre-backstroke-at-world-cup-stop-12906419"
           },
           {
-            "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
-            "desc": "Bank of Canada governor Tiff Macklem is warning that persistently high global energy prices will drive up the outlook for inflation at home.",
-            "pubDate": "2026-10-17T19:48:41Z",
-            "link": "https://www.nsnews.com/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905440"
+            "title": "Lightning storm back from 2-goal deficit to beat the Canucks 4-2",
+            "desc": "TAMPA, Fla. (AP) — Nikita Kucherov scored twice, Jake Guentzel had a goal and an assist, and Dennis Hildeby stopped 12 shots as the Tampa Bay Lightning defeated the Vancouver Canucks 4-2 on Saturday.",
+            "pubDate": "2026-10-17T22:57:33Z",
+            "link": "https://www.nsnews.com/national-sports/lightning-storm-back-from-2-goal-deficit-to-beat-the-canucks-4-2-12906420"
           },
           {
-            "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
-            "desc": "Bank of Canada governor Tiff Macklem is warning that persistently high global energy prices will drive up the outlook for inflation at home.",
-            "pubDate": "2026-10-17T19:48:41Z",
-            "link": "https://www.nsnews.com/the-mix/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905426"
+            "title": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast",
+            "desc": "MIAMI (AP) — Trudy strengthened to a Category 2 hurricane as it moved toward  Mexico  ’s southwestern and west-central Pacific coast on Saturday, the U.S. National Hurricane Center said.",
+            "pubDate": "2026-10-17T22:43:11Z",
+            "link": "https://www.nsnews.com/world-news/hurricane-trudy-strengthens-to-category-2-as-it-approaches-mexico-coast-12906314"
           },
           {
-            "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
-            "desc": "Bank of Canada governor Tiff Macklem is warning that persistently high global energy prices will drive up the outlook for inflation at home.",
-            "pubDate": "2026-10-17T19:48:41Z",
-            "link": "https://www.nsnews.com/national-business/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905428"
+            "title": "Former Jets forward Ehlers scores winner as Carolina Hurricanes top Winnipeg 3-2",
+            "desc": "WINNIPEG — Nikolaj Ehlers scored his first goal of the NHL season to lift the Carolina Hurricanes to a 3-2 victory over the Winnipeg Jets at Canada Life Centre on Saturday afternoon.",
+            "pubDate": "2026-10-17T22:31:17Z",
+            "link": "https://www.nsnews.com/national-sports/former-jets-forward-ehlers-scores-winner-as-carolina-hurricanes-top-winnipeg-3-2-12906381"
           },
           {
-            "title": "Expert says bus model involved in deadly Calgary crash considered ‘extremely safe’",
-            "desc": "CALGARY — An expert on low-carbon transportation says the roughly 1,000 compressed natural gas buses running in Canada are still considered “extremely safe” after one such bus was involved in a deadly crash in Calgary that claimed the lives of three",
-            "pubDate": "2026-10-17T19:44:37Z",
-            "link": "https://www.nsnews.com/the-mix/expert-says-bus-model-involved-in-deadly-calgary-crash-considered-extremely-safe-12906125"
+            "title": "Gabby Williams scores 26 points, sends Valkyries to 68-64 Game 1 win in defensive WNBA Finals opener",
+            "desc": "SAN FRANCISCO (AP) — Gabby Williams converted two free throws with 1:18 left to put Golden State ahead, two more with 4.",
+            "pubDate": "2026-10-17T22:18:45Z",
+            "link": "https://www.nsnews.com/national-sports/gabby-williams-scores-26-points-sends-valkyries-to-68-64-game-1-win-in-defensive-wnba-finals-opener-12906382"
           },
           {
-            "title": "Expert says bus model involved in deadly Calgary crash considered ‘extremely safe’",
-            "desc": "CALGARY — An expert on low-carbon transportation says the roughly 1,000 compressed natural gas buses running in Canada are still considered “extremely safe” after one such bus was involved in a deadly crash in Calgary that claimed the lives of three",
-            "pubDate": "2026-10-17T19:44:37Z",
-            "link": "https://www.nsnews.com/national-news/expert-says-bus-model-involved-in-deadly-calgary-crash-considered-extremely-safe-12906100"
+            "title": "Johnson scores touchdown in final minute to lift playoff-bound Riders to victory",
+            "desc": "REGINA — A late touchdown by KeeSean Johnson lifted the Saskatchewan Roughriders into the CFL playoffs Saturday with a 16-12 victory over the Montreal Alouettes.",
+            "pubDate": "2026-10-17T22:04:55Z",
+            "link": "https://www.nsnews.com/national-sports/johnson-scores-touchdown-in-final-minute-to-lift-playoff-bound-riders-to-victory-12906365"
           },
           {
-            "title": "Expert says bus model involved in deadly Calgary crash considered ‘extremely safe’",
-            "desc": "CALGARY — An expert on low-carbon transportation says the roughly 1,000 compressed natural gas buses running in Canada are still considered “extremely safe” after one such bus was involved in a deadly crash in Calgary that claimed the lives of three",
-            "pubDate": "2026-10-17T19:44:37Z",
-            "link": "https://www.nsnews.com/national-business/expert-says-bus-model-involved-in-deadly-calgary-crash-considered-extremely-safe-12906127"
+            "title": "Opinion: It's time to tax the extremely wealthy",
+            "desc": "B.C.'s gas royalties lag behind liquor and lotteries. A wealth tax offers a realistic alternative for funding public services, writes Sonia Furstenau.",
+            "pubDate": "2026-10-17T22:00:00Z",
+            "link": "https://www.nsnews.com/opinion/opinion-its-time-to-tax-the-extremely-wealthy-12902385"
           },
           {
-            "title": "CentreBC pledges $25M 'rural ER stabilization fund' to keep emergency rooms open",
-            "desc": "SURREY — CentreBC Leader Elenore Sturko has announced plans for a $25-million-a-year \"rural ER stabilization fund\" to help keep emergency rooms open in the province.",
-            "pubDate": "2026-10-17T18:33:16Z",
-            "link": "https://www.nsnews.com/bc-news/centrebc-pledges-25m-rural-er-stabilization-fund-to-keep-emergency-rooms-open-12905874"
+            "title": "Pope returns to Vatican days after surgery; surgeon says he should be fit for Latin America tour",
+            "desc": "VATICAN CITY (AP) —  Pope Leo XIV  returned to the Vatican on Saturday days after lung cancer surgery, as his surgeon said there are “no clinical reasons” to prevent his planned trip to Latin America next month.",
+            "pubDate": "2026-10-17T21:35:43Z",
+            "link": "https://www.nsnews.com/world-news/pope-returns-to-vatican-days-after-surgery-surgeon-says-he-should-be-fit-for-latin-america-tour-12905265"
           }
         ]
       },
