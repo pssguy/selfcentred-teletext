@@ -2,11 +2,11 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-18T20:39:18Z",
+      "fetchedAt": "2026-10-18T23:09:50Z",
       "sections": {
         "top": [
           {
-            "title": "Macron calls for calm in France and warns rioting must not escalate",
+            "title": "Macron calls for 'calm and order' after riots across France",
             "desc": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
             "pubDate": "2026-10-18T20:33:21Z",
             "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
@@ -14,7 +14,7 @@
           {
             "title": "What we know so far about deadly fire at Canadian military base",
             "desc": "At least four people are confirmed to have died after a huge fire swept through the base.",
-            "pubDate": "2026-10-18T19:42:37Z",
+            "pubDate": "2026-10-18T21:37:56Z",
             "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -30,10 +30,10 @@
             "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-            "desc": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
-            "pubDate": "2026-10-18T05:30:16Z",
-            "link": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss"
+            "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+            "desc": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+            "pubDate": "2026-10-18T21:00:22Z",
+            "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
@@ -56,13 +56,7 @@
         ],
         "world": [
           {
-            "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-            "desc": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-            "pubDate": "2026-10-18T12:07:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Macron calls for calm in France and warns rioting must not escalate",
+            "title": "Macron calls for 'calm and order' after riots across France",
             "desc": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
             "pubDate": "2026-10-18T20:33:21Z",
             "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
@@ -70,8 +64,20 @@
           {
             "title": "What we know so far about deadly fire at Canadian military base",
             "desc": "At least four people are confirmed to have died after a huge fire swept through the base.",
-            "pubDate": "2026-10-18T19:42:37Z",
+            "pubDate": "2026-10-18T21:37:56Z",
             "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+            "desc": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+            "pubDate": "2026-10-18T22:10:45Z",
+            "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+            "desc": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+            "pubDate": "2026-10-18T21:00:22Z",
+            "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
@@ -80,10 +86,10 @@
             "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-            "desc": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-            "pubDate": "2026-10-18T05:04:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
+            "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+            "desc": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+            "pubDate": "2026-10-18T19:53:27Z",
+            "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "European diplomats attacked by Israeli settlers in West Bank",
@@ -92,16 +98,10 @@
             "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-            "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-            "pubDate": "2026-10-18T01:10:25Z",
-            "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Anti-government protesters battle with police in Albania",
-            "desc": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-            "pubDate": "2026-10-17T20:53:00Z",
-            "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
+            "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+            "desc": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+            "pubDate": "2026-10-18T13:47:07Z",
+            "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
@@ -206,40 +206,16 @@
         ],
         "sport": [
           {
-            "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
-            "desc": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
-            "pubDate": "2026-10-18T18:59:02Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest ",
-            "desc": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
-            "pubDate": "2026-10-18T18:59:06Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Leeds extend Man Utd's winless run to six games",
-            "desc": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
-            "pubDate": "2026-10-18T18:59:10Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Bournemouth pick up first league victory with win over Sunderland",
-            "desc": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
-            "pubDate": "2026-10-18T18:59:15Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o?at_medium=RSS&at_campaign=rss"
+            "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+            "desc": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+            "pubDate": "2026-10-18T17:24:45Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
             "desc": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
             "pubDate": "2026-10-18T19:55:41Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
-            "desc": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
-            "pubDate": "2026-10-18T17:24:45Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Hearts roll out red carpet ... and Celtic walk all over it",
@@ -252,32 +228,56 @@
             "desc": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
             "pubDate": "2026-10-18T19:51:22Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/cq1kdzp093jwo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Northampton beat Cardiff for only English win of Champions Cup openers",
+            "desc": "Northampton edge to a nervy Champions Cup pool win against tenacious Cardiff at Franklin's Gardens.",
+            "pubDate": "2026-10-18T18:23:30Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62ynq8jz2no?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
+            "desc": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
+            "pubDate": "2026-10-18T18:33:29Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Britain's Kartal misses out on biggest title of her career",
+            "desc": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+            "pubDate": "2026-10-18T13:39:24Z",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+            "desc": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+            "pubDate": "2026-10-18T18:59:02Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-18T20:39:19Z",
+      "fetchedAt": "2026-10-18T23:09:51Z",
       "sections": {
         "top": [
           {
-            "title": "PM confirms 4 dead and next of kin notified after fire at CFB Wainwright in Alberta",
+            "title": "4 dead, at least 19 in critical condition after fire at CFB Wainwright in Alberta, officials say",
             "desc": "",
             "pubDate": "2026-10-17T21:33:38Z",
             "link": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-live-updates-9.7385537?cmp=rss"
-          },
-          {
-            "title": "Cross Country Checkup: What's at stake for you in the Alberta referendum?",
-            "desc": "What conversations are you having with friends and family?",
-            "pubDate": "2026-10-18T16:06:00Z",
-            "link": "https://www.cbc.ca/player/play/9.4228962?cmp=rss"
           },
           {
             "title": "Freeland believes her resignation led to better outcome for Trudeau, allowing him to exit before likely defeat",
             "desc": "Former finance minister and deputy prime minister Chrystia Freeland believes her resignation — which spurred Justin Trudeau to step down — was ultimately a good outcome for the former prime minister given his plummeting popularity.",
             "pubDate": "2026-10-18T04:00:00Z",
             "link": "https://www.cbc.ca/news/politics/freeland-resignation-trudeau-9.7384728?cmp=rss"
+          },
+          {
+            "title": "Canada's Einarson wins 7th Grand Slam of Curling title, 1st since 2024",
+            "desc": "Kerri Einarson won her seventh Grand Slam of Curling title and first in two years, beating South Korea's Team Kang 6-3 in the women's final at the season-opening Co-op Invitational in Victoria on Sunday.",
+            "pubDate": "2026-10-18T17:30:13Z",
+            "link": "https://www.cbc.ca/sports/olympics/winter/curling/grand-slam-of-curling-victoria-recap-oct-18-9.7386128?cmp=rss"
           },
           {
             "title": "Saskatchewan-born man achieves dream of becoming Jeopardy! Champion",
@@ -292,6 +292,12 @@
             "link": "https://www.cbc.ca/news/world/royal-family-relatability-prince-edward-youth-king-charles-volodymyr-zelenskyy-9.7383713?cmp=rss"
           },
           {
+            "title": "Liberals and Conservatives urge 'decisive' Alberta referendum vote to remain in Canada",
+            "desc": "With Alberta's referendum vote on Monday, federal Liberals and Conservatives are on the same page, each hoping to put to bed any question of the province's place in Canada.",
+            "pubDate": "2026-10-18T17:12:34Z",
+            "link": "https://www.cbc.ca/news/politics/alberta-referendum-conservatives-liberals-remain-9.7386058?cmp=rss"
+          },
+          {
             "title": "New mayors elected in B.C.'s largest cities, including Vancouver and Surrey, as voters opt for change",
             "desc": "",
             "pubDate": "2026-10-17T22:00:43Z",
@@ -302,12 +308,6 @@
             "desc": "",
             "pubDate": "2026-10-15T13:43:16Z",
             "link": "https://www.cbc.ca/news/canada/calgary/first-person-referendum-alberta-9.7343906?cmp=rss"
-          },
-          {
-            "title": "They don't make instant coffee like they used to. It's getting gourmet now",
-            "desc": "In a world of fancy espresso machines, gourmet blends and cold brews, instant coffee has often been considered at the bottom of the proverbial coffee barrel. But the powder is getting a glow-up, thanks to better quality, some social media trends, and advancements in instant coffee technology.",
-            "pubDate": "2026-10-18T04:00:00Z",
-            "link": "https://www.cbc.ca/radio/costofliving/instant-coffee-gourmet-9.7380312?cmp=rss"
           }
         ],
         "world": [
@@ -362,7 +362,7 @@
         ],
         "canada": [
           {
-            "title": "PM confirms 4 dead and next of kin notified after fire at CFB Wainwright in Alberta",
+            "title": "4 dead, at least 19 in critical condition after fire at CFB Wainwright in Alberta, officials say",
             "desc": "",
             "pubDate": "2026-10-17T21:33:38Z",
             "link": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-live-updates-9.7385537?cmp=rss"
@@ -412,10 +412,28 @@
         ],
         "bc": [
           {
+            "title": "Eby calls on B.C. Green voters to beat Conservatives by voting NDP",
+            "desc": "British Columbia NDP Leader David Eby is appealing to Green voters as the snap election slated for Oct. 24 enters its final week, but Green Party Leader Emily Lowan says he is trying to scare voters into choosing him.",
+            "pubDate": "2026-10-18T18:06:15Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/eby-asks-greens-for-votes-9.7386156?cmp=rss"
+          },
+          {
+            "title": "Most B.C. municipalities see an increase in voter turnout for 2026 elections",
+            "desc": "A week after several B.C. cities reported advance polling records, preliminary final election results from several large municipalities confirm more people flocked to the polls Saturday than in the last municipal elections.",
+            "pubDate": "2026-10-18T17:56:20Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/voter-turnout-increase-9.7386133?cmp=rss"
+          },
+          {
             "title": "A 'change' election in B.C., but one where experience still mattered",
             "desc": "Call it the winds of change if you like. But what was just as noteworthy as the massive changeover was the lack of a political pattern in those changeovers.",
             "pubDate": "2026-10-18T09:30:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/municipal-election-b-c-2026-change-experience-9.7385743?cmp=rss"
+          },
+          {
+            "title": "Kenya's Langat retains men's title, Vancouver's Davies has historic debut at Toronto Waterfront Marathon",
+            "desc": "Kenya's Leonard Langat successfully defended his title while Andrew Davies of Vancouver made Canadian history on Sunday at the Toronto Waterfront Marathon. Leah Jeruto, also of Kenya, won the women's race.",
+            "pubDate": "2026-10-18T16:04:15Z",
+            "link": "https://www.cbc.ca/sports/olympics/summer/athletics/2026-toronto-waterfront-marathon-recap-9.7386064?cmp=rss"
           },
           {
             "title": "'Looking for a change': Fort Nelson mayor eager for B.C. election",
@@ -440,74 +458,56 @@
             "desc": "A strong showing of candidates running on a platform to bolster public safety, strengthen fiscal responsibility and ease up on development have been elected in Victoria and Saanich on Vancouver Island.",
             "pubDate": "2026-10-18T10:00:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/public-safety-victoria-saanich-9.7385637?cmp=rss"
-          },
-          {
-            "title": "In possible bid for harmony, voters sweep out incumbents for experienced rivals in multiple mayoral races",
-            "desc": "While the reasons behind each vote are different, the winners in many B.C. mayoral races have promised to be consensus builders after a tumultuous four years that sometimes saw conflict boil over.",
-            "pubDate": "2026-10-18T09:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/mayor-election-kamloops-prince-george-vernon-fort-st-john-quesnel-penticton-incumbent-9.7385709?cmp=rss"
-          },
-          {
-            "title": "Doug McCallum defeats Brenda Locke, returns for 5th term as Surrey mayor",
-            "desc": "One of Surrey's most dominant political figures in the last three decades is back.",
-            "pubDate": "2026-10-18T01:27:24Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/doug-mccallum-elected-surrey-9.7385498?cmp=rss"
-          },
-          {
-            "title": "B.C. municipal elections: New mayors elected in B.C.'s largest cities, as voters opt for change",
-            "desc": "",
-            "pubDate": "2026-10-17T22:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-municipal-election-results-live-updates-october-17-2026-9.7376955?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Canadiens' Cole Caufield credits 'less traffic' for Saturday night scoring touch",
-            "desc": "MONTREAL — Cole Caufield has spent months answering questions about his knack for scoring on Saturday nights.  The Montreal Canadiens winger finally has a theory.  “I think less traffic,” he quipped. “That might be it.",
-            "pubDate": "2026-10-18T20:06:10Z",
-            "link": "https://www.nsnews.com/national-sports/canadiens-cole-caufield-credits-less-traffic-for-saturday-night-scoring-touch-12907478"
+            "title": "Pridham, Belzile both score twice to lead Ottawa Rapid FC to 5-2 NSL victory",
+            "desc": "OTTAWA — Delaney Baie Pridham and Florence Belzile both had two goals to lead Ottawa Rapid FC to a 5-2 win over Vancouver Rise FC in a Northern Super League game Sunday.",
+            "pubDate": "2026-10-18T22:43:04Z",
+            "link": "https://www.nsnews.com/national-sports/pridham-belzile-both-score-twice-to-lead-ottawa-rapid-fc-to-5-2-nsl-victory-12908455"
           },
           {
-            "title": "Box Office: Elizabeth Holmes movie ‘You Can See Everything’ is now a hit in theaters too",
-            "desc": "North American movie theaters were flooded with  new films this weekend , including a video game reboot, a big budget survival thriller and a Jane Austen adaptation.",
-            "pubDate": "2026-10-18T20:01:13Z",
-            "link": "https://www.nsnews.com/the-mix/box-office-elizabeth-holmes-movie-you-can-see-everything-is-now-a-hit-in-theaters-too-12907921"
-          },
-          {
-            "title": "Rough ride for some incumbents: B.C.'s municipal elections at a glance",
-            "desc": "Some incumbent candidates have taken a beating in British Columbia's municipal elections.  Voters on Saturday evicted the mayors of Vancouver and Surrey, the province's two biggest cities.  Here's a look at some of the results.",
-            "pubDate": "2026-10-18T20:00:07Z",
-            "link": "https://www.nsnews.com/bc-news/rough-ride-for-some-incumbents-bcs-municipal-elections-at-a-glance-12907918"
-          },
-          {
-            "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests",
-            "desc": "PARIS (AP) — French President  Emmanuel Macron  on Sunday voiced the public’s “anger” and “shame” over rioting and looting during nationwide protests against rising living costs and  poor conditions in schools . At least 2,400 people were arrested.",
-            "pubDate": "2026-10-18T19:56:48Z",
-            "link": "https://www.nsnews.com/world-news/macron-condemns-those-who-sought-to-bring-down-the-republic-after-rioting-mars-nationwide-protests-12908051"
+            "title": "Officials say catastrophic base fire was known ahead of time, allowed to burn",
+            "desc": "EDMONTON — Canada's military says a grass fire that killed four soldiers and sent scores more to hospital with bad burns was known well beforehand but not considered a threat.  Maj.-Gen.",
+            "pubDate": "2026-10-18T22:27:57Z",
+            "link": "https://www.nsnews.com/national-news/officials-say-catastrophic-base-fire-was-known-ahead-of-time-allowed-to-burn-12907824"
           },
           {
             "title": "The latest developments on the deadly fire at CFB Wainwright in Alberta",
             "desc": "WAINWRIGHT — Prime Minister Mark Carney says four military members were killed and dozens more were seriously injured after a violent, fast-moving fire at CFB Wainwright, a massive military training base about 200 kilometres southeast of Edmonton.",
-            "pubDate": "2026-10-18T19:48:11Z",
+            "pubDate": "2026-10-18T22:12:46Z",
             "link": "https://www.nsnews.com/national-news/the-latest-developments-on-the-deadly-fire-at-cfb-wainwright-in-alberta-12907823"
           },
           {
-            "title": "Four dead, dozens injured in violent fire at Alberta military base: Carney",
-            "desc": "WAINWRIGHT — Prime Minister Mark Carney says four military members were killed and dozens more were seriously injured after a violent, fast-moving fire at CFB Wainwright in Alberta.",
-            "pubDate": "2026-10-18T19:45:21Z",
-            "link": "https://www.nsnews.com/national-news/four-dead-dozens-injured-in-violent-fire-at-alberta-military-base-carney-12907824"
+            "title": "Einarson defeats Kyeong-Ae Kim 6-3 to claim GSOC Co-Op Invitational curling event",
+            "desc": "VICTORIA — Canada's Kerri Einarson defeated Korea's Kyeong-Ae Kim 6-3 on Sunday to capture the women's title at the GSOC Co-Op Invitational curling event.  Einarson's team from Gimli, Man.",
+            "pubDate": "2026-10-18T22:06:24Z",
+            "link": "https://www.nsnews.com/national-sports/einarson-defeats-kyeong-ae-kim-6-3-to-claim-gsoc-co-op-invitational-curling-event-12908420"
           },
           {
-            "title": "De Havilland calls for national water bomber fleet as it scrambles to meet demand",
-            "desc": "MONTREAL — On July 13, a pair of Canadair water bombers touched down on the Seine River, skimming along its surface to refill their water tanks as they battled a wildfire south of Paris.",
-            "pubDate": "2026-10-18T18:49:50Z",
-            "link": "https://www.nsnews.com/national-business/de-havilland-calls-for-national-water-bomber-fleet-as-it-scrambles-to-meet-demand-12907507"
+            "title": "Alberta pro-unity rally held in wake of CFB Wainwright fire on final day before vote",
+            "desc": "EDMONTON — The leader of Alberta's flagship federalist referendum campaign is urging Albertans to keep in mind the privileges the Canadian military affords them after tragedy struck yesterday in the province.",
+            "pubDate": "2026-10-18T22:04:49Z",
+            "link": "https://www.nsnews.com/national-news/alberta-pro-unity-rally-held-in-wake-of-cfb-wainwright-fire-on-final-day-before-vote-12908394"
           },
           {
-            "title": "De Havilland calls for national water bomber fleet as it scrambles to meet demand",
-            "desc": "MONTREAL — On July 13, a pair of Canadair water bombers touched down on the Seine River, skimming along its surface to refill their water tanks as they battled a wildfire south of Paris.",
-            "pubDate": "2026-10-18T18:49:50Z",
-            "link": "https://www.nsnews.com/the-mix/de-havilland-calls-for-national-water-bomber-fleet-as-it-scrambles-to-meet-demand-12907505"
+            "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests",
+            "desc": "PARIS (AP) — French President  Emmanuel Macron  on Sunday voiced the public’s “anger” and “shame” over rioting and looting during nationwide protests against rising living costs and  poor conditions in schools . At least 2,400 people were arrested.",
+            "pubDate": "2026-10-18T21:44:46Z",
+            "link": "https://www.nsnews.com/world-news/macron-condemns-those-who-sought-to-bring-down-the-republic-after-rioting-mars-nationwide-protests-12908051"
+          },
+          {
+            "title": "Jorian Baucom's first-half goal leads Calgary Wild FC to a 1-0 win over AFC Toronto",
+            "desc": "TORONTO — Jorian Baucom had the game's lone goal to lead Calgary Wild FC to a 1-0 win over AFC Toronto in Northern Super League play Sunday.",
+            "pubDate": "2026-10-18T21:30:16Z",
+            "link": "https://www.nsnews.com/national-sports/jorian-baucoms-first-half-goal-leads-calgary-wild-fc-to-a-1-0-win-over-afc-toronto-12908341"
+          },
+          {
+            "title": "Eby asking Green voters to support B.C. NDP to defeat Conservatives",
+            "desc": "VICTORIA — British Columbia NDP Leader David Eby is appealing to Green voters as the snap election slated for Oct. 24 enters its final week, but Green Party Leader Emily Lowan says he is trying to scare voters into choosing him.",
+            "pubDate": "2026-10-18T21:08:35Z",
+            "link": "https://www.nsnews.com/national-news/eby-asking-green-voters-to-support-bc-ndp-to-defeat-conservatives-12907982"
           }
         ]
       },
