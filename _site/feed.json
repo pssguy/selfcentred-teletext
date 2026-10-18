@@ -2,26 +2,26 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-18T15:50:39Z",
+      "fetchedAt": "2026-10-18T20:39:18Z",
       "sections": {
         "top": [
           {
-            "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-            "desc": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-            "pubDate": "2026-10-18T12:07:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
+            "title": "Macron calls for calm in France and warns rioting must not escalate",
+            "desc": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+            "pubDate": "2026-10-18T20:33:21Z",
+            "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "What we know so far about deadly fire at Canadian military base",
+            "desc": "At least four people are confirmed to have died after a huge fire swept through the base.",
+            "pubDate": "2026-10-18T19:42:37Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
             "desc": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
             "pubDate": "2026-10-18T14:57:19Z",
             "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-            "desc": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-            "pubDate": "2026-10-18T12:09:04Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -36,22 +36,22 @@
             "link": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Suspects hunted after police officer injured in shooting",
-            "desc": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-            "pubDate": "2026-10-18T13:10:18Z",
-            "link": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss"
+            "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+            "desc": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+            "pubDate": "2026-10-18T19:53:27Z",
+            "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-            "desc": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-            "pubDate": "2026-10-17T22:09:50Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
+            "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+            "desc": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+            "pubDate": "2026-10-18T15:46:10Z",
+            "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "There's a crackdown on sports piracy but is it already out of control?",
-            "desc": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
-            "pubDate": "2026-10-18T00:11:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss"
+            "title": "Ending corridor care in hospitals for children a priority, says health secretary",
+            "desc": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+            "pubDate": "2026-10-18T12:09:04Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
@@ -60,6 +60,18 @@
             "desc": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
             "pubDate": "2026-10-18T12:07:31Z",
             "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Macron calls for calm in France and warns rioting must not escalate",
+            "desc": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+            "pubDate": "2026-10-18T20:33:21Z",
+            "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "What we know so far about deadly fire at Canadian military base",
+            "desc": "At least four people are confirmed to have died after a huge fire swept through the base.",
+            "pubDate": "2026-10-18T19:42:37Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
@@ -90,18 +102,6 @@
             "desc": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
             "pubDate": "2026-10-17T20:53:00Z",
             "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-            "desc": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
-            "pubDate": "2026-10-18T13:47:07Z",
-            "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "At least 17 dead in crush at Hindu festival event in India",
-            "desc": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-            "pubDate": "2026-10-17T19:19:16Z",
-            "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
@@ -126,26 +126,26 @@
           {
             "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
             "desc": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
-            "pubDate": "2026-10-18T11:26:35Z",
+            "pubDate": "2026-10-18T17:00:42Z",
             "link": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "NHS data breaches a disgrace, says health secretary",
-            "desc": "A total of 15 NHS staff are sacked for accessing records of the Nottingham attacks victims.",
+            "title": "NHS data breaches a disgrace, health secretary says",
+            "desc": "A total of 15 NHS staff have been sacked for accessing records of the Nottingham attacks victims.",
             "pubDate": "2026-10-18T10:52:31Z",
             "link": "https://www.bbc.co.uk/news/articles/cq2e9nw82ljdo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Boy, 14, stabbed in shopping centre attack",
-            "desc": "Greater Manchester Police say the boy's injuries were not thought to be life threatening or life changing.",
-            "pubDate": "2026-10-18T07:36:10Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6z983n5qp33o?at_medium=RSS&at_campaign=rss"
+            "title": "Man and woman in their late teens die in collision",
+            "desc": "Police say the driver dies in hospital as a result of her injuries.",
+            "pubDate": "2026-10-18T18:58:50Z",
+            "link": "https://www.bbc.co.uk/news/articles/c693z9k57d7wo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Comedian Paul Whitehouse mugged at London cash machine",
-            "desc": "His wife wrote on Instagram that the actor had been \"mugged at a cash machine behind a Sainsbury's in Islington\".",
-            "pubDate": "2026-10-18T00:06:36Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o?at_medium=RSS&at_campaign=rss"
+            "title": "West Midlands Police officer who accessed police records 2,000 times sacked",
+            "desc": "A misconduct hearing said many of the records accessed were sensitive and held \"intimate information\".",
+            "pubDate": "2026-10-18T15:30:49Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmkg7jl1wxvgo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "BBC pauses civil service secondment scheme",
@@ -206,78 +206,84 @@
         ],
         "sport": [
           {
-            "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
-            "desc": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
-            "pubDate": "2026-10-18T14:56:01Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss"
+            "title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+            "desc": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+            "pubDate": "2026-10-18T18:59:02Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Britain's Kartal misses out on biggest title of her career",
-            "desc": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
-            "pubDate": "2026-10-18T13:39:24Z",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss"
+            "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest ",
+            "desc": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
+            "pubDate": "2026-10-18T18:59:06Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
-            "desc": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
-            "pubDate": "2026-10-18T09:55:31Z",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss"
+            "title": "Leeds extend Man Utd's winless run to six games",
+            "desc": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
+            "pubDate": "2026-10-18T18:59:10Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Olympic champion McClenaghan fails to make Worlds final",
-            "desc": "Olympic champion Rhys McClenaghan fails to reach the pommel horse final at the World Gymnastics Championships in Rotterdam.",
-            "pubDate": "2026-10-18T13:53:17Z",
-            "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c9zrd668n3yjo?at_medium=RSS&at_campaign=rss"
+            "title": "Bournemouth pick up first league victory with win over Sunderland",
+            "desc": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
+            "pubDate": "2026-10-18T18:59:15Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Liverpool come from behind to beat nine-man Brentford",
-            "desc": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and  Vitaly Janelt.",
-            "pubDate": "2026-10-17T19:00:13Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss"
+            "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
+            "desc": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
+            "pubDate": "2026-10-18T19:55:41Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Haaland nets double as Man City go six points clear at the top",
-            "desc": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
-            "pubDate": "2026-10-17T19:00:09Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss"
+            "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+            "desc": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+            "pubDate": "2026-10-18T17:24:45Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Manzambi heads Villa to victory at Newcastle",
-            "desc": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
-            "pubDate": "2026-10-17T19:12:02Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss"
+            "title": "Hearts roll out red carpet ... and Celtic walk all over it",
+            "desc": "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
+            "pubDate": "2026-10-18T18:22:50Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c62kezneyq8vo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Neto scores twice as Chelsea win at Everton",
-            "desc": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
-            "pubDate": "2026-10-17T19:00:03Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss"
+            "title": "Sage feels 'shame' at Palace thrashing with future in doubt",
+            "desc": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
+            "pubDate": "2026-10-18T19:51:22Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq1kdzp093jwo?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-18T15:50:39Z",
+      "fetchedAt": "2026-10-18T20:39:19Z",
       "sections": {
         "top": [
           {
-            "title": "7 dead in CFB Wainwright 'disaster' in Alberta: sources",
+            "title": "PM confirms 4 dead and next of kin notified after fire at CFB Wainwright in Alberta",
             "desc": "",
             "pubDate": "2026-10-17T21:33:38Z",
             "link": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-live-updates-9.7385537?cmp=rss"
           },
           {
-            "title": "Should Alberta separate? Here's why these Canadians feel the way they do",
-            "desc": "",
-            "pubDate": "2026-10-15T13:43:16Z",
-            "link": "https://www.cbc.ca/news/canada/calgary/first-person-referendum-alberta-9.7343906?cmp=rss"
+            "title": "Cross Country Checkup: What's at stake for you in the Alberta referendum?",
+            "desc": "What conversations are you having with friends and family?",
+            "pubDate": "2026-10-18T16:06:00Z",
+            "link": "https://www.cbc.ca/player/play/9.4228962?cmp=rss"
           },
           {
             "title": "Freeland believes her resignation led to better outcome for Trudeau, allowing him to exit before likely defeat",
             "desc": "Former finance minister and deputy prime minister Chrystia Freeland believes her resignation — which spurred Justin Trudeau to step down — was ultimately a good outcome for the former prime minister given his plummeting popularity.",
             "pubDate": "2026-10-18T04:00:00Z",
             "link": "https://www.cbc.ca/news/politics/freeland-resignation-trudeau-9.7384728?cmp=rss"
+          },
+          {
+            "title": "Saskatchewan-born man achieves dream of becoming Jeopardy! Champion",
+            "desc": "Rian Robertson has achieved his longtime dream of appearing on the television show Jeopardy! Robertson, who is originally from Outlook, Sask., had a five game-streak on Jeopardy! winning $66,101 US.",
+            "pubDate": "2026-10-18T07:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/saskatchewan/outlook-jeopardy-champion-9.7385096?cmp=rss"
           },
           {
             "title": "Doing the dishes and riding the subway? Why the royals keep trying to look relatable",
@@ -292,22 +298,16 @@
             "link": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-municipal-election-results-live-updates-october-17-2026-9.7376955?cmp=rss"
           },
           {
+            "title": "Should Alberta separate? Here's why these Canadians feel the way they do",
+            "desc": "",
+            "pubDate": "2026-10-15T13:43:16Z",
+            "link": "https://www.cbc.ca/news/canada/calgary/first-person-referendum-alberta-9.7343906?cmp=rss"
+          },
+          {
             "title": "They don't make instant coffee like they used to. It's getting gourmet now",
             "desc": "In a world of fancy espresso machines, gourmet blends and cold brews, instant coffee has often been considered at the bottom of the proverbial coffee barrel. But the powder is getting a glow-up, thanks to better quality, some social media trends, and advancements in instant coffee technology.",
             "pubDate": "2026-10-18T04:00:00Z",
             "link": "https://www.cbc.ca/radio/costofliving/instant-coffee-gourmet-9.7380312?cmp=rss"
-          },
-          {
-            "title": "Could this 93-year-old sprinter's muscles hold clues to healthy aging? Scientists think so",
-            "desc": "At 93, Italian sprinter Emma Mazzenga is giving scientists a rare look at just how much of the physical decline we associate with aging may not actually be inevitable.",
-            "pubDate": "2026-10-18T04:00:00Z",
-            "link": "https://www.cbc.ca/news/world/emma-mazzenga-italian-sprinter-longevity-9.7383784?cmp=rss"
-          },
-          {
-            "title": "How AI is making it harder to book on Airbnb; Is junk food bad for your brain?: CBC's Marketplace Cheat Sheet",
-            "desc": "The CBC's Marketplace rounds up the consumer and health news you need from the week.",
-            "pubDate": "2026-10-18T08:00:00Z",
-            "link": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-oct-18-9.7384059?cmp=rss"
           }
         ],
         "world": [
@@ -330,8 +330,8 @@
             "link": "https://www.cbc.ca/news/world/this-west-bank-teen-feared-he-wouldn-t-survive-the-year-now-he-s-dead-9.7383812?cmp=rss"
           },
           {
-            "title": "Blazes ignite at St. Petersburg oil sites as Kyiv launches more than 1,000 drones at Russia",
-            "desc": "Ukrainian attacks set an oil export terminal ablaze in St. Petersburg on Sunday, as Kyiv launched more than 1,000 drones across Russia in one of its largest ever aerial bombardments.",
+            "title": "St. Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia",
+            "desc": "Ukrainian strikes set an oil export terminal and a depot ablaze in St. Petersburg on Sunday as Kyiv launched more than 1,000 drones at Russia in one of its largest aerial attacks of the war.",
             "pubDate": "2026-10-18T06:48:06Z",
             "link": "https://www.cbc.ca/news/world/fire-russian-oil-sites-ukrain-drone-attacks-9.7385770?cmp=rss"
           },
@@ -362,7 +362,7 @@
         ],
         "canada": [
           {
-            "title": "7 dead in CFB Wainwright 'disaster' in Alberta: sources",
+            "title": "PM confirms 4 dead and next of kin notified after fire at CFB Wainwright in Alberta",
             "desc": "",
             "pubDate": "2026-10-17T21:33:38Z",
             "link": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-live-updates-9.7385537?cmp=rss"
@@ -380,34 +380,34 @@
             "link": "https://www.cbc.ca/news/canada/calgary/first-person-referendum-alberta-9.7343906?cmp=rss"
           },
           {
+            "title": "Save-On-Foods loyalty program members had personal information accessed in cybersecurity breach",
+            "desc": "A major Canadian supermarket chain has notified customers in its loyalty program that their personal information was accessed during a cybersecurity breach. The chain says it discovered the activity on one of its servers, which was \"quickly contained\" before launching an investigation.",
+            "pubDate": "2026-10-18T01:21:41Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/save-on-foods-loyalty-program-members-had-personal-information-accessed-in-cybersecurity-breach-9.7385626?cmp=rss"
+          },
+          {
+            "title": "Saskatchewan-born man achieves dream of becoming Jeopardy! Champion",
+            "desc": "Rian Robertson has achieved his longtime dream of appearing on the television show Jeopardy! Robertson, who is originally from Outlook, Sask., had a five game-streak on Jeopardy! winning $66,101 US.",
+            "pubDate": "2026-10-18T07:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/saskatchewan/outlook-jeopardy-champion-9.7385096?cmp=rss"
+          },
+          {
+            "title": "Canada's Dabrowski, Brazil's Stefani capture Wuhan Open women's doubles title",
+            "desc": "Canada's Gabriela Dabrowski and Brazilian partner Luisa Stefani captured the women's doubles title Sunday at the Wuhan Open tennis tournament in Wuhan, China.",
+            "pubDate": "2026-10-18T12:51:52Z",
+            "link": "https://www.cbc.ca/sports/tennis/gabriela-dabrowski-wins-wuhan-open-9.7385958?cmp=rss"
+          },
+          {
             "title": "‘Our river is almost dead’: What’s killing an iconic Miramichi fishery?",
             "desc": "As Atlantic salmon populations in the Miramichi watershed dwindle, striped bass are surging — and tensions are riding high.",
             "pubDate": "2026-10-18T05:00:00Z",
             "link": "https://www.cbc.ca/news/canada/new-brunswick/miramichi-atlantic-salmon-striped-bass-9.7373900?cmp=rss"
           },
           {
-            "title": "Montreal borough tightens rules on e-scooters as youth injuries skyrocket",
-            "desc": "The Montreal borough of Saint-Laurent has adopted a new bylaw banning electric scooters and other motorized personal mobility devices in public areas that fall within its jurisdiction. They're still allowed on bike paths and streets where the maximum speed limit is less than 50 km/h.",
-            "pubDate": "2026-10-18T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/e-scooters-safety-concerns-montreal-9.7383665?cmp=rss"
-          },
-          {
-            "title": "Family of Quebec boy killed while cycling calls off ghost bike memorial, cites hate messages",
-            "desc": "The family of an 11-year-old boy who was fatally struck while riding his bicycle in Quebec City’s Beauport borough is calling off its plans to install a ghost bike in his honour this weekend, citing hateful messages they received.",
-            "pubDate": "2026-10-17T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/quebec-city-ghost-bike-memorial-11-year-old-killed-9.7384040?cmp=rss"
-          },
-          {
-            "title": "Ontario to import U.S. electricity this winter, months after Ford threatened to cut power exports",
-            "desc": "Ontario will import power from the United States this winter, the province's independent electricity operator has announced, just a few months after Premier Doug Ford threatened to cut exports to the U.S. amid the ongoing trade war.",
-            "pubDate": "2026-10-17T14:40:18Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/ontario-electricty-contract-ieso-doug-ford-trade-war-9.7385325?cmp=rss"
-          },
-          {
-            "title": "Do Alberta’s temporary residents pay little tax, reap lots of benefits? We asked economists",
-            "desc": "The province has been sharing a lot of big dollar figures in the lead-up to the Oct. 19 referendum — many of them supporting the claim that temporary residents pay little in taxes compared to what they get out of provincially funded public and social services.",
-            "pubDate": "2026-10-17T14:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/calgary/alberta-temporary-residents-tax-9.7383858?cmp=rss"
+            "title": "Religion could be on the rise among young adults. Some are seeing it in Sask.",
+            "desc": "A recent study shows Gen Z is the most religiously committed age demographic in Canada. Some faith leaders in Saskatchewan say more young people are showing up at their places of worship.",
+            "pubDate": "2026-10-18T06:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/saskatchewan/religion-young-adults-sask-9.7381421?cmp=rss"
           }
         ],
         "bc": [
@@ -416,6 +416,24 @@
             "desc": "Call it the winds of change if you like. But what was just as noteworthy as the massive changeover was the lack of a political pattern in those changeovers.",
             "pubDate": "2026-10-18T09:30:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/municipal-election-b-c-2026-change-experience-9.7385743?cmp=rss"
+          },
+          {
+            "title": "'Looking for a change': Fort Nelson mayor eager for B.C. election",
+            "desc": "A municipal leader in northeastern B.C. says he’s \"looking for a change of government” as the snap provincial election draws near.",
+            "pubDate": "2026-10-18T16:10:41Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/fort-nelson-rob-fraser-provincial-election-9.7385948?cmp=rss"
+          },
+          {
+            "title": "Dawson Creek voters embrace Dwaine Dilworth as their newly elected mayor",
+            "desc": "Voters in Dawson Creek, B.C., embraced Dwaine Dilworth on Oct. 17 as their mayor-elect. The born and raised local auto-glass shop owner says he's ready to get to work on behalf of residents.",
+            "pubDate": "2026-10-18T15:02:56Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/dwaine-dilworth-elected-mayor-dawson-creek-9.7385685?cmp=rss"
+          },
+          {
+            "title": "4 people sent to hospital after Coquihalla crash near Merritt, B.C.",
+            "desc": "A 30-kilometre stretch of the highway was closed between Merritt and Exit 315 around 9 a.m. Saturday due to a motor vehicle incident near Helmer Road.",
+            "pubDate": "2026-10-18T12:47:25Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/paramedics-coquihalla-crash-9.7385955?cmp=rss"
           },
           {
             "title": "Voters signal need for change in Victoria, Saanich",
@@ -440,74 +458,56 @@
             "desc": "",
             "pubDate": "2026-10-17T22:00:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-municipal-election-results-live-updates-october-17-2026-9.7376955?cmp=rss"
-          },
-          {
-            "title": "B.C. ultramarathoner’s dream washed out by severe storm and flooding in Utah",
-            "desc": "A B.C. ultramarathoner was rescued from 386-kilometre race in Moab, Utah, after severe storm and flooding ended the event mid-race",
-            "pubDate": "2026-10-18T11:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/ultramarathoner-washed-out-9.7384584?cmp=rss"
-          },
-          {
-            "title": "4 reasons why Pete Fry is the new mayor of Vancouver — and 1 reason Ken Sim lost",
-            "desc": "In a province where incumbent mayors seeking re-election win approximately 80 per cent of the time, why did Ken Sim lose in Vancouver? Here are a few reasons, based on reporting before and during the campaign, and from people with direct knowledge of the Fry and Sim campaigns.",
-            "pubDate": "2026-10-18T08:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/pete-fry-ken-sim-vancouver-mayoral-election-analysis-9.7385707?cmp=rss"
-          },
-          {
-            "title": "Tom Dyas re-elected mayor of Kelowna",
-            "desc": "Dyas ran a campaign focused on public safety when he won the top job in 2022, in what was his first elected government role. He held off the challenge of Ron Cannan, a former councillor and MP for the area.",
-            "pubDate": "2026-10-18T03:32:48Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/tom-dyas-mayor-kelowna-2026-9.7385701?cmp=rss"
           }
         ],
         "local": [
           {
+            "title": "Canadiens' Cole Caufield credits 'less traffic' for Saturday night scoring touch",
+            "desc": "MONTREAL — Cole Caufield has spent months answering questions about his knack for scoring on Saturday nights.  The Montreal Canadiens winger finally has a theory.  “I think less traffic,” he quipped. “That might be it.",
+            "pubDate": "2026-10-18T20:06:10Z",
+            "link": "https://www.nsnews.com/national-sports/canadiens-cole-caufield-credits-less-traffic-for-saturday-night-scoring-touch-12907478"
+          },
+          {
+            "title": "Box Office: Elizabeth Holmes movie ‘You Can See Everything’ is now a hit in theaters too",
+            "desc": "North American movie theaters were flooded with  new films this weekend , including a video game reboot, a big budget survival thriller and a Jane Austen adaptation.",
+            "pubDate": "2026-10-18T20:01:13Z",
+            "link": "https://www.nsnews.com/the-mix/box-office-elizabeth-holmes-movie-you-can-see-everything-is-now-a-hit-in-theaters-too-12907921"
+          },
+          {
+            "title": "Rough ride for some incumbents: B.C.'s municipal elections at a glance",
+            "desc": "Some incumbent candidates have taken a beating in British Columbia's municipal elections.  Voters on Saturday evicted the mayors of Vancouver and Surrey, the province's two biggest cities.  Here's a look at some of the results.",
+            "pubDate": "2026-10-18T20:00:07Z",
+            "link": "https://www.nsnews.com/bc-news/rough-ride-for-some-incumbents-bcs-municipal-elections-at-a-glance-12907918"
+          },
+          {
+            "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests",
+            "desc": "PARIS (AP) — French President  Emmanuel Macron  on Sunday voiced the public’s “anger” and “shame” over rioting and looting during nationwide protests against rising living costs and  poor conditions in schools . At least 2,400 people were arrested.",
+            "pubDate": "2026-10-18T19:56:48Z",
+            "link": "https://www.nsnews.com/world-news/macron-condemns-those-who-sought-to-bring-down-the-republic-after-rioting-mars-nationwide-protests-12908051"
+          },
+          {
             "title": "The latest developments on the deadly fire at CFB Wainwright in Alberta",
-            "desc": "WAINWRIGHT — Defence Minister David McGuinty said there have been deaths and injuries after a fire erupted Saturday afternoon at CFB Wainwright, a massive military training base about 200 kilometres southeast of Edmonton.",
-            "pubDate": "2026-10-18T15:46:35Z",
+            "desc": "WAINWRIGHT — Prime Minister Mark Carney says four military members were killed and dozens more were seriously injured after a violent, fast-moving fire at CFB Wainwright, a massive military training base about 200 kilometres southeast of Edmonton.",
+            "pubDate": "2026-10-18T19:48:11Z",
             "link": "https://www.nsnews.com/national-news/the-latest-developments-on-the-deadly-fire-at-cfb-wainwright-in-alberta-12907823"
           },
           {
-            "title": "No sign of 'terrorist activity' in deadly fire at Alberta military base: Forces",
-            "desc": "WAINWRIGHT — The Armed Forces say there's no indication a fire that erupted at an Alberta military base, resulting in deaths and injuries, was the result of terrorist activity.",
-            "pubDate": "2026-10-18T15:35:32Z",
-            "link": "https://www.nsnews.com/national-news/no-sign-of-terrorist-activity-in-deadly-fire-at-alberta-military-base-forces-12907824"
+            "title": "Four dead, dozens injured in violent fire at Alberta military base: Carney",
+            "desc": "WAINWRIGHT — Prime Minister Mark Carney says four military members were killed and dozens more were seriously injured after a violent, fast-moving fire at CFB Wainwright in Alberta.",
+            "pubDate": "2026-10-18T19:45:21Z",
+            "link": "https://www.nsnews.com/national-news/four-dead-dozens-injured-in-violent-fire-at-alberta-military-base-carney-12907824"
           },
           {
-            "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-            "desc": "WEST PALM BEACH, Fla.",
-            "pubDate": "2026-10-18T15:34:17Z",
-            "link": "https://www.nsnews.com/world-news/trump-endorses-embattled-israeli-prime-minister-benjamin-netanyahu-for-reelection-12907752"
+            "title": "De Havilland calls for national water bomber fleet as it scrambles to meet demand",
+            "desc": "MONTREAL — On July 13, a pair of Canadair water bombers touched down on the Seine River, skimming along its surface to refill their water tanks as they battled a wildfire south of Paris.",
+            "pubDate": "2026-10-18T18:49:50Z",
+            "link": "https://www.nsnews.com/national-business/de-havilland-calls-for-national-water-bomber-fleet-as-it-scrambles-to-meet-demand-12907507"
           },
           {
-            "title": "Time Traveller: Do you remember what was here before it became Waterfront Park?",
-            "desc": "The North Vancouver park opened in 1985, and that unique 'Cathedral' scuplture arrived a year later",
-            "pubDate": "2026-10-18T14:30:00Z",
-            "link": "https://www.nsnews.com/in-the-community/time-traveller-do-you-remember-what-was-here-before-it-became-waterfront-park-12894218"
-          },
-          {
-            "title": "Five things to watch for in the Canadian business world in the coming week",
-            "desc": "TORONTO — Five things to watch for in the Canadian business world in the coming week:  Alberta referendum  Albertans vote on Monday on 10 referendum questions including whether or not to hold a binding referendum on the province leaving Canada.",
-            "pubDate": "2026-10-18T14:00:11Z",
-            "link": "https://www.nsnews.com/the-mix/five-things-to-watch-for-in-the-canadian-business-world-in-the-coming-week-12907642"
-          },
-          {
-            "title": "Five things to watch for in the Canadian business world in the coming week",
-            "desc": "TORONTO — Five things to watch for in the Canadian business world in the coming week:  Alberta referendum  Albertans vote on Monday on 10 referendum questions including whether or not to hold a binding referendum on the province leaving Canada.",
-            "pubDate": "2026-10-18T14:00:00Z",
-            "link": "https://www.nsnews.com/national-business/five-things-to-watch-for-in-the-canadian-business-world-in-the-coming-week-12907643"
-          },
-          {
-            "title": "Analysis: Trump says he's a great dealmaker. His record says otherwise",
-            "desc": "WASHINGTON (AP) — Trump Tower had just opened and “The Art of the Deal” was three years from publication when 38-year-old  Donald Trump  suggested he could negotiate Russian arms control better than Ronald Reagan.",
-            "pubDate": "2026-10-18T12:55:23Z",
-            "link": "https://www.nsnews.com/the-mix/analysis-trump-says-hes-a-great-dealmaker-his-record-says-otherwise-12907598"
-          },
-          {
-            "title": "Analysis: For Trump, results have often revealed the art of no deal",
-            "desc": "WASHINGTON (AP) — Trump Tower had just opened and “The Art of the Deal\" three years from publication when 38-year-old  Donald Trump  suggested he could negotiate Russian arms control better than Ronald Reagan.",
-            "pubDate": "2026-10-18T11:58:27Z",
-            "link": "https://www.nsnews.com/the-mix/analysis-for-trump-results-have-often-revealed-the-art-of-no-deal-12907546"
+            "title": "De Havilland calls for national water bomber fleet as it scrambles to meet demand",
+            "desc": "MONTREAL — On July 13, a pair of Canadair water bombers touched down on the Seine River, skimming along its surface to refill their water tanks as they battled a wildfire south of Paris.",
+            "pubDate": "2026-10-18T18:49:50Z",
+            "link": "https://www.nsnews.com/the-mix/de-havilland-calls-for-national-water-bomber-fleet-as-it-scrambles-to-meet-demand-12907505"
           }
         ]
       },
