@@ -2,7 +2,7 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-18T23:09:50Z",
+      "fetchedAt": "2026-10-19T04:36:49Z",
       "sections": {
         "top": [
           {
@@ -12,46 +12,46 @@
             "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "What we know so far about deadly fire at Canadian military base",
-            "desc": "At least four people are confirmed to have died after a huge fire swept through the base.",
-            "pubDate": "2026-10-18T21:37:56Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
+            "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+            "desc": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+            "pubDate": "2026-10-19T00:06:25Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-            "desc": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
-            "pubDate": "2026-10-18T14:57:19Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss"
+            "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
+            "desc": "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.",
+            "pubDate": "2026-10-19T00:28:44Z",
+            "link": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-            "desc": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-            "pubDate": "2026-10-18T05:04:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
+            "title": "Burnham says youth employment and training crisis is a 'moral failure'",
+            "desc": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says.",
+            "pubDate": "2026-10-19T01:40:53Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-            "desc": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
-            "pubDate": "2026-10-18T21:00:22Z",
-            "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
+            "title": "Major fire at Canada military base leaves four dead, dozens injured ",
+            "desc": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+            "pubDate": "2026-10-18T23:06:09Z",
+            "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "People playing loud music on buses could face £100 fine",
+            "desc": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+            "pubDate": "2026-10-19T00:22:20Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Home sellers cut asking prices on 3,000 properties a day",
+            "desc": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+            "pubDate": "2026-10-18T23:00:45Z",
+            "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
             "desc": "Presley Gerber's death in September is being investigated as a suspected overdose.",
             "pubDate": "2026-10-18T19:53:27Z",
             "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-            "desc": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-            "pubDate": "2026-10-18T15:46:10Z",
-            "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-            "desc": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-            "pubDate": "2026-10-18T12:09:04Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
@@ -62,49 +62,73 @@
             "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "What we know so far about deadly fire at Canadian military base",
-            "desc": "At least four people are confirmed to have died after a huge fire swept through the base.",
-            "pubDate": "2026-10-18T21:37:56Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
+            "title": "France's government under pressure after weekend of widespread violence",
+            "desc": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+            "pubDate": "2026-10-19T04:16:46Z",
+            "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Major fire at Canada military base leaves four dead, dozens injured ",
+            "desc": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+            "pubDate": "2026-10-18T23:06:09Z",
+            "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+            "desc": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+            "pubDate": "2026-10-19T00:06:25Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
             "desc": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-            "pubDate": "2026-10-18T22:10:45Z",
+            "pubDate": "2026-10-18T23:20:15Z",
             "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-            "desc": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
-            "pubDate": "2026-10-18T21:00:22Z",
-            "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
+            "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+            "desc": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
+            "pubDate": "2026-10-19T01:50:48Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-            "desc": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-            "pubDate": "2026-10-18T15:46:10Z",
-            "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
+            "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+            "desc": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell.",
+            "pubDate": "2026-10-19T03:44:02Z",
+            "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-            "desc": "Presley Gerber's death in September is being investigated as a suspected overdose.",
-            "pubDate": "2026-10-18T19:53:27Z",
-            "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "European diplomats attacked by Israeli settlers in West Bank",
-            "desc": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-            "pubDate": "2026-10-18T12:16:14Z",
-            "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-            "desc": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
-            "pubDate": "2026-10-18T13:47:07Z",
-            "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss"
+            "title": "Threat forces Israel to Austria flight into emergency landing",
+            "desc": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+            "pubDate": "2026-10-19T02:41:50Z",
+            "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
+          {
+            "title": "Burnham says youth employment and training crisis is a 'moral failure'",
+            "desc": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says.",
+            "pubDate": "2026-10-19T01:40:53Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "People playing loud music on buses could face £100 fine",
+            "desc": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+            "pubDate": "2026-10-19T00:22:20Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Home sellers cut asking prices on 3,000 properties a day",
+            "desc": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+            "pubDate": "2026-10-18T23:00:45Z",
+            "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Chance of storms this week as Atlantic jet stream roars into life",
+            "desc": "Gales are possible later this week as a deep low pressure system crosses the UK, but uncertainty remains whether impacts will be enough for it to be a named storm.",
+            "pubDate": "2026-10-19T00:34:38Z",
+            "link": "https://www.bbc.co.uk/weather/articles/crp3g7y9n5y7o?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
             "desc": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
@@ -128,80 +152,56 @@
             "desc": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
             "pubDate": "2026-10-18T17:00:42Z",
             "link": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "NHS data breaches a disgrace, health secretary says",
-            "desc": "A total of 15 NHS staff have been sacked for accessing records of the Nottingham attacks victims.",
-            "pubDate": "2026-10-18T10:52:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq2e9nw82ljdo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Man and woman in their late teens die in collision",
-            "desc": "Police say the driver dies in hospital as a result of her injuries.",
-            "pubDate": "2026-10-18T18:58:50Z",
-            "link": "https://www.bbc.co.uk/news/articles/c693z9k57d7wo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "West Midlands Police officer who accessed police records 2,000 times sacked",
-            "desc": "A misconduct hearing said many of the records accessed were sensitive and held \"intimate information\".",
-            "pubDate": "2026-10-18T15:30:49Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmkg7jl1wxvgo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "BBC pauses civil service secondment scheme",
-            "desc": "The BBC said all journalism and editorial decisions are made by BBC journalists and editors.",
-            "pubDate": "2026-10-18T14:25:51Z",
-            "link": "https://www.bbc.co.uk/news/articles/cwjdmy20yjmno?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
+          {
+            "title": "Microsoft pulls out of UK's largest AI data centre",
+            "desc": "Tech firm Nscale says it is still committed to building the site in Essex.",
+            "pubDate": "2026-10-18T16:46:42Z",
+            "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Home sellers cut asking prices on 3,000 properties a day",
+            "desc": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+            "pubDate": "2026-10-18T23:00:45Z",
+            "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+            "desc": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+            "pubDate": "2026-10-19T03:17:46Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+            "desc": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+            "pubDate": "2026-10-19T04:30:59Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "People playing loud music on buses could face £100 fine",
+            "desc": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+            "pubDate": "2026-10-19T00:22:20Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Don't fall for this - how to protect yourself from AI scams",
+            "desc": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+            "pubDate": "2026-10-18T23:24:59Z",
+            "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+            "desc": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+            "pubDate": "2026-10-18T23:28:45Z",
+            "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "There's a crackdown on sports piracy - but is it already out of control?",
             "desc": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
             "pubDate": "2026-10-18T00:11:09Z",
             "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-            "desc": "It comes after the prime minister refused to say whether he backed expansion.",
-            "pubDate": "2026-10-17T03:57:16Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
-            "desc": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
-            "pubDate": "2026-10-17T01:59:48Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "What is the Budget and what could be in it?",
-            "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-            "pubDate": "2026-10-18T10:22:17Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
-            "desc": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
-            "pubDate": "2026-10-18T08:12:24Z",
-            "link": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Living with a stink? Technology might help",
-            "desc": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-            "pubDate": "2026-10-15T23:18:21Z",
-            "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "'I took a chance on the whisky industry and I haven't looked back'",
-            "desc": "Zoey Darnbrough had no idea there was a distillery near her home - now she has a top tourism role there.",
-            "pubDate": "2026-10-18T08:12:17Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Banks expect to be hit with higher taxes in Budget",
-            "desc": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-            "pubDate": "2026-10-16T10:16:27Z",
-            "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "sport": [
@@ -258,14 +258,20 @@
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-18T23:09:51Z",
+      "fetchedAt": "2026-10-19T04:36:50Z",
       "sections": {
         "top": [
           {
-            "title": "4 dead, at least 19 in critical condition after fire at CFB Wainwright in Alberta, officials say",
+            "title": "‘We will remember’: Tributes pour in for soldiers killed in fiery incident at Alberta military base",
             "desc": "",
             "pubDate": "2026-10-17T21:33:38Z",
-            "link": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-live-updates-9.7385537?cmp=rss"
+            "link": "https://www.cbc.ca/news/canada/edmonton/alberta-wainwright-base-fire-victims-9.7386272?cmp=rss"
+          },
+          {
+            "title": "Former Marineland beluga whale dies at California theme park",
+            "desc": "A California aquarium says a beluga rescued from Marineland in Ontario has died, adding to the number of deaths of animals relocated over the summer from the now-closed Canadian facility.",
+            "pubDate": "2026-10-18T21:49:42Z",
+            "link": "https://www.cbc.ca/news/world/marineland-beluga-whale-dies-seaworld-san-diego-9.7386294?cmp=rss"
           },
           {
             "title": "Freeland believes her resignation led to better outcome for Trudeau, allowing him to exit before likely defeat",
@@ -274,13 +280,7 @@
             "link": "https://www.cbc.ca/news/politics/freeland-resignation-trudeau-9.7384728?cmp=rss"
           },
           {
-            "title": "Canada's Einarson wins 7th Grand Slam of Curling title, 1st since 2024",
-            "desc": "Kerri Einarson won her seventh Grand Slam of Curling title and first in two years, beating South Korea's Team Kang 6-3 in the women's final at the season-opening Co-op Invitational in Victoria on Sunday.",
-            "pubDate": "2026-10-18T17:30:13Z",
-            "link": "https://www.cbc.ca/sports/olympics/winter/curling/grand-slam-of-curling-victoria-recap-oct-18-9.7386128?cmp=rss"
-          },
-          {
-            "title": "Saskatchewan-born man achieves dream of becoming Jeopardy! Champion",
+            "title": "Saskatchewan-born man achieves dream of becoming Jeopardy! champion",
             "desc": "Rian Robertson has achieved his longtime dream of appearing on the television show Jeopardy! Robertson, who is originally from Outlook, Sask., had a five game-streak on Jeopardy! winning $66,101 US.",
             "pubDate": "2026-10-18T07:00:00Z",
             "link": "https://www.cbc.ca/news/canada/saskatchewan/outlook-jeopardy-champion-9.7385096?cmp=rss"
@@ -298,16 +298,16 @@
             "link": "https://www.cbc.ca/news/politics/alberta-referendum-conservatives-liberals-remain-9.7386058?cmp=rss"
           },
           {
-            "title": "New mayors elected in B.C.'s largest cities, including Vancouver and Surrey, as voters opt for change",
-            "desc": "",
-            "pubDate": "2026-10-17T22:00:43Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-municipal-election-results-live-updates-october-17-2026-9.7376955?cmp=rss"
+            "title": "The National | Alberta military base tragedy",
+            "desc": "Oct. 18, 2026 | A ‘violent, fast-moving’ fire tears through a military training exercise at CFB Wainwright in Alberta killing four soldiers and injuring dozens more. And as the province mourns, it also prepares for a high-stakes referendum that could shape its future.",
+            "pubDate": "2026-10-18T21:00:00Z",
+            "link": "https://www.cbc.ca/player/play/9.4236164?cmp=rss"
           },
           {
-            "title": "Should Alberta separate? Here's why these Canadians feel the way they do",
-            "desc": "",
-            "pubDate": "2026-10-15T13:43:16Z",
-            "link": "https://www.cbc.ca/news/canada/calgary/first-person-referendum-alberta-9.7343906?cmp=rss"
+            "title": "Canada's Einarson wins 7th Grand Slam of Curling title, 1st since 2024",
+            "desc": "Kerri Einarson won her seventh Grand Slam of Curling title and first in two years, beating South Korea's Team Kang 6-3 in the women's final at the season-opening Co-op Invitational in Victoria on Sunday.",
+            "pubDate": "2026-10-18T17:30:13Z",
+            "link": "https://www.cbc.ca/sports/olympics/winter/curling/grand-slam-of-curling-victoria-recap-oct-18-9.7386128?cmp=rss"
           }
         ],
         "world": [
@@ -362,10 +362,16 @@
         ],
         "canada": [
           {
-            "title": "4 dead, at least 19 in critical condition after fire at CFB Wainwright in Alberta, officials say",
+            "title": "‘We will remember’: Tributes pour in for soldiers killed in fiery incident at Alberta military base",
             "desc": "",
             "pubDate": "2026-10-17T21:33:38Z",
-            "link": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-live-updates-9.7385537?cmp=rss"
+            "link": "https://www.cbc.ca/news/canada/edmonton/alberta-wainwright-base-fire-victims-9.7386272?cmp=rss"
+          },
+          {
+            "title": "Pile of dead Canada geese discovered near Garson, Man.",
+            "desc": "Manitoba Conservation says it's investigating after a man operating a grader discovered a pile of dead Canada geese in a ditch just north of Garson, Man., on Friday morning.",
+            "pubDate": "2026-10-18T17:24:45Z",
+            "link": "https://www.cbc.ca/news/canada/manitoba/pile-of-dead-geese-garson-9.7386084?cmp=rss"
           },
           {
             "title": "New mayors elected in B.C.'s largest cities, including Vancouver and Surrey, as voters opt for change",
@@ -380,13 +386,19 @@
             "link": "https://www.cbc.ca/news/canada/calgary/first-person-referendum-alberta-9.7343906?cmp=rss"
           },
           {
+            "title": "Former Marineland beluga whale dies at California theme park",
+            "desc": "A California aquarium says a beluga rescued from Marineland in Ontario has died, adding to the number of deaths of animals relocated over the summer from the now-closed Canadian facility.",
+            "pubDate": "2026-10-18T21:49:42Z",
+            "link": "https://www.cbc.ca/news/world/marineland-beluga-whale-dies-seaworld-san-diego-9.7386294?cmp=rss"
+          },
+          {
             "title": "Save-On-Foods loyalty program members had personal information accessed in cybersecurity breach",
             "desc": "A major Canadian supermarket chain has notified customers in its loyalty program that their personal information was accessed during a cybersecurity breach. The chain says it discovered the activity on one of its servers, which was \"quickly contained\" before launching an investigation.",
             "pubDate": "2026-10-18T01:21:41Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/save-on-foods-loyalty-program-members-had-personal-information-accessed-in-cybersecurity-breach-9.7385626?cmp=rss"
           },
           {
-            "title": "Saskatchewan-born man achieves dream of becoming Jeopardy! Champion",
+            "title": "Saskatchewan-born man achieves dream of becoming Jeopardy! champion",
             "desc": "Rian Robertson has achieved his longtime dream of appearing on the television show Jeopardy! Robertson, who is originally from Outlook, Sask., had a five game-streak on Jeopardy! winning $66,101 US.",
             "pubDate": "2026-10-18T07:00:00Z",
             "link": "https://www.cbc.ca/news/canada/saskatchewan/outlook-jeopardy-champion-9.7385096?cmp=rss"
@@ -396,21 +408,21 @@
             "desc": "Canada's Gabriela Dabrowski and Brazilian partner Luisa Stefani captured the women's doubles title Sunday at the Wuhan Open tennis tournament in Wuhan, China.",
             "pubDate": "2026-10-18T12:51:52Z",
             "link": "https://www.cbc.ca/sports/tennis/gabriela-dabrowski-wins-wuhan-open-9.7385958?cmp=rss"
-          },
-          {
-            "title": "‘Our river is almost dead’: What’s killing an iconic Miramichi fishery?",
-            "desc": "As Atlantic salmon populations in the Miramichi watershed dwindle, striped bass are surging — and tensions are riding high.",
-            "pubDate": "2026-10-18T05:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/new-brunswick/miramichi-atlantic-salmon-striped-bass-9.7373900?cmp=rss"
-          },
-          {
-            "title": "Religion could be on the rise among young adults. Some are seeing it in Sask.",
-            "desc": "A recent study shows Gen Z is the most religiously committed age demographic in Canada. Some faith leaders in Saskatchewan say more young people are showing up at their places of worship.",
-            "pubDate": "2026-10-18T06:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/saskatchewan/religion-young-adults-sask-9.7381421?cmp=rss"
           }
         ],
         "bc": [
+          {
+            "title": "2 British Columbians identified among 4 soldiers killed in fiery incident at Alberta military base",
+            "desc": "Tributes are pouring in from across the country for the four soldiers killed in a fiery incident at Canadian Forces Base Wainwright after they were identified Sunday.",
+            "pubDate": "2026-10-18T21:22:20Z",
+            "link": "https://www.cbc.ca/news/canada/edmonton/alberta-wainwright-base-fire-victims-9.7386272?cmp=rss"
+          },
+          {
+            "title": "B.C. Conservatives promise to shrink deficit to $10.8B while adding $2.6B in revenue",
+            "desc": "The B.C. Conservatives say their platform will create $2.6 billion in new revenue over three years, while shrinking the deficit to $10.8 billion by 2030.",
+            "pubDate": "2026-10-18T21:42:41Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-conservatives-costed-platform-announced-9.7386295?cmp=rss"
+          },
           {
             "title": "Eby calls on B.C. Green voters to beat Conservatives by voting NDP",
             "desc": "British Columbia NDP Leader David Eby is appealing to Green voters as the snap election slated for Oct. 24 enters its final week, but Green Party Leader Emily Lowan says he is trying to scare voters into choosing him.",
@@ -418,10 +430,22 @@
             "link": "https://www.cbc.ca/news/canada/british-columbia/eby-asks-greens-for-votes-9.7386156?cmp=rss"
           },
           {
+            "title": "Lytton mayoral candidates deadlocked in tie after initial election results",
+            "desc": "Residents of Lytton, B.C., still don't know who their next mayor will be — as the two candidates have tied. Incumbent Denise O'Connor and her challenger, former city councillor Jennifer Thoss, both received 45 votes, according to the preliminary results released by the Village of Lytton.",
+            "pubDate": "2026-10-18T19:50:09Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/lytton-mayoral-race-tie-initial-results-9.7386150?cmp=rss"
+          },
+          {
             "title": "Most B.C. municipalities see an increase in voter turnout for 2026 elections",
             "desc": "A week after several B.C. cities reported advance polling records, preliminary final election results from several large municipalities confirm more people flocked to the polls Saturday than in the last municipal elections.",
             "pubDate": "2026-10-18T17:56:20Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/voter-turnout-increase-9.7386133?cmp=rss"
+          },
+          {
+            "title": "How will mayor-elect Rob Howard unite a divided Richmond council?",
+            "desc": "Richmond's newly-elected mayor, Rob Howard, will be the first new person with the city's top job in 25 years, but no one else on his slate made it into council.",
+            "pubDate": "2026-10-18T19:38:58Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/how-will-mayor-elect-rob-howard-unite-a-divided-richmond-council-9.7386221?cmp=rss"
           },
           {
             "title": "A 'change' election in B.C., but one where experience still mattered",
@@ -434,80 +458,56 @@
             "desc": "Kenya's Leonard Langat successfully defended his title while Andrew Davies of Vancouver made Canadian history on Sunday at the Toronto Waterfront Marathon. Leah Jeruto, also of Kenya, won the women's race.",
             "pubDate": "2026-10-18T16:04:15Z",
             "link": "https://www.cbc.ca/sports/olympics/summer/athletics/2026-toronto-waterfront-marathon-recap-9.7386064?cmp=rss"
-          },
-          {
-            "title": "'Looking for a change': Fort Nelson mayor eager for B.C. election",
-            "desc": "A municipal leader in northeastern B.C. says he’s \"looking for a change of government” as the snap provincial election draws near.",
-            "pubDate": "2026-10-18T16:10:41Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/fort-nelson-rob-fraser-provincial-election-9.7385948?cmp=rss"
-          },
-          {
-            "title": "Dawson Creek voters embrace Dwaine Dilworth as their newly elected mayor",
-            "desc": "Voters in Dawson Creek, B.C., embraced Dwaine Dilworth on Oct. 17 as their mayor-elect. The born and raised local auto-glass shop owner says he's ready to get to work on behalf of residents.",
-            "pubDate": "2026-10-18T15:02:56Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/dwaine-dilworth-elected-mayor-dawson-creek-9.7385685?cmp=rss"
-          },
-          {
-            "title": "4 people sent to hospital after Coquihalla crash near Merritt, B.C.",
-            "desc": "A 30-kilometre stretch of the highway was closed between Merritt and Exit 315 around 9 a.m. Saturday due to a motor vehicle incident near Helmer Road.",
-            "pubDate": "2026-10-18T12:47:25Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/paramedics-coquihalla-crash-9.7385955?cmp=rss"
-          },
-          {
-            "title": "Voters signal need for change in Victoria, Saanich",
-            "desc": "A strong showing of candidates running on a platform to bolster public safety, strengthen fiscal responsibility and ease up on development have been elected in Victoria and Saanich on Vancouver Island.",
-            "pubDate": "2026-10-18T10:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/public-safety-victoria-saanich-9.7385637?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Pridham, Belzile both score twice to lead Ottawa Rapid FC to 5-2 NSL victory",
-            "desc": "OTTAWA — Delaney Baie Pridham and Florence Belzile both had two goals to lead Ottawa Rapid FC to a 5-2 win over Vancouver Rise FC in a Northern Super League game Sunday.",
-            "pubDate": "2026-10-18T22:43:04Z",
-            "link": "https://www.nsnews.com/national-sports/pridham-belzile-both-score-twice-to-lead-ottawa-rapid-fc-to-5-2-nsl-victory-12908455"
+            "title": "NHL roundup: Kaprizov’s NHL-leading 10th goal lifts Wild past Blue Jackets",
+            "desc": "ST. PAUL, Minn. (AP) — Kirill Kaprizov broke a second-period tie with his NHL-leading 10th goal, Jesper Wallstedt stopped 13 shots, and the Minnesota Wild beat the Columbus Blue Jackets 2-1 on Sunday night.",
+            "pubDate": "2026-10-19T03:26:26Z",
+            "link": "https://www.nsnews.com/national-sports/nhl-roundup-kaprizovs-nhl-leading-10th-goal-lifts-wild-past-blue-jackets-12908686"
+          },
+          {
+            "title": "China's economy accelerates on robust exports as domestic weakness persists",
+            "desc": "HONG KONG (AP) — China on Monday said its economy grew 4.",
+            "pubDate": "2026-10-19T03:23:43Z",
+            "link": "https://www.nsnews.com/national-business/chinas-economy-accelerates-on-robust-exports-as-domestic-weakness-persists-12908648"
+          },
+          {
+            "title": "Flames net late goal to beat Hurricanes 3-2, snap visitors' seven-game win streak",
+            "desc": "CALGARY — Morgan Frost scored once and set up Yegor Sharangovich's late game-winner as the Calgary Flames beat Carolina 3-2 on Sunday night, snapping the Hurricanes' seven-game winning streak.",
+            "pubDate": "2026-10-19T03:01:04Z",
+            "link": "https://www.nsnews.com/national-sports/flames-net-late-goal-to-beat-hurricanes-3-2-snap-visitors-seven-game-win-streak-12908669"
+          },
+          {
+            "title": "Costed B.C. Conservative platform promises $2.6 B in growth, $10.8B deficit",
+            "desc": "The British Columbia Conservatives say their election platform amounts to restraint, not austerity, and will create $2.6 billion in new revenue over three years, while shrinking the deficit to $10.8 billion by 2030.",
+            "pubDate": "2026-10-19T02:43:56Z",
+            "link": "https://www.nsnews.com/national-news/costed-bc-conservative-platform-promises-26-b-in-growth-108b-deficit-12908511"
+          },
+          {
+            "title": "Costed B.C. Conservative platform promises $2.6 B in growth, $10.8B deficit",
+            "desc": "The British Columbia Conservatives say their election platform amounts to restraint, not austerity, and will create $2.6 billion in new revenue over three years, while shrinking the deficit to $10.8 billion by 2030.",
+            "pubDate": "2026-10-19T02:43:56Z",
+            "link": "https://www.nsnews.com/the-mix/costed-bc-conservative-platform-promises-26-b-in-growth-108b-deficit-12908531"
+          },
+          {
+            "title": "Costed B.C. Conservative platform promises $2.6 B in growth, $10.8B deficit",
+            "desc": "The British Columbia Conservatives say their election platform amounts to restraint, not austerity, and will create $2.6 billion in new revenue over three years, while shrinking the deficit to $10.8 billion by 2030.",
+            "pubDate": "2026-10-19T02:43:56Z",
+            "link": "https://www.nsnews.com/national-business/costed-bc-conservative-platform-promises-26-b-in-growth-108b-deficit-12908532"
           },
           {
             "title": "Officials say catastrophic base fire was known ahead of time, allowed to burn",
-            "desc": "EDMONTON — Canada's military says a grass fire that killed four soldiers and sent scores more to hospital with bad burns was known well beforehand but not considered a threat.  Maj.-Gen.",
-            "pubDate": "2026-10-18T22:27:57Z",
+            "desc": "Canada's military says a grass fire that killed four soldiers and sent scores more to hospital with bad burns was known well beforehand but not considered a threat.  Maj.-Gen.",
+            "pubDate": "2026-10-19T02:33:42Z",
             "link": "https://www.nsnews.com/national-news/officials-say-catastrophic-base-fire-was-known-ahead-of-time-allowed-to-burn-12907824"
           },
           {
-            "title": "The latest developments on the deadly fire at CFB Wainwright in Alberta",
-            "desc": "WAINWRIGHT — Prime Minister Mark Carney says four military members were killed and dozens more were seriously injured after a violent, fast-moving fire at CFB Wainwright, a massive military training base about 200 kilometres southeast of Edmonton.",
-            "pubDate": "2026-10-18T22:12:46Z",
-            "link": "https://www.nsnews.com/national-news/the-latest-developments-on-the-deadly-fire-at-cfb-wainwright-in-alberta-12907823"
-          },
-          {
-            "title": "Einarson defeats Kyeong-Ae Kim 6-3 to claim GSOC Co-Op Invitational curling event",
-            "desc": "VICTORIA — Canada's Kerri Einarson defeated Korea's Kyeong-Ae Kim 6-3 on Sunday to capture the women's title at the GSOC Co-Op Invitational curling event.  Einarson's team from Gimli, Man.",
-            "pubDate": "2026-10-18T22:06:24Z",
-            "link": "https://www.nsnews.com/national-sports/einarson-defeats-kyeong-ae-kim-6-3-to-claim-gsoc-co-op-invitational-curling-event-12908420"
-          },
-          {
-            "title": "Alberta pro-unity rally held in wake of CFB Wainwright fire on final day before vote",
-            "desc": "EDMONTON — The leader of Alberta's flagship federalist referendum campaign is urging Albertans to keep in mind the privileges the Canadian military affords them after tragedy struck yesterday in the province.",
-            "pubDate": "2026-10-18T22:04:49Z",
-            "link": "https://www.nsnews.com/national-news/alberta-pro-unity-rally-held-in-wake-of-cfb-wainwright-fire-on-final-day-before-vote-12908394"
-          },
-          {
-            "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests",
-            "desc": "PARIS (AP) — French President  Emmanuel Macron  on Sunday voiced the public’s “anger” and “shame” over rioting and looting during nationwide protests against rising living costs and  poor conditions in schools . At least 2,400 people were arrested.",
-            "pubDate": "2026-10-18T21:44:46Z",
-            "link": "https://www.nsnews.com/world-news/macron-condemns-those-who-sought-to-bring-down-the-republic-after-rioting-mars-nationwide-protests-12908051"
-          },
-          {
-            "title": "Jorian Baucom's first-half goal leads Calgary Wild FC to a 1-0 win over AFC Toronto",
-            "desc": "TORONTO — Jorian Baucom had the game's lone goal to lead Calgary Wild FC to a 1-0 win over AFC Toronto in Northern Super League play Sunday.",
-            "pubDate": "2026-10-18T21:30:16Z",
-            "link": "https://www.nsnews.com/national-sports/jorian-baucoms-first-half-goal-leads-calgary-wild-fc-to-a-1-0-win-over-afc-toronto-12908341"
-          },
-          {
-            "title": "Eby asking Green voters to support B.C. NDP to defeat Conservatives",
-            "desc": "VICTORIA — British Columbia NDP Leader David Eby is appealing to Green voters as the snap election slated for Oct. 24 enters its final week, but Green Party Leader Emily Lowan says he is trying to scare voters into choosing him.",
-            "pubDate": "2026-10-18T21:08:35Z",
-            "link": "https://www.nsnews.com/national-news/eby-asking-green-voters-to-support-bc-ndp-to-defeat-conservatives-12907982"
+            "title": "The 4 soldiers killed in fast-moving fire at CFB Wainwright in Alberta",
+            "desc": "WAINWRIGHT — Four Armed Forces members were killed when a fast-moving fire overwhelmed soldiers during a training exercise at CFB Wainwright, southeast of Edmonton, on Saturday. Dozens of others were injured, with 39 still in hospital on Sunday.",
+            "pubDate": "2026-10-19T02:06:59Z",
+            "link": "https://www.nsnews.com/national-news/the-4-soldiers-killed-in-fast-moving-fire-at-cfb-wainwright-in-alberta-12908618"
           }
         ]
       },
