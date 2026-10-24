@@ -2,9 +2,15 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-24T15:55:28Z",
+      "fetchedAt": "2026-10-24T20:45:39Z",
       "sections": {
         "top": [
+          {
+            "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+            "desc": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+            "pubDate": "2026-10-24T19:37:35Z",
+            "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
             "desc": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
@@ -12,10 +18,16 @@
             "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-            "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
-            "pubDate": "2026-10-24T15:45:46Z",
-            "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss"
+            "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+            "desc": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+            "pubDate": "2026-10-24T20:30:43Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
+            "desc": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+            "pubDate": "2026-10-24T17:11:56Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Between quick wins and big dreams lies Burnham's biggest test",
@@ -24,34 +36,22 @@
             "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
-            "desc": "The children were subsequently rescued from the water, police say.",
-            "pubDate": "2026-10-24T09:45:47Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
+            "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+            "desc": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+            "pubDate": "2026-10-24T17:21:42Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-            "desc": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
-            "pubDate": "2026-10-24T10:30:08Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss"
+            "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
+            "desc": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
+            "pubDate": "2026-10-23T23:50:45Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
             "desc": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.",
             "pubDate": "2026-10-23T23:15:47Z",
             "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-            "desc": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
-            "pubDate": "2026-10-23T23:11:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
-            "desc": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
-            "pubDate": "2026-10-23T23:50:45Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
@@ -60,6 +60,12 @@
             "desc": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
             "pubDate": "2026-10-24T12:12:40Z",
             "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+            "desc": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+            "pubDate": "2026-10-24T17:21:42Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
@@ -75,26 +81,14 @@
           },
           {
             "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-            "desc": "The children were subsequently rescued from the water, police say.",
-            "pubDate": "2026-10-24T09:45:47Z",
+            "desc": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+            "pubDate": "2026-10-24T17:11:56Z",
             "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-            "desc": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-            "pubDate": "2026-10-23T23:08:23Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-            "desc": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-            "pubDate": "2026-10-24T09:46:53Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis ",
             "desc": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-            "pubDate": "2026-10-24T14:45:30Z",
+            "pubDate": "2026-10-24T19:12:51Z",
             "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -102,9 +96,21 @@
             "desc": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
             "pubDate": "2026-10-24T09:38:28Z",
             "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+            "desc": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+            "pubDate": "2026-10-24T09:46:53Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
+          {
+            "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+            "desc": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+            "pubDate": "2026-10-24T20:30:43Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
             "desc": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
@@ -118,22 +124,16 @@
             "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Mum dies after trying to rescue sons swept away at sea ",
-            "desc": "The children were subsequently rescued from the water, police say.",
-            "pubDate": "2026-10-24T09:45:47Z",
+            "title": "Mum who died trying to save sons was hero, husband says",
+            "desc": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+            "pubDate": "2026-10-24T17:11:56Z",
             "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-            "desc": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-            "pubDate": "2026-10-24T00:05:45Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
-            "desc": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told.",
-            "pubDate": "2026-10-24T02:52:10Z",
-            "link": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss"
+            "title": "Murder charge after body found in wheelie bin",
+            "desc": "Police say Mohamed Abotaka, 36, is charged with the murder of 52-year-old Ali Barzai.",
+            "pubDate": "2026-10-24T18:20:56Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6vg7p3qrpgdo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Sam Fender calls out ticket prices ahead of tour",
@@ -142,16 +142,16 @@
             "link": "https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "The convicted £33m tax fraudster evading justice and living it up in Dubai",
-            "desc": "Arif Patel \"should not be beyond the reach of the justice system,\" says the PM’s anti-corruption champion.",
-            "pubDate": "2026-10-24T06:32:35Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmy83v286571o?at_medium=RSS&at_campaign=rss"
+            "title": "Could Somerset pub be the oldest in England?",
+            "desc": "Experts say The George Inn, in Norton St Philip, which dates to about 1430, is England's oldest pub.",
+            "pubDate": "2026-10-24T11:32:46Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm5yn0rv6k90o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "GP says she was forced out of job after raising concerns about gender treatment",
-            "desc": "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors.",
-            "pubDate": "2026-10-23T19:23:10Z",
-            "link": "https://www.bbc.co.uk/news/articles/cr5ynl415j79o?at_medium=RSS&at_campaign=rss"
+            "title": "Thousands of people gather in support of Drumcree Orangemen",
+            "desc": "Hundreds of Orangemen are parading through Portadown, joined by bands and a crowd of supporters who have not been deterred by the weather.",
+            "pubDate": "2026-10-24T20:31:12Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6eq313dnzzeo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
@@ -206,90 +206,78 @@
         ],
         "sport": [
           {
+            "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+            "desc": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
+            "pubDate": "2026-10-24T19:17:06Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Arsenal beat Everton to go level on points with leaders Man City",
+            "desc": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
+            "pubDate": "2026-10-24T18:59:30Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+            "desc": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
+            "pubDate": "2026-10-24T18:59:27Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Bobb's late strike secures Fulham win at Coventry",
+            "desc": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
+            "pubDate": "2026-10-24T18:59:22Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+            "desc": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
+            "pubDate": "2026-10-24T18:26:29Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
             "desc": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
             "pubDate": "2026-10-24T15:05:45Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
-            "desc": "Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?",
-            "pubDate": "2026-10-24T15:40:01Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&at_campaign=rss"
+            "title": "'A massive storage of images': Arteta has technical area receipts",
+            "desc": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+            "pubDate": "2026-10-24T17:59:48Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "68-point swing and a Tonga win - how England avoid World Cup exit",
-            "desc": "England need a few things to go their way next weekend to stay in the Men's Rugby League World Cup - but they have at least given themselves a chance.",
-            "pubDate": "2026-10-24T13:12:45Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c6wyvpz0epywo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Jackson stars with two goals - player ratings for Aston Villa v Man City",
-            "desc": "How Aston Villa and Man City players rated following their Premier League match.",
-            "pubDate": "2026-10-24T13:25:59Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Infantino says he is backed by 'vast majority'",
-            "desc": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
-            "pubDate": "2026-10-24T10:30:08Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "No panic for England but Mitchell issues PWR warning",
-            "desc": "A 2-0 series defeat for the Red Roses, their record 39-match winning streak and 41-match unbeaten run ended, and consecutive losses for the first time since 2016 - England are not invincible.",
-            "pubDate": "2026-10-24T09:22:07Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cv0ld9y3g426o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Jarman makes British gymnastics history with World floor silver ",
-            "desc": "Great Britain's Jake Jarman said he was \"super happy\" after claiming silver in the men's floor final at the World Gymnastics Championships. Jarman becomes the most decorated British athlete on the floor apparatus.",
-            "pubDate": "2026-10-24T15:14:14Z",
-            "link": "https://www.bbc.co.uk/sport/gymnastics/videos/c6zxjpv95ey8o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Arsenal fight back to beat Tottenham and ease pressure on Slegers ",
-            "desc": "Alessia Russo scores a controversial penalty as Arsenal come from behind to beat local rivals Tottenham Hotspur 2-1 to secure just their second win of the season in the Women's Super League, and ease the pressure on manager Renee Slegers.",
-            "pubDate": "2026-10-24T14:20:04Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cmy0r7epegd4o?at_medium=RSS&at_campaign=rss"
+            "title": "Hayen sacked by Burnley after just 14 games",
+            "desc": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
+            "pubDate": "2026-10-24T19:01:03Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-24T15:55:29Z",
+      "fetchedAt": "2026-10-24T20:45:40Z",
       "sections": {
         "top": [
           {
-            "title": "Q&A: Premier Danielle Smith says she doesn’t need Alberta separatists’ support",
-            "desc": "",
-            "pubDate": "2026-10-21T19:49:29Z",
-            "link": "https://www.cbc.ca/news/canada/edmonton/danielle-smith-referendum-alberta-separatists-premier-9.7394452?cmp=rss"
+            "title": "Musk says he was behind Starlink speed restriction in Ukraine",
+            "desc": "Elon Musk said on Saturday that his company SpaceX had throttled the Starlink satellite internet service in Ukraine, disrupting operations that the country relies on to defend itself against Russia.",
+            "pubDate": "2026-10-24T12:15:24Z",
+            "link": "https://www.cbc.ca/news/world/ukraine-starlink-satellite-restored-9.7394719?cmp=rss"
           },
           {
-            "title": "Why a new round in the U.S.-Iran conflict could be the most devastating yet",
-            "desc": "As the U.S. midterm elections approach, intelligence analysts warn that the United States and Israel are preparing for a devastating third round of direct military conflict with Iran.  Experts caution that the region is locked in a dangerous, open-ended war of attrition.",
-            "pubDate": "2026-10-24T04:00:00Z",
-            "link": "https://www.cbc.ca/news/world/united-states-iran-conflict-next-round-9.7392215?cmp=rss"
+            "title": "Toronto police seeking mother, 22, for allegedly abducting her 3 children",
+            "desc": "Toronto police are seeking the public’s help in locating three missing children, allegedly abducted by their mother from the Midland Avenue and Eglinton Avenue East area.",
+            "pubDate": "2026-10-24T14:48:25Z",
+            "link": "https://www.cbc.ca/news/canada/toronto/mother-abduction-three-children-toronto-police-9.7394791?cmp=rss"
           },
           {
-            "title": "Duelling petitions highlight rift over paroled murderer at McGill law school",
-            "desc": "Students at McGill University's law faculty remain divided over the presence of a convicted murderer in the classroom, with a new counter-petition outlining why some students feel unsafe and don't want him in their presence.",
-            "pubDate": "2026-10-24T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/mcgill-university-open-letter-9.7393542?cmp=rss"
-          },
-          {
-            "title": "Fjord's Sebastian Stan, Cristian Mungiu on making a movie no one can agree on",
-            "desc": "Fjord director Cristian Mungiu and star Sebastian Stan talk to CBC News about their divisive and celebrated flick.",
-            "pubDate": "2026-10-24T04:00:00Z",
-            "link": "https://www.cbc.ca/news/entertainment/sebastian-stan-cristian-mungiu-review-9.7394140?cmp=rss"
-          },
-          {
-            "title": "Black Sea sailors thought a rescue boat was racing toward them. Instead, it was a drone that sank their ship",
-            "desc": "",
-            "pubDate": "2026-10-24T10:11:24Z",
-            "link": "https://www.cbc.ca/news/world/black-sea-attacks-deadly-9.7393312?cmp=rss"
+            "title": "Tens of thousands march in France as protests continue over schools and living costs",
+            "desc": "Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs in a fresh challenge to  President Emmanuel Macron's government.",
+            "pubDate": "2026-10-24T08:32:42Z",
+            "link": "https://www.cbc.ca/news/world/france-cost-of-living-protests-police-9.7394594?cmp=rss"
           },
           {
             "title": "Can millions of people live on the moon? These scientists say yes — but not for very long",
@@ -298,19 +286,49 @@
             "link": "https://www.cbc.ca/news/science/moon-civilization-water-9.7393267?cmp=rss"
           },
           {
-            "title": "The Marineland belugas keep dying. Was it a mistake to move them?",
-            "desc": "The deaths of six belugas at Marineland have raised questions about the impact of the transfers on their health and well-being and whether they were fit to travel. But was there ever a better option for the last captive whales and dolphins in Canada?",
-            "pubDate": "2026-10-24T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/marineland-beluga-whale-deaths-9.7388635?cmp=rss"
+            "title": "Q&A: Premier Danielle Smith says she doesn’t need Alberta separatists’ support",
+            "desc": "",
+            "pubDate": "2026-10-21T19:49:29Z",
+            "link": "https://www.cbc.ca/news/canada/edmonton/danielle-smith-referendum-alberta-separatists-premier-9.7394452?cmp=rss"
           },
           {
-            "title": "Israelis are leaving in record numbers. This expert thinks the coming election could push more out the door",
-            "desc": "A record number of Israelis have left the country in recent years, data shows, and experts are raising the alarm ahead of a \"watershed\" election that they say could add to the trend and put more strain on the country's economy.",
+            "title": "82 days later, no repairs started on washed-out road dividing small Quebec town",
+            "desc": "Residents in L’Ascension, Que., are still waiting on repairs after August flooding washed away part of their main road. The municipality's mayor blames the delay for repairs on the bureaucracy of different levels of government.",
+            "pubDate": "2026-10-24T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956?cmp=rss"
+          },
+          {
+            "title": "Why a new round in the U.S.-Iran conflict could be the most devastating yet",
+            "desc": "As the U.S. midterm elections approach, intelligence analysts warn that the United States and Israel are preparing for a devastating third round of direct military conflict with Iran.  Experts caution that the region is locked in a dangerous, open-ended war of attrition.",
+            "pubDate": "2026-10-24T04:00:00Z",
+            "link": "https://www.cbc.ca/news/world/united-states-iran-conflict-next-round-9.7392215?cmp=rss"
+          },
+          {
+            "title": "Voters head to the polls for B.C. provincial election",
+            "desc": "Voters will cast ballots for 93 MLAs after a snap election was called last month.",
             "pubDate": "2026-10-24T08:00:00Z",
-            "link": "https://www.cbc.ca/news/world/israelis-record-emigration-9.7393387?cmp=rss"
+            "link": "https://www.cbc.ca/news/canada/british-columbia/british-columbia-bc-provincial-snap-election-how-to-vote-9.7392539?cmp=rss"
           }
         ],
         "world": [
+          {
+            "title": "Tens of thousands march in France as protests continue over schools and living costs",
+            "desc": "Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs in a fresh challenge to  President Emmanuel Macron's government.",
+            "pubDate": "2026-10-24T08:32:42Z",
+            "link": "https://www.cbc.ca/news/world/france-cost-of-living-protests-police-9.7394594?cmp=rss"
+          },
+          {
+            "title": "Musk says he was behind Starlink speed restriction in Ukraine",
+            "desc": "Elon Musk said on Saturday that his company SpaceX had throttled the Starlink satellite internet service in Ukraine, disrupting operations that the country relies on to defend itself against Russia.",
+            "pubDate": "2026-10-24T12:15:24Z",
+            "link": "https://www.cbc.ca/news/world/ukraine-starlink-satellite-restored-9.7394719?cmp=rss"
+          },
+          {
+            "title": "Israelis are leaving the country in record numbers. Could a looming election accelerate the trend?",
+            "desc": "A record number of Israelis have left the country in recent years, data shows, and experts are raising the alarm ahead of a \"watershed\" election that they say could add to the trend and put more strain on the country's economy.",
+            "pubDate": "2026-10-24T08:00:00Z",
+            "link": "https://www.cbc.ca/news/world/israelis-record-emigration-9.7393387?cmp=rss"
+          },
           {
             "title": "Why a new round in the U.S.-Iran conflict could be the most devastating yet",
             "desc": "As the U.S. midterm elections approach, intelligence analysts warn that the United States and Israel are preparing for a devastating third round of direct military conflict with Iran.  Experts caution that the region is locked in a dangerous, open-ended war of attrition.",
@@ -322,18 +340,6 @@
             "desc": "The Dignity is one of nearly 50 commercial vessels that maritime analysts say have been attacked in the Black Sea in October alone. The strikes are part of an escalating conflict that has brought much of the traffic through the key shipping corridor to a halt and prompted NATO to step up maritime security, including by deploying more patrol boats and radar.",
             "pubDate": "2026-10-24T04:00:00Z",
             "link": "https://www.cbc.ca/news/world/black-sea-attacks-deadly-9.7393312?cmp=rss"
-          },
-          {
-            "title": "Israelis are leaving the country in record numbers. Could a looming election accelerate the trend?",
-            "desc": "A record number of Israelis have left the country in recent years, data shows, and experts are raising the alarm ahead of a \"watershed\" election that they say could add to the trend and put more strain on the country's economy.",
-            "pubDate": "2026-10-24T08:00:00Z",
-            "link": "https://www.cbc.ca/news/world/israelis-record-emigration-9.7393387?cmp=rss"
-          },
-          {
-            "title": "France deploys thousands of police amid a new wave of protests",
-            "desc": "Paris braced for a fresh march by students and workers over school funding and soaring living costs Saturday, one week after violent unrest left shops looted and cars burned. The new march was restricted to the city's southeastern edge, away from the centre, as police deployed in force across France.",
-            "pubDate": "2026-10-24T08:32:42Z",
-            "link": "https://www.cbc.ca/news/world/france-cost-of-living-protests-police-9.7394594?cmp=rss"
           },
           {
             "title": "Can millions of people live on the moon? These scientists say yes — but not for very long",
@@ -352,12 +358,6 @@
             "desc": "U.S. President Donald Trump on Friday told a rally for candidates in South Florida that U.S. warships returning from the Middle East could stop over in Cuba on their way back from the Iran war, his latest suggestion of taking an interventionist approach to the nearby country.",
             "pubDate": "2026-10-23T18:27:29Z",
             "link": "https://www.cbc.ca/news/world/trump-cuba-south-florida-rally-9.7394119?cmp=rss"
-          },
-          {
-            "title": "Netanyahu orders West Bank closure as Israeli soldiers, Palestinian gunmen killed in exchanges",
-            "desc": "The Israeli army says two soldiers were killed in an attack in the occupied West Bank on Friday that also left two Palestinian gunmen dead, prompting Prime Minister Benjamin Netanyahu to order the closure of the territory.",
-            "pubDate": "2026-10-23T07:01:29Z",
-            "link": "https://www.cbc.ca/news/world/israel-west-bank-hebron-attack-9.7392764?cmp=rss"
           }
         ],
         "canada": [
@@ -366,6 +366,12 @@
             "desc": "Alberta Premier Danielle Smith says she has told members of her party to back the province’s referendum results, or leave. In an interview with CBC’s West of Centre, she says she doesn’t need separatists to get re-elected.",
             "pubDate": "2026-10-24T08:00:00Z",
             "link": "https://www.cbc.ca/news/canada/edmonton/danielle-smith-referendum-alberta-separatists-premier-9.7394452?cmp=rss"
+          },
+          {
+            "title": "Toronto police seeking mother, 22, for allegedly abducting her 3 children",
+            "desc": "Toronto police are seeking the public’s help in locating three missing children, allegedly abducted by their mother from the Midland Avenue and Eglinton Avenue East area.",
+            "pubDate": "2026-10-24T14:48:25Z",
+            "link": "https://www.cbc.ca/news/canada/toronto/mother-abduction-three-children-toronto-police-9.7394791?cmp=rss"
           },
           {
             "title": "82 days later, no repairs started on washed-out road dividing small Quebec town",
@@ -378,6 +384,12 @@
             "desc": "Voters will cast ballots for 93 MLAs after a snap election was called last month.",
             "pubDate": "2026-10-24T08:00:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/british-columbia-bc-provincial-snap-election-how-to-vote-9.7392539?cmp=rss"
+          },
+          {
+            "title": "This Ontario township isn't voting for a mayor or councillors — for the 3rd election in a row",
+            "desc": "Enniskillen is a mainly agricultural community located in Lambton County.",
+            "pubDate": "2026-10-23T15:30:00Z",
+            "link": "https://www.cbc.ca/news/canada/windsor/ontario-township-mayor-enniskillen-acclamation-9.7393419?cmp=rss"
           },
           {
             "title": "Duelling petitions highlight rift over paroled murderer at McGill law school",
@@ -396,27 +408,9 @@
             "desc": "Construction of Nova Scotia's new AI data centre in Point Tupper is well underway, yet so many people were surprised to learn about it. The CBC's Tom Murphy pieces together the timeline.",
             "pubDate": "2026-10-24T07:00:00Z",
             "link": "https://www.cbc.ca/player/play/9.7393487?cmp=rss"
-          },
-          {
-            "title": "The RDSP was meant to help disabled Canadians save for the future. Yet many don't know it exists",
-            "desc": "The Registered Disability Savings Plan was intended to be a financial safety net for people with disabilities and the families who care for them. But it's only reaching about a third of those it was designed to help.",
-            "pubDate": "2026-10-24T04:00:00Z",
-            "link": "https://www.cbc.ca/radio/rdsp-eligible-future-9.7379198?cmp=rss"
-          },
-          {
-            "title": "Will the Alberta referendum feed a more polarized immigration debate?",
-            "desc": "Beside Alberta Premier Danielle Smith's own political future, the most unresolved questions raised by her referendum concern immigration.",
-            "pubDate": "2026-10-24T04:00:00Z",
-            "link": "https://www.cbc.ca/news/politics/alberta-referendum-immigration-carney-poilievre-analysis-9.7393811?cmp=rss"
           }
         ],
         "bc": [
-          {
-            "title": "Crews fight blaze in downtown Victoria",
-            "desc": "Crews are on scene fighting an active fire in downtown Victoria Saturday morning, and road closures are in effect.",
-            "pubDate": "2026-10-24T11:22:09Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/victoria-fire-9.7394697?cmp=rss"
-          },
           {
             "title": "Voters head to the polls for B.C. provincial election",
             "desc": "Voters will cast ballots for 93 MLAs after a snap election was called last month.",
@@ -424,10 +418,22 @@
             "link": "https://www.cbc.ca/news/canada/british-columbia/british-columbia-bc-provincial-snap-election-how-to-vote-9.7392539?cmp=rss"
           },
           {
+            "title": "Crews fight apartment building blaze in downtown Victoria",
+            "desc": "Crews are on scene fighting a fire at a building in downtown Victoria on Saturday morning, and road closures are in effect.",
+            "pubDate": "2026-10-24T11:22:09Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/victoria-fire-9.7394697?cmp=rss"
+          },
+          {
             "title": "Fresh out of high school, this 18-year-old was just elected school board trustee in B.C.'s Interior",
             "desc": "Meet Samuel Robson, one of the youngest elected officials in the province.",
             "pubDate": "2026-10-24T11:00:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/samuel-robson-west-kelowna-school-board-trustee-9.7392010?cmp=rss"
+          },
+          {
+            "title": "Ballots cast on election day in B.C. to be counted by hand",
+            "desc": "Elections B.C. says votes cast on election day on Saturday will be tallied manually, due to \"short time frames and complex operational logistics of a snap election.\"",
+            "pubDate": "2026-10-23T10:50:03Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-election-hand-count-ballot-9.7392906?cmp=rss"
           },
           {
             "title": "From broom closet to big league: Kajaks co-founders celebrate 65 years of community track and field",
@@ -452,62 +458,56 @@
             "desc": "As British Columbians hit the polls this weekend to vote for their new premier in a snap election, Serbians across the world will vote in a snap parliamentary election on Sunday.",
             "pubDate": "2026-10-23T18:54:24Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/vancouver-serbians-travel-vote-9.7393827?cmp=rss"
-          },
-          {
-            "title": "Canadian woman living in U.S. dies after fears of detention prevented her from seeking medical care",
-            "desc": "Last month, Paige Adamson was stopped at a U.S.-Canada border crossing and interrogated for hours about whether she had unlawfully voted in a U.S. election. She died at home on Sunday after a fall, telling friends she was scared of being detained if she sought medical care.",
-            "pubDate": "2026-10-23T07:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/paige-adamson-death-fear-immigration-deportation-9.7392450?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns",
-            "desc": "Halloween candy sales are off to a slow start this year as U.S. consumers grapple with high living costs and eye-popping  chocolate prices .   Halloween candy sales fell 6.7% in the month ending Oct.",
-            "pubDate": "2026-10-24T15:10:37Z",
-            "link": "https://www.nsnews.com/the-mix/halloween-candy-sales-are-off-to-a-slow-start-amid-high-chocolate-prices-and-affordability-concerns-12934357"
+            "title": "Siao leads after Olympic champ Shaidorov falls on figure skating Grand Prix return",
+            "desc": "ANGERS, France (AP) — Mikhail Shaidorov fell in his biggest competition since  winning Olympic figure skating gold , leaving Adam Siao Him Fa with a commanding lead at the  Grand Prix de France  on Saturday.",
+            "pubDate": "2026-10-24T20:00:55Z",
+            "link": "https://www.nsnews.com/national-sports/siao-leads-after-olympic-champ-shaidorov-falls-on-figure-skating-grand-prix-return-12934858"
           },
           {
-            "title": "British Columbians vote in early election, with David Eby's job on the line",
-            "desc": "VICTORIA — British Columbians are voting today in an early election called by NDP Leader David Eby in the biggest gamble of his political life.",
-            "pubDate": "2026-10-24T15:07:25Z",
-            "link": "https://www.nsnews.com/national-news/british-columbians-vote-in-early-election-with-david-ebys-job-on-the-line-12934149"
-          },
-          {
-            "title": "Cracking a smile regularly may be good not just for your mood but for your health",
-            "desc": "Reminding yourself to smile often can not only make more friendships but it can also make you feel better.",
-            "pubDate": "2026-10-24T12:39:40Z",
-            "link": "https://www.nsnews.com/the-mix/cracking-a-smile-regularly-may-be-good-not-just-for-your-mood-but-for-your-health-12934276"
-          },
-          {
-            "title": "Carney tours Kariye Mosque in Istanbul before departing Turkey",
-            "desc": "ISTANBUL — After three days spent fostering tighter economic and political ties with Turkey, Prime Minister Mark Carney is on his way home to Ottawa.",
-            "pubDate": "2026-10-24T11:15:31Z",
-            "link": "https://www.nsnews.com/national-news/carney-tours-kariye-mosque-in-istanbul-before-departing-turkey-12934128"
-          },
-          {
-            "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-            "desc": "JERUSALEM (AP) — Gunmen opened fire during a funeral at a church in Jordan on Friday, killing seven people and wounding 40 others, authorities said.",
-            "pubDate": "2026-10-24T10:19:32Z",
-            "link": "https://www.nsnews.com/world-news/gunmen-open-fire-at-a-church-during-a-funeral-in-jordan-killing-7-and-wounding-40-12928988"
+            "title": "CF Montreal eliminated from playoff contention with 2-0 loss to MLS-best Nashville SC",
+            "desc": "MONTREAL — CF Montreal has officially been eliminated from playoff contention after a 2-0 loss to Nashville SC at Stade Saputo on Saturday afternoon.  Sam Surridge and Hany Mukhtar scored for Nashville (21-3-7).",
+            "pubDate": "2026-10-24T19:53:57Z",
+            "link": "https://www.nsnews.com/national-sports/cf-montreal-eliminated-from-playoff-contention-with-2-0-loss-to-mls-best-nashville-sc-12934859"
           },
           {
             "title": "First Nations prepare for historic meeting with Carney and the premiers",
             "desc": "OTTAWA — Assembly of First Nations National Chief Cindy Woodhouse Nepinak is feeling the weight of the moment as she approaches something her predecessors sought for years: a sit-down meeting with the prime minister and premiers.",
-            "pubDate": "2026-10-24T10:00:16Z",
+            "pubDate": "2026-10-24T19:20:26Z",
             "link": "https://www.nsnews.com/national-business/first-nations-prepare-for-historic-meeting-with-carney-and-the-premiers-12934175"
           },
           {
             "title": "First Nations prepare for historic meeting with Carney and the premiers",
             "desc": "OTTAWA — Assembly of First Nations National Chief Cindy Woodhouse Nepinak is feeling the weight of the moment as she approaches something her predecessors sought for years: a sit-down meeting with the prime minister and premiers.",
-            "pubDate": "2026-10-24T10:00:16Z",
+            "pubDate": "2026-10-24T19:20:26Z",
+            "link": "https://www.nsnews.com/national-news/first-nations-prepare-for-historic-meeting-with-carney-and-the-premiers-12934180"
+          },
+          {
+            "title": "First Nations prepare for historic meeting with Carney and the premiers",
+            "desc": "OTTAWA — Assembly of First Nations National Chief Cindy Woodhouse Nepinak is feeling the weight of the moment as she approaches something her predecessors sought for years: a sit-down meeting with the prime minister and premiers.",
+            "pubDate": "2026-10-24T19:20:26Z",
             "link": "https://www.nsnews.com/the-mix/first-nations-prepare-for-historic-meeting-with-carney-and-the-premiers-12934172"
           },
           {
-            "title": "Why some Ontario voters are turning to AI chatbots for 2026 municipal elections",
-            "desc": "TORONTO — Eric Apps had an inkling of who would get his vote in Toronto’s municipal election, but the lawyer wanted a second opinion before making his final decision.",
-            "pubDate": "2026-10-24T10:00:12Z",
-            "link": "https://www.nsnews.com/national-business/why-some-ontario-voters-are-turning-to-ai-chatbots-for-2026-municipal-elections-12934176"
+            "title": "British Columbians vote in early election, with David Eby's job on the line",
+            "desc": "VICTORIA — British Columbians are voting today in an early election called by NDP Leader David Eby in the biggest gamble of his political life.",
+            "pubDate": "2026-10-24T18:33:43Z",
+            "link": "https://www.nsnews.com/national-news/british-columbians-vote-in-early-election-with-david-ebys-job-on-the-line-12934149"
+          },
+          {
+            "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
+            "desc": "PARIS (AP) — Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs in a fresh challenge to  President Emmanuel Macron.",
+            "pubDate": "2026-10-24T18:31:32Z",
+            "link": "https://www.nsnews.com/the-mix/more-than-400000-protest-across-france-challenging-macron-as-paris-clashes-erupt-12934472"
+          },
+          {
+            "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
+            "desc": "PARIS (AP) — Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs in a fresh challenge to  President Emmanuel Macron.",
+            "pubDate": "2026-10-24T18:31:32Z",
+            "link": "https://www.nsnews.com/national-business/more-than-400000-protest-across-france-challenging-macron-as-paris-clashes-erupt-12934473"
           }
         ]
       },
