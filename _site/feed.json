@@ -2,63 +2,63 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-24T23:11:08Z",
+      "fetchedAt": "2026-10-25T04:37:48Z",
       "sections": {
         "top": [
           {
-            "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-            "desc": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
-            "pubDate": "2026-10-24T21:09:27Z",
-            "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
-            "desc": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
-            "pubDate": "2026-10-24T19:37:35Z",
-            "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
             "desc": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-            "pubDate": "2026-10-24T22:44:36Z",
+            "pubDate": "2026-10-25T01:32:00Z",
             "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
-            "desc": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
-            "pubDate": "2026-10-24T12:59:49Z",
-            "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss"
+            "title": "Meghan broke contact with father in letter citing abuse claims",
+            "desc": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
+            "pubDate": "2026-10-25T01:44:19Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
-            "desc": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
-            "pubDate": "2026-10-24T17:11:56Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
+            "title": "Burnham open to 'honest discussion' on EU free movement",
+            "desc": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+            "pubDate": "2026-10-25T00:33:19Z",
+            "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Between quick wins and big dreams lies Burnham's biggest test",
-            "desc": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
-            "pubDate": "2026-10-24T11:03:57Z",
-            "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss"
+            "title": "Ukraine depends on Starlink - can Europe plug the gap?",
+            "desc": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
+            "pubDate": "2026-10-24T23:00:08Z",
+            "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-            "desc": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-            "pubDate": "2026-10-24T23:02:06Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+            "title": "Budget to include £1bn for social and affordable housing",
+            "desc": "The move will take funding for the 10-year programme to more than £40bn.",
+            "pubDate": "2026-10-25T02:57:30Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
-            "desc": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
-            "pubDate": "2026-10-23T23:50:45Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss"
+            "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+            "desc": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+            "pubDate": "2026-10-25T04:16:52Z",
+            "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+            "desc": "Flávio Bolsonaro, the son of Brazil's jailed former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
+            "pubDate": "2026-10-24T23:50:02Z",
+            "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Rosebank: Life on the oil field at the centre of a political storm",
+            "desc": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+            "pubDate": "2026-10-24T23:15:18Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
           {
             "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-            "desc": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
-            "pubDate": "2026-10-24T21:09:27Z",
+            "desc": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+            "pubDate": "2026-10-25T04:16:52Z",
             "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -108,26 +108,32 @@
           {
             "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
             "desc": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-            "pubDate": "2026-10-24T22:44:36Z",
+            "pubDate": "2026-10-25T01:32:00Z",
             "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
-            "desc": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
-            "pubDate": "2026-10-24T12:59:49Z",
-            "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss"
+            "title": "Meghan broke contact with father in letter citing abuse claims",
+            "desc": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
+            "pubDate": "2026-10-25T01:44:19Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-            "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
-            "pubDate": "2026-10-24T15:45:46Z",
-            "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss"
+            "title": "Burnham open to 'honest discussion' on EU free movement",
+            "desc": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+            "pubDate": "2026-10-25T00:33:19Z",
+            "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Mum who died trying to save sons was hero, husband says",
-            "desc": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
-            "pubDate": "2026-10-24T17:11:56Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
+            "title": "Budget to include £1bn for social and affordable housing",
+            "desc": "The move will take funding for the 10-year programme to more than £40bn.",
+            "pubDate": "2026-10-25T02:57:30Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+            "desc": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
+            "pubDate": "2026-10-24T23:03:09Z",
+            "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Murder charge after body found in wheelie bin",
@@ -136,25 +142,31 @@
             "link": "https://www.bbc.co.uk/news/articles/c6vg7p3qrpgdo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Sam Fender calls out ticket prices ahead of tour",
-            "desc": "The Geordie singer says on Instagram he is \"not happy\" with the reported ticket prices.",
-            "pubDate": "2026-10-24T12:15:29Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo?at_medium=RSS&at_campaign=rss"
+            "title": "Mum who died trying to save sons was hero, husband says",
+            "desc": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+            "pubDate": "2026-10-24T17:11:56Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Could Somerset pub be the oldest in England?",
-            "desc": "Experts say The George Inn, in Norton St Philip, which dates to about 1430, is England's oldest pub.",
-            "pubDate": "2026-10-24T11:32:46Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm5yn0rv6k90o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Thousands of people gather in support of Drumcree Orangemen",
-            "desc": "Hundreds of Orangemen are parading through Portadown, joined by bands and a crowd of supporters who have not been deterred by the weather.",
-            "pubDate": "2026-10-24T21:44:39Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6eq313dnzzeo?at_medium=RSS&at_campaign=rss"
+            "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+            "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+            "pubDate": "2026-10-24T15:45:46Z",
+            "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
+          {
+            "title": "Budget to include £1bn for social and affordable housing",
+            "desc": "The move will take funding for the 10-year programme to more than £40bn.",
+            "pubDate": "2026-10-25T02:57:30Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Rosebank: Life on the oil field at the centre of a political storm",
+            "desc": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+            "pubDate": "2026-10-24T23:15:18Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "How does the UK state pension compare with other countries?",
             "desc": "Do British pensioners have it better or worse than those in other countries?",
@@ -174,6 +186,12 @@
             "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss"
           },
           {
+            "title": "The Indian workers filming their work to train AI",
+            "desc": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+            "pubDate": "2026-10-23T08:04:17Z",
+            "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
             "desc": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
             "pubDate": "2026-10-24T00:36:47Z",
@@ -184,24 +202,6 @@
             "desc": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
             "pubDate": "2026-10-23T11:48:04Z",
             "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "The Indian workers filming their work to train AI",
-            "desc": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-            "pubDate": "2026-10-23T08:04:17Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Lights will stay on this winter, grid operator says after concerns",
-            "desc": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
-            "pubDate": "2026-10-23T06:47:10Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-            "desc": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
-            "pubDate": "2026-10-22T23:20:38Z",
-            "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "sport": [
@@ -212,10 +212,10 @@
             "link": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Antonelli takes US pole on weekend he can win title",
-            "desc": "Kimi Antonelli secures pole position for the United States Grand Prix on the weekend on which he can potentially clinch his first world title.",
-            "pubDate": "2026-10-24T22:51:51Z",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo?at_medium=RSS&at_campaign=rss"
+            "title": "Antonelli stands on brink of history in Austin",
+            "desc": "Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual.",
+            "pubDate": "2026-10-25T00:40:56Z",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Man Utd not an unmanageable club - Carrick",
@@ -224,16 +224,16 @@
             "link": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Britain's Smith retains title in split-decision win over Puello",
-            "desc": "Britain's Dalton Smith defends his WBC light-welterweight world title with a split-decision victory over Alberto Puello in a triumphant homecoming in Sheffield.",
-            "pubDate": "2026-10-24T21:44:12Z",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/cqn73k05xjx6o?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "'A massive storage of images' - Arteta has technical area receipts",
             "desc": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
             "pubDate": "2026-10-24T17:59:48Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Britain's Smith retains title in split-decision win over Puello",
+            "desc": "Britain's Dalton Smith defends his WBC light-welterweight world title with a split-decision victory over Alberto Puello in a triumphant homecoming in Sheffield.",
+            "pubDate": "2026-10-24T21:44:12Z",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/cqn73k05xjx6o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
@@ -258,32 +258,14 @@
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-24T23:11:09Z",
+      "fetchedAt": "2026-10-25T04:37:49Z",
       "sections": {
         "top": [
           {
-            "title": "Convicted murderer who attended McGill's faculty of law now back in custody",
-            "desc": "Jeffrey George Ewert, a convicted murderer who has stirred controversy while attending law courses at McGill University, is back in custody while authorities look more closely at his case.",
-            "pubDate": "2026-10-24T16:52:21Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/ewert-mcgill-law-parole-custody-9.7394845?cmp=rss"
-          },
-          {
-            "title": "Musk says he was behind Starlink speed restriction in Ukraine",
+            "title": "B.C. election results: Eby concedes as Conservatives projected to form majority government",
             "desc": "",
-            "pubDate": "2026-10-24T10:11:24Z",
-            "link": "https://www.cbc.ca/news/world/ukraine-starlink-satellite-restored-9.7394719?cmp=rss"
-          },
-          {
-            "title": "Voters head to the polls for B.C. provincial election",
-            "desc": "",
-            "pubDate": "2026-10-24T17:23:23Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/british-columbia-bc-provincial-snap-election-how-to-vote-9.7392539?cmp=rss"
-          },
-          {
-            "title": "From horses to electric cars: Sask. couple sees world transform over 75-year marriage",
-            "desc": "Helen and Larry Frey of Fort Qu'Appelle, Sask., have not only witnessed growth in their relationship, but growth in the world around them over the quarter-century of their marriage.",
-            "pubDate": "2026-10-24T07:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/saskatchewan/from-horses-to-electric-cars-sask-couple-sees-world-transform-over-75-year-marriage-9.7390778?cmp=rss"
+            "pubDate": "2026-10-24T19:38:25Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-provincial-election-results-live-updates-2026-9.7389208?cmp=rss"
           },
           {
             "title": "'They’re the nicest people': Obama mocks Trump for hitting Canada with tariffs",
@@ -292,16 +274,34 @@
             "link": "https://www.cbc.ca/news/world/obama-trump-canada-tariffs-9.7394871?cmp=rss"
           },
           {
-            "title": "Toronto police seeking mother, 22, for allegedly abducting her 3 children",
-            "desc": "Toronto police are seeking the public’s help in locating three missing children, allegedly abducted by their mother from the Midland Avenue and Eglinton Avenue East area.",
-            "pubDate": "2026-10-24T14:48:25Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/mother-abduction-three-children-toronto-police-9.7394791?cmp=rss"
-          },
-          {
             "title": "Tens of thousands march in France as protests continue over schools and living costs",
             "desc": "Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs in a fresh challenge to  President Emmanuel Macron's government.",
             "pubDate": "2026-10-24T08:32:42Z",
             "link": "https://www.cbc.ca/news/world/france-cost-of-living-protests-police-9.7394594?cmp=rss"
+          },
+          {
+            "title": "Musk says he was behind Starlink speed restriction in Ukraine",
+            "desc": "",
+            "pubDate": "2026-10-24T10:11:24Z",
+            "link": "https://www.cbc.ca/news/world/ukraine-starlink-satellite-restored-9.7394719?cmp=rss"
+          },
+          {
+            "title": "Convicted murderer who attended McGill's faculty of law now back in custody",
+            "desc": "Jeffrey George Ewert, a convicted murderer who has stirred controversy while attending law courses at McGill University, is back in custody while authorities look more closely at his case.",
+            "pubDate": "2026-10-24T16:52:21Z",
+            "link": "https://www.cbc.ca/news/canada/montreal/ewert-mcgill-law-parole-custody-9.7394845?cmp=rss"
+          },
+          {
+            "title": "From horses to electric cars: Sask. couple sees world transform over 75-year marriage",
+            "desc": "Helen and Larry Frey of Fort Qu'Appelle, Sask., have not only witnessed growth in their relationship, but growth in the world around them over the quarter-century of their marriage.",
+            "pubDate": "2026-10-24T07:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/saskatchewan/from-horses-to-electric-cars-sask-couple-sees-world-transform-over-75-year-marriage-9.7390778?cmp=rss"
+          },
+          {
+            "title": "Toronto police seeking mother, 22, for allegedly abducting her 3 children",
+            "desc": "Toronto police are seeking the public’s help in locating three missing children, allegedly abducted by their mother from the Midland Avenue and Eglinton Avenue East area.",
+            "pubDate": "2026-10-24T14:48:25Z",
+            "link": "https://www.cbc.ca/news/canada/toronto/mother-abduction-three-children-toronto-police-9.7394791?cmp=rss"
           },
           {
             "title": "Can millions of people live on the moon? These scientists say yes — but not for very long",
@@ -362,12 +362,6 @@
         ],
         "canada": [
           {
-            "title": "Voters head to the polls for B.C. provincial election",
-            "desc": "",
-            "pubDate": "2026-10-24T17:23:23Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/british-columbia-bc-provincial-snap-election-how-to-vote-9.7392539?cmp=rss"
-          },
-          {
             "title": "From horses to electric cars: Sask. couple sees world transform over 75-year marriage",
             "desc": "Helen and Larry Frey of Fort Qu'Appelle, Sask., have not only witnessed growth in their relationship, but growth in the world around them over the quarter-century of their marriage.",
             "pubDate": "2026-10-24T07:00:00Z",
@@ -378,6 +372,12 @@
             "desc": "Jeffrey George Ewert, a convicted murderer who has stirred controversy while attending law courses at McGill University, is back in custody while authorities look more closely at his case.",
             "pubDate": "2026-10-24T16:52:21Z",
             "link": "https://www.cbc.ca/news/canada/montreal/ewert-mcgill-law-parole-custody-9.7394845?cmp=rss"
+          },
+          {
+            "title": "Sask. Crime Stoppers programs pause tip intake due to national data breach",
+            "desc": "A news release issued jointly from Crime Stoppers agencies in Saskatchewan confirmed the impact of the national leak in Saskatchewan, saying \"the stolen data included information that could potentially identify some people who provided tips.\"",
+            "pubDate": "2026-10-24T12:30:19Z",
+            "link": "https://www.cbc.ca/news/canada/saskatchewan/sask-crime-stoppers-pauses-tip-intake-national-data-breach-9.7394723?cmp=rss"
           },
           {
             "title": "Q&A: Premier Danielle Smith says she doesn’t need Alberta separatists’ support",
@@ -412,10 +412,10 @@
         ],
         "bc": [
           {
-            "title": "Voters head to the polls for B.C. provincial election",
-            "desc": "Voters will cast ballots for 93 MLAs after a snap election was called last month.",
-            "pubDate": "2026-10-24T08:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/british-columbia-bc-provincial-snap-election-how-to-vote-9.7392539?cmp=rss"
+            "title": "B.C. election results: Eby concedes as Conservatives projected to form majority government",
+            "desc": "",
+            "pubDate": "2026-10-24T19:38:25Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-provincial-election-results-live-updates-2026-9.7389208?cmp=rss"
           },
           {
             "title": "Convicted B.C. murderer who attended McGill's faculty of law now back in custody",
@@ -425,7 +425,7 @@
           },
           {
             "title": "Crews fight apartment building blaze in downtown Victoria",
-            "desc": "Crews are on scene fighting a fire at a building in downtown Victoria on Saturday morning, and road closures are in effect.",
+            "desc": "Victoria Fire Chief Dan Atkinson said crews were met with \"extremely challenging conditions\" Saturday morning. Crews will be on scene through Sunday.",
             "pubDate": "2026-10-24T11:22:09Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/victoria-fire-9.7394697?cmp=rss"
           },
@@ -434,12 +434,6 @@
             "desc": "Meet Samuel Robson, one of the youngest elected officials in the province.",
             "pubDate": "2026-10-24T11:00:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/samuel-robson-west-kelowna-school-board-trustee-9.7392010?cmp=rss"
-          },
-          {
-            "title": "Ballots cast on election day in B.C. to be counted by hand",
-            "desc": "Elections B.C. says votes cast on election day on Saturday will be tallied manually, due to \"short time frames and complex operational logistics of a snap election.\"",
-            "pubDate": "2026-10-23T10:50:03Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-election-hand-count-ballot-9.7392906?cmp=rss"
           },
           {
             "title": "From broom closet to big league: Kajaks co-founders celebrate 65 years of community track and field",
@@ -458,56 +452,62 @@
             "desc": "A former manager at Simon Fraser University has been given a conditional sentence of two years less a day, to be served in the community, after pleading guilty to theft.",
             "pubDate": "2026-10-23T21:23:34Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/former-sfu-manager-given-conditional-sentence-after-stealing-over-180k-9.7393639?cmp=rss"
+          },
+          {
+            "title": "Serbians set to fly from Vancouver to Toronto to vote in parliamentary election",
+            "desc": "As British Columbians hit the polls this weekend to vote for their new premier in a snap election, Serbians across the world will vote in a snap parliamentary election on Sunday.",
+            "pubDate": "2026-10-23T18:54:24Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/vancouver-serbians-travel-vote-9.7393827?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Fire breaks out at Quaker Oats plant in Iowa",
-            "desc": "CEDAR RAPIDS, Iowa (AP) — A fire broke out Saturday at a Quaker Oats plant in Iowa. There were no immediate reports of injuries.   The Cedar Rapids Fire Department said firefighters responded to the call at about 4:45 p.m.",
-            "pubDate": "2026-10-24T23:00:04Z",
-            "link": "https://www.nsnews.com/world-news/fire-breaks-out-at-quaker-oats-plant-in-iowa-12935155"
+            "title": "Frelick, Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead",
+            "desc": "MILWAUKEE (AP) — Sal Frelick tied the score with his first home run in three months, Cooper Pratt hit a go-ahead single in the seventh inning and the Milwaukee Brewers stunned the Tampa Bay Rays 5-4 on Saturday night for a 2-0 World Series lead by ov",
+            "pubDate": "2026-10-25T04:33:40Z",
+            "link": "https://www.nsnews.com/world-news/frelick-pratt-lift-brewers-to-5-4-comeback-win-over-rays-and-2-0-world-series-lead-12935548"
           },
           {
-            "title": "Roughriders top Elks 16-9 to book West semifinal showdown with Lions",
-            "desc": "REGINA — The Saskatchewan Roughriders punched their ticket to the West Division semifinal with a 16-9 victory over the Edmonton Elks on Saturday.",
-            "pubDate": "2026-10-24T22:18:26Z",
-            "link": "https://www.nsnews.com/national-sports/roughriders-top-elks-16-9-to-book-west-semifinal-showdown-with-lions-12935115"
+            "title": "Frelick, Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead",
+            "desc": "MILWAUKEE (AP) — Sal Frelick tied the score with his first home run in three months, Cooper Pratt hit a go-ahead single in the seventh inning and the Milwaukee Brewers stunned the Tampa Bay Rays 5-4 on Saturday night for a 2-0 World Series lead by ov",
+            "pubDate": "2026-10-25T04:33:40Z",
+            "link": "https://www.nsnews.com/national-sports/frelick-pratt-lift-brewers-to-5-4-comeback-win-over-rays-and-2-0-world-series-lead-12935549"
           },
           {
-            "title": "Carney tours Kariye Mosque in Istanbul before departing Turkey",
-            "desc": "ISTANBUL — After three days spent fostering tighter economic and political ties with Turkey, Prime Minister Mark Carney has arrived back in Ottawa.",
-            "pubDate": "2026-10-24T22:06:48Z",
-            "link": "https://www.nsnews.com/national-news/carney-tours-kariye-mosque-in-istanbul-before-departing-turkey-12934128"
+            "title": "Conservative Lynne Block wins North Vancouver-Seymour",
+            "desc": "The riding has been flipped after two terms of electing an NDP MLA.",
+            "pubDate": "2026-10-25T04:33:00Z",
+            "link": "https://www.nsnews.com/local-news/conservative-lynn-block-wins-north-vancouver-seymour-12935332"
           },
           {
-            "title": "Malte Amundsen scores 2 goals, Crew beats Toronto 4-2 for 5th win in last 6 games",
-            "desc": "COLUMBUS, Ohio (AP) — Malte Amundsen scored two goals. his first career multi-goal game in MLS, Gonzalo Tapia and Brooks Lennon each added a goal, and the Columbus Crew beat Toronto FC 4-1 on Saturday.",
-            "pubDate": "2026-10-24T22:06:17Z",
-            "link": "https://www.nsnews.com/national-sports/malte-amundsen-scores-2-goals-crew-beats-toronto-4-2-for-5th-win-in-last-6-games-12935116"
+            "title": "Whittaker scores in 81st minute to lift Rapids to 1-0 win over Whitecaps",
+            "desc": "COMMERCE CITY, Colo.",
+            "pubDate": "2026-10-25T04:23:35Z",
+            "link": "https://www.nsnews.com/national-sports/whittaker-scores-in-81st-minute-to-lift-rapids-to-1-0-win-over-whitecaps-12935628"
           },
           {
-            "title": "Tre Ford, Marc Liegghio lead Hamilton Tiger-Cats to 35-22 win over Ottawa Redblacks",
-            "desc": "HAMILTON — Tre Ford threw two TD passes and Marc Liegghio kicked seven field goals to power the Hamilton Tiger-Cats past the Ottawa Redblacks 35-22 on Saturday afternoon.  Liegghio finished one field goal short of Paul Osbaldiston's club record.",
-            "pubDate": "2026-10-24T22:05:44Z",
-            "link": "https://www.nsnews.com/national-sports/tre-ford-marc-liegghio-lead-hamilton-tiger-cats-to-35-22-win-over-ottawa-redblacks-12935117"
+            "title": "B.C. election latest: Conservatives projected to win majority in election",
+            "desc": "VANCOUVER — Counting is underway in British Columbia's snap election after polls closed.  Here's a look at the election night latest as votes are tallied across B.C.   All times are local.  __  9:12 p.m.",
+            "pubDate": "2026-10-25T04:18:34Z",
+            "link": "https://www.nsnews.com/national-news/bc-election-latest-conservatives-projected-to-win-majority-in-election-12935297"
           },
           {
-            "title": "CF Montreal eliminated from playoff contention with 2-0 loss to MLS-best Nashville SC",
-            "desc": "MONTREAL — CF Montreal interim head coach Philippe Eullaffroy is looking ahead to the development side with his team's season almost over.",
-            "pubDate": "2026-10-24T21:47:19Z",
-            "link": "https://www.nsnews.com/national-sports/cf-montreal-eliminated-from-playoff-contention-with-2-0-loss-to-mls-best-nashville-sc-12934859"
+            "title": "What people are saying about the B.C. election campaign",
+            "desc": "VANCOUVER — The snap election in British Columbia is over and Lorne Deorkson has led his Conservatives to victory.   Here's what some notable people are saying about the election.",
+            "pubDate": "2026-10-25T04:17:54Z",
+            "link": "https://www.nsnews.com/bc-news/what-people-are-saying-about-the-bc-election-campaign-12935625"
           },
           {
-            "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
-            "desc": "PARIS (AP) — Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs in a fresh challenge to  President Emmanuel Macron.",
-            "pubDate": "2026-10-24T21:31:45Z",
-            "link": "https://www.nsnews.com/the-mix/more-than-400000-protest-across-france-challenging-macron-as-paris-clashes-erupt-12934472"
+            "title": "CP NewsAlert: Elenore Sturko loses seat for CentreBC in return to Surrey South",
+            "desc": "The Canadian Press decision desk is projecting that CentreBC Leader Elenore Sturko has lost her bid to win back her former seat in Surrey South.  The former RCMP officer, who was defeated by B.C.",
+            "pubDate": "2026-10-25T04:12:10Z",
+            "link": "https://www.nsnews.com/national-news/cp-newsalert-elenore-sturko-loses-seat-for-centrebc-in-return-to-surrey-south-12935592"
           },
           {
-            "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
-            "desc": "PARIS (AP) — Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs in a fresh challenge to  President Emmanuel Macron.",
-            "pubDate": "2026-10-24T21:31:45Z",
-            "link": "https://www.nsnews.com/national-business/more-than-400000-protest-across-france-challenging-macron-as-paris-clashes-erupt-12934473"
+            "title": "B.C. Conservatives win majority, with Lorne Doerkson to be premier",
+            "desc": "VANCOUVER — The Canadian Press decision desk is projecting the Conservative Party of British Columbia will form a majority government in the province, after a snap provincial election called two years early backfired on the NDP.",
+            "pubDate": "2026-10-25T04:12:10Z",
+            "link": "https://www.nsnews.com/national-news/bc-conservatives-win-majority-with-lorne-doerkson-to-be-premier-12934149"
           }
         ]
       },
