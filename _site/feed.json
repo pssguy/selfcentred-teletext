@@ -2,14 +2,44 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-25T16:13:21Z",
+      "fetchedAt": "2026-10-25T20:48:54Z",
       "sections": {
         "top": [
+          {
+            "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+            "desc": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+            "pubDate": "2026-10-25T20:32:27Z",
+            "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "Burnham open to 'honest discussion' on EU free movement",
             "desc": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
             "pubDate": "2026-10-25T12:11:23Z",
             "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+            "desc": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
+            "pubDate": "2026-10-25T18:38:17Z",
+            "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Venezuelan opposition leader María Machado returns after months in exile",
+            "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+            "pubDate": "2026-10-25T18:29:00Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Early reports suggest record high turnout in Serbia elections",
+            "desc": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+            "pubDate": "2026-10-25T19:55:15Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Board of Deputies of British Jews declares Greens to be racist party",
+            "desc": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
+            "pubDate": "2026-10-25T18:05:17Z",
+            "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Couple were celebrating anniversary before Bahamas tragedy",
@@ -18,60 +48,30 @@
             "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-            "desc": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-            "pubDate": "2026-10-25T09:00:00Z",
-            "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Why the charts are full of old songs - and so are your playlists",
-            "desc": "The chart is full of old music and classic songs are dominating streaming services. But why?",
-            "pubDate": "2026-10-24T23:05:41Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "The bitter row over military service that could shape Israel's future",
-            "desc": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
-            "pubDate": "2026-10-24T23:03:21Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-            "desc": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
-            "pubDate": "2026-10-24T23:03:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Rosebank: Life on the oil field at the centre of a political storm",
-            "desc": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-            "pubDate": "2026-10-25T07:15:38Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-            "desc": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
-            "pubDate": "2026-10-25T06:00:15Z",
-            "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss"
+            "title": "Carrick future under major threat - can he survive?",
+            "desc": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
+            "pubDate": "2026-10-25T16:51:48Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
           {
-            "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-            "desc": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-            "pubDate": "2026-10-25T05:15:52Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Early reports suggest record high turnout in Serbia elections",
-            "desc": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-            "pubDate": "2026-10-25T16:05:15Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
             "desc": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
             "pubDate": "2026-10-25T09:00:00Z",
             "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Venezuelan opposition leader María Machado returns after months in exile",
+            "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+            "pubDate": "2026-10-25T18:29:00Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Early reports suggest record high turnout in Serbia elections",
+            "desc": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+            "pubDate": "2026-10-25T19:55:15Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
@@ -80,10 +80,10 @@
             "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "El Salvador president says bodies found in Haiti are not those of hostages ",
-            "desc": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-            "pubDate": "2026-10-25T10:55:33Z",
-            "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
+            "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+            "desc": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+            "pubDate": "2026-10-25T05:15:52Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Gabon says access to social media restored after eight-month ban",
@@ -92,19 +92,25 @@
             "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-            "desc": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
-            "pubDate": "2026-10-25T03:20:16Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
+            "title": "El Salvador president says bodies found in Haiti are not those of hostages ",
+            "desc": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+            "pubDate": "2026-10-25T10:55:33Z",
+            "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-            "desc": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
-            "pubDate": "2026-10-25T02:27:15Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
+            "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+            "desc": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
+            "pubDate": "2026-10-25T19:14:27Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
+          {
+            "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+            "desc": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
+            "pubDate": "2026-10-25T18:38:17Z",
+            "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "Burnham open to 'honest discussion' on EU free movement",
             "desc": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
@@ -116,6 +122,12 @@
             "desc": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
             "pubDate": "2026-10-25T14:38:51Z",
             "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Board of Deputies of British Jews declares Greens to be racist party",
+            "desc": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
+            "pubDate": "2026-10-25T18:05:17Z",
+            "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Budget to include £1bn for social and affordable housing",
@@ -128,18 +140,6 @@
             "desc": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
             "pubDate": "2026-10-24T23:03:09Z",
             "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Meghan broke contact with father in letter citing abuse claims",
-            "desc": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
-            "pubDate": "2026-10-25T08:05:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Murder charge after body found in wheelie bin",
-            "desc": "Police say Mohamed Abotaka, 36, is charged with the murder of 52-year-old Ali Barzai.",
-            "pubDate": "2026-10-24T18:20:56Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6vg7p3qrpgdo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Four-year-old girl dies after fall from tower block",
@@ -206,16 +206,10 @@
         ],
         "sport": [
           {
-            "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
-            "desc": "Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate",
-            "pubDate": "2026-10-25T16:04:13Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton",
-            "desc": "How Liverpool and Brighton's players rated following their Premier League match.",
-            "pubDate": "2026-10-25T15:58:26Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo?at_medium=RSS&at_campaign=rss"
+            "title": "Carrick future under major threat - can he survive?",
+            "desc": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
+            "pubDate": "2026-10-25T16:51:48Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Fernandes left on bench for Man Utd defeat - a failed gamble?",
@@ -224,48 +218,66 @@
             "link": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Jarman wins historic second Worlds silver in vault final",
-            "desc": "Jake Jarman becomes the first British male gymnast to win two individual medals in the World Gymnastics Championships, after winning silver in a thrilling men's vault final in Rotterdam.",
-            "pubDate": "2026-10-25T15:25:16Z",
-            "link": "https://www.bbc.co.uk/sport/gymnastics/videos/c574pv1nk0jgo?at_medium=RSS&at_campaign=rss"
+            "title": "England lose to Pakistan after improbable last-wicket stand",
+            "desc": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
+            "pubDate": "2026-10-25T16:34:17Z",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Australia survive scare to beat Fiji and reach World Cup semi-finals ",
-            "desc": "Defending champions Australia survive a scare to come from behind and beat Fiji 36-22 in their second pool match at the Rugby League World Cup; a victory which secures their place in the semi-finals with one pool match to spare.",
-            "pubDate": "2026-10-25T15:53:11Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cmy0e9kqplx8o?at_medium=RSS&at_campaign=rss"
+            "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+            "desc": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+            "pubDate": "2026-10-25T18:13:55Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Should Palmer have been sent off earlier than he was?",
-            "desc": "Match of the Day pundit Martin Keown looks at the red card shown to Cole Palmer during Chelsea's 2-0 defeat to Tottenham, with the former Arsenal defender agreeing with the decision and suggesting Palmer was lucky not to receive a straight red for an early incident.",
-            "pubDate": "2026-10-24T22:43:33Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o?at_medium=RSS&at_campaign=rss"
+            "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+            "desc": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+            "pubDate": "2026-10-25T20:00:19Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "How 'special talent' Jackson inspired Villa to victory over Man City",
-            "desc": "Match of the Day pundits Martin Keown and Steph Houghton look at the impact Aston Villa forward Nicolas Jackson had with his two goals in their 2-1 victory over Manchester City, with Keown describing him as a \"special talent\".",
-            "pubDate": "2026-10-24T22:43:17Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cmzxj1r8j7p2o?at_medium=RSS&at_campaign=rss"
+            "title": "Liverpool earn first league win at Anfield with victory over Brighton",
+            "desc": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
+            "pubDate": "2026-10-25T20:00:09Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "'Best performance since I arrived' - De Zerbi praises Spurs after win",
-            "desc": "Tottenham manager Roberto De Zerbi describes his side's 2-0 victory over Chelsea at Stamford Bridge as \"the best since he arrived at the club\", adding the win was special given it was against their local rivals.",
-            "pubDate": "2026-10-24T19:12:19Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cqkg5m3lnr5zo?at_medium=RSS&at_campaign=rss"
+            "title": "Sage continues to struggle as Palace lose at home to Newcastle",
+            "desc": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+            "pubDate": "2026-10-25T19:59:46Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Hull draw third consecutive home game after being held by Brentford",
+            "desc": "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
+            "pubDate": "2026-10-25T19:59:29Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cmlylkydwl78o?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-25T16:13:22Z",
+      "fetchedAt": "2026-10-25T20:48:54Z",
       "sections": {
         "top": [
           {
-            "title": "5 reasons why Lorne Doerkson is the next premier of British Columbia",
+            "title": "Danielle Smith scores slim majority on immigration questions, Albertans reject constitutional changes",
+            "desc": "",
+            "pubDate": "2026-07-19T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-questions-immigration-constitution-9.7394465?cmp=rss"
+          },
+          {
+            "title": "Funeral mourners recall friendship, dedication of sergeant killed in CFB Wainwright fire",
+            "desc": "",
+            "pubDate": "2026-10-17T21:33:38Z",
+            "link": "https://www.cbc.ca/news/canada/edmonton/edmonton-sergeant-funeral-cfb-wainwright-9.7395319?cmp=rss"
+          },
+          {
+            "title": "Who is B.C.'s new premier Lorne Doerkson?",
             "desc": "",
             "pubDate": "2026-10-24T17:23:23Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/lorne-doerkson-next-premier-5-reasons-9.7395150?cmp=rss"
+            "link": "https://www.cbc.ca/news/canada/british-columbia/who-is-bc-premier-lorne-doerkson-9.7395130?cmp=rss"
           },
           {
             "title": "Is this Quebec-developed fruit the 'apple of the future'?",
@@ -274,40 +286,28 @@
             "link": "https://www.cbc.ca/news/canada/montreal/quebec-developed-apple-orleans-fruit-of-the-future-9.7389007?cmp=rss"
           },
           {
-            "title": "A polarized Brazil heads to presidential vote with economy, corruption top of mind",
-            "desc": "Frustrations around corruption and feelings of personal financial stagnation driving voting choices as Brazil heads to presidential run-off on Sunday, Oct. 25.",
-            "pubDate": "2026-10-23T04:00:00Z",
-            "link": "https://www.cbc.ca/news/world/brazil-election-sunday-9.7392417?cmp=rss"
+            "title": "Ukraine says its military did not violate Starlink terms, disputing Elon Musk claim",
+            "desc": "Ukrainian officials have disputed claims by SpaceX CEO Elon Musk that the country's military violated Starlink's terms of service by using the civilian satellite internet network for offensive drone strikes. Serhii Beskrestnov, a defence technology adviser to President Volodymyr Zelenskyy, said long-standing restrictions on the civilian system in Ukraine made such offensive use impossible.",
+            "pubDate": "2026-10-25T14:25:58Z",
+            "link": "https://www.cbc.ca/news/world/ukraine-disputes-elon-musk-claim-starlink-starshield-9.7395412?cmp=rss"
           },
           {
-            "title": "People are using AI to 'dumb down' their smart TVs. Is that a good idea?",
-            "desc": "Viral social media posts are showing people how to use AI to hack smart TVs to remove unnecessary apps and programs and disabling some tracking features in an effort to make them run more smoothly. While some are rejoicing, others warn the AI solution could cause bigger problems. They note there are easier, safer ways to simplify a cluttered TV.",
-            "pubDate": "2026-10-25T04:00:00Z",
-            "link": "https://www.cbc.ca/news/world/ai-coding-hack-smart-tvs-9.7392179?cmp=rss"
+            "title": "There’s disappointment and hope among Albertans who supported the idea of independence",
+            "desc": "Now that the results of the referendum have come in, with three-quarters of Albertans voting to stay in Canada, we reached out to some residents who supported the other side to see how they feel and what they think happens next.",
+            "pubDate": "2026-10-25T07:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/calgary/reaction-alberta-referendum-separatism-9.7392004?cmp=rss"
           },
           {
-            "title": "Tennessee may try to execute Christa Pike again. The state could face legal hurdles",
-            "desc": "",
-            "pubDate": "2026-10-01T09:33:53Z",
-            "link": "https://www.cbc.ca/news/world/christa-pike-execution-death-penalty-9.7391927?cmp=rss"
+            "title": "Canada needs concrete results from EU summit this week, former envoy says",
+            "desc": "Ahead of this week's Canada-European Union summit, Prime Minister Mark Carney said both parties are hammering out a \"new, ambitious alliance\" after pledging deeper ties with Europe last month.",
+            "pubDate": "2026-10-25T13:58:19Z",
+            "link": "https://www.cbc.ca/news/politics/canada-eu-summit-concrete-results-9.7395409?cmp=rss"
           },
           {
-            "title": "This Nova Scotian just ran his first marathon. He trained for it by eating donairs",
-            "desc": "David Wadden ran and biked to 59 donair shops in the Halifax area this year to eat donairs and rate them as part of a charity fundraiser. But that wasn't the hard part. After eating the donair, he faced the ungodly task of running or biking back home.",
-            "pubDate": "2026-10-25T05:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/nova-scotia/the-donair-athon-halifax-david-wadden-feed-nova-scotia-9.7391576?cmp=rss"
-          },
-          {
-            "title": "British Columbia election results: Conservatives to form majority government",
-            "desc": "Get the latest results as they come in from across the province.",
-            "pubDate": "2026-10-24T08:00:00Z",
-            "link": "https://www.cbc.ca/news/politics/bc-election-results-9.7392895?cmp=rss"
-          },
-          {
-            "title": "Same scam. 2 countries. Why Canadians don’t get their money back: CBC's Marketplace Cheat Sheet",
-            "desc": "The CBC's Marketplace rounds up the consumer and health news you need from the week.",
-            "pubDate": "2026-10-25T08:00:00Z",
-            "link": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-oct-25-9.7391902?cmp=rss"
+            "title": "Venezuela's opposition leader Machado returns after months in exile",
+            "desc": "Opposition leader and Nobel laureate María Corina Machado reappeared in Venezuela Sunday for the first time since December, about a month before the U.S. military deposed the country's then-President Nicolás Maduro.",
+            "pubDate": "2026-10-25T12:38:13Z",
+            "link": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
           }
         ],
         "world": [
@@ -316,6 +316,30 @@
             "desc": "There are few Israeli analysts willing to write off the country's longest-serving prime minister in Tuesday's election, despite the catastrophic impact of the Hamas-led attacks on Oct. 7, 2023.",
             "pubDate": "2026-10-25T04:00:00Z",
             "link": "https://www.cbc.ca/news/world/netanyahu-israel-election-9.7394784?cmp=rss"
+          },
+          {
+            "title": "Israeli military conducts massive West Bank operation, days before Israel election",
+            "desc": "The Israeli military continued a massive military operation in the occupied West Bank on Sunday, displacing hundreds of Palestinians and placing major restrictions on movement in response to a gun attack that killed two Israeli soldiers and wounded three others in Hebron on Friday.",
+            "pubDate": "2026-10-25T08:31:01Z",
+            "link": "https://www.cbc.ca/news/world/israel-west-bank-operation-before-election-9.7395171?cmp=rss"
+          },
+          {
+            "title": "Ukraine says its military did not violate Starlink terms, disputing Elon Musk claim",
+            "desc": "Ukrainian officials have disputed claims by SpaceX CEO Elon Musk that the country's military violated Starlink's terms of service by using the civilian satellite internet network for offensive drone strikes. Serhii Beskrestnov, a defence technology adviser to President Volodymyr Zelenskyy, said long-standing restrictions on the civilian system in Ukraine made such offensive use impossible.",
+            "pubDate": "2026-10-25T14:25:58Z",
+            "link": "https://www.cbc.ca/news/world/ukraine-disputes-elon-musk-claim-starlink-starshield-9.7395412?cmp=rss"
+          },
+          {
+            "title": "Venezuela's opposition leader Machado returns after months in exile",
+            "desc": "Opposition leader and Nobel laureate María Corina Machado reappeared in Venezuela Sunday for the first time since December, about a month before the U.S. military deposed the country's then-President Nicolás Maduro.",
+            "pubDate": "2026-10-25T12:38:13Z",
+            "link": "https://www.cbc.ca/news/world/venezuela-opposition-leader-machado-returns-9.7395370?cmp=rss"
+          },
+          {
+            "title": "Canada needs concrete results from EU summit this week, former envoy says",
+            "desc": "Ahead of this week's Canada-European Union summit, Prime Minister Mark Carney said both parties are hammering out a \"new, ambitious alliance\" after pledging deeper ties with Europe last month.",
+            "pubDate": "2026-10-25T13:58:19Z",
+            "link": "https://www.cbc.ca/news/politics/canada-eu-summit-concrete-results-9.7395409?cmp=rss"
           },
           {
             "title": "Tennessee may try to execute Christa Pike again. The state could face legal hurdles",
@@ -334,38 +358,26 @@
             "desc": "Former U.S. president Barack Obama slammed the Trump administration's tariff regime on Saturday, noting the absurdity of engaging in a trade war with Canada.",
             "pubDate": "2026-10-24T18:18:58Z",
             "link": "https://www.cbc.ca/news/world/obama-trump-canada-tariffs-9.7394871?cmp=rss"
-          },
-          {
-            "title": "Israeli military conducts massive West Bank operation, days before Israel election",
-            "desc": "The Israeli military continued a massive military operation in the occupied West Bank on Sunday, displacing hundreds of Palestinians and placing major restrictions on movement in response to a gun attack that killed two Israeli soldiers and wounded three others in Hebron on Friday.",
-            "pubDate": "2026-10-25T08:31:01Z",
-            "link": "https://www.cbc.ca/news/world/israel-west-bank-operation-before-election-9.7395171?cmp=rss"
-          },
-          {
-            "title": "Tens of thousands march in France as protests continue over schools and living costs",
-            "desc": "Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs in a fresh challenge to  President Emmanuel Macron's government.",
-            "pubDate": "2026-10-24T08:32:42Z",
-            "link": "https://www.cbc.ca/news/world/france-cost-of-living-protests-police-9.7394594?cmp=rss"
-          },
-          {
-            "title": "Musk says he was behind Starlink speed restriction in Ukraine",
-            "desc": "Elon Musk said on Saturday that his company SpaceX had throttled the Starlink satellite internet service in Ukraine, disrupting operations that the country relies on to defend itself against Russia.",
-            "pubDate": "2026-10-24T12:15:24Z",
-            "link": "https://www.cbc.ca/news/world/ukraine-starlink-satellite-restored-9.7394719?cmp=rss"
-          },
-          {
-            "title": "Israelis are leaving the country in record numbers. Could a looming election accelerate the trend?",
-            "desc": "A record number of Israelis have left the country in recent years, data shows, and experts are raising the alarm ahead of a \"watershed\" election that they say could add to the trend and put more strain on the country's economy.",
-            "pubDate": "2026-10-24T08:00:00Z",
-            "link": "https://www.cbc.ca/news/world/israelis-record-emigration-9.7393387?cmp=rss"
           }
         ],
         "canada": [
           {
-            "title": "Is this Quebec-developed fruit the 'apple of the future'?",
-            "desc": "Quebec apple producers say it’s been a good season, harvest- and sales-wise. They say it has much to do with U.S. tariffs and new varieties developed in — and for — Quebec.",
-            "pubDate": "2026-10-25T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/quebec-developed-apple-orleans-fruit-of-the-future-9.7389007?cmp=rss"
+            "title": "There’s disappointment and hope among Albertans who supported the idea of independence",
+            "desc": "Now that the results of the referendum have come in, with three-quarters of Albertans voting to stay in Canada, we reached out to some residents who supported the other side to see how they feel and what they think happens next.",
+            "pubDate": "2026-10-25T07:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/calgary/reaction-alberta-referendum-separatism-9.7392004?cmp=rss"
+          },
+          {
+            "title": "Funeral mourners recall friendship, dedication of sergeant killed in CFB Wainwright fire",
+            "desc": "",
+            "pubDate": "2026-10-17T21:33:38Z",
+            "link": "https://www.cbc.ca/news/canada/edmonton/edmonton-sergeant-funeral-cfb-wainwright-9.7395319?cmp=rss"
+          },
+          {
+            "title": "Smith scores slim majority on immigration questions, Albertans reject constitutional changes",
+            "desc": "Most Albertan voters have sided with the province on its questions relating to immigration, but have rejected constitutional reforms in a controversial referendum this week.",
+            "pubDate": "2026-10-25T15:40:46Z",
+            "link": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-questions-immigration-constitution-9.7394465?cmp=rss"
           },
           {
             "title": "Ontario municipal elections: A look at 7 mayoral races as voters head to the polls",
@@ -374,40 +386,28 @@
             "link": "https://www.cbc.ca/news/canada/ontario-municipal-elections-explainer-9.7392950?cmp=rss"
           },
           {
+            "title": "Is this Quebec-developed fruit the 'apple of the future'?",
+            "desc": "Quebec apple producers say it’s been a good season, harvest- and sales-wise. They say it has much to do with U.S. tariffs and new varieties developed in — and for — Quebec.",
+            "pubDate": "2026-10-25T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/montreal/quebec-developed-apple-orleans-fruit-of-the-future-9.7389007?cmp=rss"
+          },
+          {
             "title": "B.C. Conservatives projected to win 1st majority in nearly a century after Eby's election gamble backfires",
             "desc": "",
             "pubDate": "2026-10-24T21:30:17Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-provincial-election-results-live-updates-2026-9.7389208?cmp=rss"
           },
           {
-            "title": "A ‘reset’ or ‘one and done’? First Nations and first ministers set to hold historic meeting",
-            "desc": "The Assembly of First Nations national chief says Monday's historic meeting between First Nations and first ministers is a chance to redefine the relationship between First Nations, premiers and the prime minister, even though it will take place under a cloud of skepticism.",
-            "pubDate": "2026-10-25T04:00:00Z",
-            "link": "https://www.cbc.ca/news/politics/first-nations-first-ministers-meeting-relationship-9.7394258?cmp=rss"
+            "title": "Canadian women win relay gold, Laoun takes 500m silver at short track World Tour opener",
+            "desc": "The Canadian quartet of Florence Brunelle, Courtney Sarault, Claudia Gagnon and Danaé Blais captured gold in a chaotic women’s 3,000-metre relay final at the ISU Short Track World Tour opener in Vancouver on Saturday night.",
+            "pubDate": "2026-10-25T00:15:55Z",
+            "link": "https://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/short-track-world-tour-vancouver-recap-oct-24-9.7394989?cmp=rss"
           },
           {
-            "title": "This Nova Scotian just ran his first marathon. He trained for it by eating donairs",
-            "desc": "David Wadden ran and biked to 59 donair shops in the Halifax area this year to eat donairs and rate them as part of a charity fundraiser. But that wasn't the hard part. After eating the donair, he faced the ungodly task of running or biking back home.",
-            "pubDate": "2026-10-25T05:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/nova-scotia/the-donair-athon-halifax-david-wadden-feed-nova-scotia-9.7391576?cmp=rss"
-          },
-          {
-            "title": "Convicted murderer who attended McGill's faculty of law now back in custody",
-            "desc": "Jeffrey George Ewert, a convicted murderer who has stirred controversy while attending law courses at McGill University, is back in custody while authorities look more closely at his case.",
-            "pubDate": "2026-10-24T16:52:21Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/ewert-mcgill-law-parole-custody-9.7394845?cmp=rss"
-          },
-          {
-            "title": "From horses to electric cars: Sask. couple sees world transform over 75-year marriage",
-            "desc": "Helen and Larry Frey of Fort Qu'Appelle, Sask., have not only witnessed growth in their relationship, but growth in the world around them over their three-quarters of a century-long marriage.",
-            "pubDate": "2026-10-24T07:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/saskatchewan/from-horses-to-electric-cars-sask-couple-sees-world-transform-over-75-year-marriage-9.7390778?cmp=rss"
-          },
-          {
-            "title": "Emergency vehicles escort remains of Pte. Shaun Farrell to Prince Albert",
-            "desc": "An emergency vehicle procession honoured a soldier who died in the Canadian Forces Base Wainwright fire as his remains travelled through Saskatoon on the way home to Prince Albert, Sask., on Saturday.",
-            "pubDate": "2026-10-24T21:45:41Z",
-            "link": "https://www.cbc.ca/news/canada/saskatchewan/pte-shaun-farrell-procession-9.7394912?cmp=rss"
+            "title": "IN PHOTOS | Fall splendour in Canada",
+            "desc": "As our days shorten and temperatures drop, chlorophyll in leaves breaks down, revealing the autumnal tones of yellow and orange, while some leaves develop brilliant reds. Check out the fall splendour in Canada.",
+            "pubDate": "2026-10-21T16:37:32Z",
+            "link": "https://www.cbc.ca/news/canada/fall-colours-photo-scroller-9.7388145?cmp=rss"
           }
         ],
         "bc": [
@@ -416,6 +416,18 @@
             "desc": "",
             "pubDate": "2026-10-25T10:35:43Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/lorne-doerkson-next-premier-5-reasons-9.7395150?cmp=rss"
+          },
+          {
+            "title": "North Vancouver graduates-to-be have a night to remember as party boat gets stuck in the mud",
+            "desc": "About 150 Sutherland Secondary School students who were celebrating their graduating year were stranded for hours on Friday night after their party boat ran aground in the Burrard Inlet.",
+            "pubDate": "2026-10-25T15:31:27Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/north-vancouver-graduates-party-boat-stuck-9.7395064?cmp=rss"
+          },
+          {
+            "title": "3 Scots, $50,000 in cash, and knee-deep snow: The wild race to open Prince George's first bank",
+            "desc": "The Pioneer Bankers tells the story of a little-known race for wealth by horseback, canoe and foot across 1910 British Columbia.",
+            "pubDate": "2026-10-25T13:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/pioneeer-bankers-prince-george-vivien-lougheed-9.7393956?cmp=rss"
           },
           {
             "title": "B.C. books to get lost in this autumn",
@@ -446,68 +458,56 @@
             "desc": "",
             "pubDate": "2026-10-25T10:45:47Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/bc-conservatives-majority-government-9.7394961?cmp=rss"
-          },
-          {
-            "title": "A play-by-play of election night as B.C. Conservatives projected to win 1st majority in nearly a century",
-            "desc": "",
-            "pubDate": "2026-10-24T21:30:17Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-provincial-election-results-live-updates-2026-9.7389208?cmp=rss"
-          },
-          {
-            "title": "Convicted B.C. murderer who attended McGill's faculty of law now back in custody",
-            "desc": "Jeffrey George Ewert, a convicted murderer who has stirred controversy while attending law courses at McGill University, is back in custody while authorities look more closely at his case.",
-            "pubDate": "2026-10-24T16:52:21Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/ewert-mcgill-law-parole-custody-9.7394845?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Roughriders top Elks 16-9 to book West semifinal showdown with Lions",
-            "desc": "REGINA — The Saskatchewan Roughriders punched their ticket to the West Division semifinal with a 16-9 victory over the Edmonton Elks on Saturday.",
-            "pubDate": "2026-10-25T15:58:58Z",
-            "link": "https://www.nsnews.com/national-sports/roughriders-top-elks-16-9-to-book-west-semifinal-showdown-with-lions-12935115"
+            "title": "Brazil votes in a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake",
+            "desc": "RIO DE JANEIRO (AP) — Brazilians were voting in Sunday’s polarizing presidential runoff between incumbent President  Luiz Inácio Lula da Silva  and  Flávio Bolsonaro , a contest that will determine whether the U.S.",
+            "pubDate": "2026-10-25T20:33:33Z",
+            "link": "https://www.nsnews.com/the-mix/brazil-votes-in-a-tense-lula-vs-bolsonaro-runoff-with-us-influence-over-latin-america-at-stake-12936793"
           },
           {
-            "title": "'Well-known evil empire': Barack Obama mocks President Trump's tariff war with Canada",
-            "desc": "DETROIT — Former president Barack Obama took aim at U.S. President Donald Trump’s tariffs on Canadian goods Saturday during an impassioned speech at a Democrat campaign rally in Detroit, Michigan, ahead of next month’s U.S. mid-term elections.",
-            "pubDate": "2026-10-25T15:58:56Z",
-            "link": "https://www.nsnews.com/the-mix/well-known-evil-empire-barack-obama-mocks-president-trumps-tariff-war-with-canada-12936298"
+            "title": "Brazil votes in a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake",
+            "desc": "RIO DE JANEIRO (AP) — Brazilians were voting in Sunday’s polarizing presidential runoff between incumbent President  Luiz Inácio Lula da Silva  and  Flávio Bolsonaro , a contest that will determine whether the U.S.",
+            "pubDate": "2026-10-25T20:33:33Z",
+            "link": "https://www.nsnews.com/national-business/brazil-votes-in-a-tense-lula-vs-bolsonaro-runoff-with-us-influence-over-latin-america-at-stake-12936795"
           },
           {
-            "title": "'Well-known evil empire': Barack Obama mocks President Trump's tariff war with Canada",
-            "desc": "DETROIT — Former president Barack Obama took aim at U.S. President Donald Trump’s tariffs on Canadian goods Saturday during an impassioned speech at a Democrat campaign rally in Detroit, Michigan, ahead of next month’s U.S. mid-term elections.",
-            "pubDate": "2026-10-25T15:58:56Z",
-            "link": "https://www.nsnews.com/national-business/well-known-evil-empire-barack-obama-mocks-president-trumps-tariff-war-with-canada-12936299"
+            "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+            "desc": "CARACAS, Venezuela (AP) — Opposition leader and Nobel laureate  María Corina Machado  reappeared in Venezuela Sunday for the first time since December, returning from exile at a time when doubts about the country's democratic future — and the role of",
+            "pubDate": "2026-10-25T20:12:39Z",
+            "link": "https://www.nsnews.com/world-news/venezuelas-opposition-leader-machado-returns-after-months-in-exile-as-doubts-over-democracy-deepen-12936350"
           },
           {
-            "title": "Canada's Fernandez falls to top-ranked Rybakina in Ningbo Open women's tennis final",
-            "desc": "NINGBO — Canada's Leylah Fernandez fell 6-2, 6-2 to world No. 1 Elena Rybakina of Kazakhstan in the Ningbo Open women's tennis final on Sunday.  Fernandez, from Laval, Que.",
-            "pubDate": "2026-10-25T15:49:08Z",
-            "link": "https://www.nsnews.com/national-sports/canadas-fernandez-falls-to-top-ranked-rybakina-in-ningbo-open-womens-tennis-final-12936301"
+            "title": "B.C. Conservative's Lorne Doerkson sets out urgent priorities to govern",
+            "desc": "VANCOUVER — British Columbia's premier-designate Lorne Doerkson says his government will launch an independent review of the province's finances, set up a commission on keeping emergency rooms open and make a plan to lower taxes when the legislature",
+            "pubDate": "2026-10-25T20:03:00Z",
+            "link": "https://www.nsnews.com/national-news/bc-conservatives-lorne-doerkson-sets-out-urgent-priorities-to-govern-12936108"
           },
           {
-            "title": "Time Traveller: North Vancouver's 'Crab Shack' has been selling seafood since 1961",
-            "desc": "The business has moved a couple of times over the years, but it still stays true to its roots of pulling tasty stuff out of Burrard Inlet",
-            "pubDate": "2026-10-25T14:30:00Z",
-            "link": "https://www.nsnews.com/in-the-community/time-traveller-north-vancouvers-crab-shack-has-been-selling-seafood-since-1961-12921887"
+            "title": "Polls closed in Serbia's election where strongman Vucic is facing student protest movement",
+            "desc": "BELGRADE, Serbia (AP) — High turnout and gathering tensions marked a highly contested parliamentary election on Sunday in Serbia that is a showdown between the Balkan country’s strongman leader  Aleksandar Vucic  and a diverse movement of  university",
+            "pubDate": "2026-10-25T19:46:41Z",
+            "link": "https://www.nsnews.com/world-news/polls-closed-in-serbias-election-where-strongman-vucic-is-facing-student-protest-movement-12935780"
           },
           {
-            "title": "Lorne Doerkson leads B.C. Conservatives to power with thumping two-thirds majority",
-            "desc": "VANCOUVER — British Columbia has turned blue, electing a B.C. Conservative government with an overwhelming two-thirds majority.",
-            "pubDate": "2026-10-25T14:00:09Z",
-            "link": "https://www.nsnews.com/national-news/lorne-doerkson-leads-bc-conservatives-to-power-with-thumping-two-thirds-majority-12936108"
+            "title": "First Nations, minister and premiers gather for day of ceremony",
+            "desc": "OTTAWA — First Nations leaders gathered in Ottawa on Sunday for ceremonies ahead of a historic meeting on Monday with some premiers and Prime Minister Mark Carney.",
+            "pubDate": "2026-10-25T19:46:20Z",
+            "link": "https://www.nsnews.com/the-mix/first-nations-minister-and-premiers-gather-for-day-of-ceremony-12936747"
           },
           {
-            "title": "Five things to watch for in the Canadian business world in the coming week",
-            "desc": "TORONTO — Five things to watch for in the Canadian business world in the coming week:  Corporate earnings  Some of corporate Canada's biggest names will report their results this week. Celestica Inc.",
-            "pubDate": "2026-10-25T14:00:05Z",
-            "link": "https://www.nsnews.com/the-mix/five-things-to-watch-for-in-the-canadian-business-world-in-the-coming-week-12936071"
+            "title": "First Nations, minister and premiers gather for day of ceremony",
+            "desc": "OTTAWA — First Nations leaders gathered in Ottawa on Sunday for ceremonies ahead of a historic meeting on Monday with some premiers and Prime Minister Mark Carney.",
+            "pubDate": "2026-10-25T19:46:20Z",
+            "link": "https://www.nsnews.com/national-business/first-nations-minister-and-premiers-gather-for-day-of-ceremony-12936749"
           },
           {
-            "title": "Five things to watch for in the Canadian business world in the coming week",
-            "desc": "TORONTO — Five things to watch for in the Canadian business world in the coming week:  Corporate earnings  Some of corporate Canada's biggest names will report their results this week. Celestica Inc.",
-            "pubDate": "2026-10-25T14:00:05Z",
-            "link": "https://www.nsnews.com/national-business/five-things-to-watch-for-in-the-canadian-business-world-in-the-coming-week-12936072"
+            "title": "First Nations, minister and premiers gather for day of ceremony",
+            "desc": "OTTAWA — First Nations leaders gathered in Ottawa on Sunday for ceremonies ahead of a historic meeting on Monday with some premiers and Prime Minister Mark Carney.",
+            "pubDate": "2026-10-25T19:46:20Z",
+            "link": "https://www.nsnews.com/national-news/first-nations-minister-and-premiers-gather-for-day-of-ceremony-12935966"
           }
         ]
       },
