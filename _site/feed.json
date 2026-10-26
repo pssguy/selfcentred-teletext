@@ -2,20 +2,32 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-25T23:15:03Z",
+      "fetchedAt": "2026-10-26T04:42:33Z",
       "sections": {
         "top": [
           {
-            "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+            "title": "Lula wins but faces hostile Congress and divided country",
+            "desc": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.",
+            "pubDate": "2026-10-26T03:55:13Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
             "desc": "An amber wind warning has now expired after severe weather sweeps across the UK.",
-            "pubDate": "2026-10-25T22:24:16Z",
+            "pubDate": "2026-10-26T04:41:36Z",
             "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+            "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
             "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-            "pubDate": "2026-10-25T22:54:57Z",
+            "pubDate": "2026-10-26T01:07:05Z",
             "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+            "desc": "The economic is positive now but come January things could become trickier for the Labour government",
+            "pubDate": "2026-10-26T00:26:49Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
@@ -24,41 +36,29 @@
             "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
-            "desc": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
-            "pubDate": "2026-10-25T18:38:17Z",
-            "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
-            "desc": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
-            "pubDate": "2026-10-25T21:24:21Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "Deeply divided Israel braces for pivotal election",
             "desc": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
             "pubDate": "2026-10-25T22:11:13Z",
             "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Couple were celebrating anniversary before Bahamas tragedy",
-            "desc": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
-            "pubDate": "2026-10-25T14:38:51Z",
-            "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "Venezuelan opposition leader María Machado returns after months in exile",
             "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-            "pubDate": "2026-10-25T18:29:00Z",
+            "pubDate": "2026-10-26T03:05:22Z",
             "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
+            "desc": "The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him.",
+            "pubDate": "2026-10-26T01:40:39Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
           {
-            "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+            "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
             "desc": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-            "pubDate": "2026-10-25T22:54:57Z",
+            "pubDate": "2026-10-26T01:07:05Z",
             "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -70,7 +70,7 @@
           {
             "title": "Venezuelan opposition leader María Machado returns after months in exile",
             "desc": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-            "pubDate": "2026-10-25T18:29:00Z",
+            "pubDate": "2026-10-26T03:05:22Z",
             "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -106,16 +106,10 @@
         ],
         "uk": [
           {
-            "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+            "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
             "desc": "An amber wind warning has now expired after severe weather sweeps across the UK.",
-            "pubDate": "2026-10-25T22:24:16Z",
+            "pubDate": "2026-10-26T04:41:36Z",
             "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
-            "desc": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
-            "pubDate": "2026-10-25T18:38:17Z",
-            "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
@@ -124,10 +118,16 @@
             "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Burnham open to 'honest discussion' on EU free movement",
-            "desc": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
-            "pubDate": "2026-10-25T12:11:23Z",
-            "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
+            "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+            "desc": "The economic is positive now but come January things could become trickier for the Labour government",
+            "pubDate": "2026-10-26T00:26:49Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+            "desc": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
+            "pubDate": "2026-10-25T18:38:17Z",
+            "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Couple were celebrating anniversary before Bahamas tragedy",
@@ -142,10 +142,10 @@
             "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-            "desc": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
-            "pubDate": "2026-10-24T23:03:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss"
+            "title": "Body found in search for man who fell overboard from ferry",
+            "desc": "Formal identification is yet to take place but the family of 82-year-old Jim Wither has been informed.",
+            "pubDate": "2026-10-25T16:14:36Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm4g1394e3kvo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Long queues after power surge at Stansted Airport",
@@ -156,16 +156,16 @@
         ],
         "business": [
           {
-            "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-            "desc": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
-            "pubDate": "2026-10-25T06:00:15Z",
-            "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss"
+            "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+            "desc": "The economic is positive now but come January things could become trickier for the Labour government",
+            "pubDate": "2026-10-26T00:26:49Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Budget to include £1bn for social and affordable housing",
-            "desc": "The move will take funding for the 10-year programme to more than £40bn.",
-            "pubDate": "2026-10-25T10:03:17Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
+            "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+            "desc": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+            "pubDate": "2026-10-25T23:44:34Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Will a new code end 'rip-off parking charges'?",
@@ -192,16 +192,16 @@
             "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "How does the UK state pension compare with other countries?",
-            "desc": "Do British pensioners have it better or worse than those in other countries?",
-            "pubDate": "2026-10-24T00:09:12Z",
-            "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss"
+            "title": "What is the Budget and what could be in it?",
+            "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+            "pubDate": "2026-10-26T02:16:37Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-            "desc": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-            "pubDate": "2026-10-24T00:05:45Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+            "title": "Budget to include £1bn for social and affordable housing",
+            "desc": "The move will take funding for the 10-year programme to more than £40bn.",
+            "pubDate": "2026-10-25T10:03:17Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "sport": [
@@ -212,22 +212,28 @@
             "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Antonelli wins in US but has to wait to secure title",
-            "desc": "Kimi Antonelli needs only two more points to seal his first world title following a dominant victory in the United States Grand Prix.",
-            "pubDate": "2026-10-25T22:13:05Z",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o?at_medium=RSS&at_campaign=rss"
+            "title": "Antonelli delivers 'the race of a champion who isn't the champion yet'",
+            "desc": "Kimi Antonelli's Austin win was \"the best he has delivered\", according to Mercedes boss Toto Wolff, even if it wasn't quite enough to give him the title.",
+            "pubDate": "2026-10-26T01:24:51Z",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/c6wyvnlx0erxo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Watch: Match of the Day",
-            "desc": "A busy Premier League Sunday, with five matches, including Liverpool against Brighton.",
-            "pubDate": "2026-10-25T23:46:55Z",
-            "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss"
+            "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+            "desc": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+            "pubDate": "2026-10-26T00:07:16Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Isak finally living up to price tag as Liverpool patience rewarded",
             "desc": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
             "pubDate": "2026-10-25T18:13:55Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Pressure grows on Sage as fans turn on Palace boss",
+            "desc": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
+            "pubDate": "2026-10-25T18:36:12Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "England lose to Pakistan after improbable last-wicket stand",
@@ -246,21 +252,21 @@
             "desc": "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
             "pubDate": "2026-10-25T20:00:19Z",
             "link": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Liverpool earn first league win at Anfield with victory over Brighton",
-            "desc": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
-            "pubDate": "2026-10-25T20:00:09Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-25T23:15:04Z",
+      "fetchedAt": "2026-10-26T04:42:33Z",
       "sections": {
         "top": [
+          {
+            "title": "Who is B.C.'s new premier Lorne Doerkson?",
+            "desc": "",
+            "pubDate": "2026-10-24T17:23:23Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/who-is-bc-premier-lorne-doerkson-9.7395130?cmp=rss"
+          },
           {
             "title": "Carney's geopolitical ambitions tested in defence industry co-operation with Turkey",
             "desc": "",
@@ -274,22 +280,22 @@
             "link": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-questions-immigration-constitution-9.7394465?cmp=rss"
           },
           {
-            "title": "Who is B.C.'s new premier Lorne Doerkson?",
-            "desc": "",
-            "pubDate": "2026-10-24T17:23:23Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/who-is-bc-premier-lorne-doerkson-9.7395130?cmp=rss"
+            "title": "Lula re-elected in Brazil as Bolsonaro rejects results",
+            "desc": "Brazilian President Luiz Inácio Lula da Silva, a vocal critic of U.S. President Donald Trump, was re-elected on Sunday. But opponent Flávio Bolsonaro refused to concede defeat late Sunday, calling the move to extend voting hours unprecedented.",
+            "pubDate": "2026-10-25T20:30:30Z",
+            "link": "https://www.cbc.ca/news/world/lula-brazil-reelection-9.7395695?cmp=rss"
+          },
+          {
+            "title": "Serbia's longtime strongman Vučić concedes election defeat to student-led opposition",
+            "desc": "Serbia's Aleksandar Vučić conceded defeat to a student-led protest movement in a historic election on Sunday that ends his long grip on power ​and heralds a new political era in the ​Balkan country.",
+            "pubDate": "2026-10-25T17:14:31Z",
+            "link": "https://www.cbc.ca/news/world/serbia-vucic-election-concession-9.7395557?cmp=rss"
           },
           {
             "title": "Is this Quebec-developed fruit the 'apple of the future'?",
             "desc": "Quebec apple producers say it’s been a good season, harvest- and sales-wise. They say it has much to do with U.S. tariffs and new varieties developed in — and for — Quebec.",
             "pubDate": "2026-10-25T04:00:00Z",
             "link": "https://www.cbc.ca/news/canada/montreal/quebec-developed-apple-orleans-fruit-of-the-future-9.7389007?cmp=rss"
-          },
-          {
-            "title": "Serbia's longtime strongman Vucic concedes election defeat to student-led opposition",
-            "desc": "Serbia's Aleksandar Vucic conceded defeat to a student-led protest movement in a historic election on Sunday that ends his long grip on power ​and heralds a new political era in the ​Balkan country.",
-            "pubDate": "2026-10-25T17:14:31Z",
-            "link": "https://www.cbc.ca/news/world/serbia-vucic-election-concession-9.7395557?cmp=rss"
           },
           {
             "title": "Funeral mourners recall friendship, dedication of sergeant killed in CFB Wainwright fire",
@@ -302,12 +308,6 @@
             "desc": "Ukrainian officials have disputed claims by SpaceX CEO Elon Musk that the country's military violated Starlink's terms of service by using the civilian satellite internet network for offensive drone strikes. Serhii Beskrestnov, a defence technology adviser to President Volodymyr Zelenskyy, said long-standing restrictions on the civilian system in Ukraine made such offensive use impossible.",
             "pubDate": "2026-10-25T14:25:58Z",
             "link": "https://www.cbc.ca/news/world/ukraine-disputes-elon-musk-claim-starlink-starshield-9.7395412?cmp=rss"
-          },
-          {
-            "title": "Canada needs concrete results from EU summit this week, former envoy says",
-            "desc": "Ahead of this week's Canada-European Union summit, Prime Minister Mark Carney said both parties are hammering out a \"new, ambitious alliance\" after pledging deeper ties with Europe last month.",
-            "pubDate": "2026-10-25T13:58:19Z",
-            "link": "https://www.cbc.ca/news/politics/canada-eu-summit-concrete-results-9.7395409?cmp=rss"
           }
         ],
         "world": [
@@ -318,14 +318,20 @@
             "link": "https://www.cbc.ca/news/world/netanyahu-israel-election-9.7394784?cmp=rss"
           },
           {
+            "title": "Lula re-elected in Brazil as Bolsonaro rejects results",
+            "desc": "Brazilian President Luiz Inácio Lula da Silva, a vocal critic of U.S. President Donald Trump, was re-elected on Sunday. But opponent Flávio Bolsonaro refused to concede defeat late Sunday, calling the move to extend voting hours unprecedented.",
+            "pubDate": "2026-10-25T20:30:30Z",
+            "link": "https://www.cbc.ca/news/world/lula-brazil-reelection-9.7395695?cmp=rss"
+          },
+          {
             "title": "Israeli military conducts massive West Bank operation, days before Israel election",
             "desc": "The Israeli military continued a massive military operation in the occupied West Bank on Sunday, displacing hundreds of Palestinians and placing major restrictions on movement in response to a gun attack that killed two Israeli soldiers and wounded three others in Hebron on Friday.",
             "pubDate": "2026-10-25T08:31:01Z",
             "link": "https://www.cbc.ca/news/world/israel-west-bank-operation-before-election-9.7395171?cmp=rss"
           },
           {
-            "title": "Serbia's longtime strongman Vucic concedes election defeat to student-led opposition",
-            "desc": "Serbia's Aleksandar Vucic conceded defeat to a student-led protest movement in a historic election on Sunday that ends his long grip on power ​and heralds a new political era in the ​Balkan country.",
+            "title": "Serbia's longtime strongman Vučić concedes election defeat to student-led opposition",
+            "desc": "Serbia's Aleksandar Vučić conceded defeat to a student-led protest movement in a historic election on Sunday that ends his long grip on power ​and heralds a new political era in the ​Balkan country.",
             "pubDate": "2026-10-25T17:14:31Z",
             "link": "https://www.cbc.ca/news/world/serbia-vucic-election-concession-9.7395557?cmp=rss"
           },
@@ -352,12 +358,6 @@
             "desc": "Ahead of this week's Canada-European Union summit, Prime Minister Mark Carney said both parties are hammering out a \"new, ambitious alliance\" after pledging deeper ties with Europe last month.",
             "pubDate": "2026-10-25T13:58:19Z",
             "link": "https://www.cbc.ca/news/politics/canada-eu-summit-concrete-results-9.7395409?cmp=rss"
-          },
-          {
-            "title": "Tennessee may try to execute Christa Pike again. The state could face legal hurdles",
-            "desc": "As Christa Pike continues to recover following her botched execution by the state of Tennessee earlier this month, it remains unclear whether another attempt will be made to execute the convicted murderer. But the state could face some constitutional hurdles if it plans to try again, some legal experts say.",
-            "pubDate": "2026-10-25T04:00:00Z",
-            "link": "https://www.cbc.ca/news/world/christa-pike-execution-death-penalty-9.7391927?cmp=rss"
           }
         ],
         "canada": [
@@ -372,6 +372,12 @@
             "desc": "",
             "pubDate": "2026-10-17T21:33:38Z",
             "link": "https://www.cbc.ca/news/canada/edmonton/edmonton-sergeant-funeral-cfb-wainwright-9.7395319?cmp=rss"
+          },
+          {
+            "title": "North Vancouver graduates-to-be have a night to remember as party boat gets stuck in the mud",
+            "desc": "About 150 Sutherland Secondary School students who were celebrating their graduating year were stranded for hours on Friday night after their party boat ran aground in the Burrard Inlet.",
+            "pubDate": "2026-10-25T15:31:27Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/north-vancouver-graduates-party-boat-stuck-9.7395064?cmp=rss"
           },
           {
             "title": "Smith scores slim majority on immigration questions, Albertans reject constitutional changes",
@@ -402,12 +408,6 @@
             "desc": "The Canadian quartet of Florence Brunelle, Courtney Sarault, Claudia Gagnon and Danaé Blais captured gold in a chaotic women’s 3,000-metre relay final at the ISU Short Track World Tour opener in Vancouver on Saturday night.",
             "pubDate": "2026-10-25T00:15:55Z",
             "link": "https://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/short-track-world-tour-vancouver-recap-oct-24-9.7394989?cmp=rss"
-          },
-          {
-            "title": "IN PHOTOS | Fall splendour in Canada",
-            "desc": "As our days shorten and temperatures drop, chlorophyll in leaves breaks down, revealing the autumnal tones of yellow and orange, while some leaves develop brilliant reds. Check out the fall splendour in Canada.",
-            "pubDate": "2026-10-21T16:37:32Z",
-            "link": "https://www.cbc.ca/news/canada/fall-colours-photo-scroller-9.7388145?cmp=rss"
           }
         ],
         "bc": [
@@ -418,10 +418,34 @@
             "link": "https://www.cbc.ca/news/canada/british-columbia/bc-conservative-lorne-doerkson-promises-what-to-expect-9.7395394?cmp=rss"
           },
           {
+            "title": "More than 1,200 workers walk off job at B.C. copper mine after contract talks fail",
+            "desc": "More than 1,200 workers have walked off the job at Highland Valley Copper near Logan Lake, B.C., after contract talks broke down. Teck says operations are continuing at reduced capacity.",
+            "pubDate": "2026-10-25T19:55:17Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/highland-valley-copper-mine-strike-9.7395643?cmp=rss"
+          },
+          {
             "title": "These B.C. Conservatives won both their provincial and municipal races",
             "desc": "Two B.C. Conservatives have been elected as MLAs after Saturday's provincial vote — even though they won their respective municipal election races just a week earlier. Kevin Acton, who was re-elected mayor of Lumby, and Garry Thind, who was re-elected as a Surrey school trustee, will have to resign their municipal roles under a law passed last year.",
             "pubDate": "2026-10-25T16:56:45Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/kevin-acton-garry-thind-bc-provincial-municipal-election-win-9.7395546?cmp=rss"
+          },
+          {
+            "title": "Who is B.C.'s new premier Lorne Doerkson?",
+            "desc": "B.C. premier-designate Lorne Doerkson spent his victory speech Saturday night introducing himself to British Columbians, and celebrating the \"trailblazers\" who came to the province searching for gold and a better life.",
+            "pubDate": "2026-10-25T08:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/who-is-bc-premier-lorne-doerkson-9.7395130?cmp=rss"
+          },
+          {
+            "title": "5 reasons why Lorne Doerkson is the next premier of British Columbia",
+            "desc": "Even by the standards of British Columbia politics, this was an election for the history books.",
+            "pubDate": "2026-10-25T07:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/lorne-doerkson-next-premier-5-reasons-9.7395150?cmp=rss"
+          },
+          {
+            "title": "Mia Pante scores brace as Rise defeat Wild, move into final NSL playoff spot",
+            "desc": "Mia Pante scored twice to lead Vancouver Rise FC to a 3-2 win over Calgary Wild FC on Sunday in Northern Super League action in Burnaby, B.C.",
+            "pubDate": "2026-10-25T19:23:27Z",
+            "link": "https://www.cbc.ca/sports/soccer/calgary-wild-vancouver-rise-recap-oct-25-9.7395652?cmp=rss"
           },
           {
             "title": "North Vancouver graduates-to-be have a night to remember as party boat gets stuck in the mud",
@@ -434,80 +458,56 @@
             "desc": "The Pioneer Bankers tells the story of a little-known race for wealth by horseback, canoe and foot across 1910 British Columbia.",
             "pubDate": "2026-10-25T13:00:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/pioneeer-bankers-prince-george-vivien-lougheed-9.7393956?cmp=rss"
-          },
-          {
-            "title": "B.C. books to get lost in this autumn",
-            "desc": "Cozy up by the fireplace with a hot apple cider and a book by one of B.C.'s many local talents.",
-            "pubDate": "2026-10-25T11:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-books-fall-2026-9.7384640?cmp=rss"
-          },
-          {
-            "title": "These B.C. NDP cabinet ministers lost their seats on election night",
-            "desc": "Six former NDP cabinet ministers are projected to lose their seats to Conservative challengers in B.C.'s snap election, as of early Sunday morning.",
-            "pubDate": "2026-10-25T03:57:08Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/ndp-cabinet-members-lose-seats-bc-election-2026-9.7395119?cmp=rss"
-          },
-          {
-            "title": "OneBC interim Leader Dallas Brodie defeated in Vancouver",
-            "desc": "OneBC interim Leader Dallas Brodie has been defeated in her riding of Vancouver-Quilchena.",
-            "pubDate": "2026-10-25T00:54:57Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/dallas-brodie-elenore-sturko-9.7395032?cmp=rss"
-          },
-          {
-            "title": "Crews fight apartment building blaze in downtown Victoria",
-            "desc": "Victoria Fire Chief Dan Atkinson said crews were met with \"extremely challenging conditions\" Saturday morning. Crews will be on scene through Sunday.",
-            "pubDate": "2026-10-24T11:22:09Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/victoria-fire-9.7394697?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "B.C.'s premier designate plans to speak with Whitecaps about future in Vancouver",
-            "desc": "VANCOUVER — British Columbia's premier designate says he doesn't know what the plan is to keep the Whitecaps in Vancouver.   Lorne Doerkson spoke to media Sunday, hours after his B.C.",
-            "pubDate": "2026-10-25T22:56:45Z",
-            "link": "https://www.nsnews.com/national-sports/bcs-premier-designate-plans-to-speak-with-whitecaps-about-future-in-vancouver-12937018"
+            "title": "Caribbean seeks reparations and questions role of monarchy before King Charles III visits",
+            "desc": "SAN JUAN, Puerto Rico (AP) — The royals are coming, and the  Caribbean  wants to be heard.",
+            "pubDate": "2026-10-26T04:15:37Z",
+            "link": "https://www.nsnews.com/the-mix/caribbean-seeks-reparations-and-questions-role-of-monarchy-before-king-charles-iii-visits-12937298"
           },
           {
-            "title": "B.C. Conservative's Lorne Doerkson sets out urgent priorities to govern",
-            "desc": "VANCOUVER — British Columbia's premier-designate Lorne Doerkson's long to-do list includes lowering taxes, while reviewing the provincial finances, working with Alberta and the federal government on the proposed Pacific Link pipeline and repealing In",
-            "pubDate": "2026-10-25T22:49:05Z",
-            "link": "https://www.nsnews.com/the-mix/bc-conservatives-lorne-doerkson-sets-out-urgent-priorities-to-govern-12937014"
+            "title": "'Well-known evil empire': Barack Obama mocks President Trump's trade war with Canada",
+            "desc": "DETROIT — Former president Barack Obama took aim at U.S. President Donald Trump’s tariffs on Canadian goods Saturday during an impassioned speech at a Democrat campaign rally in Detroit, Michigan, ahead of next month’s U.S. midterm elections.",
+            "pubDate": "2026-10-26T04:03:56Z",
+            "link": "https://www.nsnews.com/the-mix/well-known-evil-empire-barack-obama-mocks-president-trumps-trade-war-with-canada-12936298"
           },
           {
-            "title": "B.C. Conservative's Lorne Doerkson sets out urgent priorities to govern",
-            "desc": "VANCOUVER — British Columbia's premier-designate Lorne Doerkson's long to-do list includes lowering taxes, while reviewing the provincial finances, working with Alberta and the federal government on the proposed Pacific Link pipeline and repealing In",
-            "pubDate": "2026-10-25T22:49:05Z",
-            "link": "https://www.nsnews.com/national-business/bc-conservatives-lorne-doerkson-sets-out-urgent-priorities-to-govern-12937016"
+            "title": "'Well-known evil empire': Barack Obama mocks President Trump's trade war with Canada",
+            "desc": "DETROIT — Former president Barack Obama took aim at U.S. President Donald Trump’s tariffs on Canadian goods Saturday during an impassioned speech at a Democrat campaign rally in Detroit, Michigan, ahead of next month’s U.S. midterm elections.",
+            "pubDate": "2026-10-26T04:03:56Z",
+            "link": "https://www.nsnews.com/national-business/well-known-evil-empire-barack-obama-mocks-president-trumps-trade-war-with-canada-12936299"
           },
           {
-            "title": "B.C. Conservative's Lorne Doerkson sets out urgent priorities to govern",
-            "desc": "VANCOUVER — British Columbia's premier-designate Lorne Doerkson's long to-do list includes lowering taxes, while reviewing the provincial finances, working with Alberta and the federal government on the proposed Pacific Link pipeline and repealing In",
-            "pubDate": "2026-10-25T22:49:05Z",
-            "link": "https://www.nsnews.com/national-news/bc-conservatives-lorne-doerkson-sets-out-urgent-priorities-to-govern-12936108"
+            "title": "'Well-known evil empire': Barack Obama mocks President Trump's trade war with Canada",
+            "desc": "DETROIT — Former president Barack Obama took aim at U.S. President Donald Trump’s tariffs on Canadian goods Saturday during an impassioned speech at a Democrat campaign rally in Detroit, Michigan, ahead of next month’s U.S. midterm elections.",
+            "pubDate": "2026-10-26T04:03:56Z",
+            "link": "https://www.nsnews.com/national-news/well-known-evil-empire-barack-obama-mocks-president-trumps-trade-war-with-canada-12936332"
           },
           {
-            "title": "Brazil resumes vote counting after last-minute extension of polling hours in tense presidential race",
-            "desc": "RIO DE JANEIRO (AP) — Vote-counting resumed in Brazil’s polarizing presidential runoff between incumbent President  Luiz Inácio Lula da Silva  and  Flávio Bolsonaro  after a chaotic, last-minute extension of polling station hours.",
-            "pubDate": "2026-10-25T22:47:34Z",
-            "link": "https://www.nsnews.com/the-mix/brazil-resumes-vote-counting-after-last-minute-extension-of-polling-hours-in-tense-presidential-race-12936793"
+            "title": "Canada receives its first F-35 jets from U.S., as full order remains under review",
+            "desc": "OTTAWA — Canada has received its first pair of new F-35 fighter jets, with Ottawa still deliberating how many of the American planes it will buy.",
+            "pubDate": "2026-10-26T04:00:28Z",
+            "link": "https://www.nsnews.com/the-mix/canada-receives-its-first-f-35-jets-from-us-as-full-order-remains-under-review-12936620"
           },
           {
-            "title": "Brazil resumes vote counting after last-minute extension of polling hours in tense presidential race",
-            "desc": "RIO DE JANEIRO (AP) — Vote-counting resumed in Brazil’s polarizing presidential runoff between incumbent President  Luiz Inácio Lula da Silva  and  Flávio Bolsonaro  after a chaotic, last-minute extension of polling station hours.",
-            "pubDate": "2026-10-25T22:47:34Z",
-            "link": "https://www.nsnews.com/national-business/brazil-resumes-vote-counting-after-last-minute-extension-of-polling-hours-in-tense-presidential-race-12936795"
+            "title": "Canada receives its first F-35 jets from U.S., as full order remains under review",
+            "desc": "OTTAWA — Canada has received its first pair of new F-35 fighter jets, with Ottawa still deliberating how many of the American planes it will buy.",
+            "pubDate": "2026-10-26T04:00:28Z",
+            "link": "https://www.nsnews.com/national-business/canada-receives-its-first-f-35-jets-from-us-as-full-order-remains-under-review-12936622"
           },
           {
-            "title": "First Nations, minister and premiers gather for day of ceremony",
-            "desc": "OTTAWA — First Nations leaders gathered in Ottawa on Sunday for ceremonies ahead of a historic meeting on Monday with some premiers and Prime Minister Mark Carney, while grassroots activists planned their strategy to protest the meeting while heavily",
-            "pubDate": "2026-10-25T22:34:16Z",
-            "link": "https://www.nsnews.com/the-mix/first-nations-minister-and-premiers-gather-for-day-of-ceremony-12936747"
+            "title": "Canada receives its first F-35 jets from U.S., as full order remains under review",
+            "desc": "OTTAWA — Canada has received its first pair of new F-35 fighter jets, with Ottawa still deliberating how many of the American planes it will buy.",
+            "pubDate": "2026-10-26T04:00:28Z",
+            "link": "https://www.nsnews.com/national-news/canada-receives-its-first-f-35-jets-from-us-as-full-order-remains-under-review-12936579"
           },
           {
-            "title": "First Nations, minister and premiers gather for day of ceremony",
-            "desc": "OTTAWA — First Nations leaders gathered in Ottawa on Sunday for ceremonies ahead of a historic meeting on Monday with some premiers and Prime Minister Mark Carney, while grassroots activists planned their strategy to protest the meeting while heavily",
-            "pubDate": "2026-10-25T22:34:16Z",
-            "link": "https://www.nsnews.com/national-business/first-nations-minister-and-premiers-gather-for-day-of-ceremony-12936749"
+            "title": "Lula is declared winner of Brazil's election as Bolsonaro rejects results",
+            "desc": "RIO DE JANEIRO (AP) — Brazil’s President Luiz Inácio Lula da Silva, a vocal critic of U.S. President Donald Trump, was reelected Sunday in a result that provides relief to critics of  widening U.S. influence in Latin America .",
+            "pubDate": "2026-10-26T03:26:05Z",
+            "link": "https://www.nsnews.com/the-mix/lula-is-declared-winner-of-brazils-election-as-bolsonaro-rejects-results-12936793"
           }
         ]
       },
