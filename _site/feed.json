@@ -2,14 +2,26 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-26T20:28:38Z",
+      "fetchedAt": "2026-10-27T00:25:20Z",
       "sections": {
         "top": [
           {
-            "title": "Independent review announced into murder of student Henry Nowak ",
-            "desc": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
-            "pubDate": "2026-10-26T16:15:16Z",
-            "link": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss"
+            "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+            "desc": "Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.",
+            "pubDate": "2026-10-26T23:10:59Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
+            "desc": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
+            "pubDate": "2026-10-26T23:03:14Z",
+            "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' ",
+            "desc": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+            "pubDate": "2026-10-26T22:30:02Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Israel and the US are both going to the polls - the consequences will be global",
@@ -25,8 +37,8 @@
           },
           {
             "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
-            "desc": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
-            "pubDate": "2026-10-26T17:22:51Z",
+            "desc": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
+            "pubDate": "2026-10-26T22:43:44Z",
             "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -40,25 +52,13 @@
             "desc": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
             "pubDate": "2026-10-26T16:27:17Z",
             "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "What is walking down the newly pedestrianised Oxford Street like?",
-            "desc": "The first phase of the overhaul is expected to be finished by spring 2027.",
-            "pubDate": "2026-10-26T11:50:34Z",
-            "link": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Healey to shield low-income pensioners from income tax in the Budget",
-            "desc": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
-            "pubDate": "2026-10-26T10:28:12Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
           {
             "title": "Lula wins fourth term in dramatic Brazil election comeback",
             "desc": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-            "pubDate": "2026-10-26T20:00:30Z",
+            "pubDate": "2026-10-26T21:02:47Z",
             "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -100,11 +100,47 @@
           {
             "title": "'Maxxing' selected as Dictionary.com word of the year",
             "desc": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
-            "pubDate": "2026-10-26T19:16:28Z",
+            "pubDate": "2026-10-26T21:31:53Z",
             "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
+          {
+            "title": "Chris Mason: The Budget is imminent as tricky things pile up for Burnham",
+            "desc": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
+            "pubDate": "2026-10-26T23:03:14Z",
+            "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' ",
+            "desc": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+            "pubDate": "2026-10-26T22:30:02Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+            "desc": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
+            "pubDate": "2026-10-26T22:43:44Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "DUP MLA joins Lockhart's call for O'Neill's removal as first minister",
+            "desc": "Diane Forsythe backs Carla Lockhart and says there must be \"profound consequences\" for Sinn Féin.",
+            "pubDate": "2026-10-27T00:00:05Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq8jzxgewrvpo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "More than third of deaths of ex-prisoners on probation drug related, says report",
+            "desc": "Politicians are being urged to tackle \"systematic failures\" in the criminal justice system.",
+            "pubDate": "2026-10-26T23:00:07Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq77pej86vd4o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Busted's James Bourne says 'hero' brother saved his life with kidney donation",
+            "desc": "The guitarist says doctors had given him \"a few years left to live\", but is now recovering well.",
+            "pubDate": "2026-10-26T22:07:26Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "Independent review announced into murder of student Henry Nowak ",
             "desc": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
@@ -112,49 +148,25 @@
             "link": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
-            "desc": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
-            "pubDate": "2026-10-26T17:22:51Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-            "desc": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
-            "pubDate": "2026-10-26T14:16:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Healey to shield low-income pensioners from income tax in the Budget",
-            "desc": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
-            "pubDate": "2026-10-26T10:28:12Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Drivers who killed mum and girl while racing jailed",
-            "desc": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
-            "pubDate": "2026-10-26T15:39:39Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "No 10 appears to backtrack on PM's freedom of movement referendum suggestion",
             "desc": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU.",
             "pubDate": "2026-10-26T17:50:00Z",
             "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Russell Brand asked assistant for female fan phone numbers, court hears",
-            "desc": "Helen Berger said she left her job working for Brand after she became \"sick of him.\"",
-            "pubDate": "2026-10-26T14:57:11Z",
-            "link": "https://www.bbc.co.uk/news/articles/cwly02l45ny3o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Army officer killed by reversing Warrior with faulty alarm - inquest",
-            "desc": "Second Lt Max George, 26, died during a training exercise on Salisbury Plain, an inquest is told.",
-            "pubDate": "2026-10-26T16:55:02Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6vgxjedkn5ro?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
+          {
+            "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+            "desc": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+            "pubDate": "2026-10-27T00:01:00Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes' ",
+            "desc": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+            "pubDate": "2026-10-26T22:30:02Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
             "desc": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
@@ -180,36 +192,42 @@
             "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-            "desc": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
-            "pubDate": "2026-10-25T23:44:34Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "What is the Budget and what could be in it?",
             "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
             "pubDate": "2026-10-26T02:16:37Z",
             "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
-            "desc": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
-            "pubDate": "2026-10-26T10:48:46Z",
-            "link": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Will a new code end 'rip-off parking charges'?",
-            "desc": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
-            "pubDate": "2026-10-25T07:05:30Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss"
+            "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+            "desc": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+            "pubDate": "2026-10-25T23:44:34Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "sport": [
           {
-            "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
-            "desc": "Harry Kane's dream of winning the Ballon d'Or seemed as if it had come true on Monday when the organisers released an article claiming he had won the award.",
-            "pubDate": "2026-10-26T18:10:26Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo?at_medium=RSS&at_campaign=rss"
+            "title": "Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend",
+            "desc": "Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London.",
+            "pubDate": "2026-10-26T23:10:59Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "London City's Putellas wins record-equalling third Ballon d'Or",
+            "desc": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
+            "pubDate": "2026-10-26T23:14:39Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Ballon d'Or winner Kane's best Bundesliga goals",
+            "desc": "Watch Harry Kane's best goals from the 2025/26 Bundesliga season with Bayern, as the England striker is crowned the men's 2026 Ballon d'Or winner.",
+            "pubDate": "2026-10-26T19:29:35Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Lancashire consider Anderson farewell amid fan unrest",
+            "desc": "Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.",
+            "pubDate": "2026-10-26T22:58:14Z",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
@@ -218,78 +236,54 @@
             "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "McDowell becomes latest major champion to exit LIV",
-            "desc": "Northern Ireland's Graeme McDowell becomes the latest major champion to exit LIV Golf.",
-            "pubDate": "2026-10-26T17:17:31Z",
-            "link": "https://www.bbc.co.uk/sport/golf/articles/ck78px63l923o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "England-Republic of Ireland U15 World Cup game ends over alleged racism",
-            "desc": "The Under-15 World Cup Group C match between England and Republic of Ireland is abandoned after England allege an opposition player made a racist comment.",
-            "pubDate": "2026-10-26T18:17:25Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmn8wzldd7q0o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "'Cutting doubles would destroy careers' - angry players urge ATP rethink",
-            "desc": "More than 150 doubles players - including Wimbledon champions and tennis legends - urge the ATP to rethink \"drastic\" cuts which they believe could kill the format.",
-            "pubDate": "2026-10-26T16:07:20Z",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cr78pxd66d47o?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "Player in Stokes and Atkinson altercation joins Bristol after Saracens sacking",
             "desc": "Bristol Bears have signed 21-year-old Samoan forward Totoa Auvaa, two weeks after he was sacked by Saracens.",
             "pubDate": "2026-10-26T19:03:22Z",
             "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c95yn672rx64o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Racecourse fined after jockey taken to A&E in horsebox",
-            "desc": "Sedgefield Racecourse is fined £6,500 after failing to comply with five 'general instructions' of safety.",
-            "pubDate": "2026-10-26T13:50:26Z",
-            "link": "https://www.bbc.co.uk/sport/horse-racing/articles/c6lykg4l72xlo?at_medium=RSS&at_campaign=rss"
+            "title": "McDowell becomes latest major champion to exit LIV",
+            "desc": "Northern Ireland's Graeme McDowell becomes the latest major champion to exit LIV Golf.",
+            "pubDate": "2026-10-26T17:17:31Z",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/ck78px63l923o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Why is Wilcox in line of fire from Man Utd fans?",
-            "desc": "With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to director of football Jason Wilcox.",
-            "pubDate": "2026-10-26T15:24:12Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o?at_medium=RSS&at_campaign=rss"
+            "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
+            "desc": "Harry Kane's dream of winning the Ballon d'Or came true on Monday, but a few hours earlier organisers prematurely released an article claiming he had clinched the award.",
+            "pubDate": "2026-10-26T23:35:27Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-26T20:28:39Z",
+      "fetchedAt": "2026-10-27T00:25:21Z",
       "sections": {
         "top": [
+          {
+            "title": "Most polls now closed in GTA with election results coming soon",
+            "desc": "",
+            "pubDate": "2026-10-26T07:49:46Z",
+            "link": "https://www.cbc.ca/news/canada/toronto/livestory/2026-election-toronto-brampton-mississauga-durham-9.7396652?cmp=rss"
+          },
+          {
+            "title": "Hamilton and Niagara awaiting results as polls now closed",
+            "desc": "",
+            "pubDate": "2026-10-26T19:17:28Z",
+            "link": "https://www.cbc.ca/news/canada/hamilton/livestory/hamilton-niagara-ontario-election-9.7396668?cmp=rss"
+          },
+          {
+            "title": "First Nations-first ministers' meeting brings funding announcements and mixed reviews",
+            "desc": "",
+            "pubDate": "2026-10-26T16:02:06Z",
+            "link": "https://www.cbc.ca/news/indigenous/first-nations-first-ministers-outcome-9.7396077?cmp=rss"
+          },
           {
             "title": "Canada-U.S. trade talks intensifying but wide gap remains, sources say",
             "desc": "",
             "pubDate": "2026-08-12T15:00:00Z",
             "link": "https://www.cbc.ca/news/politics/trade-talks-intensifying-no-deal-in-sight-9.7396332?cmp=rss"
-          },
-          {
-            "title": "'It's time to abolish the Indian Act,' Manitoba premier tells PM during historic meeting with chiefs",
-            "desc": "",
-            "pubDate": "2026-10-26T16:02:06Z",
-            "link": "https://www.cbc.ca/news/canada/manitoba/wab-kinew-indian-act-abolish-9.7396565?cmp=rss"
-          },
-          {
-            "title": "Police locate vehicle allegedly used by Toronto mother to abduct 3 children",
-            "desc": "Toronto police say they have found a vehicle believed to have been used to abduct three children from Scarborough on Friday, but the children and their mother have not been found.",
-            "pubDate": "2026-10-26T15:04:45Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/vehicle-found-missing-three-children-toronto-9.7396545?cmp=rss"
-          },
-          {
-            "title": "Carney holds news conference at meeting with First Nations leaders, premiers",
-            "desc": "Prime Minister Mark Carney takes questions from journalists at the First Nations-first ministers meeting in Ottawa, the first such meeting in two decades.",
-            "pubDate": "2026-10-26T15:30:00Z",
-            "link": "https://www.cbc.ca/player/play/9.7396434?cmp=rss"
-          },
-          {
-            "title": "Microsoft gives voluntary buyout offer to about 60,000 employees",
-            "desc": "Microsoft said on Monday it is offering voluntary buyouts to more than a quarter of its global workforce — including in Canada — as the technology giant looks to contain costs and help fund its ‌massive AI investments.",
-            "pubDate": "2026-10-26T15:41:33Z",
-            "link": "https://www.cbc.ca/news/business/microsoft-voluntary-buyout-9.7396520?cmp=rss"
           },
           {
             "title": "This 3-year-old scored 10 goals. Then police showed up at his soccer game",
@@ -298,16 +292,22 @@
             "link": "https://www.cbc.ca/news/world/florida-police-soccer-game-kid-9.7396158?cmp=rss"
           },
           {
-            "title": "Walter Koenig, Ensign Chekov on original Star Trek series, dead at 90",
-            "desc": "Actor Walter Koenig, who played Ensign Pavel Chekov, the youthful Russian navigator on the original Star Trek television series and in several movies, has died. He was 90.",
-            "pubDate": "2026-10-26T13:36:58Z",
-            "link": "https://www.cbc.ca/news/entertainment/walter-koenig-dead-9.7396385?cmp=rss"
+            "title": "Trump administration tries to prosecute former FBI director James Comey for 3rd time",
+            "desc": "Former FBI director ‌James Comey is facing a third criminal case from ​U.S. President Donald Trump's administration, ​accusing him of sharing sensitive ​national security information, according to court documents ‌made public on Monday.",
+            "pubDate": "2026-10-26T18:52:13Z",
+            "link": "https://www.cbc.ca/news/world/james-comey-trump-administraion-prosecuting-9.7396837?cmp=rss"
           },
           {
-            "title": "Elvis Presley's music rights-holders sue Anthropic over songs used for AI training",
-            "desc": "Rights-holders of Elvis Presley's music catalog have sued Anthropic for more than $41 million US, accusing the artificial intelligence giant of tapping the King of Rock and Roll's songs without consent to train its AI models and 'infringing copyrights at an unfathomable scale.'",
-            "pubDate": "2026-10-26T15:42:25Z",
-            "link": "https://www.cbc.ca/news/canada/anthropic-elvis-presley-copyright-lawsuit-songs-9.7396530?cmp=rss"
+            "title": "Police locate vehicle allegedly used by Toronto mother to abduct 3 children",
+            "desc": "Toronto police say they have found a vehicle believed to have been used to abduct three children from Scarborough on Friday, but the children and their mother have not been found.",
+            "pubDate": "2026-10-26T15:04:45Z",
+            "link": "https://www.cbc.ca/news/canada/toronto/vehicle-found-missing-three-children-toronto-9.7396545?cmp=rss"
+          },
+          {
+            "title": "Agent of author Steven Galloway says sex assault allegations derailed promising career",
+            "desc": "The literary agent for Steven Galloway said it would have been \"impossible\" to sell any new work by his client in the years after a former student made unproven allegations of rape and sexual assault against the author a decade ago.",
+            "pubDate": "2026-10-26T19:32:33Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/steven-galloway-defamation-trial-ubc-9.7396893?cmp=rss"
           }
         ],
         "world": [
@@ -354,18 +354,30 @@
             "link": "https://www.cbc.ca/news/business/microsoft-voluntary-buyout-9.7396520?cmp=rss"
           },
           {
-            "title": "Jordan arrests 3 suspects in deadly church attack after gunbattle",
-            "desc": "Jordanian security forces arrested two brothers and their brother-in-law after a shootout on Monday over a church attack that ​killed nine people, and the suspects appear to have no ​ties to other terrorist cells, senior government security officials said.",
+            "title": "Jordan says its air force undertook strikes against militant hideouts in Syria",
+            "desc": "Jordan said on Monday its air force struck what it described as militant hideouts in southern Syria after determining that the suspects behind last week's deadly church attack in the kingdom were linked to \"terrorist groups\" operating there.",
             "pubDate": "2026-10-26T06:25:39Z",
             "link": "https://www.cbc.ca/news/world/jordan-church-attack-arrests-9.7395806?cmp=rss"
           }
         ],
         "canada": [
           {
-            "title": "'It's time to abolish the Indian Act,' Manitoba premier tells PM during historic meeting with chiefs",
+            "title": "Most polls now closed in GTA with election results coming soon",
             "desc": "",
-            "pubDate": "2026-10-26T16:02:06Z",
-            "link": "https://www.cbc.ca/news/canada/manitoba/wab-kinew-indian-act-abolish-9.7396565?cmp=rss"
+            "pubDate": "2026-10-26T07:49:46Z",
+            "link": "https://www.cbc.ca/news/canada/toronto/livestory/2026-election-toronto-brampton-mississauga-durham-9.7396652?cmp=rss"
+          },
+          {
+            "title": "Hamilton and Niagara awaiting results as polls now closed",
+            "desc": "",
+            "pubDate": "2026-10-26T19:17:28Z",
+            "link": "https://www.cbc.ca/news/canada/hamilton/livestory/hamilton-niagara-ontario-election-9.7396668?cmp=rss"
+          },
+          {
+            "title": "Agent of author Steven Galloway says sex assault allegations derailed promising career",
+            "desc": "The literary agent for Steven Galloway said it would have been \"impossible\" to sell any new work by his client in the years after a former student made unproven allegations of rape and sexual assault against the author a decade ago.",
+            "pubDate": "2026-10-26T19:32:33Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/steven-galloway-defamation-trial-ubc-9.7396893?cmp=rss"
           },
           {
             "title": "Police locate vehicle allegedly used by Toronto mother to abduct 3 children",
@@ -374,43 +386,67 @@
             "link": "https://www.cbc.ca/news/canada/toronto/vehicle-found-missing-three-children-toronto-9.7396545?cmp=rss"
           },
           {
-            "title": "'Crypto King' trial hears recording of Aiden Pleterski admitting $300M fund 'never existed'",
-            "desc": "Self-described \"Crypto King\" Aiden Pleterski admitted his $300-million fund never existed in a June 2022 audio recording played in court at his fraud trial in Toronto on Monday.",
-            "pubDate": "2026-10-26T15:21:33Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/crypto-king-trial-recording-aiden-pleterski-9.7396465?cmp=rss"
+            "title": "Fact check: Who's behind the fake images of Jagmeet Singh on X?",
+            "desc": "AI-generated images of Jagmeet Singh have been flooding X. The ads link to fake CBC articles intended to scam people into sending money. CBC’s Fact Check team spoke to reporter Jeff Yates from Radio-Canada’s Décrypteurs about who’s behind the scam.",
+            "pubDate": "2026-10-26T19:54:17Z",
+            "link": "https://www.cbc.ca/player/play/9.7397024?cmp=rss"
           },
           {
-            "title": "Horse-drawn carriages are still a tradition in some Canadian cities",
-            "desc": "The horse-drawn carriage industry is again getting a lot of neigh-sayers, after New York City council passed a bill last week that would ban the rides by June 2028.",
-            "pubDate": "2026-10-26T12:27:03Z",
-            "link": "https://www.cbc.ca/news/canada/horse-drawn-carriages-canadian-cities-9.7396008?cmp=rss"
+            "title": "Online gaming brings in roughly $56M for Alberta since July launch",
+            "desc": "Online gambling in Alberta generated roughly $56 million in non-adjusted gross revenue since the launch of legal gaming sites in July, according to the Crown corporation in charge.",
+            "pubDate": "2026-10-26T18:42:27Z",
+            "link": "https://www.cbc.ca/news/canada/calgary/online-gambling-alberta-aigc-9.7396739?cmp=rss"
           },
           {
-            "title": "Point May, N.L. residents rally for a whale-sized weekend rescue",
-            "desc": "Matt Lamkin says two pilot whales were stranded on the beach by his home and the community rallied to save them Sunday.",
-            "pubDate": "2026-10-26T11:00:10Z",
-            "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/point-may-whale-rescue-9.7395932?cmp=rss"
+            "title": "First Nations-first ministers' meeting brings funding announcements and mixed reviews",
+            "desc": "",
+            "pubDate": "2026-10-26T16:02:06Z",
+            "link": "https://www.cbc.ca/news/indigenous/first-nations-first-ministers-outcome-9.7396077?cmp=rss"
           },
           {
-            "title": "A new cancer drug costs as much as a home down payment each month. Doctors say that's greed, not health care",
-            "desc": "Vancouver's James Howard is paying $90,000 a month for a new pancreatic cancer treatment that may add a few more months to his life. But, he's far from the only Canadian who is faced with having to find the means to access new cancer medicines at high costs and it's an issue that front-line oncologists across the country say is pushing public health care past a breaking point.",
-            "pubDate": "2026-10-26T04:00:00Z",
-            "link": "https://www.cbc.ca/news/health/cancer-drug-costs-daraxonrasib-9.7388727?cmp=rss"
-          },
-          {
-            "title": "Montreal police officer who allegedly urinated on homeless people faces ethics probe",
-            "desc": "Guy Lapointe Jr., Quebec's new domestic security, said both the police ethics commissioner and the province's independent police watchdog, known as the BEI, will look into the allegations.",
-            "pubDate": "2026-10-26T09:34:37Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/police-watchdog-investigation-montreal-officer-misconduct-9.7395892?cmp=rss"
-          },
-          {
-            "title": "WestJet signs code-share partnership deal with Qatar Airways",
-            "desc": "Under the agreement, WestJet will start by placing its airline code on Qatar Airways' non-stop flights to Doha from Toronto and Montreal.",
-            "pubDate": "2026-10-26T15:11:12Z",
-            "link": "https://www.cbc.ca/news/canada/calgary/westjet-qatar-airways-codeshare-partnership-9.7396536?cmp=rss"
+            "title": "Quebec's Spa Nordik introduces new safety measures following sexual assault allegations",
+            "desc": "Nordik Spa Village in Chelsea, Que., has announced new measures to protect clients amid a class action lawsuit alleging sexual assault that implicates 36 massage therapists who worked there over a 19-year period.",
+            "pubDate": "2026-10-26T14:51:22Z",
+            "link": "https://www.cbc.ca/news/canada/ottawa/quebec-s-spa-nordik-introduces-new-safety-measures-following-sexual-assault-allegations-9.7396253?cmp=rss"
           }
         ],
         "bc": [
+          {
+            "title": "Nicolas Jimenez out as B.C. Ferries CEO, review launched",
+            "desc": "Jimenez took over at B.C. Ferries in 2023 after leaving ICBC where he had worked closely with then-Attorney General David Eby on the transition to no-fault insurance.",
+            "pubDate": "2026-10-26T19:12:01Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/nicolas-jimenez-out-as-b-c-ferries-ceo-review-launched-9.7396867?cmp=rss"
+          },
+          {
+            "title": "Agent of author Steven Galloway says sex assault allegations derailed promising career",
+            "desc": "The literary agent for Steven Galloway said it would have been \"impossible\" to sell any new work by his client in the years after a former student made unproven allegations of rape and sexual assault against the author a decade ago.",
+            "pubDate": "2026-10-26T19:32:33Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/steven-galloway-defamation-trial-ubc-9.7396893?cmp=rss"
+          },
+          {
+            "title": "Supporters rally as historic youth-led climate trial begins in Vancouver",
+            "desc": "Crowds of supporters gathered outside the Federal Court building in Vancouver on Monday in solidarity with plaintiffs in Canada's first youth-led climate trial.",
+            "pubDate": "2026-10-26T17:43:49Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/youth-led-climate-trial-vancouver-9.7396681?cmp=rss"
+          },
+          {
+            "title": "British Columbia election results: Conservatives to form majority government",
+            "desc": "Get the latest results as they come in from across the province.",
+            "pubDate": "2026-10-24T08:00:00Z",
+            "link": "https://www.cbc.ca/news/politics/bc-election-results-9.7392895?cmp=rss"
+          },
+          {
+            "title": "1 person unaccounted for after fire destroys Victoria apartment building",
+            "desc": "Police say one person remains unaccounted for after a weekend fire destroyed a Victoria apartment building, the site of the former Traveller's Inn.",
+            "pubDate": "2026-10-26T16:32:15Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/victoria-travellers-in-fire-1-person-unaccounted-9.7396600?cmp=rss"
+          },
+          {
+            "title": "B.C. Greens retain 2 seats. What's next for the party?",
+            "desc": "The B.C. Greens only won two seats in Saturday's election, despite increasing their share of the vote, with 23,000 more supporters than in 2024. With a solid Conservative majority, Emily Lowan is facing an uphill battle to have her party heard in the legislature.",
+            "pubDate": "2026-10-26T08:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-greens-retain-two-seats-whats-next-9.7395685?cmp=rss"
+          },
           {
             "title": "B.C. man handed $7,500 fine for possessing endangered northern abalone",
             "desc": "A British Columbia man has been fined $7,500 after being caught in the possession of endangered northern abalone — a kind of mollusk that's been covered by a harvesting ban since 1990.",
@@ -422,92 +458,56 @@
             "desc": "Conservative Leader Pierre Poilievre has asked Prime Minister Mark Carney to repeal the oil tanker ban on British Columbia's northern coast months after Canada inked a deal not to change it.",
             "pubDate": "2026-10-26T11:05:33Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/bc-tanker-ban-conservatives-poilievre-9.7395981?cmp=rss"
-          },
-          {
-            "title": "B.C. Greens retain 2 seats. What's next for the party?",
-            "desc": "The B.C. Greens only won two seats in Saturday's election, despite increasing their share of the vote, with 23,000 more supporters than in 2024. With a solid Conservative majority, Emily Lowan is facing an uphill battle to have her party heard in the legislature.",
-            "pubDate": "2026-10-26T08:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-greens-retain-two-seats-whats-next-9.7395685?cmp=rss"
-          },
-          {
-            "title": "A new cancer drug costs as much as a home down payment each month. Doctors say that's greed, not health care",
-            "desc": "Vancouver's James Howard is paying $90,000 a month for a new pancreatic cancer treatment that may add a few more months to his life. But, he's far from the only Canadian who is faced with having to find the means to access new cancer medicines at high costs and it's an issue that front-line oncologists across the country say is pushing public health care past a breaking point.",
-            "pubDate": "2026-10-26T04:00:00Z",
-            "link": "https://www.cbc.ca/news/health/cancer-drug-costs-daraxonrasib-9.7388727?cmp=rss"
-          },
-          {
-            "title": "B.C.'s new Conservative government could hold a shortened fall session",
-            "desc": "Premier-designate Lorne Doerkson said he's keeping the option open to recall the legislature in the fall.",
-            "pubDate": "2026-10-26T09:36:09Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-conservatives-fall-session-election-9.7395970?cmp=rss"
-          },
-          {
-            "title": "British Columbia election results: Conservatives to form majority government",
-            "desc": "Get the latest results as they come in from across the province.",
-            "pubDate": "2026-10-24T08:00:00Z",
-            "link": "https://www.cbc.ca/news/politics/bc-election-results-9.7392895?cmp=rss"
-          },
-          {
-            "title": "Former Canuck Quinn Hughes met by boos and 'you suck' chants on 1st return game to Vancouver",
-            "desc": "Chants of \"Hughes, you suck\" rained down as former Vancouver Canuck Quinn Hughes hit the ice at Rogers Arena for the first time since a blockbuster trade sent him to Minnesota. It was Hughes's first time playing against Vancouver, which drafted him seventh overall in 2018.",
-            "pubDate": "2026-10-26T10:08:36Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/quinn-hughes-1st-game-in-vancouver-after-trade-9.7395762?cmp=rss"
-          },
-          {
-            "title": "With school buses on hold, Tatla Lake, B.C., parents prepare to take over the driving",
-            "desc": "School District 27 is recruiting drivers to restore bus service in Tatla Lake, B.C., where parents say the suspension will make it difficult to balance work and getting their children to school.",
-            "pubDate": "2026-10-26T09:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/tatla-lake-school-bus-suspended-9.7394267?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Kinew calls on Carney to abolish the Indian Act at meeting with chiefs",
-            "desc": "OTTAWA — Manitoba Premier Wab Kinew says he told Prime Minister Mark Carney that Canada should abolish the Indian Act during a historic meeting with premiers and First Nations leaders.",
-            "pubDate": "2026-10-26T20:04:37Z",
-            "link": "https://www.nsnews.com/national-news/kinew-calls-on-carney-to-abolish-the-indian-act-at-meeting-with-chiefs-12937375"
+            "title": "BC Ferries CEO Nicolas Jimenez out as board launches leadership change",
+            "desc": "VANCOUVER — Nicolas Jimenez is out as CEO at BC Ferries in a \"leadership transition\" launched by the company's board, just two days after the election of the B.C. Conservatives, who asked for his firing last year.",
+            "pubDate": "2026-10-27T00:11:46Z",
+            "link": "https://www.nsnews.com/national-news/bc-ferries-ceo-nicolas-jimenez-out-as-board-launches-leadership-change-12940979"
           },
           {
-            "title": "Lula mobilized millions to win Brazil's election, while Bolsonaro contests loss and Trump cries foul",
-            "desc": "WASHINGTON (AP) — President  Luiz Inácio Lula da Silva  ’s comeback to win  Brazil’s presidential runoff Sunday  is already facing its first hurdle as his competitor,  Sen.",
-            "pubDate": "2026-10-26T20:03:41Z",
-            "link": "https://www.nsnews.com/world-news/lula-mobilized-millions-to-win-brazils-election-while-bolsonaro-contests-loss-and-trump-cries-foul-12940307"
+            "title": "Prime Minister Carney says it's time to move 'beyond' the Indian Act",
+            "desc": "OTTAWA — A historic meeting between Prime Minister Mark Carney, premiers and First Nations was meant to build bridges between communities and work out issues related to major projects development, the respecting of rights, health and public safety am",
+            "pubDate": "2026-10-27T00:09:01Z",
+            "link": "https://www.nsnews.com/national-news/prime-minister-carney-says-its-time-to-move-beyond-the-indian-act-12937375"
           },
           {
-            "title": "6 citizens sue Trump, saying media ban deprives them of news as audience stakeholders",
-            "desc": "In the increasingly bitter legal standoff between President Donald Trump and media outlets whose reporting he dislikes, a new and crucial third party has emerged: citizens who watch and read the news and need it to do their jobs.",
-            "pubDate": "2026-10-26T20:03:36Z",
-            "link": "https://www.nsnews.com/the-mix/6-citizens-sue-trump-saying-media-ban-deprives-them-of-news-as-audience-stakeholders-12940303"
+            "title": "Cowichan Tribes to propose solution protecting private property in January: lawyer",
+            "desc": "VICTORIA — The lawyer for the Cowichan Tribes said they will make a proposal in January that protects private property rights in the landmark Aboriginal title case that the B.C.",
+            "pubDate": "2026-10-27T00:02:22Z",
+            "link": "https://www.nsnews.com/national-news/cowichan-tribes-to-propose-solution-protecting-private-property-in-january-lawyer-12937439"
           },
           {
-            "title": "Alberta allowing optometrists to perform minor laser procedures",
-            "desc": "EDMONTON — The Alberta government says optometrists will soon be allowed to perform minor surgical and laser procedures in the province.",
-            "pubDate": "2026-10-26T19:58:08Z",
-            "link": "https://www.nsnews.com/the-mix/alberta-allowing-optometrists-to-perform-minor-laser-procedures-12940304"
+            "title": "B.C. man has 'once-in-a-lifetime' encounter with bobcat after beloved cat dies",
+            "desc": "The bobcat's soft, slow blinks made him think that his cat, Batman, was saying goodbye.",
+            "pubDate": "2026-10-26T23:45:00Z",
+            "link": "https://www.nsnews.com/highlights/bc-man-magical-bobcat-encounter-after-cat-dies-12941031"
           },
           {
-            "title": "Alberta allowing optometrists to perform minor laser procedures",
-            "desc": "EDMONTON — The Alberta government says optometrists will soon be allowed to perform minor surgical and laser procedures in the province.",
-            "pubDate": "2026-10-26T19:58:08Z",
-            "link": "https://www.nsnews.com/national-business/alberta-allowing-optometrists-to-perform-minor-laser-procedures-12940308"
+            "title": "Appeals court declines to rule on federal bid to set aside California ballots of alleged noncitizens",
+            "desc": "LOS ANGELES (AP) — An appeals court on Monday declined to rule on whether California elections officials can count roughly 20,000 ballots that the Justice Department alleges belong to noncitizen voters.",
+            "pubDate": "2026-10-26T23:35:00Z",
+            "link": "https://www.nsnews.com/world-news/appeals-court-declines-to-rule-on-federal-bid-to-set-aside-california-ballots-of-alleged-noncitizens-12941537"
           },
           {
-            "title": "France pledges new university admissions to quell student anger. But only after Macron leaves office",
-            "desc": "PARIS (AP) — France’s government pledged on Monday to replace its national online university admissions platform in 2028, seeking to quell  student anger  after weeks of  mass protests  over education and living costs.",
-            "pubDate": "2026-10-26T19:50:11Z",
-            "link": "https://www.nsnews.com/national-business/france-pledges-new-university-admissions-to-quell-student-anger-but-only-after-macron-leaves-office-12939864"
+            "title": "Amazon robbery nets 2.5 years in jail for Richmond man",
+            "desc": "Ryan Singh Samra and Vitaly Ian Alexander McKechnie were seen on CCTV footage robbing a driver in east Richmond.",
+            "pubDate": "2026-10-26T23:30:00Z",
+            "link": "https://www.nsnews.com/highlights/amazon-robbery-nets-25-years-in-jail-for-richmond-bc-man-12933279"
           },
           {
-            "title": "France pledges new university admissions to quell student anger. But only after Macron leaves office",
-            "desc": "PARIS (AP) — France’s government pledged on Monday to replace its national online university admissions platform in 2028, seeking to quell  student anger  after weeks of  mass protests  over education and living costs.",
-            "pubDate": "2026-10-26T19:50:11Z",
-            "link": "https://www.nsnews.com/the-mix/france-pledges-new-university-admissions-to-quell-student-anger-but-only-after-macron-leaves-office-12939857"
+            "title": "West Vancouver students aim to combat senior loneliness with new program",
+            "desc": "Grade 12 Mulgrave School students launch CareQuest, a program that connects a student and senior with shared interests to build an ongoing friendship",
+            "pubDate": "2026-10-26T23:30:00Z",
+            "link": "https://www.nsnews.com/in-the-community/west-vancouver-students-aim-to-combat-senior-loneliness-with-new-program-12939095"
           },
           {
-            "title": "One person unaccounted for after massive fire destroys former hotel in Victoria",
-            "desc": "VICTORIA — Police in Victoria say one person is unaccounted for after a major fire tore through a former hotel in the city.",
-            "pubDate": "2026-10-26T19:49:47Z",
-            "link": "https://www.nsnews.com/bc-news/one-person-unaccounted-for-after-massive-fire-destroys-former-hotel-in-victoria-12940301"
+            "title": "Court hears of impact of sexual assault allegation on 'star' author Galloway's career",
+            "desc": "VANCOUVER — The literary agent for Steven Galloway said it would have been \"impossible\" to sell any new work by his client in the years after a former student made unproven allegations of rape and sexual assault against the author a decade ago.",
+            "pubDate": "2026-10-26T23:19:00Z",
+            "link": "https://www.nsnews.com/national-news/court-hears-of-impact-of-sexual-assault-allegation-on-star-author-galloways-career-12939980"
           }
         ]
       },
