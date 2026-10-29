@@ -2,75 +2,69 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-29T00:54:15Z",
+      "fetchedAt": "2026-10-29T09:54:34Z",
       "sections": {
         "top": [
           {
-            "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-            "desc": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-            "pubDate": "2026-10-28T18:45:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
+            "title": "Healey promises reduction in welfare bill before next election",
+            "desc": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.",
+            "pubDate": "2026-10-29T05:57:01Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Budget key points at a glance",
-            "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-            "pubDate": "2026-10-28T16:55:27Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+            "title": "What we know so far about deadly Spain train crash",
+            "desc": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
+            "pubDate": "2026-10-29T07:59:20Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "High-speed train crash kills at least 68 people in Spain",
-            "desc": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-            "pubDate": "2026-10-28T21:38:54Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
+            "title": "Ofcom sets out social media age-checking methods ahead of ban",
+            "desc": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+            "pubDate": "2026-10-29T09:31:44Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Watch: At the scene of Spain's deadly train crash",
-            "desc": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
-            "pubDate": "2026-10-28T16:45:16Z",
-            "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss"
+            "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+            "desc": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+            "pubDate": "2026-10-29T01:14:01Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-            "desc": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-            "pubDate": "2026-10-28T20:24:39Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+            "title": "Death of US actress Hayden Panettiere ruled accidental",
             "desc": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
             "pubDate": "2026-10-28T21:16:30Z",
             "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Family row over George Michael items up for auction - including Faith guitar",
+            "title": "Row over George Michael items up for auction - including Faith guitar",
             "desc": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
             "pubDate": "2026-10-29T00:01:16Z",
             "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-            "desc": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-            "pubDate": "2026-10-28T23:21:48Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+            "title": "Europe's youth take to the streets - they feel locked out of a promising future",
+            "desc": "The last month has seen youth-driven demonstrations across Europe. What connects them?",
+            "pubDate": "2026-10-29T00:33:11Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Weight-loss jabs boom putting recycling centre workers at risk",
+            "desc": "Recycling bosses say used needles are increasingly being found among household waste.",
+            "pubDate": "2026-10-29T00:06:12Z",
+            "link": "https://www.bbc.co.uk/news/articles/c98rz45yjyvgo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
           {
-            "title": "High-speed train crash kills at least 68 people in Spain",
-            "desc": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-            "pubDate": "2026-10-28T21:38:54Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-            "desc": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
-            "pubDate": "2026-10-28T21:24:41Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
+            "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+            "desc": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+            "pubDate": "2026-10-29T08:38:54Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
             "desc": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-            "pubDate": "2026-10-28T23:21:48Z",
+            "pubDate": "2026-10-29T01:14:01Z",
             "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -80,81 +74,43 @@
             "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "How could Israel break election deadlock? Here are four scenarios",
-            "desc": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-            "pubDate": "2026-10-28T14:30:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
+            "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+            "desc": "The Russian President praised Musk and said they are in \"close\" contact.",
+            "pubDate": "2026-10-28T19:15:58Z",
+            "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Girl seriously injured in wolf attack at German wildlife park",
-            "desc": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
-            "pubDate": "2026-10-28T22:08:52Z",
-            "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss"
+            "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+            "desc": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+            "pubDate": "2026-10-28T23:11:59Z",
+            "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-            "desc": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-            "pubDate": "2026-10-28T10:31:22Z",
-            "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
+            "title": "Details of thousands of US immigration agents leaked in major hack",
+            "desc": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+            "pubDate": "2026-10-29T01:30:43Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
             "desc": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
             "pubDate": "2026-10-28T21:16:30Z",
             "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers ",
+            "desc": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
+            "pubDate": "2026-10-29T06:24:56Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
           {
-            "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-            "desc": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-            "pubDate": "2026-10-28T18:45:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
+            "title": "Healey promises reduction in welfare bill before next election",
+            "desc": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.",
+            "pubDate": "2026-10-29T05:57:01Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss"
           },
-          {
-            "title": "Chris Mason: Budget felt cautious despite its range of small measures",
-            "desc": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
-            "pubDate": "2026-10-28T16:52:16Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Russell Brand tells trial sexual consent is 'fundamental'",
-            "desc": "The entertainer gives evidence at his trial on charges including rape and assault, which he denies.",
-            "pubDate": "2026-10-28T17:42:10Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Mum of critically ill baby denied hospital food as she wasn't breastfeeding",
-            "desc": "Sophie Price had given birth in the same hospital five days earlier but was denied a hot meal.",
-            "pubDate": "2026-10-28T23:00:17Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqzrdkn4v36po?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Family row over George Michael items up for auction - including Faith guitar",
-            "desc": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
-            "pubDate": "2026-10-29T00:01:16Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "King Charles shows off dance moves on second day of Caribbean tour",
-            "desc": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
-            "pubDate": "2026-10-28T21:58:27Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "NHS Western Isles prescribing weight loss drugs at triple the rate of other health boards",
-            "desc": "A new report finds \"significant variation\" between Scotland's health boards prescribing new medicines.",
-            "pubDate": "2026-10-28T22:46:44Z",
-            "link": "https://www.bbc.co.uk/news/articles/c98rz4g0zgldo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Huntingdon train attacker asked man 'do you want to die?', trial hears",
-            "desc": "Anthony Williams denies 14 counts of attempted murder, including 10 on a train in Cambridgeshire.",
-            "pubDate": "2026-10-28T15:52:14Z",
-            "link": "https://www.bbc.co.uk/news/articles/c98rz185z4nno?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "business": [
           {
             "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
             "desc": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
@@ -162,10 +118,54 @@
             "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-            "desc": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-            "pubDate": "2026-10-28T18:45:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
+            "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
+            "desc": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+            "pubDate": "2026-10-29T09:31:44Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Row over George Michael items up for auction - including Faith guitar",
+            "desc": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
+            "pubDate": "2026-10-29T00:01:16Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "King Charles shows off dance moves on second day of Caribbean tour",
+            "desc": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
+            "pubDate": "2026-10-29T01:41:36Z",
+            "link": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Weight-loss jabs boom putting recycling centre workers at risk",
+            "desc": "Recycling bosses say used needles are increasingly being found among household waste.",
+            "pubDate": "2026-10-29T00:06:12Z",
+            "link": "https://www.bbc.co.uk/news/articles/c98rz45yjyvgo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Tower block residents plagued by intruders in scaffolding 'nightmare' ",
+            "desc": "Tenants at Archway Heights say scaffolding has been up for more than six years with \"no end in sight\".",
+            "pubDate": "2026-10-29T06:14:27Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6kg71pl8kg1o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Mum of critically ill baby denied hospital food as she wasn't breastfeeding",
+            "desc": "Sophie Price had given birth in the same hospital five days earlier but was denied a hot meal.",
+            "pubDate": "2026-10-29T06:12:07Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqzrdkn4v36po?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "business": [
+          {
+            "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+            "desc": "Poundland's bosses have filed a notice of intention to appoint administrators to the business.",
+            "pubDate": "2026-10-29T09:46:15Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+            "desc": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+            "pubDate": "2026-10-29T00:00:25Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "What we now know about the UK economy in four charts",
@@ -180,87 +180,99 @@
             "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss"
           },
           {
+            "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+            "desc": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+            "pubDate": "2026-10-29T09:30:03Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "title": "Your pay, energy bills and savings: How the Budget affects you",
             "desc": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
             "pubDate": "2026-10-28T16:43:35Z",
             "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-            "desc": "Properties where someone has died in tragic circumstances can have big reductions in price.",
-            "pubDate": "2026-10-29T00:00:15Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss"
+            "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+            "desc": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+            "pubDate": "2026-10-28T18:45:09Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
             "desc": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
             "pubDate": "2026-10-28T19:51:01Z",
             "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Microsoft posts $36.6bn profit after offering buyouts to one in four workers",
-            "desc": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-            "pubDate": "2026-10-29T00:36:12Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss"
           }
         ],
         "sport": [
           {
+            "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
+            "desc": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?",
+            "pubDate": "2026-10-29T08:07:22Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+            "desc": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
+            "pubDate": "2026-10-29T06:27:10Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Brewers win first World Series in 57-year history",
+            "desc": "The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.",
+            "pubDate": "2026-10-29T07:56:38Z",
+            "link": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
-            "desc": "Estevao faces limited opportunities at Chelsea as Pedro Neto’s form and competition for places in attack leave him struggling for game time under Xabi Alonso.",
+            "desc": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?",
             "pubDate": "2026-10-29T00:05:21Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Fleetwood to face Everton or Newcastle in last eight",
-            "desc": "League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.",
-            "pubDate": "2026-10-28T22:45:35Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&at_campaign=rss"
+            "title": "Is the Ulster forward with farmer's strength Ireland's next big star?",
+            "desc": "Ulster back row James McNabney speaks about horse riding, his ACL injury and his dad's reaction to his first Ireland call-up.",
+            "pubDate": "2026-10-29T07:58:56Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6dxwzpeydk5o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Red Roses make six changes but Kildunne on bench again",
-            "desc": "Red Roses' star Ellie Kildunne is named on England's bench again as head coach John Mitchell makes six changes to his side to face the United States.",
-            "pubDate": "2026-10-28T19:00:51Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq1m4kn84gk2o?at_medium=RSS&at_campaign=rss"
+            "title": "Wales make five changes as Lynn rewards bench",
+            "desc": "Head coach Sean Lynn makes five changes for Saturday's WXV Test against Japan following last week's impressive second-half performance.",
+            "pubDate": "2026-10-29T07:59:38Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c804032de6yyo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Russo scores hat-trick as Arsenal beat Benfica",
-            "desc": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
-            "pubDate": "2026-10-28T22:19:57Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss"
+            "title": "Weekly sports quiz: Which league are Fleetwood in?",
+            "desc": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
+            "pubDate": "2026-10-29T06:53:33Z",
+            "link": "https://www.bbc.co.uk/sport/articles/cmrly1jy31p1o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Perez signs multi-year extension with Cadillac",
-            "desc": "Sergio Perez will remain with Cadillac until 2029 after signing a multi-year contract extension.",
-            "pubDate": "2026-10-28T16:10:07Z",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cqde852ww04ko?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "How unbeaten Chelsea are getting back to their best",
-            "desc": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?",
-            "pubDate": "2026-10-28T23:17:33Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Chiefs coach defends decision to sign kicker Tucker",
-            "desc": "Kansas City Chiefs head coach Andy Reid defends the franchise's decision to sign Justin Tucker to its practice squad, stating the kicker has \"done his suspension\".",
-            "pubDate": "2026-10-28T20:55:11Z",
-            "link": "https://www.bbc.co.uk/sport/american-football/articles/c9e8l47grpz4o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
-            "desc": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?",
-            "pubDate": "2026-10-29T00:17:48Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss"
+            "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
+            "desc": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
+            "pubDate": "2026-10-28T23:10:06Z",
+            "link": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-29T00:54:15Z",
+      "fetchedAt": "2026-10-29T09:54:35Z",
       "sections": {
         "top": [
+          {
+            "title": "Trump's increasing support for Russia carries existential danger for Canada",
+            "desc": "",
+            "pubDate": "2025-01-18T04:01:39Z",
+            "link": "https://www.cbc.ca/news/politics/trump-putin-ukraine-canada-alliance-9.7393224?cmp=rss"
+          },
+          {
+            "title": "More Canadian provinces are ending time changes. What does it mean for your health?",
+            "desc": "Researchers are raising concerns as parts of Canada move to permanent daylight time, warning that later winter sunrises could have consequences for sleep and health.",
+            "pubDate": "2026-10-29T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/daylight-saving-time-canada-health-9.7399791?cmp=rss"
+          },
           {
             "title": "EU dropping associate membership title for its closer alliance with Canada",
             "desc": "",
@@ -268,54 +280,72 @@
             "link": "https://www.cbc.ca/news/politics/european-union-canada-associate-member-9.7399578?cmp=rss"
           },
           {
+            "title": "U.S. midterms could be the country's most expensive elections yet. To what end?",
+            "desc": "",
+            "pubDate": "2026-05-27T12:12:48Z",
+            "link": "https://www.cbc.ca/news/world/u-s-2026-midterms-money-9.7399429?cmp=rss"
+          },
+          {
+            "title": "King Charles acknowledges 'injustices' of slavery on Caribbean tour. But these residents want action",
+            "desc": "King Charles acknowledged the devastating impacts of slavery during the first stop of his Caribbean tour on Tuesday, but stopped short of apologizing or offering reparations.",
+            "pubDate": "2026-10-28T17:58:55Z",
+            "link": "https://www.cbc.ca/radio/asithappens/king-charles-caribbean-9.7400215?cmp=rss"
+          },
+          {
+            "title": "Incumbent councillors sent packing across Winnipeg as city votes for change",
+            "desc": "",
+            "pubDate": "2026-10-28T21:22:28Z",
+            "link": "https://www.cbc.ca/news/canada/manitoba/winnipeg-election-city-council-upsets-incumbent-loss-9.7398798?cmp=rss"
+          },
+          {
+            "title": "Milwaukee Brewers defeat Tampa Bay Rays to become 1st-time World Series champions",
+            "desc": "The small-ball Milwaukee Brewers playing in the smallest market in the majors are World Series champions for the first time in franchise history.",
+            "pubDate": "2026-10-28T23:15:56Z",
+            "link": "https://www.cbc.ca/sports/baseball/mlb/brewers-win-world-series-game-5-rays-9.7400365?cmp=rss"
+          },
+          {
             "title": "Higher mortgage costs set to depress already ‘bleak’ housing market",
             "desc": "",
             "pubDate": "2025-10-29T10:14:46Z",
             "link": "https://www.cbc.ca/news/business/bank-of-canada-hike-mortgage-housing-market-9.7400127?cmp=rss"
-          },
-          {
-            "title": "Three face murder charges in death of 12-year-old boy found in rural Alberta",
-            "desc": "Insp. Wayne Stevenson of the RCMP’s serious crime branch said at a news conference Wednesday in Edmonton that Fiasal \"was associated with people involved in criminality\" and knew the three accused. Stevenson alleged that Fiasal was lured from his home before being killed.",
-            "pubDate": "2026-10-28T17:04:24Z",
-            "link": "https://www.cbc.ca/news/canada/edmonton/edmonton-fiasal-hussein-death-9.7400117?cmp=rss"
-          },
-          {
-            "title": "'Crypto King' Aiden Pleterski addresses jury at his fraud trial for first time, says he's innocent",
-            "desc": "Self-described \"Crypto King\" Aiden Pleterski addressed the jury for the first time at his Toronto fraud trial, thanking them, in his brief closing statement Wednesday morning.",
-            "pubDate": "2026-10-28T15:10:07Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-fraud-trial-closing-statement-9.7399811?cmp=rss"
-          },
-          {
-            "title": "U.S. steel CEO's 'confessions' for buying Stelco prompted government to call its lawyers: industry minister",
-            "desc": "Canada's industry minister says she called the department's lawyers after the head of Stelco's American parent company told CBC News that he only bought the Hamilton steelmaker to stop it undercutting his production facilities in the U.S.",
-            "pubDate": "2026-10-28T12:11:32Z",
-            "link": "https://www.cbc.ca/news/politics/government-stelco-lawyers-confessions-9.7399595?cmp=rss"
-          },
-          {
-            "title": "Moody skies, ocean views and local talent: B.C. shines in new Crave series Yaga",
-            "desc": "Producers say B.C. was the perfect spot to film the new series Yaga, a supernatural mystery inspired by Slavic folklore around Baba Yaga. The series has been trending high on Crave since it premiered on Oct. 23.",
-            "pubDate": "2026-10-28T09:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-filming-yaga-actors-9.7398527?cmp=rss"
-          },
-          {
-            "title": "Canada not in a 'position right now' to agree to U.S. trade deal, Carney says",
-            "desc": "As trade talks intensify ahead of Tuesday's U.S. midterm elections, Prime Minister Mark Carney says his government will only agree to a deal \"when it suits Canadians.\"",
-            "pubDate": "2026-10-28T12:39:32Z",
-            "link": "https://www.cbc.ca/news/politics/carney-us-trade-9.7399627?cmp=rss"
-          },
-          {
-            "title": "Arab parties offer Israel's political leaders a path to victory. Why does no one want to take it?",
-            "desc": "",
-            "pubDate": "2020-08-05T18:37:11Z",
-            "link": "https://www.cbc.ca/news/world/arab-parties-offer-israel-s-political-leaders-a-path-to-victory-why-does-no-one-want-to-take-it-9.7399428?cmp=rss"
           }
         ],
         "world": [
+          {
+            "title": "U.S. midterms could be the country's most expensive elections yet. To what end?",
+            "desc": "The 2026 U.S. midterms are shaping up to be the most expensive elections in the country's history. Just how much will campaign money play a role in determining who wins? Here's a closer look.",
+            "pubDate": "2026-10-29T04:00:00Z",
+            "link": "https://www.cbc.ca/news/world/u-s-2026-midterms-money-9.7399429?cmp=rss"
+          },
+          {
+            "title": "Trump's increasing support for Russia carries existential danger for Canada",
+            "desc": "Some analysts say U.S. President Donald Trump's recent rapprochement with Russia poses a clear danger to Canadians — one not easily solved by closer partnerships with allies an ocean away.",
+            "pubDate": "2026-10-29T04:00:00Z",
+            "link": "https://www.cbc.ca/news/politics/trump-putin-ukraine-canada-alliance-9.7393224?cmp=rss"
+          },
+          {
+            "title": "Israelis await final election results as Netanyahu's bloc holds slight edge",
+            "desc": "Israelis on Thursday waited for final election results to confirm what they see taking shape: No majority of parliament seats for Prime Minister Benjamin Netanyahu and his allies, or for the array of parties seeking to unseat him.",
+            "pubDate": "2026-10-29T05:10:33Z",
+            "link": "https://www.cbc.ca/news/world/israel-election-9.7400701?cmp=rss"
+          },
+          {
+            "title": "Why none of the EU's existing partnerships are the right fit for Canada",
+            "desc": "The European Union has a number of partnership deals with non-member countries, but Canada won't fit into any of those existing frameworks. A Montreal summit this week will launch formal discussions and negotiations about a new partnership to bring Canada closer to the EU.",
+            "pubDate": "2026-10-29T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/eu-canada-associate-membership-9.7398762?cmp=rss"
+          },
           {
             "title": "Arab parties offer Israel's political leaders a path to victory. Why does no one want to take it?",
             "desc": "The two front-runners after Israel's election don’t have the parliamentary seats for a workable majority and only one choice to get that support, a choice considered politically distasteful among many Jewish voters — to join with Arab parties.",
             "pubDate": "2026-10-28T15:19:04Z",
             "link": "https://www.cbc.ca/news/world/arab-parties-offer-israel-s-political-leaders-a-path-to-victory-why-does-no-one-want-to-take-it-9.7399428?cmp=rss"
+          },
+          {
+            "title": "Personal data of 40,000 U.S. Homeland Security employees leaked in security breach",
+            "desc": "The leak website Distributed Denial of Secrets said on ‌Wednesday it has released data on more than 40,000 U.S. Department of Homeland Security employees, including details about officials working in sensitive fields such as surveillance and human intelligence.",
+            "pubDate": "2026-10-28T21:05:21Z",
+            "link": "https://www.cbc.ca/news/world/dhs-data-breach-leak-distributed-denial-of-secrets-9.7400488?cmp=rss"
           },
           {
             "title": "Dolores Huerta, U.S. labour leader and civil rights icon, dead at 96",
@@ -328,39 +358,45 @@
             "desc": "The words \"associate membership\" were removed from a joint statement expected to be released at this week's Canada-EU summit, according to a draft seen by CBC News.",
             "pubDate": "2026-10-28T12:28:47Z",
             "link": "https://www.cbc.ca/news/politics/european-union-canada-associate-member-9.7399578?cmp=rss"
-          },
-          {
-            "title": "Calgary-developed wound treatment used on battlefields in Ukraine",
-            "desc": "An innovative wound and burn treatment initially funded by Canada's Department of National Defence is now beingdelivered by drone to help wounded soldiers and civilians in war-torn Ukraine.",
-            "pubDate": "2026-10-28T18:11:23Z",
-            "link": "https://www.cbc.ca/news/canada/calgary/calgary-wound-burn-treatment-ukraine-9.7400198?cmp=rss"
-          },
-          {
-            "title": "Most nations at UN vote to condemn U.S. embargo on Cuba",
-            "desc": "The United Nations General Assembly overwhelmingly urged an ‌end to the decades-long U.S. economic embargo on Cuba on Wednesday, but a U.S. lobbying push led several countries to oppose the resolution or abstain for the first time in years.",
-            "pubDate": "2026-10-28T16:29:37Z",
-            "link": "https://www.cbc.ca/news/world/cuba-us-un-embargo-vote-9.7399998?cmp=rss"
-          },
-          {
-            "title": "Game 6 of the WNBA Finals starts at 12:30 p.m. ET tomorrow. How did this happen?",
-            "desc": "CBC Sports' daily newsletter breaks down the scheduling fiasco that caused Game 6 of the WNBA Finals to be moved to a weekday afternoon, and what it means for a league that can't seem to avoid controversy.",
-            "pubDate": "2026-10-28T17:03:09Z",
-            "link": "https://www.cbc.ca/sports/basketball/the-buzzer-newsletter-wnba-finals-controversy-9.7400150?cmp=rss"
-          },
-          {
-            "title": "Nearly 6 million people facing severe hunger in Haiti",
-            "desc": "Nearly six million people in Haiti are experiencing severe hunger, with almost two million facing emergency conditions, according to a new report released Wednesday.",
-            "pubDate": "2026-10-28T17:44:04Z",
-            "link": "https://www.cbc.ca/news/world/haiti-hunger-surges-9.7400139?cmp=rss"
-          },
-          {
-            "title": "New Vera C. Rubin telescope spots possible new dwarf planet beyond Pluto",
-            "desc": "Scientists using a Chile-based telescope have identified an icy object orbiting beyond Pluto ‌that may join our solar system's small roster of dwarf planets.",
-            "pubDate": "2026-10-28T15:50:27Z",
-            "link": "https://www.cbc.ca/news/science/possible-new-dwarf-planet-9.7399957?cmp=rss"
           }
         ],
         "canada": [
+          {
+            "title": "More Canadian provinces are ending time changes. What does it mean for your health?",
+            "desc": "Researchers are raising concerns as parts of Canada move to permanent daylight time, warning that later winter sunrises could have consequences for sleep and health.",
+            "pubDate": "2026-10-29T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/daylight-saving-time-canada-health-9.7399791?cmp=rss"
+          },
+          {
+            "title": "He tried to get into Montreal's kosher market. It led to a battle over alleged meat monopoly",
+            "desc": "Mendy Boyarsky alleges the Jewish Community Council of Montreal (JCC) is using its market dominance to limit competition to the kosher meat market through its certifier, Montreal Kosher, known as MK Kosher. He asked the federal Competition Tribunal to step in. The JCC, which runs MK Kosher, denies the allegations.",
+            "pubDate": "2026-10-29T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/montreal/montreal-kosher-market-meat-monopoly-battle-9.7400089?cmp=rss"
+          },
+          {
+            "title": "N.S. premier doubles down on complaint to professor over AI data centre comments",
+            "desc": "Premier Tim Houston says he's glad his communications adviser sent a critical email to a professor who commented on a proposed data centre. Houston claims Sibo Chen was \"clearly lacking information but yet speaking as an expert.\" Chen suggested the email was meant to intimidate him.",
+            "pubDate": "2026-10-29T05:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/nova-scotia/tim-houston-doubles-down-data-centre-sibo-chen-9.7400319?cmp=rss"
+          },
+          {
+            "title": "'It feels fantastic,' Scott Gillingham says after winning another term as Winnipeg mayor",
+            "desc": "After winning his second consecutive term as Winnipeg mayor, Scott Gillingham says the city's best days are still to come. He had 39.8 per cent of the ballots cast, with all polls reporting just before 10 p.m. Wednesday.",
+            "pubDate": "2026-10-28T20:59:00Z",
+            "link": "https://www.cbc.ca/news/canada/manitoba/winnipeg-votes-2026-mayor-9.7398017?cmp=rss"
+          },
+          {
+            "title": "Rising water is forcing this French town off Newfoundland to move. Not everyone is ready to leave",
+            "desc": "\"We are not safe from climate risks that could cause danger to people and property,\" the mayor says.",
+            "pubDate": "2026-10-29T04:30:00Z",
+            "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/rising-water-is-forcing-this-french-town-off-newfoundland-to-move-not-everyone-is-ready-to-leave-9.7399871?cmp=rss"
+          },
+          {
+            "title": "How genetic genealogy helped police find witnesses — but not the suspect — in the Byron Carr murder case",
+            "desc": "When Charlottetown police first announced a break in a high-profile cold case, they credited investigative genetic genealogy with helping identify a suspect. Newly released court documents shed more light on how police set their sights on the man who was charged with first-degree murder before all charges in the case were dropped earlier this month.",
+            "pubDate": "2026-10-29T05:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/prince-edward-island/pei-byron-carr-murder-case-genetic-genealogy-9.7399812?cmp=rss"
+          },
           {
             "title": "First Nations must lead Indian Act reform, Onion Lake Cree Nation chief says",
             "desc": "The chief of Onion Lake Cree Nation says any attempt to reform, repeal or replace the 150-year-old federal Indian Act must be led by First Nations, not by Ottawa or Indigenous umbrella organizations.",
@@ -372,45 +408,15 @@
             "desc": "Insp. Wayne Stevenson of the RCMP’s serious crime branch said at a news conference Wednesday in Edmonton that Fiasal \"was associated with people involved in criminality\" and knew the three accused. Stevenson alleged that Fiasal was lured from his home before being killed.",
             "pubDate": "2026-10-28T17:04:24Z",
             "link": "https://www.cbc.ca/news/canada/edmonton/edmonton-fiasal-hussein-death-9.7400117?cmp=rss"
-          },
-          {
-            "title": "B.C. North Coast tanker ban to remain in place after Liberals vote down Tory bill",
-            "desc": "The federal Liberal government voted to keep the B.C. coastal oil tanker ban in place Wednesday, defeating a Conservative bill that would have repealed it.",
-            "pubDate": "2026-10-28T18:56:24Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-north-coast-tanker-ban-vote-9.7400350?cmp=rss"
-          },
-          {
-            "title": "N.S. premier's office criticizes Toronto professor over comments on AI data centre",
-            "desc": "Sibo Chen of Toronto Metropolitan University, formerly Ryerson University, has been writing critically about the environmental impacts of resource extraction and AI growth, but said it's the first time he has received a complaint from a premier's office about his viewpoints.",
-            "pubDate": "2026-10-28T05:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/nova-scotia/ai-data-centre-cape-breton-professor-comments-premier-9.7396457?cmp=rss"
-          },
-          {
-            "title": "Moody skies, ocean views and local talent: B.C. shines in new Crave series Yaga",
-            "desc": "Producers say B.C. was the perfect spot to film the new series Yaga, a supernatural mystery inspired by Slavic folklore around Baba Yaga. The series has been trending high on Crave since it premiered on Oct. 23.",
-            "pubDate": "2026-10-28T09:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-filming-yaga-actors-9.7398527?cmp=rss"
-          },
-          {
-            "title": "Canada 'not a bystander' on First Nations' housing, water issues, lawyer says in class-action appeal",
-            "desc": "The federal government says a judge made several errors in a ruling that found it had a duty to provide some First Nations communities with adequate housing and safe drinking water.",
-            "pubDate": "2026-10-28T18:18:05Z",
-            "link": "https://www.cbc.ca/news/canada/manitoba/appeal-shamattawa-st-theresa-point-first-nations-safe-water-housing-class-action-9.7400255?cmp=rss"
-          },
-          {
-            "title": "U.S. steel CEO's 'confessions' for buying Stelco prompted government to call its lawyers: industry minister",
-            "desc": "Canada's industry minister says she called the department's lawyers after the head of Stelco's American parent company told CBC News that he only bought the Hamilton steelmaker to stop it undercutting his production facilities in the U.S.",
-            "pubDate": "2026-10-28T12:11:32Z",
-            "link": "https://www.cbc.ca/news/politics/government-stelco-lawyers-confessions-9.7399595?cmp=rss"
-          },
-          {
-            "title": "Mother of inmate at N.L.'s largest jail says toothbrush shortage was unacceptable",
-            "desc": "Newfoundland and Labrador's justice minister says a shipment of 1,200 toothbrushes was set to arrive at Her Majesty's Penitentiary on Tuesday. The mother of an inmate who went without one since early October says the shortage deprived her son of basic human dignity.",
-            "pubDate": "2026-10-28T16:17:47Z",
-            "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/hmp-toothbrush-shortage-michelle-fowler-9.7400052?cmp=rss"
           }
         ],
         "bc": [
+          {
+            "title": "Some First Nations leaders in B.C. push back against Manitoba premier's call to abolish Indian Act",
+            "desc": "A renewed call to abolish Canada’s Indian Act from Manitoba’s premier is being met with strong pushback from some First Nations leaders in B.C. who say they are concerned with the notion of abolishing the Indian Act completely.",
+            "pubDate": "2026-10-28T20:52:12Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/indian-act-abolishment-bc-leaders-9.7399082?cmp=rss"
+          },
           {
             "title": "Multiple vehicle crashes close highways during B.C. Interior's 1st major snowfall",
             "desc": "Emergency responders are reporting multiple crashes as the first major snowfall of the season hits the B.C. Interior.",
@@ -452,62 +458,56 @@
             "desc": "Pte. Trevor Flegel of Kitimat on the province's North Coast was among the dozens of casualties, including four fatalities, after a fire resulting from a training exercise ripped through the Canadian Armed Forces base in Alberta on Oct. 17.",
             "pubDate": "2026-10-28T07:00:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/trevor-flegel-kitimat-cfb-wainwright-9.7398803?cmp=rss"
-          },
-          {
-            "title": "Moody skies, ocean views and local talent: B.C. shines in new Crave series Yaga",
-            "desc": "Producers say B.C. was the perfect spot to film the new series Yaga, a supernatural mystery inspired by Slavic folklore around Baba Yaga. The series has been trending high on Crave since it premiered on Oct. 23.",
-            "pubDate": "2026-10-28T09:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-filming-yaga-actors-9.7398527?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Major nuclear firm urges Ottawa's neutrality as demand for clean energy soars",
-            "desc": "OTTAWA — A major firm is calling for Ottawa to remain impartial as it rolls out its nuclear strategy and the demand for clean energy soars.",
-            "pubDate": "2026-10-29T00:46:50Z",
-            "link": "https://www.nsnews.com/national-news/major-nuclear-firm-urges-ottawas-neutrality-as-demand-for-clean-energy-soars-12953236"
+            "title": "Oilers wrap up road trip with strong win over surging Flames",
+            "desc": "EDMONTON — The Edmonton Oilers closed out their road trip in ideal fashion, cooling off the surging Calgary Flames on Wednesday.",
+            "pubDate": "2026-10-29T09:05:06Z",
+            "link": "https://www.nsnews.com/national-sports/oilers-wrap-up-road-trip-with-strong-win-over-surging-flames-12954006"
           },
           {
-            "title": "North Shore student vote creates very different results in mock provincial election",
-            "desc": "If it were up to the students, NDP incumbent Susie Chant would have kept her seat, while Green MLA Jeremy Valeriote would have lost his",
-            "pubDate": "2026-10-29T00:30:00Z",
-            "link": "https://www.nsnews.com/local-news/north-shore-student-vote-creates-very-different-results-in-mock-provincial-election-12950791"
+            "title": "Raptors backup point guard Jamal Shead providing leadership on and off the court",
+            "desc": "TORONTO — Before every Toronto Raptors game Jamal Shead starts bouncing in place, dancing to the music during warm-ups. A conga line forms up behind him with the Raptors' entire bench getting in line, bouncing along behind him.",
+            "pubDate": "2026-10-29T09:00:06Z",
+            "link": "https://www.nsnews.com/national-sports/raptors-backup-point-guard-jamal-shead-providing-leadership-on-and-off-the-court-12953997"
           },
           {
-            "title": "RFK Jr. eases access to unproven peptides despite opposition from FDA scientists",
-            "desc": "WASHINGTON (AP) — The Trump administration on Wednesday acted to ease access to  unproven peptide drugs  favored by Health Secretary  Robert F. Kennedy Jr .",
-            "pubDate": "2026-10-29T00:16:03Z",
-            "link": "https://www.nsnews.com/the-mix/rfk-jr-eases-access-to-unproven-peptides-despite-opposition-from-fda-scientists-12950340"
+            "title": "In the news today: Canada-EU summit, U.S. midterms loom, Kutryk spacewalk",
+            "desc": "Here is a roundup of stories from The Canadian Press designed to bring you up to speed …   Canada welcomes EU leaders to Montreal for talks on next steps in relationship   Prime Minister Mark Carney is set to welcome European Commissioner Ursula vo",
+            "pubDate": "2026-10-29T08:15:30Z",
+            "link": "https://www.nsnews.com/national-news/in-the-news-today-canada-eu-summit-us-midterms-loom-kutryk-spacewalk-12953987"
           },
           {
-            "title": "Dead whale with tail severed is spotted in Howe Sound near BC Ferries collision site",
-            "desc": "VANCOUVER — A federal department has confirmed a dead humpback whale was spotted floating in Howe Sound, B.C., about a week after a BC Ferries vessel collided with a whale in the same region.",
-            "pubDate": "2026-10-29T00:15:32Z",
-            "link": "https://www.nsnews.com/national-news/dead-whale-with-tail-severed-is-spotted-in-howe-sound-near-bc-ferries-collision-site-12953575"
+            "title": "Kutryk to become fifth Canadian astronaut to perform a spacewalk",
+            "desc": "Joshua Kutryk is set to become the fifth Canadian astronaut to perform a spacewalk today.   Kutryk, along with NASA astronaut Anil Menon, will upgrade the International Space Station's power generation system.  The spacewalk is scheduled for 8 a.m.",
+            "pubDate": "2026-10-29T08:11:58Z",
+            "link": "https://www.nsnews.com/national-news/kutryk-to-become-fifth-canadian-astronaut-to-perform-a-spacewalk-12953988"
           },
           {
-            "title": "14 B.C. tech companies make Deloitte’s 2026 Fast 50 ranking",
-            "desc": "Richmond-based UniUni B.C. takes top spot nationally in Enterprise—Industry Leaders category",
-            "pubDate": "2026-10-28T23:55:00Z",
-            "link": "https://www.nsnews.com/technology/14-bc-tech-companies-make-deloittes-2026-fast-50-ranking-12953495"
+            "title": "Decimated B.C. NDP caucus meeting to discuss interim leadership after election loss",
+            "desc": "VICTORIA — Members of the decimated B.C. NDP caucus are set to meet at the legislature today to discuss who will be the interim leader of the party after its weekend election defeat.",
+            "pubDate": "2026-10-29T08:00:18Z",
+            "link": "https://www.nsnews.com/bc-news/decimated-bc-ndp-caucus-meeting-to-discuss-interim-leadership-after-election-loss-12953965"
           },
           {
-            "title": "Canadian Blood Services says donor death not linked to plasma donation a day earlier",
-            "desc": "HALIFAX — Canadian Blood Services has confirmed a longtime donor died a day after giving plasma at one of its centres this fall, but the organization says the death was not linked to the donation.",
-            "pubDate": "2026-10-28T23:40:21Z",
-            "link": "https://www.nsnews.com/national-news/canadian-blood-services-says-donor-death-not-linked-to-plasma-donation-a-day-earlier-12950468"
+            "title": "Auditor general to release reports on greenhouse gases, coal exports, pesticides",
+            "desc": "OTTAWA — The federal spending watchdog plans to issue report cards today tracking government agencies' progress on reducing greenhouse gas emissions and working toward a ban on the export of thermal coal.",
+            "pubDate": "2026-10-29T08:00:18Z",
+            "link": "https://www.nsnews.com/the-mix/auditor-general-to-release-reports-on-greenhouse-gases-coal-exports-pesticides-12953966"
           },
           {
-            "title": "B.C. stockbroker took nearly $1M from clients including elderly friends, regulator alleges",
-            "desc": "Former iA Private Wealth representative Kevin Bradley Marleau allegedly deceived 27 clients, including seniors in Terrace, who were friends or family friends",
-            "pubDate": "2026-10-28T23:30:00Z",
-            "link": "https://www.nsnews.com/economy-law-politics/bc-stockbroker-took-nearly-1m-from-clients-including-elderly-friends-regulator-alleges-12953433"
+            "title": "Auditor general to release reports on greenhouse gases, coal exports, pesticides",
+            "desc": "OTTAWA — The federal spending watchdog plans to issue report cards today tracking government agencies' progress on reducing greenhouse gas emissions and working toward a ban on the export of thermal coal.",
+            "pubDate": "2026-10-29T08:00:18Z",
+            "link": "https://www.nsnews.com/national-business/auditor-general-to-release-reports-on-greenhouse-gases-coal-exports-pesticides-12953971"
           },
           {
-            "title": "Former top Mountie David Teboul quits RCMP, admits assaulting teen lacrosse player",
-            "desc": "ABBOTSFORD, BRITISH COLUMBIA, CANADA — Former RCMP Assistant Commissioner David Teboul has resigned from the force and has pleaded guilty to assaulting a teenager who he grabbed by the throat after a lacrosse game involving the officer's son in Abbot",
-            "pubDate": "2026-10-28T23:29:12Z",
-            "link": "https://www.nsnews.com/national-news/former-top-mountie-david-teboul-quits-rcmp-admits-assaulting-teen-lacrosse-player-12951000"
+            "title": "Auditor general to release reports on greenhouse gases, coal exports, pesticides",
+            "desc": "OTTAWA — The federal spending watchdog plans to issue report cards today tracking government agencies' progress on reducing greenhouse gas emissions and working toward a ban on the export of thermal coal.",
+            "pubDate": "2026-10-29T08:00:18Z",
+            "link": "https://www.nsnews.com/national-news/auditor-general-to-release-reports-on-greenhouse-gases-coal-exports-pesticides-12953989"
           }
         ]
       },
