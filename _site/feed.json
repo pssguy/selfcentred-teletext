@@ -2,20 +2,20 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-10-31T05:36:33Z",
+      "fetchedAt": "2026-10-31T12:21:29Z",
       "sections": {
         "top": [
           {
-            "title": "US approves sale of 500 Patriot missiles to Ukraine",
-            "desc": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-            "pubDate": "2026-10-31T00:40:43Z",
-            "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+            "title": "Burnham 'open' to calls for slavery apology but not reparations",
+            "desc": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
+            "pubDate": "2026-10-31T09:52:52Z",
+            "link": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Burnham 'open' to calls for slavery apology but not reparations",
-            "desc": "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\".",
-            "pubDate": "2026-10-31T03:12:08Z",
-            "link": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss"
+            "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+            "desc": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+            "pubDate": "2026-10-31T12:05:04Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
@@ -24,16 +24,54 @@
             "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
-            "desc": "The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK.",
-            "pubDate": "2026-10-31T05:16:01Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "Celebrity Traitors comes to a climax in nail-biting final",
             "desc": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
-            "pubDate": "2026-10-31T02:18:59Z",
+            "pubDate": "2026-10-31T10:54:56Z",
             "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Watch: Traitor or faithful? Celebrities reveal their allegiances",
+            "desc": "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven before the final.",
+            "pubDate": "2026-10-31T02:20:46Z",
+            "link": "https://www.bbc.co.uk/news/videos/cmeq3ppg7wrno?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "After 28 years and 36,000 miles, Karl Bushby is almost home",
+            "desc": "Global walker Karl Bushby is almost within sight of his journey's end after 28 years away.",
+            "pubDate": "2026-10-31T00:04:06Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+            "desc": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
+            "pubDate": "2026-10-31T01:32:33Z",
+            "link": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+            "desc": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
+            "pubDate": "2026-10-30T23:26:16Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "world": [
+          {
+            "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+            "desc": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+            "pubDate": "2026-10-31T12:05:04Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "US approves sale of 500 Patriot missiles to Ukraine",
+            "desc": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+            "pubDate": "2026-10-31T00:40:43Z",
+            "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+            "desc": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+            "pubDate": "2026-10-31T02:12:19Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Police deployed during stand-off over control of top Poland court",
@@ -42,48 +80,16 @@
             "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
-            "desc": "Global walker Karl Bushby is almost within sight of his journey's end after 28 years away.",
-            "pubDate": "2026-10-31T00:04:06Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go?at_medium=RSS&at_campaign=rss"
+            "title": "Spain train disaster clouds Sánchez chances of re-election",
+            "desc": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+            "pubDate": "2026-10-31T05:44:21Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
             "desc": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
             "pubDate": "2026-10-30T22:11:52Z",
             "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "world": [
-          {
-            "title": "US approves sale of 500 Patriot missiles to Ukraine",
-            "desc": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-            "pubDate": "2026-10-31T00:40:43Z",
-            "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-            "desc": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-            "pubDate": "2026-10-30T21:13:14Z",
-            "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-            "desc": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
-            "pubDate": "2026-10-31T02:12:19Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Police deployed during stand-off over control of top Poland court",
-            "desc": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-            "pubDate": "2026-10-31T01:11:43Z",
-            "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-            "desc": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
-            "pubDate": "2026-10-30T16:26:11Z",
-            "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Global nature talks reach deal but money remains an issue",
@@ -96,25 +102,19 @@
             "desc": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
             "pubDate": "2026-10-30T20:41:51Z",
             "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
-            "desc": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
-            "pubDate": "2026-10-31T02:39:25Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
           {
             "title": "Burnham 'open' to calls for slavery apology but not reparations",
-            "desc": "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\".",
-            "pubDate": "2026-10-31T03:12:08Z",
+            "desc": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
+            "pubDate": "2026-10-31T09:52:52Z",
             "link": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Celebrity Traitors comes to a climax in nail-biting final",
             "desc": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
-            "pubDate": "2026-10-31T02:18:59Z",
+            "pubDate": "2026-10-31T10:54:56Z",
             "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -130,28 +130,28 @@
             "link": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
-            "desc": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
-            "pubDate": "2026-10-30T15:39:49Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss"
+            "title": "UK has 'no authority' over death of woman shot in US",
+            "desc": "Jane Coates wrote to Cheshire police urging them to gather evidence into Lucy Harrison's killing.",
+            "pubDate": "2026-10-31T07:19:00Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm9dz48g24yzo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Driver guilty of dragging head teacher to his death",
-            "desc": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
-            "pubDate": "2026-10-30T15:27:40Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss"
+            "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
+            "desc": "Global walker Karl Bushby is almost within sight of his journey's end after 28 years away.",
+            "pubDate": "2026-10-31T00:04:06Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
-            "desc": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
-            "pubDate": "2026-10-30T12:43:46Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss"
+            "title": "Call for lottery gambling controls after dad's death",
+            "desc": "A coroner says there is a risk of further deaths unless the National Lottery is included in the scheme.",
+            "pubDate": "2026-10-31T06:09:25Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm79p4q8gn31o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
-            "desc": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
-            "pubDate": "2026-10-30T15:49:25Z",
-            "link": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss"
+            "title": "Man guilty of rape after woman's phone recording",
+            "desc": "Police said the recording, in which she is heard saying \"no\", provided key evidence.",
+            "pubDate": "2026-10-31T09:05:49Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6d93p449kngo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
@@ -206,10 +206,16 @@
         ],
         "sport": [
           {
-            "title": "What Howe could bring to Man Utd - and what are the challenges?",
-            "desc": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?",
-            "pubDate": "2026-10-30T16:27:13Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss"
+            "title": "Shearer on trials of MOTD & the manager's job that never was",
+            "desc": "Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview.",
+            "pubDate": "2026-10-31T06:23:58Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Sherrock happy to overcome 'hate' in beating Littler for £501,000",
+            "desc": "Fallon Sherrock defeats reigning world champion Luke Littler in one leg of darts to win £501,000.",
+            "pubDate": "2026-10-30T23:38:06Z",
+            "link": "https://www.bbc.co.uk/sport/darts/articles/crkg7p1z3p3lo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Villa to sue Carragher over 'unacceptable insults'",
@@ -218,99 +224,105 @@
             "link": "https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Sherrock upsets Littler to claim £501,000 prize",
-            "desc": "Fallon Sherrock defeats reigning world champion Luke Littler in one leg of darts to win £501,000.",
-            "pubDate": "2026-10-30T23:38:06Z",
-            "link": "https://www.bbc.co.uk/sport/darts/articles/crkg7p1z3p3lo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "England see off USA to return to winning ways",
-            "desc": "England's Red Roses return to winning ways, but without entirely vanquishing doubts over their position at the top of the women's game, as they see off the United States.",
-            "pubDate": "2026-10-30T23:15:38Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq98zrj5dj6ro?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "Verstappen and Lawson given grid penalties for Mexico practice collision",
             "desc": "Max Verstappen accuses Liam Lawson of \"not very smart behaviour\" after the two collided in Friday practice at the Mexico City Grand Prix.",
             "pubDate": "2026-10-31T03:18:06Z",
             "link": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "South Africa-Australia set for classic finale – what does history suggest could happen?",
-            "desc": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?",
-            "pubDate": "2026-10-30T17:03:40Z",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&at_campaign=rss"
+            "title": "Briton Dart reaches first WTA Tour singles final",
+            "desc": "A tearful Harriet Dart said it \"means the world\" to her to qualify for her maiden WTA Tour singles final after battling past to beat China's Sun Xinran at the Guangzhou Open.",
+            "pubDate": "2026-10-31T11:37:55Z",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/cqwyr2r3jggno?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Britain's first £100m man facing defining moment",
-            "desc": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
-            "pubDate": "2026-10-30T13:42:15Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss"
+            "title": "AC Milan v Inter and the tale of an iconic image",
+            "desc": "AC Milan versus Inter will be shown live on the BBC on Saturday - this is the story of the fixture's most iconic image.",
+            "pubDate": "2026-10-31T06:44:38Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Leicester dominate Bristol to go top of the Prem",
-            "desc": "Leicester take maximum points to go top of the Prem before the rest of the weekend fixtures with a 22-16 win away at Bristol.",
-            "pubDate": "2026-10-30T21:43:59Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3x2wrp97dqdo?at_medium=RSS&at_campaign=rss"
+            "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
+            "desc": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+            "pubDate": "2026-10-29T19:55:24Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Man Utd target Barcelona's Lopez - Saturday's gossip",
+            "desc": "Manchester United target Barcelona's Fermin Lopez, Lisandro Martinez is attracting interest from the La Liga side,  Arsenal eye Club Brugge striker Nicolo Tresoldi, plus more.",
+            "pubDate": "2026-10-30T23:08:16Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-10-31T05:36:34Z",
+      "fetchedAt": "2026-10-31T12:21:30Z",
       "sections": {
         "top": [
           {
-            "title": "Facing a potential $40M US tariff bill, this American importer is suing Trump to end some tariffs on Canada",
+            "title": "This Texas midterm race has huge stakes, both for Donald Trump and the country",
             "desc": "",
-            "pubDate": "2026-08-12T15:00:00Z",
-            "link": "https://www.cbc.ca/news/world/gellert-global-group-suing-trump-tariffs-9.7402197?cmp=rss"
+            "pubDate": "2026-05-27T12:12:48Z",
+            "link": "https://www.cbc.ca/news/world/midterms-texas-us-senate-trump-ken-paxton-james-talarico-9.7399751?cmp=rss"
+          },
+          {
+            "title": "Parks Canada set to slash warden detachments, officers across national parks",
+            "desc": "Detachments will be closing in British Columbia, Alberta, Ontario, New Brunswick, Nova Scotia, Yukon and Northwest Territories. The number of wardens impacted by the decision is unknown, but CBC News has learned at least a dozen positions will be cut.",
+            "pubDate": "2026-10-31T08:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/calgary/parks-canada-wardens-law-enforcement-budget-cuts-9.7398925?cmp=rss"
+          },
+          {
+            "title": "Cocaine smuggler could avoid prison as judge fears incarceration would orphan 7-year-old son",
+            "desc": "A Toronto judge is weighing whether to send a single father to prison for importing cocaine into Newfoundland and Labrador during the pandemic, or find an alternate sentence that could \"break the cycle\" for his seven-year-old boy.",
+            "pubDate": "2026-10-31T04:30:00Z",
+            "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/cocaine-smuggler-could-avoid-prison-as-judge-fears-incarceration-would-orphan-7-year-old-son-9.7403223?cmp=rss"
+          },
+          {
+            "title": "Canada braces for time zone confusion as only some 'fall back' this weekend",
+            "desc": "Canadians are bracing for time zone confusion as only some will set their clocks back this weekend after several regions opted to abandon daylight saving time.",
+            "pubDate": "2026-10-30T22:00:09Z",
+            "link": "https://www.cbc.ca/player/play/9.7404022?cmp=rss"
+          },
+          {
+            "title": "How to tell whether your lithium batteries are a fire risk — and what to do if they are",
+            "desc": "We've heard a lot about how dangerous lithium battery fires are, but most of us also keep and charge smartphones, e-bikes and other lithium battery devices at home. Do we actually need to worry? Are some safer than others? Can they really go from safe to risky? And what are the warning signs? Here are some answers.",
+            "pubDate": "2026-10-31T04:00:00Z",
+            "link": "https://www.cbc.ca/news/science/lithium-battery-fires-consumer-safety-9.7401515?cmp=rss"
+          },
+          {
+            "title": "'No one is safe' as Ebola outbreak surges to more than 10,000 cases, Africa's top doctor warns Canada",
+            "desc": "Africa's top doctor, who has called Canada home since 2013, tells CBC News there could be \"massive\" cross-border spread of Ebola in the months ahead as he calls for more international support.",
+            "pubDate": "2026-10-31T04:00:00Z",
+            "link": "https://www.cbc.ca/news/health/africa-top-doctor-ebola-9.7403252?cmp=rss"
+          },
+          {
+            "title": "Drug runner? Arms dealer? The Adeline-C made waves in Halifax and beyond",
+            "desc": "The Adeline-C arrived in Halifax on Oct. 31, 1981, filled with state-of-the-art equipment, but it was soon abandoned by its crew. It would be years before its role in a complex U.S. drug smuggling operation worth as much as $200 million US became fully known.",
+            "pubDate": "2026-10-31T05:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/nova-scotia/adeline-c-halifax-drug-smuggling-chris-murray-rhode-island-9.7325827?cmp=rss"
           },
           {
             "title": "Alberta separatist Jeff Rath kicked out of governing United Conservative Party",
             "desc": "In an email, the party's executive director said Rath had \"made clear\" he did \"not support\" the party.",
             "pubDate": "2026-10-30T17:07:42Z",
             "link": "https://www.cbc.ca/news/canada/calgary/alberta-separatist-jeff-rath-kicked-out-governing-united-conservative-party-9.7403521?cmp=rss"
-          },
-          {
-            "title": "U.S. charges 5 more Canadians with voter fraud offences amid Trump administration crackdown",
-            "desc": "The U.S. Department of Justice says charges have been laid against five more Canadians for voting fraud-related offences, the latest in a flurry of similar prosecutions ahead of next week's midterm elections.",
-            "pubDate": "2026-10-30T17:47:12Z",
-            "link": "https://www.cbc.ca/news/world/5-canadians-charged-us-voter-fraud-9.7403604?cmp=rss"
-          },
-          {
-            "title": "Carney says, unequivocally, Canada seeking to become the EU's 1st associate member",
-            "desc": "",
-            "pubDate": "2026-04-15T04:17:47Z",
-            "link": "https://www.cbc.ca/news/politics/european-union-canada-associate-member-von-der-leyen-9.7401989?cmp=rss"
-          },
-          {
-            "title": "Decision clearing path for Russia to join world juniors in Alberta is 'very unwelcome,' minister says",
-            "desc": "Canada's foreign affairs minister says the decision to let Russia back into the ice hockey world championships came as a \"great disappointment\" on Friday, as the country's ongoing invasion of Ukraine stretches toward its fifth year.",
-            "pubDate": "2026-10-30T19:30:25Z",
-            "link": "https://www.cbc.ca/news/canada/russia-hockey-world-junior-championships-2027-canada-exploring-options-minister-says-9.7403796?cmp=rss"
-          },
-          {
-            "title": "Some Backstreet Boys fans consider refund after Live Nation relocates them to cheaper, still-obstructed seats",
-            "desc": "Some Backstreet Boys fans attending one of the group’s Toronto shows aren’t happy with their seat change after Live Nation relocated fans who unknowingly bought tickets that had an obstructed view.",
-            "pubDate": "2026-10-30T15:54:36Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/live-nation-relocates-backstreet-boys-fans-to-cheaper-obstructed-seats-9.7403274?cmp=rss"
-          },
-          {
-            "title": "Victim of violent home invasion in Toronto's Bridle Path neighbourhood says family is 'traumatized'",
-            "desc": "The head of a Toronto real estate group says his family is traumatized and recovering after they were attacked in a violent home invasion in the Bridle Path neighbourhood Thursday morning.",
-            "pubDate": "2026-10-30T17:48:03Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/bridle-path-home-invasion-family-speaks-out-9.7403647?cmp=rss"
-          },
-          {
-            "title": "North American stocks sink, Wall Street suffers worst day since June amid tech sell-off",
-            "desc": "The tech-heavy Nasdaq composite shed just under three per cent on Friday, while Canada's main index, the S&P/TSX composite index, finished the day down 1.7 per cent. Worries are rising about whether the hundreds of billions of dollars invested in AI will produce enough profit and productivity to make the investment worth it.",
-            "pubDate": "2026-10-30T15:06:27Z",
-            "link": "https://www.cbc.ca/news/business/tech-stocks-markets-oct-30-9.7403226?cmp=rss"
           }
         ],
         "world": [
+          {
+            "title": "This Texas midterm race has huge stakes, both for Donald Trump and the country",
+            "desc": "There's no U.S. midterm election with more at stake than the battle between Republican Ken Paxton and Democrat James Talarico to become the next senator for Texas. The outcome could determine which party holds a majority in the U.S. Senate for the remainder of Donald Trump’s presidency.",
+            "pubDate": "2026-10-31T04:00:00Z",
+            "link": "https://www.cbc.ca/news/world/midterms-texas-us-senate-trump-ken-paxton-james-talarico-9.7399751?cmp=rss"
+          },
+          {
+            "title": "'No one is safe' as Ebola outbreak surges to more than 10,000 cases, Africa's top doctor warns Canada",
+            "desc": "Africa's top doctor, who has called Canada home since 2013, tells CBC News there could be \"massive\" cross-border spread of Ebola in the months ahead as he calls for more international support.",
+            "pubDate": "2026-10-31T04:00:00Z",
+            "link": "https://www.cbc.ca/news/health/africa-top-doctor-ebola-9.7403252?cmp=rss"
+          },
           {
             "title": "Decision clearing path for Russia to join world juniors in Alberta is 'very unwelcome,' minister says",
             "desc": "Canada's foreign affairs minister says the decision to let Russia back into the ice hockey world championships came as a \"great disappointment\" on Friday, as the country's ongoing invasion of Ukraine stretches toward its fifth year.",
@@ -346,26 +358,38 @@
             "desc": "The Vatican confirmed Friday that Pope Leo XIV had submitted a mail-in ballot in Chicago ahead of the Nov. 3 midterm elections, citing his long-standing belief in civic participation.",
             "pubDate": "2026-10-30T12:03:56Z",
             "link": "https://www.cbc.ca/news/world/pope-leo-illinois-ballot-9.7402738?cmp=rss"
-          },
-          {
-            "title": "Binance says $6.3B US hacked in what could be largest cryptocurrency theft ever",
-            "desc": "A U.S.-based blockchain intelligence firm says a North Korean unit was likely behind the hack that impacted more than $6 billion US on Binance, the world's biggest cryptocurrency exchange.",
-            "pubDate": "2026-10-30T07:29:07Z",
-            "link": "https://www.cbc.ca/news/business/binance-north-korea-9.7402446?cmp=rss"
-          },
-          {
-            "title": "Aid operation, evacuations underway in Ukraine's stricken city of Oleshky",
-            "desc": "Starving and exhausted residents of a Russian-held town in southern Ukraine were being evacuated on Friday as part of a joint relief operation by the opposing sides, the first of its kind in four years and eight months of war.",
-            "pubDate": "2026-10-30T08:20:37Z",
-            "link": "https://www.cbc.ca/news/world/oleshky-ukraine-local-ceasefire-russia-9.7402167?cmp=rss"
           }
         ],
         "canada": [
+          {
+            "title": "Parks Canada set to slash warden detachments, officers across national parks",
+            "desc": "Detachments will be closing in British Columbia, Alberta, Ontario, New Brunswick, Nova Scotia, Yukon and Northwest Territories. The number of wardens impacted by the decision is unknown, but CBC News has learned at least a dozen positions will be cut.",
+            "pubDate": "2026-10-31T08:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/calgary/parks-canada-wardens-law-enforcement-budget-cuts-9.7398925?cmp=rss"
+          },
+          {
+            "title": "Drug runner? Arms dealer? The Adeline-C made waves in Halifax and beyond",
+            "desc": "The Adeline-C arrived in Halifax on Oct. 31, 1981, filled with state-of-the-art equipment, but it was soon abandoned by its crew. It would be years before its role in a complex U.S. drug smuggling operation worth as much as $200 million US became fully known.",
+            "pubDate": "2026-10-31T05:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/nova-scotia/adeline-c-halifax-drug-smuggling-chris-murray-rhode-island-9.7325827?cmp=rss"
+          },
+          {
+            "title": "Cocaine smuggler could avoid prison as judge fears incarceration would orphan 7-year-old son",
+            "desc": "A Toronto judge is weighing whether to send a single father to prison for importing cocaine into Newfoundland and Labrador during the pandemic, or find an alternate sentence that could \"break the cycle\" for his seven-year-old boy.",
+            "pubDate": "2026-10-31T04:30:00Z",
+            "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/cocaine-smuggler-could-avoid-prison-as-judge-fears-incarceration-would-orphan-7-year-old-son-9.7403223?cmp=rss"
+          },
           {
             "title": "Canadian Crime Stoppers Association advises chapters to accept tips by phone only",
             "desc": "The Canadian Crime Stoppers Association is advising its local chapters to solely accept tips by telephone instead of online, it said in a statement to CBC News on Friday.",
             "pubDate": "2026-10-30T17:54:31Z",
             "link": "https://www.cbc.ca/news/investigates/crime-stoppers-canada-tips-phone-only-9.7403714?cmp=rss"
+          },
+          {
+            "title": "Canadian philanthropist Salah Bachir remembered for gifts to health care, 2SLGBTQ+ causes, education",
+            "desc": "Salah Bachir's friends and family remembered the executive, philanthropist and party host at his funeral as someone who always found ways to contribute, whether it was hosting family festivities at his historic home in Paris, Ont., soliciting donations for the Toronto dialysis unit where he was a patient or throwing gala fund-raising events for charities he cherished.",
+            "pubDate": "2026-10-31T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/hamilton/salah-bachir-funeral-philanthropy-9.7387470?cmp=rss"
           },
           {
             "title": "Important chapter of Catholic abuse saga comes to close, as N.L. court ends restructuring proceedings",
@@ -380,37 +404,19 @@
             "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/pal-flight-uses-wheel-9.7403236?cmp=rss"
           },
           {
-            "title": "Montreal police chief defends push to change force's culture, weed out bad apples",
-            "desc": "As accusations of misconduct against Montreal’s police service mount, Chief Fady Dagher says he is taking concrete steps to bring change from the ground up while investigating and potentially prosecuting those \"one per cent\" of officers who \"tarnish the uniform.\"",
-            "pubDate": "2026-10-30T16:27:47Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416?cmp=rss"
-          },
-          {
-            "title": "Feds tap Delta, B.C., port expansion as 'project of national interest'",
-            "desc": "The federal government has listed Roberts Bank Terminal 2 in Delta, B.C., as a \"project of national interest\" to expand and diversify Canada's trade capacity.",
-            "pubDate": "2026-10-30T15:57:03Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/roberts-bank-terminal-2-listed-project-national-interest-delta-bc-9.7403297?cmp=rss"
-          },
-          {
-            "title": "Victim of violent home invasion in Toronto's Bridle Path neighbourhood says family is 'traumatized'",
-            "desc": "The head of a Toronto real estate group says his family is traumatized and recovering after they were attacked in a violent home invasion in the Bridle Path neighbourhood Thursday morning.",
-            "pubDate": "2026-10-30T17:48:03Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/bridle-path-home-invasion-family-speaks-out-9.7403647?cmp=rss"
-          },
-          {
-            "title": "'The woman from the hole': Winnipegger's comical quandary becomes Halloween costume",
-            "desc": "Christine Keilback might have the greatest sense of humour ever. She laughed off her misfortune after plunging shoulder-deep into a hole in a boulevard, and now she's getting a howl out of a Halloween costume inspired by it all.",
-            "pubDate": "2026-10-30T12:46:58Z",
-            "link": "https://www.cbc.ca/news/canada/manitoba/christine-keilback-boulevard-hole-costume-9.7402523?cmp=rss"
-          },
-          {
-            "title": "New trial ordered for driver acquitted in crash that killed Vancouver toddler",
-            "desc": "Canada's top court has ordered a new trial for a man acquitted of dangerous driving charges in a crash that killed a B.C. toddler in 2021.",
-            "pubDate": "2026-10-30T12:12:04Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/vancouver-toddler-killed-crash-new-trial-ocean-9.7402786?cmp=rss"
+            "title": "Canadian Para cyclist Mel Pemble earns track worlds silver with time trial personal best",
+            "desc": "Four-time Para cycling world champion Mel Pemble collected her second straight silver medal in the women’s C3 kilometre time trial at this year’s track competition in Apeldoorn, Netherlands on Friday.",
+            "pubDate": "2026-10-30T19:49:58Z",
+            "link": "https://www.cbc.ca/sports/paralympics/summer/para-cycling/mel-pemble-silver-time-trial-para-cycling-track-world-championships-9.7403904?cmp=rss"
           }
         ],
         "bc": [
+          {
+            "title": "B.C. won't be changing its clocks on Nov. 1. Here's what you need to know",
+            "desc": "For the first time in decades, British Columbians won't have to change their clocks on Nov. 1 like much of the rest of the U.S. and Canada. Here's what technology experts are advising British Columbians to do both ahead of, and after, time changes go into effect elsewhere.",
+            "pubDate": "2026-10-31T08:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-time-changes-what-people-need-to-know-9.7400476?cmp=rss"
+          },
           {
             "title": "Homeless campers evicted in Penticton after court grants injunction",
             "desc": "The injunction to evict residents of the Fairview encampment came into effect at noon Friday.",
@@ -452,62 +458,56 @@
             "desc": "Four-time Para cycling world champion Mel Pemble collected her second straight silver medal in the women’s C3 kilometre time trial at this year’s track competition in Apeldoorn, Netherlands on Friday.",
             "pubDate": "2026-10-30T19:49:58Z",
             "link": "https://www.cbc.ca/sports/paralympics/summer/para-cycling/mel-pemble-silver-time-trial-para-cycling-track-world-championships-9.7403904?cmp=rss"
-          },
-          {
-            "title": "New trial ordered for driver acquitted in crash that killed Vancouver toddler",
-            "desc": "Canada's top court has ordered a new trial for a man acquitted of dangerous driving charges in a crash that killed a B.C. toddler in 2021.",
-            "pubDate": "2026-10-30T12:12:04Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/vancouver-toddler-killed-crash-new-trial-ocean-9.7402786?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region",
-            "desc": "KHERSON, Ukraine (AP) — Evacuees from Russian-occupied  Oleshky  began the long journey out of the war-ravaged region in bus convoys Friday, on the fourth day of the  most significant truce  since  Russia’s full-scale invasion  of Ukraine 4 1/2 years",
-            "pubDate": "2026-10-31T05:24:22Z",
-            "link": "https://www.nsnews.com/world-news/evacuated-oleshky-residents-begin-the-long-journey-out-of-the-war-ravaged-region-12958935"
+            "title": "There's new guidance on menopause symptoms like hot flashes. What women need to know",
+            "desc": "For the first time in a dozen years, a leading  OB-GYN group  has updated its guidance on managing hot flashes, night sweats, sleep changes and other disruptive symptoms that often come with  menopause .",
+            "pubDate": "2026-10-31T12:03:21Z",
+            "link": "https://www.nsnews.com/the-mix/theres-new-guidance-on-menopause-symptoms-like-hot-flashes-what-women-need-to-know-12964027"
           },
           {
-            "title": "The dachshund is the muse in an exhibition showcasing the sausage dog's history in art",
-            "desc": "BREMEN, Germany (AP) — The humble dachshund is taking center stage in a new exhibition in Germany that explores the history of the sausage dog in art — and visitors are welcome to bring their four-legged friends along.",
-            "pubDate": "2026-10-31T05:14:12Z",
-            "link": "https://www.nsnews.com/the-mix/the-dachshund-is-the-muse-in-an-exhibition-showcasing-the-sausage-dogs-history-in-art-12963890"
+            "title": "B.C.'s new time zone could cause confusion, from calendars to medical appointments",
+            "desc": "Missed surgeries, late deliveries and muddled meeting times are among the issues that could arise as a result of British Columbia's decision to stay permanently on daylight saving time, information technology experts have cautioned.",
+            "pubDate": "2026-10-31T12:00:14Z",
+            "link": "https://www.nsnews.com/the-mix/bcs-new-time-zone-could-cause-confusion-from-calendars-to-medical-appointments-12964028"
           },
           {
-            "title": "Lundell’s hat trick lifts Panthers over Jets 5-2",
-            "desc": "SUNRISE, Fla. (AP) — Anton Lundell had a hat trick, Seth Jones capped a record-setting month with a goal and two assists, and the Florida Panthers topped the reeling Winnipeg Jets 5-2 on Friday night for their sixth win in eight games.",
-            "pubDate": "2026-10-31T05:13:50Z",
-            "link": "https://www.nsnews.com/national-sports/lundells-hat-trick-lifts-panthers-over-jets-5-2-12963892"
+            "title": "B.C.'s new time zone could cause confusion, from calendars to medical appointments",
+            "desc": "Missed surgeries, late deliveries and muddled meeting times are among the issues that could arise as a result of British Columbia's decision to stay permanently on daylight saving time, information technology experts have cautioned.",
+            "pubDate": "2026-10-31T12:00:14Z",
+            "link": "https://www.nsnews.com/national-business/bcs-new-time-zone-could-cause-confusion-from-calendars-to-medical-appointments-12964029"
           },
           {
-            "title": "Canada's Fernandez beats Uzbekistan's Rakhimova to reach final in Japan",
-            "desc": "TOKYO — Canada's Leylah Fernandez defeated Uzbekistan's Kamilla Rakhimova 7-5, 6-3 in semifinal play Saturday at the Pan Pacific Open.   Fernandez, from Laval, Que., needed one hour 54 minutes to complete the victory.",
-            "pubDate": "2026-10-31T05:11:49Z",
-            "link": "https://www.nsnews.com/national-sports/canadas-fernandez-beats-uzbekistans-rakhimova-to-reach-final-in-japan-12963893"
+            "title": "B.C.'s new time zone could cause confusion, from calendars to medical appointments",
+            "desc": "Missed surgeries, late deliveries and muddled meeting times are among the issues that could arise as a result of British Columbia's decision to stay permanently on daylight saving time, information technology experts have cautioned.",
+            "pubDate": "2026-10-31T12:00:14Z",
+            "link": "https://www.nsnews.com/national-news/bcs-new-time-zone-could-cause-confusion-from-calendars-to-medical-appointments-12964050"
           },
           {
-            "title": "Canada's Andreescu beats Spain's Herrero Linana in quarterfinal in Mexico",
-            "desc": "QUERÉTARO — Canada's Bianca Andreescu defeated Spain's Alicia Herrero Linana 6-1, 6-1 in quarterfinal play Friday night at the Queretaro Open.  Andreescu, the No. 4 seed from Mississauga, Ont.",
-            "pubDate": "2026-10-31T04:58:33Z",
-            "link": "https://www.nsnews.com/national-sports/canadas-andreescu-beats-spains-herrero-linana-in-quarterfinal-in-mexico-12963879"
+            "title": "The times aren't a-changin' in Western Canada but there's still adjustments ahead",
+            "desc": "WINNIPEG — The clocks aren’t changing Sunday in the western half of the country, but that doesn’t mean changes aren’t coming as British Columbia, Alberta, Manitoba, northwestern Ontario and the Northwest Territories all chose this year to stick with",
+            "pubDate": "2026-10-31T12:00:11Z",
+            "link": "https://www.nsnews.com/national-news/the-times-arent-a-changin-in-western-canada-but-theres-still-adjustments-ahead-12964051"
           },
           {
-            "title": "Schizas arrives at Skate Canada with unfinished business: 'I can be so much better'",
-            "desc": "Canadian figure skater Madeline Schizas became an internet sensation at last February’s Olympics, going viral for requesting a homework extension while representing her country on the world stage.",
-            "pubDate": "2026-10-31T04:36:35Z",
-            "link": "https://www.nsnews.com/national-sports/schizas-arrives-at-skate-canada-with-unfinished-business-i-can-be-so-much-better-12960074"
+            "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+            "desc": "Binance, the world's biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record.",
+            "pubDate": "2026-10-31T11:01:49Z",
+            "link": "https://www.nsnews.com/national-business/what-to-know-about-the-63b-hack-on-binance-likely-the-biggest-ever-crypto-theft-12958994"
           },
           {
-            "title": "Suns' Dillon Brooks ejected from game for kicking Nuggets' Jamal Murray in the groin",
-            "desc": "PHOENIX (AP) — Phoenix Suns forward Dillon Brooks was ejected Friday night against the Denver Nuggets for  kicking Jamal Murray in the groin .",
-            "pubDate": "2026-10-31T04:33:19Z",
-            "link": "https://www.nsnews.com/national-sports/suns-dillon-brooks-ejected-from-game-for-kicking-nuggets-jamal-murray-in-the-groin-12963857"
+            "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+            "desc": "Binance, the world's biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record.",
+            "pubDate": "2026-10-31T11:01:49Z",
+            "link": "https://www.nsnews.com/the-mix/what-to-know-about-the-63b-hack-on-binance-likely-the-biggest-ever-crypto-theft-12958990"
           },
           {
-            "title": "Houdini’s centennial spotlight: A newly published essay and a fresh fight over when and how he died",
-            "desc": "NEW YORK (AP) — A century after his death,  Harry Houdini  remains a man we're still trying to learn more about.",
-            "pubDate": "2026-10-31T04:06:25Z",
-            "link": "https://www.nsnews.com/the-mix/houdinis-centennial-spotlight-a-newly-published-essay-and-a-fresh-fight-over-when-and-how-he-died-12963856"
+            "title": "'Associate' EU membership for Canada not a 'short-term' project: expert",
+            "desc": "OTTAWA — Prime Minister Mark Carney has laid out a timeline that would see Canada sign an agreement on a new partnership with the European Union in the next seven months, if all goes well.",
+            "pubDate": "2026-10-31T10:00:14Z",
+            "link": "https://www.nsnews.com/national-news/associate-eu-membership-for-canada-not-a-short-term-project-expert-12964006"
           }
         ]
       },
