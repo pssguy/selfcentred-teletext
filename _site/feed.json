@@ -2,120 +2,44 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-11-04T21:18:16Z",
+      "fetchedAt": "2026-11-05T06:41:33Z",
       "sections": {
         "top": [
           {
-            "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
-            "desc": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
-            "pubDate": "2026-11-04T18:35:07Z",
-            "link": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss"
+            "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
+            "desc": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+            "pubDate": "2026-11-05T03:47:56Z",
+            "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "How America voted in maps and charts",
-            "desc": "See the maps and charts that show how America voted in the US midterm elections.",
-            "pubDate": "2026-11-04T09:53:18Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss"
+            "title": "UK commits to 'time-bound' talks on slavery apology",
+            "desc": "British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes.",
+            "pubDate": "2026-11-05T02:17:18Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Democrats won Congress in a blue wave. Now comes the hard part",
-            "desc": "Democrats can vote legislation through. But Trump still has veto power.",
-            "pubDate": "2026-11-04T18:01:27Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
+            "title": "The NHS is relying more on charities - and that might be creating problems for patients",
+            "desc": "Is it symptom a health service at breaking point - or a positive way of involving the public?",
+            "pubDate": "2026-11-05T00:12:30Z",
+            "link": "https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Everything you need to know from the US midterm elections",
-            "desc": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
-            "pubDate": "2026-11-04T14:05:42Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
+            "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+            "desc": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+            "pubDate": "2026-11-05T06:35:25Z",
+            "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "How voter shifts in Texas helped elect a Democratic senator and governor",
-            "desc": "The BBC's Ros Atkins looks at the state's long track record of voting Republican and what was different in this year's election.",
-            "pubDate": "2026-11-04T20:21:14Z",
-            "link": "https://www.bbc.co.uk/news/videos/cmy4xz081kxyo?at_medium=RSS&at_campaign=rss"
+            "title": "Interest rates expected to rise for first time in over three years",
+            "desc": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+            "pubDate": "2026-11-05T00:00:09Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-            "desc": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-            "pubDate": "2026-11-04T20:22:40Z",
-            "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Chris Mason: The US elections will change Trump – how will Burnham react?",
-            "desc": "The big question for the British government is does defeat at home make it more likely that President Trump gets angrier abroad?",
-            "pubDate": "2026-11-04T21:02:58Z",
-            "link": "https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Brigitte Bardot inheritance row deepens after private letter to partner leaked",
-            "desc": "In the letter, the late French actress says her partner Bernard de Chiara was \"incapable\" of giving \"support, a tenderness, a presence\".",
-            "pubDate": "2026-11-04T16:31:14Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck1ex56e5q8wo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "world": [
-          {
-            "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-            "desc": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-            "pubDate": "2026-11-04T13:33:30Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-            "desc": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-            "pubDate": "2026-11-04T18:01:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-            "desc": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-            "pubDate": "2026-11-04T20:22:40Z",
-            "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-            "desc": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-            "pubDate": "2026-11-04T16:26:15Z",
-            "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "'Most difficult days of my life' for keeper Owono",
-            "desc": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-            "pubDate": "2026-11-04T16:40:38Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Israel's president begins consultations with parties after election deadlock",
-            "desc": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-            "pubDate": "2026-11-04T16:18:21Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-            "desc": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-            "pubDate": "2026-11-04T07:39:38Z",
-            "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Secret police files released in Hungary, 37 years after fall of communism",
-            "desc": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
-            "pubDate": "2026-11-04T15:28:18Z",
-            "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "uk": [
-          {
-            "title": "Passengers thought mass train attack 'was a joke'",
-            "desc": "The first person who was attacked also says he asked hospital staff \"am I going to die today?\".",
-            "pubDate": "2026-11-04T17:20:59Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq8ez378661xo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Chris Mason: The US elections will change Trump – how will Burnham react?",
-            "desc": "The big question for the British government is does defeat at home make it more likely that President Trump gets angrier abroad?",
-            "pubDate": "2026-11-04T21:02:58Z",
-            "link": "https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss"
+            "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+            "desc": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+            "pubDate": "2026-11-04T23:12:47Z",
+            "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "British man infected with Ebola in DR Congo to be flown back to UK",
@@ -124,41 +48,135 @@
             "link": "https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
-            "desc": "Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past \"under the carpet\".",
-            "pubDate": "2026-11-04T02:14:45Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss"
+            "title": "Pound rises to its highest level since the Brexit referendum",
+            "desc": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+            "pubDate": "2026-11-05T04:21:35Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "world": [
+          {
+            "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+            "desc": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+            "pubDate": "2026-11-05T03:47:56Z",
+            "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Fourth arrest after Halloween party stabbings",
-            "desc": "All five boys who were injured had been invited to attend the supervised party on Saturday night.",
-            "pubDate": "2026-11-04T11:48:32Z",
-            "link": "https://www.bbc.co.uk/news/articles/c39wz4lv85v8o?at_medium=RSS&at_campaign=rss"
+            "title": "What Democrats can and can't do with their new power after taking Congress",
+            "desc": "Democrats can vote legislation through. But Trump still has veto power.",
+            "pubDate": "2026-11-04T18:01:27Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "UK government to outlaw new North Sea drilling",
-            "desc": "Labour ministers have published legislation that would end the granting of new oil and gas licences.",
-            "pubDate": "2026-11-04T16:28:03Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqn734d24l0go?at_medium=RSS&at_campaign=rss"
+            "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+            "desc": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+            "pubDate": "2026-11-05T06:35:25Z",
+            "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-            "desc": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
-            "pubDate": "2026-11-04T19:38:53Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
+            "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+            "desc": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+            "pubDate": "2026-11-04T16:26:15Z",
+            "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Police launch inquiry after two inmates die in prison",
-            "desc": "The Ministry of Justice (MoJ) confirmed two men died in custody on Wednesday.",
-            "pubDate": "2026-11-04T17:23:06Z",
-            "link": "https://www.bbc.co.uk/news/articles/c51kdx83y11lo?at_medium=RSS&at_campaign=rss"
+            "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+            "desc": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+            "pubDate": "2026-11-04T23:12:47Z",
+            "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "'Most difficult days of my life' for keeper Owono",
+            "desc": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+            "pubDate": "2026-11-04T16:40:38Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Pope Leo hosts Bob Dylan at official residence in Rome ",
+            "desc": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+            "pubDate": "2026-11-05T02:09:23Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+            "desc": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+            "pubDate": "2026-11-04T23:50:40Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "uk": [
+          {
+            "title": "UK commits to 'time-bound' talks on slavery apology",
+            "desc": "British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes.",
+            "pubDate": "2026-11-05T02:17:18Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Pound rises to its highest level since the Brexit referendum",
+            "desc": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+            "pubDate": "2026-11-05T04:21:35Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "British man infected with Ebola in DR Congo to be flown back to UK",
+            "desc": "The wider risk to the UK public from the deadly virus remains low, a government spokesperson says.",
+            "pubDate": "2026-11-04T18:34:19Z",
+            "link": "https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Police to escort fire crews in latest crackdown on Bonfire Night disorder",
+            "desc": "As many as 1,700 officers could be deployed in the biggest Police Scotland operation since last year's visit by President Trump.",
+            "pubDate": "2026-11-05T06:16:08Z",
+            "link": "https://www.bbc.co.uk/news/articles/cj93zv4dv9rro?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "More asbestos found in Parliament, as MPs urged to get on with revamp",
+            "desc": "MPs told it's crunch time for a decision on refurbishment amid warnings of a Notre Dame-style fire.",
+            "pubDate": "2026-11-05T03:05:34Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqly0k8l5mdvo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "No shoot-to-kill missions against IRA, says former SAS officer",
+            "desc": "The soldier is speaking out now because of the government's draft law to deal with the legacy of the Troubles.",
+            "pubDate": "2026-11-05T00:00:03Z",
+            "link": "https://www.bbc.co.uk/news/articles/cky93zxx3l4eo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "£200m taxpayer-funded trains sit barely used for three years",
+            "desc": "The final piece in a £2bn rail project is late, with less than half of the trains tested.",
+            "pubDate": "2026-11-05T06:02:41Z",
+            "link": "https://www.bbc.co.uk/news/articles/cv62kwg0k038o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Palestine Action ban undermined confidence in anti-terror laws, Supreme Court told",
+            "desc": "Co-founder of Palestine Action, Huda Ammori, is challenging the government's decision to proscribe the group.",
+            "pubDate": "2026-11-04T17:55:53Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmr4yvel29keo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
           {
-            "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-            "desc": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
-            "pubDate": "2026-11-04T15:51:37Z",
+            "title": "Interest rates expected to rise for first time in over three years",
+            "desc": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+            "pubDate": "2026-11-05T00:00:09Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Pound rises to its highest level since the Brexit referendum",
+            "desc": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+            "pubDate": "2026-11-05T04:21:35Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Democrats won on affordability. Can they deliver it?",
+            "desc": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
+            "pubDate": "2026-11-05T06:01:05Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+            "desc": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+            "pubDate": "2026-11-04T21:41:15Z",
             "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -168,10 +186,10 @@
             "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-            "desc": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-            "pubDate": "2026-11-03T20:53:03Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
+            "title": "Graduates are managing AI - but are they learning much else?",
+            "desc": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+            "pubDate": "2026-11-04T00:04:35Z",
+            "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
@@ -180,42 +198,42 @@
             "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-            "desc": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-            "pubDate": "2026-11-03T16:19:29Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Graduates are managing AI - but are they learning much else?",
-            "desc": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-            "pubDate": "2026-11-04T00:04:35Z",
-            "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Canva announces major job cuts after 'our hardest year yet'",
-            "desc": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
-            "pubDate": "2026-11-04T00:09:35Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Drivers may get compensation offers before car finance saga ends",
-            "desc": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
-            "pubDate": "2026-11-03T11:56:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss"
+            "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+            "desc": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+            "pubDate": "2026-11-03T20:53:03Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "sport": [
+          {
+            "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
+            "desc": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
+            "pubDate": "2026-11-04T22:38:24Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "LIV to wind down after backers withdraw support",
+            "desc": "LIV Golf is set to announce on Thursday it will wind down after a financing firm retracted its support.",
+            "pubDate": "2026-11-04T22:33:17Z",
+            "link": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Haaland scores winner as Man City beat Leipzig",
+            "desc": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase.",
+            "pubDate": "2026-11-04T22:15:31Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Arsenal survive late Slavia scare for hard-fought win",
+            "desc": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game.",
+            "pubDate": "2026-11-04T22:10:07Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "An island in mourning: Tenerife processes death of De Miguel",
             "desc": "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision.",
             "pubDate": "2026-11-04T18:51:21Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-            "desc": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
-            "pubDate": "2026-11-04T16:12:46Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Zverev annoyed by reaction to becoming world number one",
@@ -224,93 +242,105 @@
             "link": "https://www.bbc.co.uk/sport/tennis/articles/ckpdg01pq55eo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "'Most difficult days of my life' for Owono after De Miguel death",
-            "desc": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-            "pubDate": "2026-11-04T16:40:38Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "How landmark Everton compensation prevented Burnley record loss",
-            "desc": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
-            "pubDate": "2026-11-04T17:48:19Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "GB sprint star Hunt visits England training camp",
             "desc": "Great Britain sprint star Amy Hunt visited England's training base before Sunday's Nations Championship match against Australia.",
             "pubDate": "2026-11-04T19:59:18Z",
             "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5x2vzplg43go?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Defeat ends Djokovic's hopes of making ATP Finals",
-            "desc": "Novak Djokovic is out of the race to qualify for the ATP Finals in Turin after a second-round defeat by qualifier Rinky Hijikata at the Paris Masters.",
-            "pubDate": "2026-11-04T18:22:16Z",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/ckn8we5p1ydeo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Ocon dropped - is it the end of his F1 career?",
-            "desc": "Esteban Ocon's career as a Formula 1 race driver is over - at least for the foreseeable future - after falling out with Haas. Andrew Benson looks at what the future holds for the Frenchman.",
-            "pubDate": "2026-11-04T15:00:26Z",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo?at_medium=RSS&at_campaign=rss"
+            "title": "World record 51 red cards shown in Brazilian youth game",
+            "desc": "A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+            "pubDate": "2026-11-04T23:22:27Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-11-04T21:18:17Z",
+      "fetchedAt": "2026-11-05T06:41:34Z",
       "sections": {
         "top": [
           {
-            "title": "U.S. midterms: Trump appears to accept Democrats' wins, but says he wouldn't change campaign",
+            "title": "Ohio and Texas went from red to blue in the midterms, but may not stay that way in 2028",
             "desc": "",
             "pubDate": "2026-05-27T12:12:48Z",
-            "link": "https://www.cbc.ca/news/world/livestory/us-midterm-election-results-reaction-live-updates-november-4-2026-9.7408406?cmp=rss"
+            "link": "https://www.cbc.ca/news/world/texas-ohio-midterm-results-9.7409481?cmp=rss"
           },
           {
-            "title": "Trump strategy unchanged after Democrats' midterm landslide, says Canada-U.S. trade minister",
-            "desc": "Canada's point man on the Canada-U.S. trade file says the federal government's strategy isn't changing in the short term despite American voters handing a seismic win to Democrats in Tuesday night's midterm elections.",
+            "title": "Senior Democratic congressman says party 'going to put an end' to Trump's tariffs",
+            "desc": "A senior Democrat says his party will work to end U.S. President Donald Trump's tariffs on allies, including Canada, when it takes control of Congress next year.",
             "pubDate": "2026-11-04T12:40:27Z",
             "link": "https://www.cbc.ca/news/politics/trump-midterms-democrats-victory-carney-trade-9.7408838?cmp=rss"
           },
           {
-            "title": "Suggested curfew, night patrols in place following suspected fatal grizzly attack near Bella Coola, B.C.",
-            "desc": "Nuxalk Nation is recommending residents stay indoors by 8 p.m. following a suspected grizzly bear attack that killed a mother and daughter near Bella Coola.",
-            "pubDate": "2026-11-04T15:08:04Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bella-coola-grizzly-bear-attack-update-9.7409268?cmp=rss"
+            "title": "Russian hacker group claims to have posted B.C. school district information on dark web",
+            "desc": "CBC News has discovered a hacked database stolen from the Burnaby School District on a dark web site run by a prominent shadowy ransomware group believed to be operating out of Russia.",
+            "pubDate": "2026-11-04T19:35:27Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/qilin-burnaby-school-ransomware-9.7409539?cmp=rss"
           },
           {
-            "title": "Native American women make history in U.S. midterm elections",
-            "desc": "Deb Haaland and Peggy Flanagan have made history in the U.S. midterm elections, becoming the first Native American woman elected governor and U.S. senator, respectively, marking a milestone for Indigenous political representation in the U.S.",
-            "pubDate": "2026-11-04T15:37:06Z",
-            "link": "https://www.cbc.ca/news/indigenous/deb-haaland-peggy-flanagan-election-2026-9.7409281?cmp=rss"
+            "title": "Prominent Hong Kong activist Joshua Wong sentenced to 10 years in 2nd national security case",
+            "desc": "Prominent Hong Kong activist Joshua Wong was sentenced to 10 years in prison Thursday for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
+            "pubDate": "2026-11-04T22:53:54Z",
+            "link": "https://www.cbc.ca/news/world/joshua-wong-second-sentence-9.7410128?cmp=rss"
           },
           {
-            "title": "Contractor charged with fraud after Amherstburg, Ont., family spent $155K in renos that left home unlivable",
-            "desc": "Tonya Azevedo says she lost $155,000 and her family of four can no longer live in their Amherstburg, Ont., home of 20 years after a contractor who told them he was licensed did work that turned out to be unsafe. Police have now laid fraud and other charges.",
-            "pubDate": "2026-11-03T13:18:59Z",
-            "link": "https://www.cbc.ca/news/canada/windsor/amherstburg-renovations-police-seeking-contractor-9.7407157?cmp=rss"
+            "title": "Beach weather in November? In Canada? These photos prove it",
+            "desc": "Parts of Ontario and Quebec have been experiencing record-setting temperatures this week, and people have been taking full advantage of it.",
+            "pubDate": "2026-11-04T20:14:16Z",
+            "link": "https://www.cbc.ca/news/canada/warm-weather-photos-9.7409603?cmp=rss"
           },
           {
-            "title": "National chief didn't mean to 'hurt anybody' with remarks on Métis identity",
-            "desc": "",
-            "pubDate": "2026-11-04T15:54:40Z",
-            "link": "https://www.cbc.ca/news/canada/manitoba/cindy-woodhouse-nepinak-metis-remarks-9.7409157?cmp=rss"
+            "title": "Valkyries celebrate WNBA championship with San Francisco and Oakland fans",
+            "desc": "Dancing in the streets, popping champagne and high-fiving fans was all part of the celebration on Wednesday as the Golden State Valkyries parade made its way through Oakland and then across the bay in San Francisco.",
+            "pubDate": "2026-11-04T22:41:54Z",
+            "link": "https://www.cbc.ca/news/world/wnba-valkyries-championship-parade-9.7410088?cmp=rss"
           },
           {
-            "title": "Multiple injuries reported after bus crashes off Highway 39 south of Mackenzie, B.C.",
-            "desc": "The local hospital in Mackenzie, B.C., has declared a code orange, according to Northern Health, after a bus crashed off Highway 39 Wednesday morning.",
-            "pubDate": "2026-11-04T13:29:31Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/highway-39-bus-crash-multiple-injuries-9.7409180?cmp=rss"
+            "title": "Former NASA chief economist named new head of Canadian Space Agency",
+            "desc": "Alexander MacDonald was named the new president of the Canadian Space Agency late Wednesday evening.",
+            "pubDate": "2026-11-04T20:38:41Z",
+            "link": "https://www.cbc.ca/news/politics/new-head-of-canadian-space-agency-9.7410061?cmp=rss"
           },
           {
-            "title": "Will Ontario end seasonal time changes? Ford says he's 'all in' — with conditions",
-            "desc": "Ontario Premier Doug Ford says he's \"very open\" to discussions with the new Quebec premier on whether to keep up seasonal time changes.",
-            "pubDate": "2026-11-04T14:53:29Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/ontario-time-change-9.7409350?cmp=rss"
+            "title": "Jimmy Kimmel roasts Trump in late night monologue amid 'blue tsunami' midterms",
+            "desc": "Late night host Jimmy Kimmel had some choice words for U.S. President Donald Trump last night as a “blue tsunami” stormed the country during the U.S. elections, quipping in the monologue of ABC's Jimmy Kimmel Live! that Trump was \"already running out of dipping sauce containers to throw at the television set.\"",
+            "pubDate": "2026-11-04T13:39:04Z",
+            "link": "https://www.cbc.ca/news/entertainment/jimmy-kimmel-monologue-slams-donald-trump-9.7409167?cmp=rss"
           }
         ],
         "world": [
+          {
+            "title": "Prominent Hong Kong activist Joshua Wong sentenced to 10 years in 2nd national security case",
+            "desc": "Prominent Hong Kong activist Joshua Wong was sentenced to 10 years in prison Thursday for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
+            "pubDate": "2026-11-04T22:53:54Z",
+            "link": "https://www.cbc.ca/news/world/joshua-wong-second-sentence-9.7410128?cmp=rss"
+          },
+          {
+            "title": "Senior Democratic congressman says party 'going to put an end' to Trump's tariffs",
+            "desc": "A senior Democrat says his party will work to end U.S. President Donald Trump's tariffs on allies, including Canada, when it takes control of Congress next year.",
+            "pubDate": "2026-11-04T12:40:27Z",
+            "link": "https://www.cbc.ca/news/politics/trump-midterms-democrats-victory-carney-trade-9.7408838?cmp=rss"
+          },
+          {
+            "title": "NASA's Swift space telescope plunges to Earth after 22 years in orbit",
+            "desc": "One of NASA's premier space telescopes plunged to Earth on Wednesday, ending its 22-year investigation of gamma ray bursts and exploding stars.",
+            "pubDate": "2026-11-04T16:35:06Z",
+            "link": "https://www.cbc.ca/news/science/swift-space-telescope-9.7409515?cmp=rss"
+          },
+          {
+            "title": "Valkyries celebrate WNBA championship with San Francisco and Oakland fans",
+            "desc": "Dancing in the streets, popping champagne and high-fiving fans was all part of the celebration on Wednesday as the Golden State Valkyries parade made its way through Oakland and then across the bay in San Francisco.",
+            "pubDate": "2026-11-04T22:41:54Z",
+            "link": "https://www.cbc.ca/news/world/wnba-valkyries-championship-parade-9.7410088?cmp=rss"
+          },
+          {
+            "title": "Trump lost Congress. 3 presidents before him did, too",
+            "desc": "Donald Trump just joined a rare presidential club of U.S. presidents to lose both the House and Senate in the midterms. CBC's Mike Crawley looks at the former presidents who also faced similar congressional busts.CORRECTION (Nov. 4, 2026): In this video, there is a reference to Donald Trump being the third U.S. president to lose both the House and Senate in the midterms. In fact, he is the fourth.",
+            "pubDate": "2026-11-04T15:39:59Z",
+            "link": "https://www.cbc.ca/player/play/9.7409351?cmp=rss"
+          },
           {
             "title": "JD Vance blames Iran war for midterm thumping. Is he really blaming Trump?",
             "desc": "U.S. Vice-President JD Vance blamed the Republican Party's decisive defeat in the midterm elections on the war that President Donald Trump launched against Iran.",
@@ -318,196 +348,166 @@
             "link": "https://www.cbc.ca/news/world/trump-midterms-jd-vance-iran-war-9.7409264?cmp=rss"
           },
           {
-            "title": "U.S. midterms: Trump appears to accept Democrats' wins, but says he wouldn't change campaign",
+            "title": "U.S. midterms: How Trump, Vance and Canadian politicians responded the day after Democrats' massive gains",
             "desc": "",
             "pubDate": "2026-11-04T06:31:52Z",
             "link": "https://www.cbc.ca/news/world/livestory/us-midterm-election-results-reaction-live-updates-november-4-2026-9.7408406?cmp=rss"
           },
           {
-            "title": "Native American women make history in U.S. midterm elections",
-            "desc": "Deb Haaland and Peggy Flanagan have made history in the U.S. midterm elections, becoming the first Native American woman elected governor and U.S. senator, respectively, marking a milestone for Indigenous political representation in the U.S.",
-            "pubDate": "2026-11-04T15:37:06Z",
-            "link": "https://www.cbc.ca/news/indigenous/deb-haaland-peggy-flanagan-election-2026-9.7409281?cmp=rss"
-          },
-          {
-            "title": "Iranian officials welcome U.S. midterm results after voters rebuke Trump administration, Iran war",
-            "desc": "Iranian officials celebrated U.S. voters' rebuke of the Republican Party and President Donald Trump in the midterm elections, as the region waited to see how the results could affect the Iran war.",
-            "pubDate": "2026-11-04T07:54:34Z",
-            "link": "https://www.cbc.ca/news/world/iran-united-states-midterm-results-trump-9.7408499?cmp=rss"
-          },
-          {
-            "title": "Questions arise over emergency treatment given to Spanish soccer player in fatal collision",
-            "desc": "While Spain mourns the death of a soccer player who suffered a cardiac arrest after an on-field collision, the emergency medical treatment he received is falling under scrutiny.",
-            "pubDate": "2026-11-04T14:14:58Z",
-            "link": "https://www.cbc.ca/sports/soccer/jesus-de-miguel-treatment-fatal-collision-soccer-9.7409300?cmp=rss"
-          },
-          {
-            "title": "Kellogg's Rice Krispies changed its U.K. recipe, muffling its iconic snap, crackle and pop",
-            "desc": "Some consumers in the U.K. are in an uproar after cereal-maker Kellogg's recently changed its recipe there for Rice Krispies, replacing the whole rice grains in the family-favourite breakfast with rice flour.",
-            "pubDate": "2026-11-04T14:04:53Z",
-            "link": "https://www.cbc.ca/news/business/rice-krispies-changes-recipe-rice-9.7408568?cmp=rss"
-          },
-          {
-            "title": "China extends tariff relief for Canadian canola, lobster and crab",
-            "desc": "The federal government announced on Wednesday that China will extend its soon-to-expire tariff-free treatment for some Canadian agricultural and seafood products for another two years.",
-            "pubDate": "2026-11-04T13:02:31Z",
-            "link": "https://www.cbc.ca/news/politics/china-extends-tariff-relief-seafood-canola-9.7409066?cmp=rss"
-          },
-          {
-            "title": "What the Democrats' 'blue tsunami' midterm victory means for the Republican party",
-            "desc": "The Democrats surged to victory on midterm election night, taking back both the House and the Senate. As Republican strongholds crumbled, Washington correspondents Katie Simpson, Willy Lowry and Paul Hunter break down what this says about American voter sentiment, what the next two years of Donald Trump's presidency could look like and how Canada-U.S. relations may change.",
-            "pubDate": "2026-11-04T14:40:18Z",
-            "link": "https://www.cbc.ca/radio/midterm-elections-united-states-9.7408593?cmp=rss"
+            "title": "Midterms ‘bluenami’: The exact moment Trump lost control of Congress | About That",
+            "desc": "Democrats made historic gains in the U.S. midterm elections, winning majority control of both the House and Senate by flipping deep-red seats in several states including Texas, South Carolina and Kansas. Andrew Chang breaks down shifts across key battlegrounds to explain how the 'bluenami' unfolded as traditional Republican strongholds fell.(Photo credits: The Canadian Press, Reuters, Adobe Stock and Getty Images)",
+            "pubDate": "2026-11-04T18:58:58Z",
+            "link": "https://www.cbc.ca/player/play/9.7409899?cmp=rss"
           }
         ],
         "canada": [
           {
-            "title": "Suggested curfew, night patrols in place following suspected fatal grizzly attack near Bella Coola, B.C.",
-            "desc": "Nuxalk Nation is recommending residents stay indoors by 8 p.m. following a suspected grizzly bear attack that killed a mother and daughter near Bella Coola.",
-            "pubDate": "2026-11-04T15:08:04Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bella-coola-grizzly-bear-attack-update-9.7409268?cmp=rss"
+            "title": "Russian hacker group claims to have posted B.C. school district information on dark web",
+            "desc": "CBC News has discovered a hacked database stolen from the Burnaby School District on a dark web site run by a prominent shadowy ransomware group believed to be operating out of Russia.",
+            "pubDate": "2026-11-04T19:35:27Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/qilin-burnaby-school-ransomware-9.7409539?cmp=rss"
           },
           {
-            "title": "National chief didn't mean to 'hurt anybody' with remarks on Métis identity",
-            "desc": "The national chief who came under fire for her comments on Métis identity last week says she didn't want to \"hurt anybody\" but maintains there's a widespread issue of people falsely claiming to be Indigenous across Canada.",
-            "pubDate": "2026-11-04T15:48:59Z",
-            "link": "https://www.cbc.ca/news/canada/manitoba/cindy-woodhouse-nepinak-metis-remarks-9.7409157?cmp=rss"
+            "title": "Unmanaged menopause symptoms cost Canada's economy $3.5B, experts tell MPs",
+            "desc": "Unmanaged menopause symptoms are not just impacting women, but costing the Canadian economy $3.5 billion and 540,000 lost workdays every year, according to the Menopause Foundation of Canada.",
+            "pubDate": "2026-11-04T18:48:54Z",
+            "link": "https://www.cbc.ca/news/politics/menopause-impacts-on-productivity-cost-economy-over-3-billion-annually-experts-9.7409850?cmp=rss"
           },
           {
-            "title": "Contractor charged with fraud after Amherstburg, Ont., family spent $155K in renos that left home unlivable",
-            "desc": "Tonya Azevedo says she lost $155,000 and her family of four can no longer live in their Amherstburg, Ont., home of 20 years after a contractor who told them he was licensed did work that turned out to be unsafe. Police have now laid fraud and other charges.",
-            "pubDate": "2026-11-03T13:18:59Z",
-            "link": "https://www.cbc.ca/news/canada/windsor/amherstburg-renovations-police-seeking-contractor-9.7407157?cmp=rss"
+            "title": "Motorcade honours B.C. soldier killed in fire at CFB Wainwright",
+            "desc": "Pte. Aidan Goulding from North Vancouverwas among four soldiers killed in the blaze that overwhelmed a live-fire training exercise at CFB Wainwright on Oct. 17.",
+            "pubDate": "2026-11-04T20:52:14Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/motorcade-private-aidan-goulding-vancouver-9.7410048?cmp=rss"
           },
           {
-            "title": "Sask. man extradited to U.S. to face crypto hacking charges",
-            "desc": "Ryan James Roach, 35, has been extradited to the U.S. after being indicted on charges related to the hacking of university supercomputers to mine cryptocurrency.",
-            "pubDate": "2026-11-04T14:16:44Z",
-            "link": "https://www.cbc.ca/news/canada/saskatoon/man-extradited-crypto-hacking-charges-9.7409294?cmp=rss"
+            "title": "Alberta's governing UCP endorses proposed riding boundary changes as NDP reiterates concerns",
+            "desc": "Alberta's governing United Conservatives have officially endorsed changes to provincial riding boundaries that the Opposition NDP says it believes are “rigged” to help the UCP win the next election.",
+            "pubDate": "2026-11-04T21:19:06Z",
+            "link": "https://www.cbc.ca/news/canada/edmonton/alberta-ucp-ndp-electoral-boundary-changes-ridings-election-9.7410092?cmp=rss"
           },
           {
-            "title": "Will Ontario end seasonal time changes? Ford says he's 'all in' — with conditions",
-            "desc": "Ontario Premier Doug Ford says he's \"very open\" to discussions with the new Quebec premier on whether to keep up seasonal time changes.",
-            "pubDate": "2026-11-04T14:53:29Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/ontario-time-change-9.7409350?cmp=rss"
+            "title": "Now-retired senior military officer denies sex assault allegation as Winnipeg trial wraps up",
+            "desc": "A retired military lieutenant-colonel accused of sexual assault in Winnipeg vehemently denied the allegations against her during testimony Wednesday, as her trial concluded with the prosecution urging a judge to convict her.",
+            "pubDate": "2026-11-04T18:52:47Z",
+            "link": "https://www.cbc.ca/news/canada/manitoba/darla-oja-sexual-assault-trial-ends-9.7409867?cmp=rss"
           },
           {
-            "title": "Infrastructure gap and specific claims top issues for Assembly of First Nations for federal budget",
-            "desc": "Assembly of First Nations National Chief Cindy Woodhouse Nepinak says in the 2026 federal budget she wants to see sustained funding for First Nations services and infrastructure and the resources First Nations need to file specific claims.",
-            "pubDate": "2026-11-04T14:19:43Z",
-            "link": "https://www.cbc.ca/news/indigenous/afn-budget-2026-press-conference-9.7408800?cmp=rss"
+            "title": "Beach weather in November? In Canada? These photos prove it",
+            "desc": "Parts of Ontario and Quebec have been experiencing record-setting temperatures this week, and people have been taking full advantage of it.",
+            "pubDate": "2026-11-04T20:14:16Z",
+            "link": "https://www.cbc.ca/news/canada/warm-weather-photos-9.7409603?cmp=rss"
           },
           {
-            "title": "After U.S. midterms, Quebec premier sets sight on 'diplomatic offensive' south of the border",
-            "desc": "The trade war with Canada became a ballot box issue in close U.S. midterm contests in Maine and Michigan, where Democrats defeated their Republican rivals.",
-            "pubDate": "2026-11-04T13:02:14Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/pspp-to-launch-diplomatic-offensive-south-of-the-border-9.7409119?cmp=rss"
+            "title": "Former NASA chief economist named new head of Canadian Space Agency",
+            "desc": "Alexander MacDonald was named the new president of the Canadian Space Agency late Wednesday evening.",
+            "pubDate": "2026-11-04T20:38:41Z",
+            "link": "https://www.cbc.ca/news/politics/new-head-of-canadian-space-agency-9.7410061?cmp=rss"
           },
           {
-            "title": "Multiple injuries reported after bus crashes off Highway 39 south of Mackenzie, B.C.",
-            "desc": "The local hospital in Mackenzie, B.C., has declared a code orange, according to Northern Health, after a bus crashed off Highway 39 Wednesday morning.",
-            "pubDate": "2026-11-04T13:29:31Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/highway-39-bus-crash-multiple-injuries-9.7409180?cmp=rss"
+            "title": "P.E.I. health minister admits doctor recruitment has been 'underwhelming'",
+            "desc": "There was no ambiguity on the challenges faced in Prince Edward Island's health-care system from the health minister Wednesday.",
+            "pubDate": "2026-11-04T19:04:04Z",
+            "link": "https://www.cbc.ca/news/canada/prince-edward-island/pei-health-minister-recruitment-underwhelming-9.7409862?cmp=rss"
           }
         ],
         "bc": [
           {
+            "title": "Human Rights Tribunal not taking action on controversial Richmond election image: court documents",
+            "desc": "Court documents say the B.C. Human Rights Tribunal is not taking action after the City of Richmond referred an allegedly discriminatory election image to the tribunal. The filings, entered into the B.C. Supreme Court registry last week, are the latest development in a court battle between real estate professional Jason Liu and the City of Richmond following a controversial social media post made in the summer.",
+            "pubDate": "2026-11-04T21:37:21Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/human-rights-tribunal-not-taking-action-on-controversial-richmond-election-image-court-documents-9.7409727?cmp=rss"
+          },
+          {
+            "title": "B.C. teen embraces vulnerability to fight stigma around mental health",
+            "desc": "B.C. teen Noah Perks struggled with undiagnosed mental health challenges for years. A crisis eventually got him proper care. Now, he turned his survival into an advocacy, to break the stigma around men's mental health and calling on early intervention before someone hits rock bottom.",
+            "pubDate": "2026-11-04T22:16:08Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-teen-mental-health-9.7407627?cmp=rss"
+          },
+          {
+            "title": "Russian hacker group claims to have posted B.C. school district information on dark web",
+            "desc": "CBC News has discovered a hacked database stolen from the Burnaby School District on a dark web site run by a prominent shadowy ransomware group believed to be operating out of Russia.",
+            "pubDate": "2026-11-04T19:35:27Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/qilin-burnaby-school-ransomware-9.7409539?cmp=rss"
+          },
+          {
+            "title": "Motorcade honours B.C. soldier killed in fire at CFB Wainwright",
+            "desc": "Pte. Aidan Goulding from North Vancouverwas among four soldiers killed in the blaze that overwhelmed a live-fire training exercise at CFB Wainwright on Oct. 17.",
+            "pubDate": "2026-11-04T20:52:14Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/motorcade-private-aidan-goulding-vancouver-9.7410048?cmp=rss"
+          },
+          {
+            "title": "About 20 people injured, several seriously, in northern B.C. bus crash: police",
+            "desc": "",
+            "pubDate": "2026-11-04T16:23:09Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-bus-crash-prince-george-mackenzie-9.7409574?cmp=rss"
+          },
+          {
+            "title": "An Afghan teen won a full scholarship to a B.C. school. But Canada denied her study permit",
+            "desc": "Immigrant advocates say Canada regularly rejects study permits from Afghan women and girls, even when they have full scholarships, despite the fact that they face some of the strictest barriers to education in the world.",
+            "pubDate": "2026-11-04T17:38:11Z",
+            "link": "https://www.cbc.ca/radio/asithappens/afghan-girls-study-permits-9.7409510?cmp=rss"
+          },
+          {
             "title": "Suggested curfew, night patrols in place following suspected fatal grizzly attack near Bella Coola",
-            "desc": "Nuxalk Nation is recommending residents stay indoors by 8 p.m. following a suspected grizzly bear attack that killed a mother and daughter near Bella Coola.",
+            "desc": "Nuxalk Nation is recommending residents stay indoors by 8 p.m. PCT following a suspected grizzly bear attack that killed a mother and daughter near Bella Coola.",
             "pubDate": "2026-11-04T15:08:04Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/bella-coola-grizzly-bear-attack-update-9.7409268?cmp=rss"
           },
           {
-            "title": "Multiple injuries reported after bus crashes off Highway 39 south of Mackenzie, B.C.",
-            "desc": "The local hospital in Mackenzie, B.C., has declared a code orange, according to Northern Health, after a bus crashed off Highway 39 Wednesday morning.",
-            "pubDate": "2026-11-04T13:29:31Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/highway-39-bus-crash-multiple-injuries-9.7409180?cmp=rss"
-          },
-          {
-            "title": "What's next as the B.C. Conservatives transition from opposition to government?",
-            "desc": "It’s been nine years since a new party took the reins of government in British Columbia. There are major changes ahead as premier-designate Lorne Doerkson selects his cabinet and key leadership staff.",
-            "pubDate": "2026-11-04T07:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/what-s-next-as-the-b-c-conservatives-transition-from-opposition-to-government-9.7407834?cmp=rss"
-          },
-          {
-            "title": "Mother and daughter killed in suspected grizzly attack were 'two peas in a pod,' family says",
-            "desc": "Family members have identified the two victims of a suspected fatal grizzly bear attack near Bella Coola, B.C., as Jennifer Balcarras, 48, and her daughter Selah Reed, 20.",
-            "pubDate": "2026-11-03T14:35:06Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bella-coola-grizzly-attack-9.7407640?cmp=rss"
-          },
-          {
-            "title": "SkyTrain service resumes after bench fire at Burnaby station closed 3 stops",
-            "desc": "Three SkyTrain stations were closed Wednesday morning after a wraparound bench beneath one of them became engulfed in flames, sending heavy smoke into the air.",
-            "pubDate": "2026-11-04T10:07:07Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/gilmore-station-skytrain-burnaby-bc-smoke-9.7408688?cmp=rss"
-          },
-          {
-            "title": "Vancouver Rise striker Jessica De Filippo is Northern Super League top forward",
-            "desc": "Vancouver Rise striker Jessica De Filippo has been named the Northern Super League's forward of the year.",
-            "pubDate": "2026-11-04T13:12:41Z",
-            "link": "https://www.cbc.ca/sports/soccer/jessica-de-filippo-nsl-forward-of-the-year-soccer-9.7409179?cmp=rss"
-          },
-          {
-            "title": "B.C. mom delivers baby on side of highway while en route to Kamloops hospital",
-            "desc": "Marissa Ross was driving from Bridge Lake to Royal Inland Hospital in Kamloops to give birth to her fourth baby. But she didn't manage to make it to the hospital before her daughter made an appearance.",
-            "pubDate": "2026-11-04T10:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/baby-delivered-highway-marissa-ross-kamloops-9.7407900?cmp=rss"
-          },
-          {
-            "title": "'Massive exaggeration': B.C. economists raise concerns over Woodfibre LNG study",
-            "desc": "The study claims that the construction is expected to support over 52,000 job-years over the construction period and about $3.6 billion in labour income. But an economist say the study makes \"heroic\" assumptions.",
-            "pubDate": "2026-11-04T08:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/woodfibre-lng-economic-impact-study-9.7407940?cmp=rss"
+            "title": "Highway 99 in Delta reopens after semi-trailer strikes overpass",
+            "desc": "The B.C. Highway Patrol says in a statement that the crash happened at about 10:40 a.m. PT on Highway 99 at Ladner Trunk Road in Delta, where a Kenworth tractor-trailer hit portions of the overpass.",
+            "pubDate": "2026-11-04T17:09:12Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/highway-99-delta-overpass-strike-9.7409640?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "US stocks surge, and the Dow soars more than 1,500 points as oil prices tumble following US midterms",
-            "desc": "NEW YORK (AP) — U.S. stocks soared after President Donald Trump’s party lost its sole control of Washington in the midterm elections. Stocks generally do well in the months following any midterm U.S.",
-            "pubDate": "2026-11-04T21:04:26Z",
-            "link": "https://www.nsnews.com/national-business/us-stocks-surge-and-the-dow-soars-more-than-1500-points-as-oil-prices-tumble-following-us-midterms-12978084"
+            "title": "Scores and schedule for Wednesday, Nov. 4, 2026",
+            "desc": "Wednesday's Scoreboard    NHL   Ottawa 2 Buffalo 1  Seattle 2 Calgary 1 (OT)  Florida 5 Chicago 3  Los Angeles 7 San Jose 2  ---   AHL   Lehigh Valley 5 Laval 4 (OT)  Toronto 5 Hamilton 1  Hershey 4 Hartford 1  Grand Rapids 6 Texas 2  Roc",
+            "pubDate": "2026-11-05T06:22:45Z",
+            "link": "https://www.nsnews.com/national-sports/scores-and-schedule-for-wednesday-nov-4-2026-12966630"
           },
           {
-            "title": "US stocks surge, and the Dow soars more than 1,500 points as oil prices tumble following US midterms",
-            "desc": "NEW YORK (AP) — U.S. stocks soared after President Donald Trump’s party lost its sole control of Washington in the midterm elections. Stocks generally do well in the months following any midterm U.S.",
-            "pubDate": "2026-11-04T21:04:26Z",
-            "link": "https://www.nsnews.com/the-mix/us-stocks-surge-and-the-dow-soars-more-than-1500-points-as-oil-prices-tumble-following-us-midterms-12978080"
+            "title": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison",
+            "desc": "HONG KONG (AP) — Prominent Hong Kong activist  Joshua Wong  was sentenced to 10 more years in prison Thursday under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city’s once-thriving pro-democracy m",
+            "pubDate": "2026-11-05T06:14:05Z",
+            "link": "https://www.nsnews.com/world-news/hong-kong-activist-joshua-wong-sentenced-to-10-more-years-in-prison-12982052"
           },
           {
-            "title": "Hydro-Québec to sell portion of New York transmission line to Kahnawake",
-            "desc": "MONTREAL — Hydro-Québec is proposing to sell a share of a segment on a new power transmission line to New York to the Mohawk community of Kahnawake.",
-            "pubDate": "2026-11-04T20:56:49Z",
-            "link": "https://www.nsnews.com/national-business/hydro-quebec-to-sell-portion-of-new-york-transmission-line-to-kahnawake-12980985"
+            "title": "Matty Beniers lifts Kraken past Flames 2-1 in overtime",
+            "desc": "SEATTLE (AP) — Matty Beniers scored in overtime and Joey Daccord made 25 saves as the Seattle Kraken beat the Calgary Flames 2-1 on Wednesday night.  Berkly Catton also scored for the Kraken (9-5-1), giving him points in seven consecutive games.",
+            "pubDate": "2026-11-05T05:57:36Z",
+            "link": "https://www.nsnews.com/national-sports/matty-beniers-lifts-kraken-past-flames-2-1-in-overtime-12982164"
           },
           {
-            "title": "Hydro-Québec to sell portion of New York transmission line to Kahnawake",
-            "desc": "MONTREAL — Hydro-Québec is proposing to sell a share of a segment on a new power transmission line to New York to the Mohawk community of Kahnawake.",
-            "pubDate": "2026-11-04T20:56:49Z",
-            "link": "https://www.nsnews.com/the-mix/hydro-quebec-to-sell-portion-of-new-york-transmission-line-to-kahnawake-12980976"
+            "title": "Jokic scores 32 in 3rd triple-double this season as Nuggets roll to 128-109 win over Raptors",
+            "desc": "DENVER (AP) — Nikola Jokic had 32 points, 11 assists and 10 rebounds for his third triple-double this season to lead the Denver Nuggets over the Toronto Raptors 128-109 on Wednesday night.",
+            "pubDate": "2026-11-05T05:04:53Z",
+            "link": "https://www.nsnews.com/national-sports/jokic-scores-32-in-3rd-triple-double-this-season-as-nuggets-roll-to-128-109-win-over-raptors-12982143"
           },
           {
-            "title": "Democrats win full control of more state governments and the Texas House",
-            "desc": "MADISON, Wis. (AP) — Democrats in Texas took control of the state House after historic wins for governor and  U.S.",
-            "pubDate": "2026-11-04T20:55:26Z",
-            "link": "https://www.nsnews.com/world-news/democrats-win-full-control-of-more-state-governments-and-the-texas-house-12978878"
+            "title": "Talk to teen patients about dating violence, Canadian Paediatric Society says",
+            "desc": "TORONTO — The Canadian Paediatric Society is urging doctors to talk to teen patients about healthy relationships and dating violence.",
+            "pubDate": "2026-11-05T05:01:05Z",
+            "link": "https://www.nsnews.com/the-mix/talk-to-teen-patients-about-dating-violence-canadian-paediatric-society-says-12982137"
           },
           {
-            "title": "QuickQuotes: Canadian leaders react to Democratic majority win in U.S. Congress",
-            "desc": "OTTAWA — The Democrats will take control of both the U.S. House of Representatives and the Senate in January after decisive victories in Tuesday’s midterm elections.  The Republicans previously held a majority of seats in both houses of Congress.",
-            "pubDate": "2026-11-04T20:54:48Z",
-            "link": "https://www.nsnews.com/national-business/quickquotes-canadian-leaders-react-to-democratic-majority-win-in-us-congress-12979465"
+            "title": "Talk to teen patients about dating violence, Canadian Paediatric Society says",
+            "desc": "TORONTO — The Canadian Paediatric Society is urging doctors to talk to teen patients about healthy relationships and dating violence.",
+            "pubDate": "2026-11-05T05:01:05Z",
+            "link": "https://www.nsnews.com/national-news/talk-to-teen-patients-about-dating-violence-canadian-paediatric-society-says-12982152"
           },
           {
-            "title": "QuickQuotes: Canadian leaders react to Democratic majority win in U.S. Congress",
-            "desc": "OTTAWA — The Democrats will take control of both the U.S. House of Representatives and the Senate in January after decisive victories in Tuesday’s midterm elections.  The Republicans previously held a majority of seats in both houses of Congress.",
-            "pubDate": "2026-11-04T20:54:48Z",
-            "link": "https://www.nsnews.com/the-mix/quickquotes-canadian-leaders-react-to-democratic-majority-win-in-us-congress-12979456"
+            "title": "Talk to teen patients about dating violence, Canadian Paediatric Society says",
+            "desc": "TORONTO — The Canadian Paediatric Society is urging doctors to talk to teen patients about healthy relationships and dating violence.",
+            "pubDate": "2026-11-05T05:01:05Z",
+            "link": "https://www.nsnews.com/national-business/talk-to-teen-patients-about-dating-violence-canadian-paediatric-society-says-12982140"
           },
           {
-            "title": "Update: North Vancouver soldier saluted as remains pass through Richmond",
-            "desc": "Pte. Aidan Goulding was killed at Wainwright CFB on Oct. 17, 2026.",
-            "pubDate": "2026-11-04T20:53:00Z",
-            "link": "https://www.nsnews.com/local-news/north-vancouver-soldier-saluted-as-remains-pass-through-richmond-bc-12980027"
+            "title": "Ex-NASA chief economist tapped as president of Canadian Space Agency",
+            "desc": "OTTAWA — NASA's first chief economist has been named president of the Canadian Space Agency.  Industry Minister Mélanie Joly on Wednesday announced that Alexander MacDonald had been appointed to the role.",
+            "pubDate": "2026-11-05T04:44:55Z",
+            "link": "https://www.nsnews.com/national-news/ex-nasa-chief-economist-tapped-as-president-of-canadian-space-agency-12982120"
           }
         ]
       },
