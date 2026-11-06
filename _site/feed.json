@@ -2,114 +2,20 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-11-05T23:38:25Z",
+      "fetchedAt": "2026-11-06T06:50:43Z",
       "sections": {
         "top": [
           {
-            "title": "Russell Brand found guilty of rape and sexual assault",
-            "desc": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-            "pubDate": "2026-11-05T18:28:35Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Watch: Met Police release Brand interview footage",
-            "desc": "Brand was found guilty of one count of rape and three sexual assaults at Southwark Crown Court.",
-            "pubDate": "2026-11-05T16:01:56Z",
-            "link": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-            "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
-            "pubDate": "2026-11-05T23:21:34Z",
+            "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+            "desc": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+            "pubDate": "2026-11-06T06:00:59Z",
             "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
-            "desc": "Judges ruled Vickrum Digwa's original term was unduly lenient and refused his bid to have it cut.",
-            "pubDate": "2026-11-05T18:53:47Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "California governor commutes sentences for state's 548 death row inmates",
-            "desc": "California has historically had the largest population of people on death row in the US.",
-            "pubDate": "2026-11-05T23:09:33Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "King relishes 'politically charged' deployments, Palace aide says",
-            "desc": "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour.",
-            "pubDate": "2026-11-05T22:04:44Z",
-            "link": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Messages reveal how hoax threat was passed on by air traffic control",
-            "desc": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
-            "pubDate": "2026-11-05T18:22:46Z",
-            "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "UK doctor infected with Ebola being treated at London hospital",
-            "desc": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
-            "pubDate": "2026-11-05T21:26:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "world": [
-          {
-            "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-            "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
-            "pubDate": "2026-11-05T23:21:34Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-            "desc": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-            "pubDate": "2026-11-05T17:39:48Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "California governor commutes sentences for state's 548 death row inmates",
-            "desc": "California has historically had the largest population of people on death row in the US.",
-            "pubDate": "2026-11-05T23:09:33Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "French protests see numbers surge as unions join strikes over high cost of living",
-            "desc": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
-            "pubDate": "2026-11-05T17:59:53Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Paraguay President Santiago Peña resigns after bank collapse",
-            "desc": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-            "pubDate": "2026-11-05T17:40:40Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Eight killed in series of shootings in western Turkey",
-            "desc": "Victims are found in several locations in three separate vehicles, according to local reports.",
-            "pubDate": "2026-11-05T19:32:54Z",
-            "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Who could be behind hoax bomb threats to European air travel?",
-            "desc": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-            "pubDate": "2026-11-05T19:58:40Z",
-            "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-            "desc": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-            "pubDate": "2026-11-05T19:08:08Z",
-            "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "uk": [
-          {
-            "title": "Russell Brand found guilty of rape and sexual assault",
-            "desc": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-            "pubDate": "2026-11-05T18:28:35Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss"
+            "title": "Met chief warns policing 'heading for failure' without reform",
+            "desc": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+            "pubDate": "2026-11-06T01:13:53Z",
+            "link": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Russell Brand is being investigated over two new rape complaints, police say",
@@ -118,54 +24,154 @@
             "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Interest rates hiked to 4% in first increase in over three years",
-            "desc": "Most analysts expected the increase from 3.75% to 4%.",
-            "pubDate": "2026-11-05T17:09:55Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+            "title": "Watch: Met Police release Brand interview footage",
+            "desc": "Brand was found guilty of one count of rape and three sexual assaults at Southwark Crown Court.",
+            "pubDate": "2026-11-05T16:01:56Z",
+            "link": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
-            "desc": "Judges ruled Vickrum Digwa's original term was unduly lenient and refused his bid to have it cut.",
-            "pubDate": "2026-11-05T18:53:47Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss"
+            "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+            "desc": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+            "pubDate": "2026-11-06T06:06:36Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
-            "desc": "Channel 4 will reinvest the show's budget in \"distinctive new programming\" and said sorry again to the women involved.",
-            "pubDate": "2026-11-05T12:26:24Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss"
+            "title": "Trump signs order preventing future presidents from changing Oval Office ",
+            "desc": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+            "pubDate": "2026-11-06T04:29:25Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "UK doctor infected with Ebola being treated at London hospital",
-            "desc": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
-            "pubDate": "2026-11-05T21:26:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss"
+            "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+            "desc": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+            "pubDate": "2026-11-06T01:22:39Z",
+            "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Farage says he is worried Trump will step up Iran war after midterm 'disaster'",
-            "desc": "Donald Trump \"broke a promise\" to the American electorate by launching the war, Reform UK leader adds.",
-            "pubDate": "2026-11-05T17:23:49Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqz0vz55jpglo?at_medium=RSS&at_campaign=rss"
+            "title": "Home Office investigating after BBC catches lawyer offering to make fines go away",
+            "desc": "The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules.",
+            "pubDate": "2026-11-06T05:53:15Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "world": [
+          {
+            "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+            "desc": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+            "pubDate": "2026-11-06T06:00:59Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "More Mandelson papers set to be published before Christmas",
-            "desc": "Documents were published in March and June - but others were withheld because they were part of a police investigation.",
-            "pubDate": "2026-11-05T20:15:56Z",
-            "link": "https://www.bbc.co.uk/news/articles/c60meenj1ke8o?at_medium=RSS&at_campaign=rss"
+            "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+            "desc": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+            "pubDate": "2026-11-06T02:08:57Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+            "desc": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+            "pubDate": "2026-11-06T00:02:57Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Trump signs order preventing future presidents from changing Oval Office ",
+            "desc": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+            "pubDate": "2026-11-06T04:29:25Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "California governor commutes sentences for state's 548 death row inmates",
+            "desc": "California has historically had the largest population of people on death row in the US.",
+            "pubDate": "2026-11-05T23:09:33Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Paraguay President Santiago Peña resigns after bank collapse",
+            "desc": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+            "pubDate": "2026-11-05T17:40:40Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+            "desc": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
+            "pubDate": "2026-11-05T19:08:48Z",
+            "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+            "desc": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+            "pubDate": "2026-11-05T17:39:48Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "uk": [
+          {
+            "title": "Met chief warns policing 'heading for failure' without reform",
+            "desc": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+            "pubDate": "2026-11-06T01:13:53Z",
+            "link": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Firms told to publish salaries in job adverts ahead of new law",
+            "desc": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+            "pubDate": "2026-11-05T22:32:02Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Home Office investigating after BBC catches lawyer offering to make fines go away",
+            "desc": "The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules.",
+            "pubDate": "2026-11-06T05:53:15Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+            "desc": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+            "pubDate": "2026-11-06T06:06:36Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Russell Brand is being investigated over two new rape complaints, police say",
+            "desc": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+            "pubDate": "2026-11-05T15:44:49Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
+            "desc": "The income went to the former prince rather than his landlord the Crown Estate.",
+            "pubDate": "2026-11-06T00:39:18Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Police car set alight in Glasgow amid Bonfire Night trouble",
+            "desc": "Seven arrests were made during disorder in parts of Scotland, with fireworks thrown at emergency workers, police say.",
+            "pubDate": "2026-11-06T04:05:47Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+            "desc": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+            "pubDate": "2026-11-06T01:22:39Z",
+            "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
           {
-            "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-            "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
-            "pubDate": "2026-11-05T23:21:34Z",
+            "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+            "desc": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+            "pubDate": "2026-11-06T06:00:59Z",
             "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Firms told to publish salaries in job adverts ahead of new law",
-            "desc": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
+            "desc": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
             "pubDate": "2026-11-05T22:32:02Z",
             "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+            "desc": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
+            "pubDate": "2026-11-06T00:02:52Z",
+            "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Interest rates hiked to 4% in first increase in over three years",
@@ -180,28 +186,22 @@
             "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss"
           },
           {
+            "title": "The engine parts that 'fight the laws of the universe'",
+            "desc": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+            "pubDate": "2026-11-06T00:06:06Z",
+            "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "title": "Three ways the interest rate rise could affect you",
             "desc": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
             "pubDate": "2026-11-05T13:08:30Z",
             "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Graduates are managing AI - but are they learning much else?",
-            "desc": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-            "pubDate": "2026-11-04T00:04:35Z",
-            "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
             "desc": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
             "pubDate": "2026-11-05T15:27:09Z",
             "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-            "desc": "A little-known investment group has made a bid to buy the business.",
-            "pubDate": "2026-11-05T09:46:32Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "sport": [
@@ -212,16 +212,22 @@
             "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "What new Kane deal means for England and the Premier League record",
-            "desc": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
-            "pubDate": "2026-11-05T14:44:34Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "England check on Palmer - what are Tuchel's other big choices?",
             "desc": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
             "pubDate": "2026-11-05T19:00:04Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
+            "desc": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
+            "pubDate": "2026-11-06T00:10:28Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+            "desc": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+            "pubDate": "2026-11-06T06:22:00Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "'I don't fear for my safety from online abuse - because we're so used to it'",
@@ -230,54 +236,54 @@
             "link": "https://www.bbc.co.uk/sport/tennis/articles/cmq8nn2q01wdo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Anderson could be given chance to join Surrey",
-            "desc": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
-            "pubDate": "2026-11-05T23:33:52Z",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss"
+            "title": "'A smack in the teeth' - warned coach to work at international youth event",
+            "desc": "A coach who received a formal warning from British Gymnastics following an investigation is coaching at an international youth competition this weekend.",
+            "pubDate": "2026-11-06T06:36:38Z",
+            "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c6gm0r08d1elo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Antonelli says 2027 preparation starts now",
-            "desc": "New world champion Kimi Antonelli says he is treating the final races of the season as the beginnings of his campaign to retain the title next year.",
-            "pubDate": "2026-11-05T21:19:56Z",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/cx0544g2n1jdo?at_medium=RSS&at_campaign=rss"
+            "title": "What new Kane deal means for England and the Premier League record",
+            "desc": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
+            "pubDate": "2026-11-05T14:44:34Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Forest need balance between Woodstock and military - Glasner",
-            "desc": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
-            "pubDate": "2026-11-05T22:30:07Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Everton's Grealish unavailable again after 'breach of discipline'",
-            "desc": "Jack Grealish remains unavailable for Everton's Premier League clash with Coventry on Friday, manager David Moyes confirms.",
-            "pubDate": "2026-11-05T15:28:37Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&at_campaign=rss"
+            "title": "Jones - the smiling wind-up artist who refuses to fade away",
+            "desc": "You never know whether you will get a compliment, a cutting observation, verbal grenade or all three from mischievous Eddie Jones.",
+            "pubDate": "2026-11-06T04:42:05Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckm233n7gerlo?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-11-05T23:38:26Z",
+      "fetchedAt": "2026-11-06T06:50:44Z",
       "sections": {
         "top": [
           {
-            "title": "Budget 2026: Opposition leaders express disappointment in Liberal government's plan for Canada's economy",
+            "title": "Mark Carney's quiet revolution rests on investment and affordability",
             "desc": "",
             "pubDate": "2025-11-09T04:00:00Z",
-            "link": "https://www.cbc.ca/news/politics/livestory/canada-budget-2026-finance-minister-francois-philippe-champagne-prime-minister-mark-carney-live-updates-9.7403431?cmp=rss"
+            "link": "https://www.cbc.ca/news/politics/carney-champagne-budget-master-destiny-analysis-9.7411333?cmp=rss"
+          },
+          {
+            "title": "Trump declares his redesigned Oval Office a national monument",
+            "desc": "U.S. President Donald Trump signed a proclamation Thursday declaring the Oval Office and Cabinet room of the White House to be national monuments.",
+            "pubDate": "2026-11-05T19:31:56Z",
+            "link": "https://www.cbc.ca/news/world/trump-midterms-oval-office-9.7411316?cmp=rss"
           },
           {
             "title": "From groceries to tax credits, how much is in the federal budget for your wallet?",
-            "desc": "The 2026 budget increases payments for the Canada Groceries and Essentials Benefit and expands a tax credit for low-wage workers. But the affordability measures are mostly for the short term, and took a back seat to measures aimed at boosting investment.",
+            "desc": "The 2026 budget increases payments for the Canada Groceries and Essentials Benefit, expands a tax credit for low-wage workers and makes the Canada caregiver credit refundable. But the affordability measures are mostly for the short term, and took a back seat to measures aimed at boosting investment.",
             "pubDate": "2026-11-05T16:04:48Z",
             "link": "https://www.cbc.ca/news/business/budget-2026-gas-groceries-affordability-9.7411104?cmp=rss"
           },
           {
-            "title": "Canada's new budget proposes $5B for culture. Here's where it would go",
-            "desc": "The Carney government's new budget proposes roughly $5 billion over the next five years toward several initiatives to promote Canadian culture, including building new recreational facilities and ice rinks, supporting national museums and permanently making their admissions free for people 25 and younger.",
-            "pubDate": "2026-11-05T16:06:32Z",
-            "link": "https://www.cbc.ca/news/politics/canada-2026-budget-culture-carney-champagne-money-9.7411107?cmp=rss"
+            "title": "Married at First Sight U.K. cancelled after review, sexual assault allegations",
+            "desc": "Months after three female cast members came forward with allegations of sexual assault on the set of Married at First Sight U.K., the results of an external review have prompted Channel 4 to decide not to bring the show back.",
+            "pubDate": "2026-11-05T14:12:18Z",
+            "link": "https://www.cbc.ca/news/entertainment/married-at-first-sight-uk-cancelled-rape-allegations-9.7410409?cmp=rss"
           },
           {
             "title": "Man accused of killing 11-year-old Burnaby boy makes 1st court appearance",
@@ -286,28 +292,22 @@
             "link": "https://www.cbc.ca/news/canada/british-columbia/branko-bijelic-kai-pavlovic-court-appearance-murder-charge-9.7410976?cmp=rss"
           },
           {
-            "title": "Telus says 'small number' of calls interrupted in Eastern Canada on Thursday",
-            "desc": "An outage map on the Telus website showed issues with phone and wireless services in several provinces on Thursday.",
-            "pubDate": "2026-11-05T11:10:27Z",
-            "link": "https://www.cbc.ca/news/business/telus-outage-quebec-ontario-9.7410552?cmp=rss"
+            "title": "What prediction markets told us about the midterm election",
+            "desc": "While Kalshi and Polymarket hail big wins for their accurate midterm markets, experts say they missed out on historic and surprise wins.",
+            "pubDate": "2026-11-05T21:55:00Z",
+            "link": "https://www.cbc.ca/news/business/prediction-markets-midterm-elections-9.7411622?cmp=rss"
           },
           {
-            "title": "U.S. midterms are a 'vindication' of Alberta's approach to tariffs, says Premier Smith",
-            "desc": "Alberta Premier Danielle Smith says sweeping Democrat wins in the U.S. midterm elections prove her province was on the right path in the cross-border trade war.",
-            "pubDate": "2026-11-05T10:46:36Z",
-            "link": "https://www.cbc.ca/news/canada/edmonton/us-cda-midterms-alta-9.7410234?cmp=rss"
+            "title": "Dolly Parton's manager moves to drop complaint against late singer's nephew",
+            "desc": "Dolly Parton's longtime manager moved Thursday to drop a complaint that accused the late singer's nephew who acted as her head of security with threatening her estate and its employees.",
+            "pubDate": "2026-11-05T23:11:10Z",
+            "link": "https://www.cbc.ca/news/entertainment/dolly-parton-manager-nephew-case-9.7411680?cmp=rss"
           },
           {
-            "title": "California Gov. Gavin Newsom says he'll commute all death row sentences to life in prison",
-            "desc": "California governor Gavin Newsom is commuting the death sentences of more than 500 inmates to life in prison with no parole, saying he believes state-sanctioned killing is incompatible with the values of California, undermines the foundations of the legal system and \"diminishes each of us.\"",
-            "pubDate": "2026-11-05T16:10:00Z",
-            "link": "https://www.cbc.ca/news/world/california-newsom-death-row-commutation-9.7410993?cmp=rss"
-          },
-          {
-            "title": "Prosecutor seeks charges against Paraguay's president Santiago Peña following bank collapse",
-            "desc": "Paraguayan President Santiago Peña announced his resignation Thursday after the collapse of a major digital bank tied to his government triggered widespread protests, froze millions of people's savings and cost him the support of his own party.",
-            "pubDate": "2026-11-05T12:29:05Z",
-            "link": "https://www.cbc.ca/news/world/paraguay-ueno-bank-crisis-pena-resignation-9.7410656?cmp=rss"
+            "title": "L.A. has a new mayor, and she's a democratic socialist",
+            "desc": "Nithya Raman, a little-known Los Angeles City Council member backed by the Democratic Socialists of America, has defeated Mayor Karen Bass, an upset that will alter the trajectory of the nation's second-largest city.",
+            "pubDate": "2026-11-05T17:51:07Z",
+            "link": "https://www.cbc.ca/news/world/raman-defeats-bass-la-mayor-9.7411057?cmp=rss"
           }
         ],
         "world": [
@@ -318,16 +318,28 @@
             "link": "https://www.cbc.ca/news/world/california-newsom-death-row-commutation-9.7410993?cmp=rss"
           },
           {
+            "title": "L.A. has a new mayor, and she's a democratic socialist",
+            "desc": "Nithya Raman, a little-known Los Angeles City Council member backed by the Democratic Socialists of America, has defeated Mayor Karen Bass, an upset that will alter the trajectory of the nation's second-largest city.",
+            "pubDate": "2026-11-05T17:51:07Z",
+            "link": "https://www.cbc.ca/news/world/raman-defeats-bass-la-mayor-9.7411057?cmp=rss"
+          },
+          {
+            "title": "Hegseth defends record as Pentagon chief, slams 'sham' push for his impeachment",
+            "desc": "U.S. Secretary of War Pete Hegseth issued a video message on Thursday vowing to fight efforts in Congress to impeach him and defending the Iran war as \"courageous and historic\" after voters punished Republicans over it in this week’s midterm elections.",
+            "pubDate": "2026-11-05T22:19:42Z",
+            "link": "https://www.cbc.ca/news/world/hegseth-video-vows-fight-impeachment-9.7411639?cmp=rss"
+          },
+          {
+            "title": "Dolly Parton's manager moves to drop complaint against late singer's nephew",
+            "desc": "Dolly Parton's longtime manager moved Thursday to drop a complaint that accused the late singer's nephew who acted as her head of security with threatening her estate and its employees.",
+            "pubDate": "2026-11-05T23:11:10Z",
+            "link": "https://www.cbc.ca/news/entertainment/dolly-parton-manager-nephew-case-9.7411680?cmp=rss"
+          },
+          {
             "title": "AI stock sell-off sends the S&P 500 down 4.4% in worst day since April 2025",
             "desc": "AI stocks worldwide felt pressure as worries rise about possible moratoriums on data centres following Democratic victories in the U.S. midterm elections.",
             "pubDate": "2026-11-05T16:31:53Z",
             "link": "https://www.cbc.ca/news/business/ai-stocks-markets-9.7411079?cmp=rss"
-          },
-          {
-            "title": "Karen Bass out as L.A. mayor, as voters pick DSA-backed Nithya Raman",
-            "desc": "Nithya Raman, a little-known Los Angeles City Council member backed by the Democratic Socialists of America, has defeated Mayor Karen Bass, an upset that will alter the trajectory of the nation's second-largest city.",
-            "pubDate": "2026-11-05T17:51:07Z",
-            "link": "https://www.cbc.ca/news/world/raman-defeats-bass-la-mayor-9.7411057?cmp=rss"
           },
           {
             "title": "Bomb threats affect at least 27 flights, leading to emergency landings at several European airports",
@@ -346,18 +358,6 @@
             "desc": "The Democrats flipping governorships and Senate seats in Texas and Ohio turned the states dramatically blue on election night. Some political observers say these wins don't necessarily mean the states will stay that colour, but they do reveal a new political reality — that they'll be electoral battlegrounds in the 2028 presidential election.",
             "pubDate": "2026-11-05T00:04:53Z",
             "link": "https://www.cbc.ca/news/world/texas-ohio-midterm-results-9.7409481?cmp=rss"
-          },
-          {
-            "title": "Melania Trump hosted officials from Russia and Ukraine. Just what's behind her peace push?",
-            "desc": "As President Donald Trump and his fellow Republicans take stock after a devastating midterm election that saw the Democrats seize control of Congress, his wife Melania is preparing to host representatives who will almost certainly praise Washington's actions.",
-            "pubDate": "2026-11-05T04:00:00Z",
-            "link": "https://www.cbc.ca/news/world/melania-trump-oleshky-ceasefire-meeting-9.7409316?cmp=rss"
-          },
-          {
-            "title": "Largely peaceful marches across France as workers stage strike, some police clashes reported",
-            "desc": "Some protesters clashed with police in Paris and Lyon on Thursday during largely peaceful nationwide demonstrations and a one-day strike by some public sector workers in a renewed challenge to President Emmanuel Macron.",
-            "pubDate": "2026-11-05T09:31:39Z",
-            "link": "https://www.cbc.ca/news/world/france-protests-macron-government-9.7410318?cmp=rss"
           }
         ],
         "canada": [
@@ -369,7 +369,7 @@
           },
           {
             "title": "From groceries to tax credits, how much is in the federal budget for your wallet?",
-            "desc": "The 2026 budget increases payments for the Canada Groceries and Essentials Benefit and expands a tax credit for low-wage workers. But the affordability measures are mostly for the short term, and took a back seat to measures aimed at boosting investment.",
+            "desc": "The 2026 budget increases payments for the Canada Groceries and Essentials Benefit, expands a tax credit for low-wage workers and makes the Canada caregiver credit refundable. But the affordability measures are mostly for the short term, and took a back seat to measures aimed at boosting investment.",
             "pubDate": "2026-11-05T16:04:48Z",
             "link": "https://www.cbc.ca/news/business/budget-2026-gas-groceries-affordability-9.7411104?cmp=rss"
           },
@@ -386,31 +386,37 @@
             "link": "https://www.cbc.ca/news/politics/highlights-federal-liberal-budget-2026-9.7411046?cmp=rss"
           },
           {
+            "title": "Gold medallist Hayley Wickenheiser among latest Order of Hockey in Canada honourees",
+            "desc": "Women's hockey star Hayley Wickenheiser, longtime women's coach and general manager Melody Davidson and former Para hockey captain Todd Nicholson have been named to the Order of Hockey in Canada.",
+            "pubDate": "2026-11-05T14:47:14Z",
+            "link": "https://www.cbc.ca/sports/hockey/wickenheiser-davidson-nicholson-order-of-hockey-in-canada-9.7410973?cmp=rss"
+          },
+          {
+            "title": "'A long time coming': Jubilation in the Sahtu as feds earmark $3.1B for Mackenzie Valley Highway",
+            "desc": "Fort Good Hope, N.W.T., Chief Shawn Grandjambe says now is a great time for work to start on the Mackenzie Valley Highway, which has long been on the wish list of leaders in the N.W.T.",
+            "pubDate": "2026-11-05T18:45:19Z",
+            "link": "https://www.cbc.ca/news/canada/north/a-long-time-coming-jubilation-in-the-sahtu-as-feds-earmark-3-1b-for-mackenzie-valley-highway-9.7411380?cmp=rss"
+          },
+          {
             "title": "Post-secondary students across Ontario walk out of classrooms to protest OSAP changes, tuition hike",
             "desc": "University and college students across Ontario are protesting rising tuition fees and the province's cuts to the Ontario Student Assistance Program in a provincewide walkout Thursday.",
             "pubDate": "2026-11-05T14:15:28Z",
             "link": "https://www.cbc.ca/news/canada/toronto/student-walkout-protest-osap-tuition-ontario-9.7410724?cmp=rss"
           },
           {
-            "title": "Men involved in Old Montreal fire that killed 2 plead guilty to reduced manslaughter charge",
-            "desc": "Two young men pleaded guilty to a reduced charge of manslaughter for their involvement in an Old Montreal building fire that killed a woman and her daughter in October 2024.",
-            "pubDate": "2026-11-05T10:50:12Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/men-involved-in-old-montreal-fire-that-killed-2-plead-guilty-to-reduced-manslaughter-charge-9.7410461?cmp=rss"
-          },
-          {
-            "title": "U.S. midterms are a 'vindication' of Alberta's approach to tariffs, says Premier Smith",
-            "desc": "Alberta Premier Danielle Smith says sweeping Democrat wins in the U.S. midterm elections prove her province was on the right path in the cross-border trade war.",
-            "pubDate": "2026-11-05T10:46:36Z",
-            "link": "https://www.cbc.ca/news/canada/edmonton/us-cda-midterms-alta-9.7410234?cmp=rss"
-          },
-          {
-            "title": "How will a resounding U.S. political shift impact the cross-border auto industry?",
-            "desc": "In Michigan, it's believed U.S. President Donald Trump's tariffs played a big role with midterm election voters. Here's what auto industry members and business interests are saying about how the results may impact cross-border relations.",
-            "pubDate": "2026-11-05T12:49:01Z",
-            "link": "https://www.cbc.ca/news/canada/windsor/america-canada-democratic-midterms-auto-industry-impact-9.7410608?cmp=rss"
+            "title": "Expansion of Bell Canada's AI data centre near Regina clears final vote, despite protest",
+            "desc": "Protesters gathered outside the Rural Municipality of Sherwood's office in Regina on Thursday to oppose the expansion of Bell Canada's AI data centre in Saskatchewan.",
+            "pubDate": "2026-11-05T19:46:25Z",
+            "link": "https://www.cbc.ca/news/canada/saskatchewan/protesters-regina-oppose-bell-data-centre-expansion-approved-rm-sherwood-9.7411279?cmp=rss"
           }
         ],
         "bc": [
+          {
+            "title": "What the 2026 federal budget promises for B.C.",
+            "desc": "The 2026 federal budget earmarks several initiatives specifically for B.C., including $3 billion for the Massey Tunnel replacement project and millions for flood mitigation.",
+            "pubDate": "2026-11-05T20:03:35Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/2026-federal-budget-british-columbia-bc-9.7411362?cmp=rss"
+          },
           {
             "title": "PR expert says author Steven Galloway had path to rehabilitate reputation",
             "desc": "Galloway, a former University of British Columbia writing professor, is suing multiple people who published allegations of sexual assault against him.",
@@ -422,6 +428,12 @@
             "desc": "One of two people charged in relation to the death of an 11-year-old Burnaby boy appeared in a Vancouver courtroom for the first time on Thursday.",
             "pubDate": "2026-11-05T17:57:59Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/branko-bijelic-kai-pavlovic-court-appearance-murder-charge-9.7410976?cmp=rss"
+          },
+          {
+            "title": "Development community in shock after new Comox council votes to downzone proposed condo site",
+            "desc": "Zoning for the proposed building on Comox Avenue, the main road that leads to the town's centre, was changed during a bylaw update earlier this year.",
+            "pubDate": "2026-11-05T19:49:12Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/comox-development-condos-9.7411044?cmp=rss"
           },
           {
             "title": "Elections B.C. begins final count after provincial election, some ridings still in balance",
@@ -446,68 +458,56 @@
             "desc": "Jordan Kealy, who represented Peace River North, was charged in June before losing his seat in October's provincial election.",
             "pubDate": "2026-11-05T14:45:36Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/jordan-kealy-sexual-assault-trial-date-9.7410755?cmp=rss"
-          },
-          {
-            "title": "Carney's 2nd budget earmarks billions for affordability and Canadian sovereignty",
-            "desc": "Prime Minister Mark Carney's second federal budget allocates tens of billions of dollars in new spending to tackle what the government describes as the twin challenges of our time: improving affordability in an era of high prices and securing Canada's sovereignty as it faces external threats.",
-            "pubDate": "2026-11-05T16:03:24Z",
-            "link": "https://www.cbc.ca/news/politics/carney-2nd-federal-budget-affordability-sovereignty-9.7411102?cmp=rss"
-          },
-          {
-            "title": "Man arrested after 54-year-old hit by pickup in Prince George, alcohol believed to be factor: RCMP",
-            "desc": "Victim was taken to hospital in critical condition, first responders say.",
-            "pubDate": "2026-11-05T13:37:01Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/arrest-highway-16-mcgill-cres-domanao-boulevard-road-closure-9.7410816?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Man convicted of 2004 killing is put to death in Florida's 19th execution this year, tying a record",
-            "desc": "Florida carried out a  record-tying  19th execution of the year in  an unusual instance  of three states administering the death penalty on the same day.    Jesse Guardado was pronounced dead at 6:13 p.m.",
-            "pubDate": "2026-11-05T23:28:59Z",
-            "link": "https://www.nsnews.com/world-news/man-convicted-of-2004-killing-is-put-to-death-in-floridas-19th-execution-this-year-tying-a-record-12986600"
+            "title": "Malaysia's ex-premier Najib will serve prison time at home after paying $12.3 million for pardon",
+            "desc": "KUALA LUMPUR, Malaysia (AP) — Malaysia’s f  ormer Prime Minister Najib Razak  is set to leave prison for house arrest after his political party on Friday paid a 50 million ringgit ($12.3 million) fine required under the terms of his royal pardon.",
+            "pubDate": "2026-11-06T06:21:29Z",
+            "link": "https://www.nsnews.com/national-business/malaysias-ex-premier-najib-will-serve-prison-time-at-home-after-paying-123-million-for-pardon-12987162"
           },
           {
-            "title": "'It's unexplainable': Woman catches likely record-setting sturgeon in B.C.",
-            "desc": "The 11.4-foot river behemoth could be the largest freshwater fish ever caught by a female angler.",
-            "pubDate": "2026-11-05T23:15:00Z",
-            "link": "https://www.nsnews.com/animal-stories/woman-catches-record-setting-sturgeon-bc-2026-12984829"
+            "title": "Federal judge orders 14-day delay on any work beginning on Trump's monumental arch",
+            "desc": "WASHINGTON (AP) — A federal judge late Thursday blocked the Trump administration from breaking ground on a towering memorial arch for 14 days.   The temporary restraining order by U.S.",
+            "pubDate": "2026-11-06T05:58:56Z",
+            "link": "https://www.nsnews.com/world-news/federal-judge-orders-14-day-delay-on-any-work-beginning-on-trumps-monumental-arch-12987060"
           },
           {
-            "title": "Democrat Cait Conley wins election to U.S. House in New York's 17th Congressional District",
-            "desc": "Democrat Cait Conley won election Thursday to the U.S. House of Representatives representing New York's 17th Congressional District, defeating Republican incumbent Mike Lawler.",
-            "pubDate": "2026-11-05T23:13:56Z",
-            "link": "https://www.nsnews.com/world-news/democrat-cait-conley-wins-election-to-us-house-in-new-yorks-17th-congressional-district-12986601"
+            "title": "Ottawa boosts journalism tax credit by $501M, extends eligibility to broadcasters",
+            "desc": "OTTAWA — The federal government is extending its journalism tax credit by $501 million over five years, with $85 million in ongoing annual funding.",
+            "pubDate": "2026-11-06T05:49:46Z",
+            "link": "https://www.nsnews.com/national-news/ottawa-boosts-journalism-tax-credit-by-501m-extends-eligibility-to-broadcasters-12985741"
           },
           {
-            "title": "Rourke, Lions look to put past playoff disappointments behind them in West final",
-            "desc": "VANCOUVER — Nathan Rourke and the B.C. Lions have been here before.   The team will play in the CFL's West Division final for the fourth time in five years on Saturday when they take on the Elks (13-5) in Edmonton.",
-            "pubDate": "2026-11-05T23:12:47Z",
-            "link": "https://www.nsnews.com/national-sports/rourke-lions-look-to-put-past-playoff-disappointments-behind-them-in-west-final-12986604"
-          },
-          {
-            "title": "Bombers keeping QB plans under wraps ahead of East final against Alouettes",
-            "desc": "WINNIPEG — It's officially Groundhog Day for the Winnipeg Blue Bombers' quarterback situation.",
-            "pubDate": "2026-11-05T23:09:49Z",
-            "link": "https://www.nsnews.com/the-mix/bombers-keeping-qb-plans-under-wraps-ahead-of-east-final-against-alouettes-12986597"
-          },
-          {
-            "title": "Bombers keeping QB plans under wraps ahead of East final against Alouettes",
-            "desc": "WINNIPEG — It's officially Groundhog Day for the Winnipeg Blue Bombers' quarterback situation.",
-            "pubDate": "2026-11-05T23:09:49Z",
-            "link": "https://www.nsnews.com/national-sports/bombers-keeping-qb-plans-under-wraps-ahead-of-east-final-against-alouettes-12986605"
+            "title": "Scores and schedule for Thursday, Nov. 5, 2026",
+            "desc": "Thursday's Scoreboard    NHL   Montreal 5 Utah 4 (OT)  Winnipeg 6 Vancouver 2  Anaheim 5 Edmonton 4  Boston 6 Pittsburgh 2  Carolina 5 N.Y. Islanders 3  Tampa Bay 4 Chicago 1  Columbus 2 Dallas 1 (SO)  N.Y.",
+            "pubDate": "2026-11-06T05:45:54Z",
+            "link": "https://www.nsnews.com/national-sports/scores-and-schedule-for-thursday-nov-5-2026-12966630"
           },
           {
             "title": "Budget 2026: Liberals pin tax changes, billions in spending on 'economic sovereignty'",
             "desc": "OTTAWA — The Liberal government is arguing that tax changes, cultural supports and billions of dollars aimed at stoking investment in Budget 2026 will give Canada the freedom to shape its own future.  Ottawa is proposing $142.",
-            "pubDate": "2026-11-05T23:07:15Z",
+            "pubDate": "2026-11-06T05:39:19Z",
             "link": "https://www.nsnews.com/national-business/budget-2026-liberals-pin-tax-changes-billions-in-spending-on-economic-sovereignty-12985594"
           },
           {
             "title": "Budget 2026: Liberals pin tax changes, billions in spending on 'economic sovereignty'",
             "desc": "OTTAWA — The Liberal government is arguing that tax changes, cultural supports and billions of dollars aimed at stoking investment in Budget 2026 will give Canada the freedom to shape its own future.  Ottawa is proposing $142.",
-            "pubDate": "2026-11-05T23:07:15Z",
+            "pubDate": "2026-11-06T05:39:19Z",
             "link": "https://www.nsnews.com/national-news/budget-2026-liberals-pin-tax-changes-billions-in-spending-on-economic-sovereignty-12985750"
+          },
+          {
+            "title": "Budget 2026: Liberals pin tax changes, billions in spending on 'economic sovereignty'",
+            "desc": "OTTAWA — The Liberal government is arguing that tax changes, cultural supports and billions of dollars aimed at stoking investment in Budget 2026 will give Canada the freedom to shape its own future.  Ottawa is proposing $142.",
+            "pubDate": "2026-11-06T05:39:19Z",
+            "link": "https://www.nsnews.com/the-mix/budget-2026-liberals-pin-tax-changes-billions-in-spending-on-economic-sovereignty-12985586"
+          },
+          {
+            "title": "Shell leads spike in oil exploration bids off the east coast of Newfoundland",
+            "desc": "ST. JOHN'S — Shell is leading a surge in oil exploration interest off the east coast of Newfoundland and Labrador, after several years of stagnation.  The U.K.",
+            "pubDate": "2026-11-06T05:29:21Z",
+            "link": "https://www.nsnews.com/national-business/shell-leads-spike-in-oil-exploration-bids-off-the-east-coast-of-newfoundland-12982221"
           }
         ]
       },
