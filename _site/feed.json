@@ -2,44 +2,44 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-11-07T12:56:37Z",
+      "fetchedAt": "2026-11-07T19:25:36Z",
       "sections": {
         "top": [
           {
-            "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
-            "desc": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
-            "pubDate": "2026-11-07T11:04:28Z",
-            "link": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss"
+            "title": "What we know about Krakow mass shooting so far",
+            "desc": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+            "pubDate": "2026-11-07T18:22:11Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Two men arrested after boy injured in sword attack",
-            "desc": "Police say a 17-year-old suffered a wound \"believed to have been caused by a sword\" in Gloucester on Friday.",
-            "pubDate": "2026-11-07T10:38:21Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss"
+            "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+            "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+            "pubDate": "2026-11-07T15:19:35Z",
+            "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+            "desc": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
+            "pubDate": "2026-11-07T17:32:42Z",
+            "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+            "desc": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
+            "pubDate": "2026-11-07T16:25:55Z",
+            "link": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "No clear winner after tight New Zealand general election",
+            "desc": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+            "pubDate": "2026-11-07T15:56:28Z",
+            "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-            "desc": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+            "desc": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
             "pubDate": "2026-11-07T00:31:54Z",
             "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
-            "desc": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-            "pubDate": "2026-11-07T12:49:36Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
-            "desc": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-            "pubDate": "2026-11-06T23:24:15Z",
-            "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
-            "desc": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
-            "pubDate": "2026-11-07T10:44:38Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
@@ -56,55 +56,61 @@
         ],
         "world": [
           {
+            "title": "What we know about Krakow mass shooting so far",
+            "desc": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+            "pubDate": "2026-11-07T18:22:11Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "No clear winner after tight New Zealand general election",
+            "desc": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+            "pubDate": "2026-11-07T15:56:28Z",
+            "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "US offers $20m reward for information about Iran's nuclear programme",
+            "desc": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+            "pubDate": "2026-11-07T18:14:38Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Houthis say at least 25 killed in Saudi air strike",
+            "desc": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+            "pubDate": "2026-11-07T17:09:24Z",
+            "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+            "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+            "pubDate": "2026-11-07T15:19:35Z",
+            "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "title": "With Stephen Miller pick, Trump readies for a battle",
             "desc": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
             "pubDate": "2026-11-06T23:24:15Z",
             "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Paraguay's president impeached and under house arrest after bank collapse",
+            "title": "Paraguay's former president charged after bank collapse",
             "desc": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-            "pubDate": "2026-11-07T07:20:00Z",
+            "pubDate": "2026-11-07T19:17:22Z",
             "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
-            "desc": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-            "pubDate": "2026-11-07T12:49:36Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Pope in 'pretty good health' as he starts Latin America tour",
             "desc": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
             "pubDate": "2026-11-07T06:59:48Z",
             "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "AI stocks climb after trillions wiped from market values",
-            "desc": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-            "pubDate": "2026-11-06T21:06:25Z",
-            "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "New wave of bomb threats hit European airlines",
-            "desc": "No link has been established between the threats against the airlines and those against the media outlets.",
-            "pubDate": "2026-11-06T15:25:35Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-            "desc": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-            "pubDate": "2026-11-06T17:44:02Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-            "desc": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-            "pubDate": "2026-11-06T14:46:03Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
+          {
+            "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+            "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+            "pubDate": "2026-11-07T15:19:35Z",
+            "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
             "desc": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
@@ -113,21 +119,9 @@
           },
           {
             "title": "Two men arrested after boy injured in sword attack",
-            "desc": "Police say a 17-year-old suffered a wound \"believed to have been caused by a sword\" in Gloucester on Friday.",
-            "pubDate": "2026-11-07T10:38:21Z",
+            "desc": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
+            "pubDate": "2026-11-07T15:10:54Z",
             "link": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
-            "desc": "Police said a vehicle in Morriston, Swansea, sustained damage \"consistent with a firearms discharge\".",
-            "pubDate": "2026-11-07T08:10:22Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw0k00rp2e35o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Gladiator II stuntman sues over injuries from on-set explosion",
-            "desc": "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship.",
-            "pubDate": "2026-11-07T01:38:49Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
@@ -136,22 +130,28 @@
             "link": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Parliament restoration delays 'frustrating', says Commons Speaker",
-            "desc": "Sir Lindsay Hoyle urges action after a committee warns it is \"crunch time\" for the ailing building.",
-            "pubDate": "2026-11-07T06:04:32Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm89zznj21ylo?at_medium=RSS&at_campaign=rss"
+            "title": "We thought mum abandoned us - then we discovered she'd been murdered",
+            "desc": "The children of Patricia Lashley grew up believing their mother had abandoned them.",
+            "pubDate": "2026-11-07T07:05:33Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm2l44r450evo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
-            "desc": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
-            "pubDate": "2026-11-07T02:03:28Z",
-            "link": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss"
+            "title": "Evacuations in Liverpool city centre after car crash causes gas leak",
+            "desc": "The impact of the crash caused a gas leak and neighbouring buildings have been evacuated as a precaution.",
+            "pubDate": "2026-11-07T15:06:40Z",
+            "link": "https://www.bbc.co.uk/news/articles/c9203x7pj0kjo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Beach homes face demolition months after being sold",
-            "desc": "One property investor from Manchester bought a home six weeks ago, now it is deemed unsafe.",
-            "pubDate": "2026-11-07T06:26:15Z",
-            "link": "https://www.bbc.co.uk/news/articles/cjr4yvgl320go?at_medium=RSS&at_campaign=rss"
+            "title": "Gladiator II stuntman sues over injuries from on-set explosion",
+            "desc": "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship.",
+            "pubDate": "2026-11-07T01:38:49Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Third person arrested after car damaged by gunshots",
+            "desc": "A 29-year-old man was taken into custody on Saturday morning following two earlier arrests on Friday.",
+            "pubDate": "2026-11-07T15:58:16Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmkgekz79vd9o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
@@ -206,59 +206,59 @@
         ],
         "sport": [
           {
-            "title": "I left Man City for my mental wellbeing - Trafford",
-            "desc": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
-            "pubDate": "2026-11-07T07:16:37Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss"
+            "title": "Wales labour to bonus-point win against Japan",
+            "desc": "Wales resumed their Nations Championship campaign with an unconvincing bonus-point 28-21 victory against Japan at the Principality Stadium.",
+            "pubDate": "2026-11-07T18:43:59Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Whole Australia team knew of sandpaper use - Khawaja",
-            "desc": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
-            "pubDate": "2026-11-06T23:11:56Z",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss"
+            "title": "Title race hots up before Chelsea-Man City showdown",
+            "desc": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
+            "pubDate": "2026-11-07T18:27:46Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Ponga-inspired New Zealand reach World Cup final",
-            "desc": "Kalyn Ponga returns from a broken arm to inspire New Zealand to victory in a pulsating encounter with Tonga as they reach their first World Cup final since 2013.",
-            "pubDate": "2026-11-07T11:45:11Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cmvgx2e78xrro?at_medium=RSS&at_campaign=rss"
+            "title": "Tuipulotu takes 'full responsibility' for Scotland collapse",
+            "desc": "Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were \"nowhere near accurate enough\".",
+            "pubDate": "2026-11-07T18:38:00Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Non-league's greatest giant-killers eye another scalp",
-            "desc": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.",
-            "pubDate": "2026-11-07T06:45:56Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&at_campaign=rss"
+            "title": "Tottenham set to complain to Pro Ref - but should Bogle have seen red?",
+            "desc": "Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.",
+            "pubDate": "2026-11-07T16:35:26Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "My dream is to win Ballon d'Or - Gabriel",
-            "desc": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
-            "pubDate": "2026-11-07T12:25:14Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss"
+            "title": "Ruthless All Blacks blow Scotland away in second half",
+            "desc": "New Zealand canter to a 43-21 Nations Championship win at Murrayfield as Scotland fall away after a thrilling first half.",
+            "pubDate": "2026-11-07T16:13:03Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c9e8l5vlgxl5o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "New Zealand sweep aside Samoa to reach Women's World Cup final",
-            "desc": "New Zealand's women will hope it is fourth time lucky after defeating Samoa 32-0 to reach next Sunday's Rugby League World Cup final.",
-            "pubDate": "2026-11-07T08:32:15Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c680zz8k3nvvo?at_medium=RSS&at_campaign=rss"
+            "title": "Argentina set to go to Cas after Fifa rejects appeals",
+            "desc": "The Argentina Football Association says it is planning to go to the Court of Arbitration for Sport over Fifa rejecting its appeals against World Cup punishments.",
+            "pubDate": "2026-11-07T18:33:18Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Buatsi v Hutchinson 2 - world light-heavyweight title fight predictions",
-            "desc": "Figures from the boxing world give their predictions for Saturday's light-heavyweight world title fight between Joshua Buatsi and Willy Hutchinson.",
-            "pubDate": "2026-11-07T08:00:59Z",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/c674pek0yd2jo?at_medium=RSS&at_campaign=rss"
+            "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+            "desc": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+            "pubDate": "2026-11-07T17:23:20Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Six tries and a big win - but were Ireland ruthless?",
-            "desc": "Despite a six-try and 30-point win over Argentina, Andy Farrell and Tadhg Beirne admit Ireland could have been more ruthless in Friday's win.",
-            "pubDate": "2026-11-06T23:57:05Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go?at_medium=RSS&at_campaign=rss"
+            "title": "Shaw hat-trick gives five-star Man City dominant win over West Ham",
+            "desc": "Khadija Shaw's first Women's Super League hat-trick of the season helps Manchester City to a resounding 5-0 win over West Ham, as the reigning champions return to the top of the WSL table.",
+            "pubDate": "2026-11-07T18:35:43Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-11-07T12:56:38Z",
+      "fetchedAt": "2026-11-07T19:25:37Z",
       "sections": {
         "top": [
           {
@@ -268,28 +268,60 @@
             "link": "https://www.cbc.ca/news/business/rrsp-for-life-9.7412568?cmp=rss"
           },
           {
-            "title": "Why the U.S. midterm results may show 'money stops mattering'",
-            "desc": "",
-            "pubDate": "2026-05-27T12:12:48Z",
-            "link": "https://www.cbc.ca/news/world/us-midterms-money-republican-democrat-9.7412050?cmp=rss"
+            "title": "Protests across Nova Scotia oppose AI data centres",
+            "desc": "Nova Scotians rallied Saturday to oppose AI data centre construction.",
+            "pubDate": "2026-11-07T13:02:19Z",
+            "link": "https://www.cbc.ca/news/canada/nova-scotia/data-centre-protests-nova-scotia-9.7413638?cmp=rss"
           },
           {
-            "title": "A powerful veterinary sedative is being added to street fentanyl — and ERs are struggling to cope",
-            "desc": "Emergency physicians across Canada say a powerful veterinary sedative is being added to fentanyl sold on streets, complicating their response to overdoses as they juggle patients.",
-            "pubDate": "2026-11-07T04:00:00Z",
-            "link": "https://www.cbc.ca/news/health/overdoses-er-medetomidine-9.7405697?cmp=rss"
+            "title": "Is the Alberta government engaging in American-style gerrymandering?",
+            "desc": "Political science experts told CBC’s West of Centre that Alberta’s electoral map-making process should be reexamined to stave off American influences.",
+            "pubDate": "2026-11-07T07:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/edmonton/alberta-american-style-gerrymandering-9.7412790?cmp=rss"
           },
           {
-            "title": "Sewing is having a moment. Here’s why",
-            "desc": "Sewing hobbyists and the people who teach them say a number of factors — including renewed interest in analog hobbies and growing concern about the impacts of fast fashion — are driving more Canadians to pick up a needle and thread.",
-            "pubDate": "2026-11-07T04:00:00Z",
-            "link": "https://www.cbc.ca/radio/thecurrent/sewing-growing-in-popularity-9.7406262?cmp=rss"
+            "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+            "desc": "Six people were killed and 15 wounded after a gunman opened fire on Saturday afternoon in a busy market square in Krakow, Poland, authorities said.",
+            "pubDate": "2026-11-07T10:52:29Z",
+            "link": "https://www.cbc.ca/news/world/krakow-poland-shooting-9.7413582?cmp=rss"
           },
           {
-            "title": "Problematic or protected? The debate over filming police in real time",
-            "desc": "Social media posts showing real-time positions of police officers in a standoff with an armed suspect at the University of Toronto's Mississauga campus on Monday night prompted a stern warning from police, but legal experts say the law isn't clear-cut on the issue.",
+            "title": "AI fighter drones are flying themselves. Who's in control?",
+            "desc": "Countries like the U.S., U.K. and China are pouring billions into AI-integrated military software and hardware, despite legal and ethical concerns. Canadian defence technology companies, military experts and defence officials all say keeping humans in the loop will be key.",
             "pubDate": "2026-11-07T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/posting-police-positions-social-media-real-time-utm-9.7412643?cmp=rss"
+            "link": "https://www.cbc.ca/news/canada/ai-drones-in-warfare-9.7407846?cmp=rss"
+          },
+          {
+            "title": "Justin Trudeau named distinguished fellow at Oxford's Blavatnik School of Government",
+            "desc": "Former prime minister Justin Trudeau has joined England's Oxford University in a new role.",
+            "pubDate": "2026-11-07T11:56:40Z",
+            "link": "https://www.cbc.ca/news/canada/justin-trudeau-oxford-university-fellow-9.7413594?cmp=rss"
+          },
+          {
+            "title": "Carney said artists are getting a tax break. But which artists — and when?",
+            "desc": "The newly proposed Canada Creative Credit tax relief is supposed to help artists. But how much can artists really expect in their pockets? Which kind of artists can benefit from it? And when — if ever — will it actually take effect?",
+            "pubDate": "2026-11-07T04:00:00Z",
+            "link": "https://www.cbc.ca/news/entertainment/canada-creative-credit-9.7413309?cmp=rss"
+          },
+          {
+            "title": "Man convicted of murdering his ex's niece in front of her kids in Ottawa park",
+            "desc": "The man who stabbed a woman to death in front of her two youngest children in an Ottawa park two years ago has been found guilty of first-degree murder in court Saturday.",
+            "pubDate": "2026-11-07T11:12:25Z",
+            "link": "https://www.cbc.ca/news/canada/ottawa/man-who-killed-brkti-berhe-guilty-of-1st-degree-murder-9.7413573?cmp=rss"
+          }
+        ],
+        "world": [
+          {
+            "title": "The age of AI warfare has dawned. Is Canada ready?",
+            "desc": "Countries like the U.S., U.K. and China are pouring billions into AI-integrated military software and hardware, despite legal and ethical concerns. Canadian defence technology companies, military experts and defence officials all say keeping humans in the loop will be key.",
+            "pubDate": "2026-11-07T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/ai-drones-in-warfare-9.7407846?cmp=rss"
+          },
+          {
+            "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+            "desc": "Six people were killed and 15 wounded after a gunman opened fire on Saturday afternoon in a busy market square in Krakow, Poland, authorities said.",
+            "pubDate": "2026-11-07T10:52:29Z",
+            "link": "https://www.cbc.ca/news/world/krakow-poland-shooting-9.7413582?cmp=rss"
           },
           {
             "title": "Canada's military is using Palantir software. What are the risks?",
@@ -298,19 +330,11 @@
             "link": "https://www.cbc.ca/news/politics/palantir-canadian-military-9.7409099?cmp=rss"
           },
           {
-            "title": "Northern, remote RCMP detachments chronically and critically understaffed: internal report",
-            "desc": "Northern and isolated RCMP detachments have become \"chronically and at times critically\" understaffed, according to an internal evaluation report — the latest document pointing to retention and recruitment issues within the storied organization.",
+            "title": "Why the U.S. midterm results may show 'money stops mattering'",
+            "desc": "Republicans had a significant edge over Democrats in raising funding from outside groups in this year's U.S. midterms, giving them an overall money advantage. Yet Republicans suffered significant losses, raising questions about the impact money has in a political race.",
             "pubDate": "2026-11-07T04:00:00Z",
-            "link": "https://www.cbc.ca/news/politics/rcmp-staffing-report-9.7412554?cmp=rss"
+            "link": "https://www.cbc.ca/news/world/us-midterms-money-republican-democrat-9.7412050?cmp=rss"
           },
-          {
-            "title": "U.S. sanctions Canadian money-exchange businesses allegedly connected to Iranian regime, Ryan Wedding",
-            "desc": "The United States government has announced sanctions against several Canadian currency-exchange businesses accused of helping the Iranian regime and, in several cases, also helping the alleged head of a drug trafficking ring.",
-            "pubDate": "2026-11-06T18:51:59Z",
-            "link": "https://www.cbc.ca/news/canada/us-government-sanctions-canadian-businesses-iran-transactions-9.7413168?cmp=rss"
-          }
-        ],
-        "world": [
           {
             "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles after midterm defeat",
             "desc": "Just days after the Republican Party's resounding defeat in the midterms, U.S. President Donald Trump is replacing his top political adviser, chief of staff Susie Wiles, with immigration hardliner Stephen Miller.",
@@ -331,36 +355,42 @@
           },
           {
             "title": "Ousted Paraguayan president placed under house arrest",
-            "desc": "Ousted Paraguayan president Santiago Peña was placed under house arrest Friday on suspicion of breach of trust and influence peddling, among other charges, shortly after the Senate removed him from office over the collapse of a government-linked bank that locked nearly half the country's 6 million people out of their savings.",
+            "desc": "Ousted Paraguayan president Santiago Peña was placed under house arrest Friday on suspicion of breach of trust and influence peddling, among other charges, shortly after the Senate removed him from office over the collapse of a government-linked bank that locked nearly half of the country's six million people out of their savings.",
             "pubDate": "2026-11-06T19:17:06Z",
             "link": "https://www.cbc.ca/news/world/paraguay-ousted-president-arrest-warrant-9.7413118?cmp=rss"
-          },
-          {
-            "title": "What we know about Europe's latest wave of bomb threats targeting flights — and now newsrooms",
-            "desc": "A spate of bomb threats across Europe has thrown airports and newsrooms into disarray over the past week, forcing flight diversions and emergency landings while prompting broadcast suspensions and evacuations.",
-            "pubDate": "2026-11-06T12:11:42Z",
-            "link": "https://www.cbc.ca/news/world/bomb-threats-europe-airlines-flights-newsrooms-9.7412231?cmp=rss"
-          },
-          {
-            "title": "Republicans ran away from Trump's Canadian tariffs, but not far enough",
-            "desc": "Several Republicans sought to distance themselves from Donald Trump's trade war during the midterms, in some cases asking for specific tariffs to be rolled back. Even so, Republicans lost. Democrats, who were traditionally the party of protectionism, appear to have been pushed into a more pro-free trade stance, and appear ready to try to reach a deal with Republicans.",
-            "pubDate": "2026-11-06T04:00:00Z",
-            "link": "https://www.cbc.ca/news/politics/midterms-canada-tariffs-trade-war-canada-9.7410974?cmp=rss"
-          },
-          {
-            "title": "Meghan Markle's father arrested and charged with possessing child sexual abuse material",
-            "desc": "Thomas Markle, the father of Prince Harry's wife, Meghan, was arrested Friday morning by federal agents in Florida on a federal criminal complaint alleging he kept child sexual abuse material, including sexually explicit photographs of himself with prepubescent girls, said the U.S. Attorney's Office for the Central District of California.",
-            "pubDate": "2026-11-06T10:42:09Z",
-            "link": "https://www.cbc.ca/news/entertainment/meghan-markle-father-thomas-markle-arrested-child-sexual-abuse-material-9.7412037?cmp=rss"
-          },
-          {
-            "title": "Dad of 20-year-old co-pilot in Florida Learjet crash says final radio calls showed 'she's tough'",
-            "desc": "The father of the 20-year-old co-pilot killed alongside eight others in a Florida Learjet crash said Friday he has repeatedly listened to her final radio transmissions, searching for answers and finding pride in how she handled the crisis.",
-            "pubDate": "2026-11-06T13:49:36Z",
-            "link": "https://www.cbc.ca/news/world/florida-learjet-crash-copilot-dad-9.7412484?cmp=rss"
           }
         ],
         "canada": [
+          {
+            "title": "Protests across Nova Scotia oppose AI data centres",
+            "desc": "Nova Scotians rallied Saturday to oppose AI data centre construction.",
+            "pubDate": "2026-11-07T13:02:19Z",
+            "link": "https://www.cbc.ca/news/canada/nova-scotia/data-centre-protests-nova-scotia-9.7413638?cmp=rss"
+          },
+          {
+            "title": "Is the Alberta government engaging in American-style gerrymandering?",
+            "desc": "Political science experts told CBC’s West of Centre that Alberta’s electoral map-making process should be reexamined to stave off American influences.",
+            "pubDate": "2026-11-07T07:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/edmonton/alberta-american-style-gerrymandering-9.7412790?cmp=rss"
+          },
+          {
+            "title": "Northern, remote RCMP detachments chronically and critically understaffed: internal report",
+            "desc": "Northern and isolated RCMP detachments have become \"chronically and at times critically\" understaffed, according to an internal evaluation report — the latest document pointing to retention and recruitment issues within the storied organization.",
+            "pubDate": "2026-11-07T04:00:00Z",
+            "link": "https://www.cbc.ca/news/politics/rcmp-staffing-report-9.7412554?cmp=rss"
+          },
+          {
+            "title": "More wind warnings for B.C.'s South Coast after storm plays havoc with power, ferries",
+            "desc": "After a round of blustery fall weather caused ferry cancellations and knocked out power to thousands, B.C. appears set for another blast of wind.",
+            "pubDate": "2026-11-07T11:54:36Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-south-coast-wind-warnings-9.7413548?cmp=rss"
+          },
+          {
+            "title": "He quit firefighting for his mental health. Then he came to the rescue after a horrific bus crash",
+            "desc": "A lonely highway, a traumatized son, and up to 20 people in need of urgent care after a horrific bus crash: that's the situation Rich Rogers found himself in Wednesday morning along Highway 39, just south of Mackenzie, B.C. A former firefighter, he spoke to reporters about the toll it can take and the importance of supporting first responders.",
+            "pubDate": "2026-11-07T07:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/mackenzie-bus-crash-rescue-9.7413067?cmp=rss"
+          },
           {
             "title": "Calgary friends win $90M in country's largest-ever lotto jackpot",
             "desc": "A group of four Calgary friends who won the country’s largest-ever lottery jackpot had made their intentions clear with the name of their group chat: Manifesting Millions.",
@@ -378,39 +408,39 @@
             "desc": "A state of local emergency and an evacuation order have been issued for Zeballos, a village of about 125 people on the northwest coast of Vancouver Island, due to flooding and landslide risks.",
             "pubDate": "2026-11-06T13:13:39Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/zeballos-landslide-evacuation-order-9.7412402?cmp=rss"
-          },
-          {
-            "title": "Man convicted in deadly 2018 Toronto van attack drops appeal",
-            "desc": "The man who carried out a deadly van attack in Toronto eight years ago is no longer challenging his more than two dozen convictions.",
-            "pubDate": "2026-11-06T17:14:29Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/toronto-van-attack-minassian-appeal-9.7412958?cmp=rss"
-          },
-          {
-            "title": "'My final years poisoned': Court hears 90-year-old rape victim's powerful statement written before her death",
-            "desc": "A dangerous offender and sentencing hearing is underway in Calgary for Duran Ross Buffalo, 41, who was convicted of aggravated sexual assault and break-and-enter to commit sexual assault by a jury last year.",
-            "pubDate": "2026-11-06T17:06:50Z",
-            "link": "https://www.cbc.ca/news/canada/calgary/duran-ross-buffalo-dangerous-offender-hearing-sexual-assault-9.7412901?cmp=rss"
-          },
-          {
-            "title": "4 reasons to watch Canada in the women's hockey world championship",
-            "desc": "Here are four reasons why it's worth paying attention to the Canadian women in this year's hockey world championship",
-            "pubDate": "2026-11-06T17:12:37Z",
-            "link": "https://www.cbc.ca/news/canada/women-s-world-hockey-canada-9.7412347?cmp=rss"
-          },
-          {
-            "title": "Federal budget's lack of Métis-specific funding concerns Métis leaders",
-            "desc": "Manitoba Métis Federation (MMF) President David Chartrand says he's \"appalled\" by the absence of distinct funding for Métis in the 2026 federal budget released Thursday.",
-            "pubDate": "2026-11-06T19:12:19Z",
-            "link": "https://www.cbc.ca/news/indigenous/budget-mmf-mnc-afn-itk-9.7413041?cmp=rss"
-          },
-          {
-            "title": "Council seat in Norfolk County, Ont., finally decided by a draw out of a top hat",
-            "desc": "After a long campaign, a recount and two weeks of uncertainty, the race for a Norfolk County council seat was left up to fate. Chris Van Paassen will return as Ward 4 councillor after Norfolk County Clerk William Tigert drew his name from a hat Thursday night, breaking a tie with challenger Jeni Lambert.",
-            "pubDate": "2026-11-06T13:43:25Z",
-            "link": "https://www.cbc.ca/news/canada/hamilton/norfolk-country-councillor-name-pulled-from-hat-9.7412431?cmp=rss"
           }
         ],
         "bc": [
+          {
+            "title": "B.C. grizzly attack: How did a casual walk turn fatal?",
+            "desc": "Two grizzly attacks in Bella Coola, B.C. in less than a year have left two dead and a community searching for answers.",
+            "pubDate": "2026-11-07T13:40:19Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-grizzly-attack-two-dead-bella-coola-9.7413381?cmp=rss"
+          },
+          {
+            "title": "More wind warnings for B.C.'s South Coast after storm plays havoc with power, ferries",
+            "desc": "After a round of blustery fall weather caused ferry cancellations and knocked out power to thousands, B.C. appears set for another blast of wind.",
+            "pubDate": "2026-11-07T11:54:36Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-south-coast-wind-warnings-9.7413548?cmp=rss"
+          },
+          {
+            "title": "Love, loss and infidelity: How a B.C. librarian turned pain into poetry",
+            "desc": "Danielle Hubbard, CEO of the Okanagan Regional Library, explores infidelity, grief and self-blame in her debut poetry collection, The Electrocutionist. Drawing on an affair and her mother's death, the book revisits a painful period in her life.",
+            "pubDate": "2026-11-07T10:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-librarian-s-poetry-collection-the-electrocutionist-9.7412435?cmp=rss"
+          },
+          {
+            "title": "Heavy wind downs trees, closing roads and knocking out power in Prince George, B.C., and region",
+            "desc": "Social media was flooded with photos of the damage, which included trees on homes and, in one instance, a traffic light gone from its location.",
+            "pubDate": "2026-11-07T08:20:50Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/power-outages-trees-down-9.7413476?cmp=rss"
+          },
+          {
+            "title": "B.C. backcountry users should prepare for avalanche conditions now, forecaster says",
+            "desc": "While forecasters say it’s tough to know so early in the season what avalanche conditions will look like in coming months, some say the risk is already there.",
+            "pubDate": "2026-11-07T09:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/early-season-bc-backcountry-avalanche-preparation-9.7409288?cmp=rss"
+          },
           {
             "title": "He quit firefighting for his mental health. Then he came to the rescue after a horrific bus crash",
             "desc": "A lonely highway, a traumatized son, and up to 20 people in need of urgent care after a horrific bus crash: that's the situation Rich Rogers found himself in Wednesday morning along Highway 39, just south of Mackenzie, B.C. A former firefighter, he spoke to reporters about the toll it can take and the importance of supporting first responders.",
@@ -418,96 +448,66 @@
             "link": "https://www.cbc.ca/news/canada/british-columbia/mackenzie-bus-crash-rescue-9.7413067?cmp=rss"
           },
           {
+            "title": "LifeLabs in B.C. ordered to pay $32K for misgendering transgender, non-binary patients: Human Rights Tribunal",
+            "desc": "B.C.'s Human Rights Tribunal has ordered LifeLabs and a subsidiary to pay three transgender and non-binary people $32,000 for \"injury to their dignity\" after the staff at the company misgendered and outed them at service centres in Vancouver and Burnaby in 2019.",
+            "pubDate": "2026-11-07T08:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/lifelabs-human-rights-tribunal-bc-9.7412649?cmp=rss"
+          },
+          {
             "title": "Avalanche search dog associations warn of public safety risk after Parks Canada cuts Banff K9 program",
             "desc": "The Canadian Avalanche Rescue Dog Association and British Columbia Search Dog Association have asked Parks Canada to “immediately reverse” the program’s cancellation to “reduce risks to rescuers and the Canadian public.”",
             "pubDate": "2026-11-07T06:00:00Z",
             "link": "https://www.cbc.ca/news/canada/calgary/avalanche-search-rescue-dog-parks-canada-9.7412536?cmp=rss"
-          },
-          {
-            "title": "A powerful veterinary sedative is being added to street fentanyl — and ERs are struggling to cope",
-            "desc": "Emergency physicians across Canada say a powerful veterinary sedative is being added to fentanyl sold on streets, complicating their response to overdoses as they juggle patients.",
-            "pubDate": "2026-11-07T04:00:00Z",
-            "link": "https://www.cbc.ca/news/health/overdoses-er-medetomidine-9.7405697?cmp=rss"
-          },
-          {
-            "title": "Sewing is having a moment. Here’s why",
-            "desc": "Sewing hobbyists and the people who teach them say a number of factors — including renewed interest in analog hobbies and growing concern about the impacts of fast fashion — are driving more Canadians to pick up a needle and thread.",
-            "pubDate": "2026-11-07T04:00:00Z",
-            "link": "https://www.cbc.ca/radio/thecurrent/sewing-growing-in-popularity-9.7406262?cmp=rss"
-          },
-          {
-            "title": "In B.C.'s Great Bear Rainforest, DNA testing crucial to finding grizzly behind deadly attack",
-            "desc": "The investigation into a suspected fatal grizzly attack this week includes DNA profiling to identify the animal responsible.",
-            "pubDate": "2026-11-06T17:21:35Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bear-captured-grizzly-dna-bella-coola-attack-9.7412821?cmp=rss"
-          },
-          {
-            "title": "Area of Whistler Blackcomb to remain closed this season",
-            "desc": "\"This decision is based on expert recommendations and allows for necessary mitigation work, which will continue in summer 2027,\" Dane Gergovich said.",
-            "pubDate": "2026-11-06T19:23:08Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/whistler-blackcomb-rockslide-closure-9.7413183?cmp=rss"
-          },
-          {
-            "title": "As B.C.'s new government pledges to fix health care, federal budget doesn't boost funding",
-            "desc": "As the federal Liberals unveil their second budget, there is no guarantee that health care transfer funding increases will remain stable after 2028.",
-            "pubDate": "2026-11-06T18:07:53Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/health-care-transfers-bc-9.7412237?cmp=rss"
-          },
-          {
-            "title": "Chilliwack poultry facility reports 1st case of avian flu in B.C. this season",
-            "desc": "The Canadian Food Inspection Agency has announced the first detection of avian flu in a commercial poultry flock in British Columbia this season. The agency says the infection was detected on Friday in Chilliwack.",
-            "pubDate": "2026-11-06T19:57:33Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/chilliwack-poultry-avian-flu-season-9.7413285?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "An airstrike has killed 22 people near Yemen's capital, Houthi official says",
-            "desc": "CAIRO (AP) — Airstrikes in a town near the capital, Sanaa, on Saturday killed 22 people and wounded 30 others, mostly women and children, a spokesman for Yemen’s Houthi-run Health Ministry said.",
-            "pubDate": "2026-11-07T12:23:25Z",
-            "link": "https://www.nsnews.com/world-news/an-airstrike-has-killed-22-people-near-yemens-capital-houthi-official-says-12992234"
+            "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+            "desc": "KRAKOW, Poland (AP) — Six people were killed and 15 wounded after a gunman opened fire Saturday afternoon in a busy market square in Krakow,  Poland , authorities said.",
+            "pubDate": "2026-11-07T19:03:56Z",
+            "link": "https://www.nsnews.com/world-news/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15-12992495"
           },
           {
-            "title": "Conservative bloc takes a slim lead in New Zealand election that's still too close to call",
-            "desc": "WELLINGTON, New Zealand (AP) — With more than 95% of the votes counted,  New Zealand's election  produced no definitive victory for the right or the left on Saturday but the incumbent conservative government hovered on the brink of a wafer-thin major",
-            "pubDate": "2026-11-07T11:44:36Z",
-            "link": "https://www.nsnews.com/world-news/conservative-bloc-takes-a-slim-lead-in-new-zealand-election-thats-still-too-close-to-call-12990587"
+            "title": "IIHF bars Belarus from WJC, men's worlds; exploring ways to meet CAS ruling on Russia",
+            "desc": "The International Ice Hockey Federation is barring Belarus' under-20 and senior men's teams from competing at the upcoming world junior championship and the 2027 world championships.",
+            "pubDate": "2026-11-07T18:58:41Z",
+            "link": "https://www.nsnews.com/national-sports/iihf-bars-belarus-from-wjc-mens-worlds-exploring-ways-to-meet-cas-ruling-on-russia-12992867"
           },
           {
-            "title": "Aid sector calls out lack of any mention of foreign aid in federal budget",
-            "desc": "OTTAWA — Canada's aid sector is expressing dismay over the first federal budget in more than 15 years to make no mention of foreign aid, and is calling on Ottawa to outline its vision in an upcoming foreign policy review.",
-            "pubDate": "2026-11-07T11:00:09Z",
-            "link": "https://www.nsnews.com/national-news/aid-sector-calls-out-lack-of-any-mention-of-foreign-aid-in-federal-budget-12992219"
+            "title": "Heavy rain and winds knock out power across B.C., with more storms ahead",
+            "desc": "VANCOUVER — Strong winds and heavy storms across British Columbia left tens of thousands of people without power Saturday as crews worked to restore service.",
+            "pubDate": "2026-11-07T17:34:22Z",
+            "link": "https://www.nsnews.com/bc-news/heavy-rain-and-winds-knock-out-power-across-bc-with-more-storms-ahead-12992356"
           },
           {
-            "title": "Crisis in Cuba sending Canadian travellers to pricier sun destinations: travel agents",
-            "desc": "As the winter holiday season approaches, one of the most popular sunny destinations for Canadian travellers remains out of reach.",
-            "pubDate": "2026-11-07T11:00:07Z",
-            "link": "https://www.nsnews.com/the-mix/crisis-in-cuba-sending-canadian-travellers-to-pricier-sun-destinations-travel-agents-12992211"
+            "title": "Canada men fall 59-14 to Georgia after solid start in World Rugby Nations Cup play",
+            "desc": "TBILISI — Canada's men had a solid start before surrendering 49 straight points in a 59-14 loss to Georgia in World Rugby Nations Cup action on Saturday.",
+            "pubDate": "2026-11-07T17:17:38Z",
+            "link": "https://www.nsnews.com/national-sports/canada-men-fall-59-14-to-georgia-after-solid-start-in-world-rugby-nations-cup-play-12992720"
           },
           {
-            "title": "Crisis in Cuba sending Canadian travellers to pricier sun destinations: travel agents",
-            "desc": "As the winter holiday season approaches, one of the most popular sunny destinations for Canadian travellers remains out of reach.",
-            "pubDate": "2026-11-07T11:00:07Z",
-            "link": "https://www.nsnews.com/national-business/crisis-in-cuba-sending-canadian-travellers-to-pricier-sun-destinations-travel-agents-12992214"
+            "title": "Canada's Andreescu advances into Cali Open final",
+            "desc": "SANTIAGO DE CALI — Canada's Bianca Andreescu defeated France's Alice Tubello 6-0, 6-4 in the semifinals of the Cali Open on Saturday morning.   The match was mostly played Friday before a thunder storm became cause for delay.",
+            "pubDate": "2026-11-07T17:00:43Z",
+            "link": "https://www.nsnews.com/national-sports/canadas-andreescu-advances-into-cali-open-final-12992685"
           },
           {
-            "title": "Crisis in Cuba sending Canadian travellers to pricier sun destinations: travel agents",
-            "desc": "As the winter holiday season approaches, one of the most popular sunny destinations for Canadian travellers remains out of reach.",
-            "pubDate": "2026-11-07T11:00:07Z",
-            "link": "https://www.nsnews.com/national-news/crisis-in-cuba-sending-canadian-travellers-to-pricier-sun-destinations-travel-agents-12992220"
+            "title": "Mone Chiba's elegant free skate edges quad queen and mom Alexandra Ignatova for Cup of China win",
+            "desc": "SHENZHEN, China (AP) — The returning Russian quad queen of figure skating was edged for victory Saturday at the Cup of China by the elegant free skate of Japan’s Mone Chiba.",
+            "pubDate": "2026-11-07T16:47:31Z",
+            "link": "https://www.nsnews.com/national-sports/mone-chibas-elegant-free-skate-edges-quad-queen-and-mom-alexandra-ignatova-for-cup-of-china-win-12992686"
           },
           {
-            "title": "Leader of Kenyan doomsday cult sentenced to 200 years in prison",
-            "desc": "MOMBASA, Kenya (AP) — The leader of a Kenyan doomsday cult linked to the deaths of more than 400 people was sentenced on Friday to 200 years in prison for the murders of 191 people.",
-            "pubDate": "2026-11-07T10:42:57Z",
-            "link": "https://www.nsnews.com/world-news/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison-12987291"
+            "title": "Quebec confirms infected cow as outbreak of raccoon rabies continues",
+            "desc": "COATICOOK — Quebec has confirmed its first case of raccoon rabies in a cow as the disease continues to spread in an ongoing outbreak.  The Quebec ministry of agriculture, fisheries and food says the cow died on Oct.",
+            "pubDate": "2026-11-07T16:47:20Z",
+            "link": "https://www.nsnews.com/the-mix/quebec-confirms-infected-cow-as-outbreak-of-raccoon-rabies-continues-12992681"
           },
           {
-            "title": "Gauthier scores winner to extend goal streak as Ducks beat Flames 5-3",
-            "desc": "CALGARY — The scoring rampage continues for Cutter Gauthier.  The NHL's hottest sniper extended his goal streak to five games Friday by scoring the game-winner as the Anaheim Ducks beat the Calgary Flames 5-3.",
-            "pubDate": "2026-11-07T10:00:09Z",
-            "link": "https://www.nsnews.com/national-sports/gauthier-scores-winner-to-extend-goal-streak-as-ducks-beat-flames-5-3-12992187"
+            "title": "Quebec confirms infected cow as outbreak of raccoon rabies continues",
+            "desc": "COATICOOK — Quebec has confirmed its first case of raccoon rabies in a cow as the disease continues to spread in an ongoing outbreak.  The Quebec ministry of agriculture, fisheries and food says the cow died on Oct.",
+            "pubDate": "2026-11-07T16:47:20Z",
+            "link": "https://www.nsnews.com/national-business/quebec-confirms-infected-cow-as-outbreak-of-raccoon-rabies-continues-12992684"
           }
         ]
       },
