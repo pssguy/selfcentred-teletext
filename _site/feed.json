@@ -2,76 +2,82 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-11-08T00:33:47Z",
+      "fetchedAt": "2026-11-08T10:15:46Z",
       "sections": {
         "top": [
           {
-            "title": "Briton among six killed in 'far-right' shooting in Krakow",
-            "desc": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
-            "pubDate": "2026-11-07T23:41:00Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss"
+            "title": "How the deadly shooting in Krakow unfolded",
+            "desc": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+            "pubDate": "2026-11-08T09:29:24Z",
+            "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "What we know so far after Krakow gun attack",
-            "desc": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-            "pubDate": "2026-11-07T22:58:49Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+            "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+            "desc": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
+            "pubDate": "2026-11-08T03:34:22Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-            "desc": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-            "pubDate": "2026-11-07T22:19:59Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+            "title": "Two seriously hurt in 30-vehicle crash on the M20 in Kent",
+            "desc": "The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.",
+            "pubDate": "2026-11-08T04:09:21Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-            "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-            "pubDate": "2026-11-07T15:19:35Z",
-            "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
+            "title": "My parents chose to die together and I was left to grieve alone ",
+            "desc": "Els and Jan sought medical intervention to end their lives after 50 happy years of marriage, leaving behind their only child.",
+            "pubDate": "2026-11-08T01:10:21Z",
+            "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
-            "desc": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
-            "pubDate": "2026-11-07T17:32:42Z",
-            "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss"
+            "title": "The Trump coalition is shattered - what will Republicans do now?",
+            "desc": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+            "pubDate": "2026-11-08T00:52:39Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-            "desc": "It was unclear whether the president's public job offer was genuine, although White said later on Saturday: \"I got a lot of jobs already.\"",
-            "pubDate": "2026-11-08T00:31:53Z",
-            "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss"
+            "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is fading",
+            "desc": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+            "pubDate": "2026-11-07T23:02:35Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Gaza wedding festival sees 250 couples married at the same time",
-            "desc": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-            "pubDate": "2026-11-07T17:58:41Z",
-            "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss"
+            "title": "Ambika Mod joins Black Doves: 'I've been very lucky to play complex, meaty roles'",
+            "desc": "The actress joins the cast of Black Doves for the second season of Netflix's spy thriller.",
+            "pubDate": "2026-11-08T00:49:00Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-            "desc": "How prepared is the UK for the type of event that could leave millions without power, water and communications?",
-            "pubDate": "2026-11-07T00:31:54Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss"
+            "title": "Can the Zelda remake capture the magic of the original?",
+            "desc": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+            "pubDate": "2026-11-08T00:37:45Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
           {
             "title": "What we know so far after Krakow gun attack",
-            "desc": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-            "pubDate": "2026-11-07T22:58:49Z",
+            "desc": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+            "pubDate": "2026-11-08T07:52:33Z",
             "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Houthis say at least 33 killed in Saudi air strike",
+            "desc": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+            "pubDate": "2026-11-08T04:03:12Z",
+            "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+            "desc": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+            "pubDate": "2026-11-07T21:36:16Z",
+            "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Israel's president tasks opposition leader Eisenkot with forming government",
             "desc": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
             "pubDate": "2026-11-07T22:19:59Z",
             "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "No clear winner after tight New Zealand general election",
-            "desc": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-            "pubDate": "2026-11-07T15:56:28Z",
-            "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "US offers $20m reward for information about Iran's nuclear programme",
@@ -80,54 +86,48 @@
             "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Houthis say at least 25 killed in Saudi air strike",
-            "desc": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-            "pubDate": "2026-11-07T17:09:24Z",
-            "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
             "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
             "pubDate": "2026-11-07T15:19:35Z",
             "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "With Stephen Miller pick, Trump readies for a battle",
-            "desc": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-            "pubDate": "2026-11-06T23:24:15Z",
-            "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Paraguay's former president charged after bank collapse",
             "desc": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
             "pubDate": "2026-11-07T19:17:22Z",
             "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Pope in 'pretty good health' as he starts Latin America tour",
+            "desc": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+            "pubDate": "2026-11-07T06:59:48Z",
+            "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
           {
             "title": "Briton among six killed in 'far-right' shooting in Krakow",
             "desc": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
-            "pubDate": "2026-11-07T23:41:00Z",
+            "pubDate": "2026-11-08T00:55:17Z",
             "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-            "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-            "pubDate": "2026-11-07T15:19:35Z",
-            "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
             "desc": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
-            "pubDate": "2026-11-07T21:50:58Z",
+            "pubDate": "2026-11-08T03:34:22Z",
             "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Two men arrested after boy injured in sword attack",
-            "desc": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
-            "pubDate": "2026-11-07T15:10:54Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss"
+            "title": "Two seriously hurt in 30-vehicle crash on the M20 in Kent",
+            "desc": "The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.",
+            "pubDate": "2026-11-08T04:09:21Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "We face paying £9,000 tax because our second home is in a war zone",
+            "desc": "A Ukrainian woman who fled to Scotland is told she and her partner could face a £9,000 property tax charge because she still owns a flat in Kyiv.",
+            "pubDate": "2026-11-08T08:04:59Z",
+            "link": "https://www.bbc.co.uk/news/articles/c674pk4klp7no?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Thousands watch elaborate carnival cart procession",
@@ -136,10 +136,10 @@
             "link": "https://www.bbc.co.uk/news/articles/cm62ypz1ywk1o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Rob Brydon's battle to stay in character playing Peter O'Toole",
-            "desc": "Brydon stars in a new radio drama looking at the ups and downs of O'Toole's professional career.",
-            "pubDate": "2026-11-07T18:16:00Z",
-            "link": "https://www.bbc.co.uk/news/articles/c8p3g675pplko?at_medium=RSS&at_campaign=rss"
+            "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+            "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+            "pubDate": "2026-11-07T15:19:35Z",
+            "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Roman settlement dating back 2,000 years found under new-build estate",
@@ -148,10 +148,10 @@
             "link": "https://www.bbc.co.uk/news/articles/c6r7ydgl44z7o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Evacuations in Liverpool city centre after car crash causes gas leak",
-            "desc": "The impact of the crash caused a gas leak and neighbouring buildings have been evacuated as a precaution.",
-            "pubDate": "2026-11-07T15:06:40Z",
-            "link": "https://www.bbc.co.uk/news/articles/c9203x7pj0kjo?at_medium=RSS&at_campaign=rss"
+            "title": "Rob Brydon's battle to stay in character playing Peter O'Toole",
+            "desc": "Brydon stars in a new radio drama looking at the ups and downs of O'Toole's professional career.",
+            "pubDate": "2026-11-07T18:16:00Z",
+            "link": "https://www.bbc.co.uk/news/articles/c8p3g675pplko?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
@@ -206,46 +206,46 @@
         ],
         "sport": [
           {
-            "title": "Match of the Day",
-            "desc": "With Arsenal v Hull, Forest v Man City, Leeds v Spurs and Fulham v Newcastle",
-            "pubDate": "2026-11-08T00:00:56Z",
-            "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss"
+            "title": "I haven't thrown anyone under the bus - Khawaja",
+            "desc": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
+            "pubDate": "2026-11-08T10:04:01Z",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Delap double inspires Forest to stunning win over Man City",
-            "desc": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
-            "pubDate": "2026-11-07T20:02:25Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss"
+            "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+            "desc": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
+            "pubDate": "2026-11-08T07:30:01Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Arsenal beat Hull to extend lead at top of the table ",
-            "desc": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
-            "pubDate": "2026-11-07T19:59:31Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss"
+            "title": "The oldest club in London making FA Cup history",
+            "desc": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
+            "pubDate": "2026-11-08T06:28:56Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Leeds beat Spurs to end five-game winless run",
-            "desc": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
-            "pubDate": "2026-11-07T19:59:34Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss"
+            "title": "Australia reach World Cup final after Fiji scare",
+            "desc": "Australia have reached their fifth successive Women's Rugby League World Cup final as they seek a fourth consecutive title - but they were made to work harder than anyone expected.",
+            "pubDate": "2026-11-08T08:19:18Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c6vg02klk084o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
-            "desc": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
-            "pubDate": "2026-11-07T19:59:37Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Barry scores twice as Everton fight back to beat Coventry",
-            "desc": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
-            "pubDate": "2026-11-06T22:30:12Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss"
+            "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
+            "desc": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.",
+            "pubDate": "2026-11-08T00:17:56Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Maresca's dream start turns into nightmare as title hopes hit",
-            "desc": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
+            "desc": "Enzo Maresca left the City Ground with chants of \"can we play you every week?\" ringing in his ears, as Manchester City's dream start turns into a nightmare.",
             "pubDate": "2026-11-07T20:54:12Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Qualifying conditions borderline - but Norris and Russell hoping for more rain",
+            "desc": "Polesitter Lando Norris says qualifying for the Sao Paulo Grand Prix brought \"some of the wettest conditions\" in which he had ever driven.",
+            "pubDate": "2026-11-07T23:53:30Z",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cmde81d9nkxko?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
@@ -258,20 +258,44 @@
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-11-08T00:33:48Z",
+      "fetchedAt": "2026-11-08T10:15:46Z",
       "sections": {
         "top": [
           {
-            "title": "3 bodies found in home of Krakow shooting suspect, Polish PM says, after 6 killed, 16 injured in city square",
-            "desc": "Six people were killed and 16 wounded after a gunman opened fire Saturday afternoon in a busy market square in Krakow, authorities said, in what Poland's defence minister called an \"act of terror.\"",
-            "pubDate": "2026-11-07T10:52:29Z",
-            "link": "https://www.cbc.ca/news/world/krakow-poland-shooting-9.7413582?cmp=rss"
+            "title": "What needs to happen for Canada to join Europe's flagship student exchange program?",
+            "desc": "",
+            "pubDate": "2026-10-27T12:55:15Z",
+            "link": "https://www.cbc.ca/news/politics/erasmus-students-youth-european-union-9.7408763?cmp=rss"
           },
           {
-            "title": "The age of AI warfare is here. Is Canada ready?",
+            "title": "How the Democrats' midterm wave shows a path back to the presidency",
             "desc": "",
-            "pubDate": "2026-11-07T15:09:19Z",
-            "link": "https://www.cbc.ca/news/canada/ai-drones-in-warfare-9.7407846?cmp=rss"
+            "pubDate": "2026-05-27T12:12:48Z",
+            "link": "https://www.cbc.ca/news/world/us-midterms-trump-democrats-2028-9.7411206?cmp=rss"
+          },
+          {
+            "title": "Injured Wainwright soldiers benefit from cutting-edge Canadian burn research",
+            "desc": "When news broke about the deadly training accident at CFB Wainwright that killed four soldiers and sent dozens more to hospital with severe burns, Véronique Moulin knew she had to help. She is on the front lines of research meant to help burn patients heal faster, with less pain and fewer scars.",
+            "pubDate": "2026-11-08T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/manitoba/injured-soldiers-wainwright-burn-experts-9.7410917?cmp=rss"
+          },
+          {
+            "title": "How Trump's tariffs are threatening to spoil the success of Canadian cheese",
+            "desc": "In recent years, Canadian cheese has been having a bit of a moment south of the border, taking home some of the biggest awards in the Western hemisphere. But Trump's 50 per cent tariffs on certain dairy products, including Canadian cheese, are threatening to spoil this success.",
+            "pubDate": "2026-11-08T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/trump-tariffs-canadian-dairy-cheese-industry-9.7413227?cmp=rss"
+          },
+          {
+            "title": "Poilievre pans Liberal budget's $15M capital gains exemption, calls for 'simpler' plan",
+            "desc": "Conservative Leader Pierre Poilievre is criticizing a key feature of the Carney government's latest budget, arguing the proposed $15-million capital gains exemption on the sale of qualifying shares from a Canadian company applies too narrowly, excluding key businesses.",
+            "pubDate": "2026-11-08T04:00:00Z",
+            "link": "https://www.cbc.ca/news/politics/poilievre-capital-gains-exemption-budget-2026-9.7413640?cmp=rss"
+          },
+          {
+            "title": "Freshwater species are at risk. A new global threat map could help save some from brink of extinction",
+            "desc": "A colourful new map that paints a not-so-rosy global picture of what's putting freshwater species at risk could help conservationists focus on threats and species most urgently in need of support.",
+            "pubDate": "2026-11-08T04:00:00Z",
+            "link": "https://www.cbc.ca/news/science/freshwater-biodiversity-threat-map-9.7405985?cmp=rss"
           },
           {
             "title": "What Ottawa's 'RRSP for life' plan means for Canadian seniors",
@@ -280,42 +304,24 @@
             "link": "https://www.cbc.ca/news/business/rrsp-for-life-9.7412568?cmp=rss"
           },
           {
-            "title": "Protests across Nova Scotia oppose AI data centres",
-            "desc": "Nova Scotians rallied Saturday to oppose AI data centre construction.",
-            "pubDate": "2026-11-07T13:02:19Z",
-            "link": "https://www.cbc.ca/news/canada/nova-scotia/data-centre-protests-nova-scotia-9.7413638?cmp=rss"
-          },
-          {
-            "title": "Israel's president asks Gadi Eisenkot, Netanyahu's rival, to form new government",
-            "desc": "Israel's president has tapped opposition candidate Gadi Eisenkot to form a new government, in another setback for Prime Minister Benjamin Netanyahu.",
-            "pubDate": "2026-11-07T14:46:03Z",
-            "link": "https://www.cbc.ca/news/world/gadi-eisenkot-form-government-israel-9.7413714?cmp=rss"
-          },
-          {
-            "title": "Paraguay's impeached ex-president charged with crimes linked to collapse of major bank",
-            "desc": "Paraguayan prosecutors on Saturday charged former president Santiago Peña with breach of trust and administration for personal gain and asked a court to jail him pending trial, a day after his ​impeachment over the collapse of digital lender Ueno.",
-            "pubDate": "2026-11-07T14:33:02Z",
-            "link": "https://www.cbc.ca/news/world/paraguay-prosecutors-charge-impeached-president-pena-detention-9.7413705?cmp=rss"
-          },
-          {
-            "title": "'Absolutely' possible: Vancouver, Victoria mayors back Ottawa's bid to end homelessness",
-            "desc": "The federal Liberal budget, delivered on Thursday, has set aside $11.2 billion over the next four years in a bid to end homelessness in the next 10 years.",
-            "pubDate": "2026-11-07T14:58:16Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-reaction-federal-homelessness-plan-9.7412841?cmp=rss"
-          },
-          {
-            "title": "Is the Alberta government engaging in American-style gerrymandering?",
-            "desc": "Political science experts told CBC’s West of Centre that Alberta’s electoral map-making process should be reexamined to stave off American influences.",
-            "pubDate": "2026-11-07T07:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/edmonton/alberta-american-style-gerrymandering-9.7412790?cmp=rss"
+            "title": "Polish police say gunman kills 6 in 'act of terror'; 3 more dead found at suspect's home",
+            "desc": "Six people were killed and 16 wounded after a gunman opened fire Saturday afternoon in a busy market square in Krakow, authorities said, in what Poland's defence minister called an \"act of terror.\"",
+            "pubDate": "2026-11-07T10:52:29Z",
+            "link": "https://www.cbc.ca/news/world/krakow-poland-shooting-9.7413582?cmp=rss"
           }
         ],
         "world": [
           {
-            "title": "3 bodies found in home of Krakow shooting suspect, Polish PM says, after 6 killed, 16 injured in city square",
+            "title": "Polish police say gunman kills 6 in 'act of terror'; 3 more dead found at suspect's home",
             "desc": "Six people were killed and 16 wounded after a gunman opened fire Saturday afternoon in a busy market square in Krakow, authorities said, in what Poland's defence minister called an \"act of terror.\"",
             "pubDate": "2026-11-07T10:52:29Z",
             "link": "https://www.cbc.ca/news/world/krakow-poland-shooting-9.7413582?cmp=rss"
+          },
+          {
+            "title": "UFC boss Dana White says he's meeting with Trump after press secretary job offer",
+            "desc": "U.S. President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White, an announcement unconventional even for the norm-busting president. White said Saturday that he plans to meet with Trump on Monday at the White House.",
+            "pubDate": "2026-11-07T19:35:42Z",
+            "link": "https://www.cbc.ca/news/world/trump-press-secretary-ufc-dana-white-9.7413697?cmp=rss"
           },
           {
             "title": "Israel's president asks Gadi Eisenkot, Netanyahu's rival, to form new government",
@@ -352,12 +358,6 @@
             "desc": "Republicans had a significant edge over Democrats in raising funding from outside groups in this year's U.S. midterms, giving them an overall money advantage. Yet Republicans suffered significant losses, raising questions about the impact money has in a political race.",
             "pubDate": "2026-11-07T04:00:00Z",
             "link": "https://www.cbc.ca/news/world/us-midterms-money-republican-democrat-9.7412050?cmp=rss"
-          },
-          {
-            "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles after midterm defeat",
-            "desc": "Just days after the Republican Party's resounding defeat in the midterms, U.S. President Donald Trump is replacing his top political adviser, chief of staff Susie Wiles, with immigration hardliner Stephen Miller.",
-            "pubDate": "2026-11-06T14:07:29Z",
-            "link": "https://www.cbc.ca/news/world/trump-susie-wiles-9.7412558?cmp=rss"
           }
         ],
         "canada": [
@@ -368,52 +368,70 @@
             "link": "https://www.cbc.ca/news/canada/nova-scotia/data-centre-protests-nova-scotia-9.7413638?cmp=rss"
           },
           {
-            "title": "'Absolutely' possible: Vancouver, Victoria mayors back Ottawa's bid to end homelessness",
-            "desc": "The federal Liberal budget, delivered on Thursday, has set aside $11.2 billion over the next four years in a bid to end homelessness in the next 10 years.",
-            "pubDate": "2026-11-07T14:58:16Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-reaction-federal-homelessness-plan-9.7412841?cmp=rss"
-          },
-          {
             "title": "Is the Alberta government engaging in American-style gerrymandering?",
             "desc": "Political science experts told CBC’s West of Centre that Alberta’s electoral map-making process should be reexamined to stave off American influences.",
             "pubDate": "2026-11-07T07:00:00Z",
             "link": "https://www.cbc.ca/news/canada/edmonton/alberta-american-style-gerrymandering-9.7412790?cmp=rss"
           },
           {
+            "title": "Birds of a feather: Human speech and birdsong have a lot in common, McGill study finds",
+            "desc": "Researchers from McGill University have found many of the same vocal patterns that appear in bird species — including small pitch intervals and phrase elongation — are also present in human song and speech.",
+            "pubDate": "2026-11-08T04:00:00Z",
+            "link": "https://www.cbc.ca/player/play/9.7412068?cmp=rss"
+          },
+          {
+            "title": "Fort Smith mother says daughter staying home after suspected recording device found at school",
+            "desc": "A Fort Smith mother says her daughter has taken time off school after a possible recording device was found in a girls’ changing room this week.",
+            "pubDate": "2026-11-06T12:52:28Z",
+            "link": "https://www.cbc.ca/news/canada/north/fort-smith-recording-device-high-school-9.7411982?cmp=rss"
+          },
+          {
+            "title": "Regional gaps in safe sport rules remain a 'major' concern for Canada's sport integrity agency",
+            "desc": "More than six months on from a report that rang alarm bells about the prevalence of abuse and maltreatment in sport, the head of Canada’s sport integrity agency continues to have “major” concerns about regional gaps in safe sport rules.",
+            "pubDate": "2026-11-07T04:00:00Z",
+            "link": "https://www.cbc.ca/sports/a-new-game-plan/canada-safe-sport-new-game-plan-9.7410834?cmp=rss"
+          },
+          {
+            "title": "'Absolutely' possible: Vancouver, Victoria mayors back Ottawa's bid to end homelessness",
+            "desc": "The federal Liberal budget, delivered on Thursday, has set aside $11.2 billion over the next four years in a bid to end homelessness in the next 10 years.",
+            "pubDate": "2026-11-07T14:58:16Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-reaction-federal-homelessness-plan-9.7412841?cmp=rss"
+          },
+          {
+            "title": "Kahnawà:ke honours veterans at annual Remembrance Day parade",
+            "desc": "Veterans, military members and community residents gathered in Kahnawà:ke for the annual Remembrance Day parade, honouring those who served in the Canadian and U.S. armed forces. The event, organized in collaboration with the Mohawk Legion, brought generations together to remember veterans, recognize the community’s long history of military service and celebrate a legacy they hope will continue.",
+            "pubDate": "2026-11-07T21:12:32Z",
+            "link": "https://www.cbc.ca/player/play/9.7413922?cmp=rss"
+          },
+          {
             "title": "Northern, remote RCMP detachments chronically and critically understaffed: internal report",
             "desc": "Northern and isolated RCMP detachments have become \"chronically and at times critically\" understaffed, according to an internal evaluation report — the latest document pointing to retention and recruitment issues within the storied organization.",
             "pubDate": "2026-11-07T04:00:00Z",
             "link": "https://www.cbc.ca/news/politics/rcmp-staffing-report-9.7412554?cmp=rss"
-          },
-          {
-            "title": "Outages expected, more ferries cancelled amid wind warnings for B.C.'s South Coast",
-            "desc": "After a round of blustery fall weather caused ferry cancellations and knocked out power to thousands, B.C. appears set for another blast of wind.",
-            "pubDate": "2026-11-07T11:54:36Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-south-coast-wind-warnings-9.7413548?cmp=rss"
-          },
-          {
-            "title": "He quit firefighting for his mental health. Then he came to the rescue after a horrific bus crash",
-            "desc": "A lonely highway, a traumatized son, and up to 20 people in need of urgent care after a horrific bus crash: that's the situation Rich Rogers found himself in Wednesday morning along Highway 39, just south of Mackenzie, B.C. A former firefighter, he spoke to reporters about the toll it can take and the importance of supporting first responders.",
-            "pubDate": "2026-11-07T07:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/mackenzie-bus-crash-rescue-9.7413067?cmp=rss"
-          },
-          {
-            "title": "Avalanche search dog associations warn of public safety risk after Parks Canada cuts Banff K9 program",
-            "desc": "The Canadian Avalanche Rescue Dog Association and British Columbia Search Dog Association have asked Parks Canada to “immediately reverse” the program’s cancellation to “reduce risks to rescuers and the Canadian public.”",
-            "pubDate": "2026-11-07T06:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/calgary/avalanche-search-rescue-dog-parks-canada-9.7412536?cmp=rss"
-          },
-          {
-            "title": "Calgary friends win $90M in country's largest-ever lotto jackpot",
-            "desc": "A group of four Calgary friends who won the country’s largest-ever lottery jackpot had made their intentions clear with the name of their group chat: Manifesting Millions.",
-            "pubDate": "2026-11-06T15:49:31Z",
-            "link": "https://www.cbc.ca/news/canada/calgary/lotto-max-largest-ever-win-9.7412668?cmp=rss"
           }
         ],
         "bc": [
           {
-            "title": "Woman killed in collision between e-scooter and transit bus in Vancouver",
-            "desc": "Police say a woman was killed in a collision between an e-scooter and a transit bus in downtown Vancouver on Saturday morning.",
+            "title": "Injured Wainwright soldiers benefit from cutting-edge Canadian burn research",
+            "desc": "When news broke about the deadly training accident at CFB Wainwright that killed four soldiers and sent dozens more to hospital with severe burns, Véronique Moulin knew she had to help. She is on the front lines of research meant to help burn patients heal faster, with less pain and fewer scars.",
+            "pubDate": "2026-11-08T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/manitoba/injured-soldiers-wainwright-burn-experts-9.7410917?cmp=rss"
+          },
+          {
+            "title": "Freshwater species are at risk. A new global threat map could help save some from brink of extinction",
+            "desc": "A colourful new map that paints a not-so-rosy global picture of what's putting freshwater species at risk could help conservationists focus on threats and species most urgently in need of support.",
+            "pubDate": "2026-11-08T04:00:00Z",
+            "link": "https://www.cbc.ca/news/science/freshwater-biodiversity-threat-map-9.7405985?cmp=rss"
+          },
+          {
+            "title": "My son is surrounded by English. But Korean won't reach him without me",
+            "desc": "As a Korean mother living in Canada, Noeul Kang finds herself constantly thinking about what it means to give her son a language that isn't regularly spoken outside their home.",
+            "pubDate": "2026-11-08T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/first-person-teaching-korean-to-my-son-9.7407042?cmp=rss"
+          },
+          {
+            "title": "19-year-old woman killed in collision between e-scooter and transit bus in Vancouver",
+            "desc": "Police say a man and woman were riding an e-scooter northbound on Seymour Street when they collided head on with the side of a westbound transit bus.",
             "pubDate": "2026-11-07T15:12:15Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/vancouver-e-scooter-fatality-bus-9.7413724?cmp=rss"
           },
@@ -440,74 +458,56 @@
             "desc": "Two grizzly attacks in Bella Coola, B.C. in less than a year have left two dead and a community searching for answers.",
             "pubDate": "2026-11-07T13:40:19Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/bc-grizzly-attack-two-dead-bella-coola-9.7413381?cmp=rss"
-          },
-          {
-            "title": "Love, loss and infidelity: How a B.C. librarian turned pain into poetry",
-            "desc": "Danielle Hubbard, CEO of the Okanagan Regional Library, explores infidelity, grief and self-blame in her debut poetry collection, The Electrocutionist. Drawing on an affair and her mother's death, the book revisits a painful period in her life.",
-            "pubDate": "2026-11-07T10:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-librarian-s-poetry-collection-the-electrocutionist-9.7412435?cmp=rss"
-          },
-          {
-            "title": "Heavy wind downs trees, closing roads and knocking out power in Prince George, B.C., and region",
-            "desc": "Following wind gusts up to 100 km/h Friday night social media was flooded with photos of the ensuing damage, which included trees on homes and, in one instance, a traffic light gone from its location.",
-            "pubDate": "2026-11-07T08:20:50Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/prince-george-power-outages-trees-down-more-wind-9.7413476?cmp=rss"
-          },
-          {
-            "title": "B.C. backcountry users should prepare for avalanche conditions now, forecaster says",
-            "desc": "While forecasters say it’s tough to know so early in the season what avalanche conditions will look like in coming months, some say the risk is already there.",
-            "pubDate": "2026-11-07T09:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/early-season-bc-backcountry-avalanche-preparation-9.7409288?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "A strong earthquake with a preliminary magnitude of 5.7 strikes Japan, meteorological agency says",
-            "desc": "TOKYO (AP) — A strong earthquake shook central Japan early Sunday, shattering store windows, causing people to flee buildings and leaving at least 22 people injured, according to local media.",
-            "pubDate": "2026-11-08T00:04:20Z",
-            "link": "https://www.nsnews.com/world-news/a-strong-earthquake-with-a-preliminary-magnitude-of-57-strikes-japan-meteorological-agency-says-12993265"
+            "title": "McKenna gets benched, scores as scuffling Leafs lose for fourth time in five games",
+            "desc": "TORONTO — Gavin McKenna had the puck on his stick, looking to make a play in the offensive zone with the Maple Leafs already in a hole.  The No.",
+            "pubDate": "2026-11-08T10:00:08Z",
+            "link": "https://www.nsnews.com/national-sports/mckenna-gets-benched-scores-as-scuffling-leafs-lose-for-fourth-time-in-five-games-12993502"
           },
           {
-            "title": "Canada Red beats Canada White 8-4 in bronze-medal game at U17 World Challenge",
-            "desc": "OAKVILLE — Liam Pue had two goals and an assist, Jakob Royer had a goal and two assists and Canada Red collected a bronze medal with an 8-4 win over Canada White at the under-17 World Challenge hockey tournament on Saturday.",
-            "pubDate": "2026-11-07T23:55:39Z",
-            "link": "https://www.nsnews.com/national-sports/canada-red-beats-canada-white-8-4-in-bronze-medal-game-at-u17-world-challenge-12993317"
+            "title": "NHL roundup: Capitals lose Wilson, but find a way to beat Panthers 4-3",
+            "desc": "WASHINGTON (AP) — Alex Tuch and Aliaksei Protas scored in the second period to lift the Washington Capitals to a 4-3 National Hockey League victory over the Florida Panthers on Saturday.",
+            "pubDate": "2026-11-08T07:33:55Z",
+            "link": "https://www.nsnews.com/national-sports/nhl-roundup-capitals-lose-wilson-but-find-a-way-to-beat-panthers-4-3-12993563"
           },
           {
-            "title": "Elva, Musse lead Cavalry FC past FC Supra du Québec 2-0 to make CPL final",
-            "desc": "CALGARY — Caniggia Elva and Ali Musse each scored as Cavalry FC defeated FC Supra du Québec 2-0 in the second leg of their semifinal to advance to the Canadian Premier League final on Saturday.",
-            "pubDate": "2026-11-07T23:50:24Z",
-            "link": "https://www.nsnews.com/national-sports/elva-musse-lead-cavalry-fc-past-fc-supra-du-quebec-2-0-to-make-cpl-final-12993318"
+            "title": "Excited Levi shines in return to Oilers' net, beat Canucks 4-2",
+            "desc": "EDMONTON — Goalie Devon Levi was pretty jazzed to be back in Edmonton's lineup, and the Oilers felt much the same after enduring a bit of a crease carousel.",
+            "pubDate": "2026-11-08T07:08:14Z",
+            "link": "https://www.nsnews.com/national-sports/excited-levi-shines-in-return-to-oilers-net-beat-canucks-4-2-12993584"
           },
           {
-            "title": "Whitecaps put end to CF Montreal's misery and season in 2-0 win to cap regular season",
-            "desc": "MONTREAL — CF Montreal capped off their worst season in club history with a 2-0 loss to the playoff-bound Vancouver Whitecaps in front of an uncharacteristically tepid Stade Saputo crowd on Saturday afternoon.",
-            "pubDate": "2026-11-07T23:43:08Z",
-            "link": "https://www.nsnews.com/national-sports/whitecaps-put-end-to-cf-montreals-misery-and-season-in-2-0-win-to-cap-regular-season-12993267"
+            "title": "Draisaitl scores twice to power Oilers past Canucks 4-2",
+            "desc": "EDMONTON — Leon Draisaitl had two goals and an assist and Connor McDavid added three assists as the Edmonton Oilers came away with a 4-2 victory over the struggling Vancouver Canucks on Saturday.",
+            "pubDate": "2026-11-08T05:57:05Z",
+            "link": "https://www.nsnews.com/national-sports/draisaitl-scores-twice-to-power-oilers-past-canucks-4-2-12993553"
           },
           {
-            "title": "Fleuriau Chateau winner, hat trick lifts Atletico Ottawa past Forge FC into CPL final",
-            "desc": "HAMILTON — Atletico Ottawa is back in the Canadian Premier League final.",
-            "pubDate": "2026-11-07T23:42:18Z",
-            "link": "https://www.nsnews.com/national-sports/fleuriau-chateau-winner-hat-trick-lifts-atletico-ottawa-past-forge-fc-into-cpl-final-12993023"
+            "title": "Scores and sports schedule for Saturday, Nov. 7, 2026",
+            "desc": "Saturday's Scoreboard    CFL Playoffs    Division Finals   Montreal 33 Winnipeg 23  Edmonton 28 B.C. 16  ---   NHL   Edmonton 4 Vancouver 2  Montreal 4 Toronto 2  Ottawa 4 Utah 2  Washington 4 Florida 3  Nashville 3 St. Louis 1  N.Y.",
+            "pubDate": "2026-11-08T05:44:09Z",
+            "link": "https://www.nsnews.com/national-sports/scores-and-sports-schedule-for-saturday-nov-7-2026-12966630"
           },
           {
-            "title": "'Extremely grateful': Price, Bergeron headline 2026 Hockey Hall of Fame class",
-            "desc": "TORONTO — Carey Price spent a lot of his youth on the road and in the air.  Growing up in a remote part of British Columbia, that's what chasing his hockey dream required.",
-            "pubDate": "2026-11-07T23:40:36Z",
-            "link": "https://www.nsnews.com/national-sports/extremely-grateful-price-bergeron-headline-2026-hockey-hall-of-fame-class-12993153"
+            "title": "Dunstone beats Schwaller 5-3 to advance to P & H Masters curling final",
+            "desc": "MEDICINE HAT — Matt Dunstone's Winnipeg-based foursome scored twice in the seventh end and stole a single in the eighth to beat Yannick Schwaller of Switzerland 5-3 on Saturday night to advance to the men's final of the P &amp; H Masters Grand Slam o",
+            "pubDate": "2026-11-08T05:27:38Z",
+            "link": "https://www.nsnews.com/national-sports/dunstone-beats-schwaller-5-3-to-advance-to-p-h-masters-curling-final-12993528"
           },
           {
-            "title": "Alexander, Beverette lead Alouettes past Blue Bombers 33-23 in CFL East final",
-            "desc": "MONTREAL — Davis Alexander and the Montreal Alouettes are heading back to the Grey Cup.",
-            "pubDate": "2026-11-07T23:39:28Z",
-            "link": "https://www.nsnews.com/national-sports/alexander-beverette-lead-alouettes-past-blue-bombers-33-23-in-cfl-east-final-12992951"
+            "title": "Woman on e-scooter dies after collision with transit bus in downtown",
+            "desc": "VANCOUVER — Police say a woman on an e-scooter died following a collision with a transit bus in downtown Vancouver.",
+            "pubDate": "2026-11-08T05:12:02Z",
+            "link": "https://www.nsnews.com/bc-news/woman-on-e-scooter-dies-after-collision-with-transit-bus-in-downtown-12992991"
           },
           {
-            "title": "Province-wide protests call for moratorium on AI data centre proposals in N.S.",
-            "desc": "HALIFAX — The chants of nearly 1,000 Nova Scotians drowned out the rain in downtown Halifax Saturday as residents took to the streets to protest a proposed artificial intelligence data centre in southern Cape Breton.",
-            "pubDate": "2026-11-07T23:14:00Z",
-            "link": "https://www.nsnews.com/the-mix/province-wide-protests-call-for-moratorium-on-ai-data-centre-proposals-in-ns-12993262"
+            "title": "Alexander says Bombers player taunted about late father in Alouettes' East final win",
+            "desc": "MONTREAL — Davis Alexander led his team back to the Grey Cup.  The Alouettes quarterback then had plenty to say about what happened during Saturday's East Division final.",
+            "pubDate": "2026-11-08T04:56:36Z",
+            "link": "https://www.nsnews.com/national-sports/alexander-says-bombers-player-taunted-about-late-father-in-alouettes-east-final-win-12992951"
           }
         ]
       },
