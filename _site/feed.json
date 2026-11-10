@@ -2,132 +2,188 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-11-10T03:33:42Z",
+      "fetchedAt": "2026-11-10T14:50:43Z",
       "sections": {
         "top": [
           {
-            "title": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
-            "desc": "Goldsmith accuses the disgraced entertainer of \"violence, coercive control and abuse\" while the two were together.",
-            "pubDate": "2026-11-10T02:59:42Z",
-            "link": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss"
+            "title": "US military aircraft leave second UK base",
+            "desc": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
+            "pubDate": "2026-11-10T12:43:59Z",
+            "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "What happened inside court as Brand was sentenced",
-            "desc": "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault.",
-            "pubDate": "2026-11-09T20:13:41Z",
-            "link": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss"
+            "title": "Met Police investigating more 'potential criminal allegations' about Brand",
+            "desc": "Det Supt Andy Furphy says the force had received \"several reports during the trial and since the trial\".",
+            "pubDate": "2026-11-10T14:09:11Z",
+            "link": "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Hundreds more offenders to leave jail on Tuesday",
-            "desc": "At least 1,350 offenders have been released from jail early under the scheme so far.",
-            "pubDate": "2026-11-10T01:06:37Z",
-            "link": "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss"
+            "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+            "desc": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+            "pubDate": "2026-11-10T14:15:28Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
-            "desc": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
-            "pubDate": "2026-11-09T22:51:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss"
+            "title": "Watch: Meghan's first public appearance since father arrested",
+            "desc": "Meghan arrived at the European Parliament in Brussels with her husband, Prince Harry, who delivered a speech about online child safety.",
+            "pubDate": "2026-11-10T11:57:14Z",
+            "link": "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
-            "desc": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
-            "pubDate": "2026-11-10T02:38:00Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss"
+            "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+            "desc": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+            "pubDate": "2026-11-10T14:29:00Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "The superpower battle over energy – and what it means for your bills",
-            "desc": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
-            "pubDate": "2026-11-10T00:08:28Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss"
+            "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+            "desc": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+            "pubDate": "2026-11-10T12:25:48Z",
+            "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
-            "desc": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
-            "pubDate": "2026-11-09T22:16:37Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss"
+            "title": "Tories pledge to cut benefits for children with 'milder cases' of ADHD",
+            "desc": "Conservative shadow minister Helen Whately says the system risks putting children on a \"conveyor belt\" towards a \"lifetime on benefits\".",
+            "pubDate": "2026-11-10T13:37:16Z",
+            "link": "https://www.bbc.co.uk/news/articles/c3j474prl2r7o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-            "desc": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
-            "pubDate": "2026-11-10T00:14:03Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss"
+            "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+            "desc": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+            "pubDate": "2026-11-10T14:46:50Z",
+            "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
           {
             "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
             "desc": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-            "pubDate": "2026-11-10T01:44:53Z",
+            "pubDate": "2026-11-10T08:23:21Z",
             "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-            "desc": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-            "pubDate": "2026-11-09T19:58:01Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-            "desc": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
-            "pubDate": "2026-11-10T00:09:49Z",
+            "title": "First day of Ukraine peace talks 'very productive', US says",
+            "desc": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+            "pubDate": "2026-11-10T14:36:57Z",
             "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-            "desc": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
-            "pubDate": "2026-11-10T00:14:03Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss"
+            "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+            "desc": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
+            "pubDate": "2026-11-10T08:39:05Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "France accuses Iran of supermarket fridge hacking",
+            "title": "'Cruise for life' ship seized in Singapore ",
+            "desc": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
+            "pubDate": "2026-11-10T01:49:06Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+            "desc": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+            "pubDate": "2026-11-10T14:29:00Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+            "desc": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+            "pubDate": "2026-11-10T12:25:48Z",
+            "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+            "desc": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+            "pubDate": "2026-11-10T14:46:50Z",
+            "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Iran rejects French claims it was behind supermarket fridge hacking",
             "desc": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-            "pubDate": "2026-11-09T20:20:08Z",
+            "pubDate": "2026-11-10T13:45:13Z",
             "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-            "desc": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-            "pubDate": "2026-11-10T01:38:49Z",
-            "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Qantas to outsource 850 local jobs with most roles moving to India ",
-            "desc": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-            "pubDate": "2026-11-10T01:55:22Z",
-            "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Russia's leading independent newspaper closes after eviction",
-            "desc": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-            "pubDate": "2026-11-09T18:08:07Z",
-            "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
           {
-            "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
-            "desc": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
-            "pubDate": "2026-11-09T17:31:08Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss"
+            "title": "US military aircraft leave second UK base",
+            "desc": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
+            "pubDate": "2026-11-10T12:43:59Z",
+            "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Met Police investigating more 'potential criminal allegations' about Brand",
+            "desc": "Det Supt Andy Furphy says the force had received \"several reports during the trial and since the trial\".",
+            "pubDate": "2026-11-10T14:09:11Z",
+            "link": "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+            "desc": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+            "pubDate": "2026-11-10T14:15:28Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
+            "desc": "Manchester United head coach Michael Carrick's future will be discussed at a meeting in Monaco on Wednesday.",
+            "pubDate": "2026-11-10T11:23:43Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Tories pledge to cut benefits for children with 'milder cases' of ADHD",
+            "desc": "Conservative shadow minister Helen Whately says the system risks putting children on a \"conveyor belt\" towards a \"lifetime on benefits\".",
+            "pubDate": "2026-11-10T13:37:16Z",
+            "link": "https://www.bbc.co.uk/news/articles/c3j474prl2r7o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Meghan joins Harry in Brussels in first public appearance since father's arrest",
+            "desc": "The Duchess of Sussex had pulled out of giving a speech with Prince Harry at the event promoting children's online safety.",
+            "pubDate": "2026-11-10T10:30:32Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq3989418n78o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+            "desc": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+            "pubDate": "2026-11-10T14:29:00Z",
+            "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
             "desc": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
-            "pubDate": "2026-11-09T22:51:09Z",
+            "pubDate": "2026-11-10T09:25:03Z",
             "link": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "business": [
+          {
+            "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+            "desc": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+            "pubDate": "2026-11-10T14:46:50Z",
+            "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Civil servant who secretly held five jobs found guilty of fraud",
-            "desc": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-            "pubDate": "2026-11-09T17:17:16Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss"
+            "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+            "desc": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+            "pubDate": "2026-11-10T14:15:28Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Poundland unable to buy new stock as fears over collapse grow",
-            "desc": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
-            "pubDate": "2026-11-09T16:46:40Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss"
+            "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+            "desc": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+            "pubDate": "2026-11-10T08:23:21Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "US inflation higher than expected in October - here's what is happening with prices",
+            "desc": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+            "pubDate": "2026-11-10T14:45:46Z",
+            "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+            "desc": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+            "pubDate": "2026-11-10T09:57:49Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "I took Vinted to court to get my money back",
@@ -136,181 +192,137 @@
             "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Man jailed over racist Badenoch death threats",
-            "desc": "Kieran Kyle sent emails to the Tory party leader in which he made racist references, a court hears.",
-            "pubDate": "2026-11-09T13:06:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/c5n494x9kgp0o?at_medium=RSS&at_campaign=rss"
+            "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+            "desc": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+            "pubDate": "2026-11-10T09:23:55Z",
+            "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Ground Force and Homes Under the Hammer star Tommy Walsh dies aged 69",
-            "desc": "The building and DIY expert also appeared on TV shows like Challenge Tommy Walsh and Clean It, Fix It.",
-            "pubDate": "2026-11-09T15:27:00Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck0e0elq4ndpo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Prince William wants more protection from harassment for service women",
-            "desc": "The Prince of Wales says he wants to stop sexual harassment against women in the armed forces.",
-            "pubDate": "2026-11-10T00:41:24Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqp8g85pxe9ro?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "business": [
-          {
-            "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-            "desc": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-            "pubDate": "2026-11-10T01:44:53Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-            "desc": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-            "pubDate": "2026-11-09T19:58:01Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-            "desc": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-            "pubDate": "2026-11-09T21:52:28Z",
-            "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Civil servant who secretly held five jobs found guilty of fraud",
-            "desc": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-            "pubDate": "2026-11-09T17:17:16Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "How a civil servant got away with juggling five jobs for so long",
-            "desc": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
-            "pubDate": "2026-11-09T18:40:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Poundland unable to buy new stock as fears over collapse grow",
-            "desc": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
-            "pubDate": "2026-11-09T16:46:40Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Qantas to outsource 850 local jobs with most roles moving to India ",
-            "desc": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-            "pubDate": "2026-11-10T01:55:22Z",
-            "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-            "desc": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-            "pubDate": "2026-11-09T23:51:22Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+            "title": "The superpower battle over energy – and what it means for your bills",
+            "desc": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+            "pubDate": "2026-11-10T00:08:28Z",
+            "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "sport": [
           {
-            "title": "Man Utd expected to sack head coach Carrick ",
-            "desc": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years.",
-            "pubDate": "2026-11-09T23:13:31Z",
+            "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
+            "desc": "Manchester United head coach Michael Carrick's future will be discussed at a meeting in Monaco on Wednesday.",
+            "pubDate": "2026-11-10T11:23:43Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Kane and Bellingham air strong views in England World Cup review",
-            "desc": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
-            "pubDate": "2026-11-09T17:30:23Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss"
+            "title": "Hill gets first England call-up as Konsa cover",
+            "desc": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley.",
+            "pubDate": "2026-11-10T11:41:27Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "People don't know full story behind England exile - White",
-            "desc": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
-            "pubDate": "2026-11-09T19:00:10Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss"
+            "title": "Australia doomed to live with stench of sandpapergate",
+            "desc": "Usman Khawaja's autobiography has exposed the limbo Australian cricket finds itself stuck in over the sandpaper scandal, writes Stephan Shemilt.",
+            "pubDate": "2026-11-10T14:03:19Z",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Incident-by-incident: Was it a bad weekend for VAR?",
-            "desc": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
-            "pubDate": "2026-11-09T14:34:19Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss"
+            "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+            "desc": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+            "pubDate": "2026-11-10T06:24:50Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Brady ends association with Birmingham City",
-            "desc": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
-            "pubDate": "2026-11-09T22:18:17Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss"
+            "title": "Wenger considers standing against Infantino",
+            "desc": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in Fifa's presidential election in March.",
+            "pubDate": "2026-11-10T08:53:26Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Sabalenka wins WTA Finals opener despite wayward serve",
-            "desc": "Aryna Sabalenka grapples with a misfiring serve as she begins her WTA Finals campaign with a tight victory over Karolina Muchova.",
-            "pubDate": "2026-11-09T23:51:09Z",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cr20w0q8lgy1o?at_medium=RSS&at_campaign=rss"
+            "title": "Jockey Neale, 22, dies after fall during race",
+            "desc": "Australian jockey Izzy Neale passes away following a fall during a race in Australia on Sunday.",
+            "pubDate": "2026-11-10T11:34:41Z",
+            "link": "https://www.bbc.co.uk/sport/horse-racing/articles/c933x3yjk530o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "England wing Feyi-Waboso out of Nations Championship",
-            "desc": "England wing Immanuel Feyi-Waboso is ruled out of the rest of the Nations Championship as his injury misfortune continues.",
-            "pubDate": "2026-11-09T18:33:37Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw5yny20m7jzo?at_medium=RSS&at_campaign=rss"
+            "title": "How good is Hamilton and how long can he stay in F1? - Q&A",
+            "desc": "BBC F1 correspondent Andrew Benson answers your latest questions after the Sao Paulo Grand Prix.",
+            "pubDate": "2026-11-10T08:00:49Z",
+            "link": "https://www.bbc.co.uk/sport/formula1/articles/cmp3g005zyxko?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "How Hawkins overcame illness to star for England",
-            "desc": "When Rob Hawkins replied to what he thought was an advert to play wheelchair basketball in 2014 he could not have imagined he would be a key part of an England side defending their Rugby League World Cup title.",
-            "pubDate": "2026-11-09T15:15:06Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cmvgxgdqgdgvo?at_medium=RSS&at_campaign=rss"
+            "title": "How Germany's greatest goalscorer is guiding the next generation",
+            "desc": "Miroslav Klose rose from amateur to World Cup winner as a player - now the German is forging a similar path as a coach.",
+            "pubDate": "2026-11-10T07:34:07Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmq8nnddpllqo?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-11-10T03:33:43Z",
+      "fetchedAt": "2026-11-10T14:50:44Z",
       "sections": {
         "top": [
           {
-            "title": "Federal government budgets record $12M for Justin Trudeau's archives — the most for any former PM",
-            "desc": "Canadian taxpayers could pay $12 million for former prime minister Justin Trudeau's records from his decade in office — the most the government has ever paid for the archives of any prime minister.",
-            "pubDate": "2026-11-09T16:37:25Z",
-            "link": "https://www.cbc.ca/news/politics/trudeau-harper-library-archives-9.7413258?cmp=rss"
-          },
-          {
-            "title": "Premier Doug Ford suggests 'ass whooping' for 2 boys connected to alleged assault of Hamilton cadet leader",
-            "desc": "Ontario Premier Doug Ford commented on an alleged assault in Hamilton, saying the parents of two boys police say were involved should \"give your kids a little ass whooping in the wood shed.\"",
-            "pubDate": "2026-11-09T19:20:14Z",
-            "link": "https://www.cbc.ca/news/canada/hamilton/doug-ford-alleged-cadet-leader-assault-hamilton-9.7415639?cmp=rss"
-          },
-          {
-            "title": "Could Nvidia survive without its ultra-powerful CEO, Jensen Huang?",
+            "title": "Amid sky-high oilpatch profits, Alberta's premier wants to offer oil companies a new subsidy. Here's why",
             "desc": "",
-            "pubDate": "2026-11-09T08:48:50Z",
-            "link": "https://www.cbc.ca/news/business/nvidia-survive-without-jensen-huang-ceo-9.7415544?cmp=rss"
+            "pubDate": "2026-11-10T09:15:29Z",
+            "link": "https://www.cbc.ca/news/canada/calgary/oilsands-oilpatch-danielle-smith-royalty-incentive-9.7415489?cmp=rss"
           },
           {
-            "title": "$276 for hair ties? Skims offers advent calendar refunds after online backlash",
-            "desc": "After intense customer backlash, Kim Kardashian's apparel brand Skims is offering refunds to anyone who purchased its 2026 accessories advent calendar, which costs $276 and was advertised as \"12 fun days of surprises.\"",
-            "pubDate": "2026-11-09T14:23:00Z",
-            "link": "https://www.cbc.ca/news/entertainment/skims-advent-calendar-backlash-9.7414783?cmp=rss"
+            "title": "Anthropic eyes $1 trillion US valuation in hotly anticipated IPO that's a key test for AI market",
+            "desc": "Anthropic's initial public offering  plans to raise as much as $64.4 billion US, a regulatory filing showed on Tuesday, testing Wall Street's faith in the AI boom amid growing worries about its risks.",
+            "pubDate": "2026-11-10T09:20:09Z",
+            "link": "https://www.cbc.ca/news/business/anthropic-ipo-9.7416077?cmp=rss"
           },
           {
-            "title": "The National | U.S. Republican moves to impeach Hegseth",
-            "desc": "Nov. 9, 2026 | An outgoing Republican representative introduces articles of impeachment against embattled U.S. Secretary of War Pete Hegseth. Stellantis sells a major Ontario assembly plant to a Canadian armoured vehicle maker. And, Nvidia CEO Jensen Huang is investigated for his affair with an alleged Chinese spy.",
-            "pubDate": "2026-11-09T21:00:00Z",
-            "link": "https://www.cbc.ca/player/play/9.4236164?cmp=rss"
+            "title": "Where Trump goes now on the big 3: tariffs, Iran war, immigration",
+            "desc": "",
+            "pubDate": "2026-05-27T12:12:48Z",
+            "link": "https://www.cbc.ca/news/world/trump-tariffs-war-iran-immigration-9.7415288?cmp=rss"
           },
           {
-            "title": "Roshel to buy Stellantis assembly plant in Brampton for undisclosed amount, automaker says",
-            "desc": "Canadian armoured vehicle maker Roshel Inc. will buy the Stellantis assembly plant in Brampton, Ont., the automaker announced Monday.",
-            "pubDate": "2026-11-09T16:11:14Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/stellantis-brampton-plant-9.7415345?cmp=rss"
+            "title": "Military budget squeeze limits paid Remembrance Day participation in Ontario",
+            "desc": "Despite billions in new defence spending, military budget restraints are limiting paid Remembrance Day participation in southwestern Ontario. Leaked emails reveal commanders capped attendance at 50 reservists per unit, prompting complaints from troops. The military says soldiers can still attend ceremonies in uniform, but without being paid.",
+            "pubDate": "2026-11-10T04:00:00Z",
+            "link": "https://www.cbc.ca/news/politics/military-canada-defence-budget-cuts-9.7415731?cmp=rss"
           },
           {
-            "title": "Booker Prize goes to post-apocalyptic, sci-fi novel The End of Everything",
-            "desc": "English author M. John Harrison has won the 2026 Booker Prize for his novel The End of Everything, a post-apocalyptic adventure that explores what it means to be human in a shifting world. It's the first time a science fiction writer has won the annual prize, which honours the best novel written in English.",
-            "pubDate": "2026-11-09T17:13:56Z",
-            "link": "https://www.cbc.ca/books/m-john-harrison-2026-booker-prize-the-end-of-everything-9.7415530?cmp=rss"
+            "title": "Specialized burn treatments deployed for soldiers injured in Alberta military base fire",
+            "desc": "",
+            "pubDate": "2026-11-05T11:35:57Z",
+            "link": "https://www.cbc.ca/news/canada/edmonton/specialized-burn-treatments-soldiers-wainwright-military-base-fire-9.7415813?cmp=rss"
           },
           {
-            "title": "Mother testifies police killing of autistic son in Surrey, B.C., left her 'broken'",
-            "desc": "At the coroner's inquest into the death of Chase de Balinhard, mother Crystal de Balinhard described the day he was been killed.",
-            "pubDate": "2026-11-09T19:41:57Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/chase-de-balinhard-inquest-9.7415605?cmp=rss"
+            "title": "Hamilton, 3 other expansion PWHL teams reveal names and logos ahead of inaugural season",
+            "desc": "Hamilton Havoc, Detroit Clutch, San Jose Sea Lions and Vegas Vanguards will begin play this upcoming season. All four now have logos, but they won't appear on the teams' jerseys until the 2027-28 season.",
+            "pubDate": "2026-11-10T08:30:00Z",
+            "link": "https://www.cbc.ca/sports/hockey/pwhl/pwhl-expansion-teams-names-logos-9.7415841?cmp=rss"
+          },
+          {
+            "title": "Defiant Hegseth calls Republican's impeachment resolution a 'farce'",
+            "desc": "U.S. Secretary of War Pete Hegseth condemned a resolution in the House of Representatives calling for his impeachment, describing it as a \"farce\" from a \"disgruntled congressman\" who is leaving office.",
+            "pubDate": "2026-11-10T09:42:08Z",
+            "link": "https://www.cbc.ca/news/world/hegseth-impeachment-resolution-reaction-9.7416083?cmp=rss"
+          },
+          {
+            "title": "Why health care for Canadian women veterans is falling short",
+            "desc": "Women are the fastest growing segment of Canada’s veteran population, but they have complex physical and mental health problems that often get treated in isolation. A report released in June identified an urgent need for co-ordinated, trauma-informed care for female vets with chronic pain.",
+            "pubDate": "2026-11-10T04:00:00Z",
+            "link": "https://www.cbc.ca/radio/whitecoat/women-veterans-health-care-9.7414966?cmp=rss"
           }
         ],
         "world": [
+          {
+            "title": "Where Trump goes now on the big 3: tariffs, Iran war, immigration",
+            "desc": "After his party's calamitous loss in the midterms, a looming question is whether U.S. President Donald Trump will shift course on any of his three biggest initiatives since returning to the White House: tariffs, the war with Iran and immigration enforcement.",
+            "pubDate": "2026-11-10T04:00:00Z",
+            "link": "https://www.cbc.ca/news/world/trump-tariffs-war-iran-immigration-9.7415288?cmp=rss"
+          },
+          {
+            "title": "Defiant Hegseth calls Republican's impeachment resolution a 'farce'",
+            "desc": "U.S. Secretary of War Pete Hegseth condemned a resolution in the House of Representatives calling for his impeachment, describing it as a \"farce\" from a \"disgruntled congressman\" who is leaving office.",
+            "pubDate": "2026-11-10T09:42:08Z",
+            "link": "https://www.cbc.ca/news/world/hegseth-impeachment-resolution-reaction-9.7416083?cmp=rss"
+          },
           {
             "title": "Trump downplays FBI probe into Nvidia chief's affair with alleged spy",
             "desc": "U.S. President Donald Trump said Monday that the FBI is investigating Nvidia CEO Jensen Huang's affair with an alleged Chinese government agent, but said he doesn't think the executive who has helped to develop artificial intelligence has a reason to worry.",
@@ -333,7 +345,7 @@
             "title": "U.S. House Republican moves to force vote on impeaching Pete Hegseth",
             "desc": "Republican Rep. Thomas Massie moved Monday to force a vote to impeach Secretary of War Pete Hegseth, putting pressure on his fellow Republicans to decide whether to remove one of the Trump administration's most prominent figures following sweeping election losses.",
             "pubDate": "2026-11-09T15:24:23Z",
-            "link": "https://www.cbc.ca/news/world/hegaseth-impeachment-motion-thomas-massie-9.7415356?cmp=rss"
+            "link": "https://www.cbc.ca/news/world/hegseth-impeachment-motion-thomas-massie-9.7415356?cmp=rss"
           },
           {
             "title": "Could Nvidia survive without its ultra-powerful CEO, Jensen Huang?",
@@ -346,21 +358,27 @@
             "desc": "The Polish gunman who killed six people in Krakow has been identified as 24-year-old Michal Oksinski. But is that the person shown in this photo circulating online? CBC’s Fact Check team debunks the misinformation.",
             "pubDate": "2026-11-09T16:34:53Z",
             "link": "https://www.cbc.ca/player/play/9.7415501?cmp=rss"
-          },
-          {
-            "title": "2026 Booker Prize goes to post-apocalyptic, sci-fi novel The End of Everything",
-            "desc": "English author M. John Harrison has won the 2026 Booker Prize for his novel The End of Everything, a post-apocalyptic adventure that explores what it means to be human in a shifting world. It's the first time a science fiction writer has won the annual prize, which honours the best novel written in English.",
-            "pubDate": "2026-11-09T17:13:56Z",
-            "link": "https://www.cbc.ca/books/m-john-harrison-2026-booker-prize-the-end-of-everything-9.7415530?cmp=rss"
-          },
-          {
-            "title": "Nvidia's shares slide as chip giant probes CEO Jensen Huang over spy claims",
-            "desc": "Nvidia shares tumbled in early trading on Monday after an internal investigation into whether CEO Jensen Huang had been targeted by a foreign intelligence effort put his future at the AI chipmaker under scrutiny.",
-            "pubDate": "2026-11-09T08:47:52Z",
-            "link": "https://www.cbc.ca/news/business/nvidia-shares-ceo-jensen-huang-probe-9.7414655?cmp=rss"
           }
         ],
         "canada": [
+          {
+            "title": "Military budget squeeze limits paid Remembrance Day participation in Ontario",
+            "desc": "Despite billions in new defence spending, military budget restraints are limiting paid Remembrance Day participation in southwestern Ontario. Leaked emails reveal commanders capped attendance at 50 reservists per unit, prompting complaints from troops. The military says soldiers can still attend ceremonies in uniform, but without being paid.",
+            "pubDate": "2026-11-10T04:00:00Z",
+            "link": "https://www.cbc.ca/news/politics/military-canada-defence-budget-cuts-9.7415731?cmp=rss"
+          },
+          {
+            "title": "Why Danielle Smith wants to give a subsidy to the oilpatch despite near-record profits",
+            "desc": "The Alberta government is preparing to unveil new subsidies later this month for oil companies to ramp up production to help fill the province’s proposed Pacific Link pipeline to the West Coast.",
+            "pubDate": "2026-11-10T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/calgary/oilsands-oilpatch-danielle-smith-royalty-incentive-9.7415489?cmp=rss"
+          },
+          {
+            "title": "N.L. man could be barred from entering U.S. due to Trump Facebook comment",
+            "desc": "A man in St. John’s, N.L., could be barred from ever travelling south of the border after the U.S. Secret Service flagged a Facebook comment he doesn’t even remember making against President Donald Trump.",
+            "pubDate": "2026-11-10T04:30:00Z",
+            "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-man-investigated-rcmp-trump-comment-9.7414794?cmp=rss"
+          },
           {
             "title": "Premier Doug Ford suggests 'ass whooping' for 2 boys connected to alleged assault of Hamilton cadet leader",
             "desc": "Ontario Premier Doug Ford commented on an alleged assault in Hamilton, saying the parents of two boys police say were involved should \"give your kids a little ass whooping in the wood shed.\"",
@@ -374,43 +392,55 @@
             "link": "https://www.cbc.ca/news/canada/british-columbia/zeballos-bc-evacuation-orders-update-9.7415764?cmp=rss"
           },
           {
-            "title": "Man who used fraudulent passport to get in and out of Canada 16 times handed 2-year sentence",
-            "desc": "A Ghanaian man who used a fraudulent Canadian passport to leave and re-enter the country 16 times has been sentenced to two years in prison for citizenship fraud.",
-            "pubDate": "2026-11-09T16:26:43Z",
-            "link": "https://www.cbc.ca/news/canada/calgary/citizenship-fraud-canadian-passport-jefferson-zormelo-sentence-9.7415395?cmp=rss"
-          },
-          {
-            "title": "Mother testifies police killing of autistic son in Surrey, B.C., left her 'broken'",
-            "desc": "At the coroner's inquest into the death of Chase de Balinhard, mother Crystal de Balinhard described the day he was been killed.",
-            "pubDate": "2026-11-09T19:41:57Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/chase-de-balinhard-inquest-9.7415605?cmp=rss"
-          },
-          {
             "title": "Canadian ultramarathoner Stephanie Case is the 1st woman to run 100 miles in Antarctica",
             "desc": "Canadian ultramarathoner Stephanie Case completed the Antarctic Ice Ultra in Queen Maud Land, Eastern Antarctica, on Sunday, making her the first woman to run 100 miles, or 160.9 kilometres, on the southernmost continent covered by the largest ice sheet in the world.",
             "pubDate": "2026-11-09T17:19:47Z",
             "link": "https://www.cbc.ca/news/canada/canadian-ultramarathon-antarctica-woman-stephanie-case-9.7415361?cmp=rss"
           },
           {
-            "title": "Roshel to buy Stellantis assembly plant in Brampton for undisclosed amount, automaker says",
-            "desc": "Canadian armoured vehicle maker Roshel Inc. will buy the Stellantis assembly plant in Brampton, Ont., the automaker announced Monday.",
-            "pubDate": "2026-11-09T16:11:14Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/stellantis-brampton-plant-9.7415345?cmp=rss"
+            "title": "Man who used fraudulent passport to get in and out of Canada 16 times handed 2-year sentence",
+            "desc": "A Ghanaian man who used a fraudulent Canadian passport to leave and re-enter the country 16 times has been sentenced to two years in prison for citizenship fraud.",
+            "pubDate": "2026-11-09T16:26:43Z",
+            "link": "https://www.cbc.ca/news/canada/calgary/citizenship-fraud-canadian-passport-jefferson-zormelo-sentence-9.7415395?cmp=rss"
           },
           {
-            "title": "Canadian astronaut Joshua Kutryk does a Q&A (and a backflip) from space",
-            "desc": "Canadian astronaut Joshua Kutryk answered questions from students in St. John's and showed off life in zero gravity from aboard the International Space Station on Monday.",
-            "pubDate": "2026-11-09T17:27:04Z",
-            "link": "https://www.cbc.ca/player/play/9.7415541?cmp=rss"
-          },
-          {
-            "title": "Ottawa doubles maximum time employer can hire low-wage temporary foreign workers",
-            "desc": "The government said restrictions on hiring temporary foreign workers in cities with unemployment rates above six per cent will remain in place. But Ottawa is adding early childhood educators to the list of professions exempted from those restrictions, which already includes certain jobs in health care, construction and food processing.",
-            "pubDate": "2026-11-09T16:42:38Z",
-            "link": "https://www.cbc.ca/news/politics/temporary-foreign-worker-program-9.7415498?cmp=rss"
+            "title": "‘A lot of different ideas’: Canada’s sport leaders meet in Ottawa to discuss next steps",
+            "desc": "The Playground to Podium Summit began Monday at the National Arts Centre in Ottawa, bringing together around 400 of Canada's pre-eminent sports leaders with the intention of charting a new path forward for an industry that was in desperate need of a refresh.",
+            "pubDate": "2026-11-09T18:53:30Z",
+            "link": "https://www.cbc.ca/sports/playground-to-podium-summit-ottawa-day1-9.7415767?cmp=rss"
           }
         ],
         "bc": [
+          {
+            "title": "More than 250 mm of rain forecast for some B.C. areas as storm makes landfall",
+            "desc": "The B.C. River Forecast Centre has issued flood watches for the South Coast, Vancouver Island and river basins in the Central Coast and Fraser Valley.",
+            "pubDate": "2026-11-10T06:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/southwest-bc-fall-storm-nov-9-9.7415915?cmp=rss"
+          },
+          {
+            "title": "Afghan singer who fled Taliban repression talks about finding his voice again in B.C.",
+            "desc": "Once a celebrated singer in Afghanistan, Aqil Sharifi fled Taliban rule and moved to Canada in 2023. He reflects on leaving his family and homeland behind while preserving the Afghan and Indian classical music traditions passed down through generations.",
+            "pubDate": "2026-11-10T09:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/aqil-sharifi-q-a-singer-who-fled-taliban-rule-in-afghanistan-9.7413097?cmp=rss"
+          },
+          {
+            "title": "How are 3 labour disputes affecting the Port of Prince Rupert?",
+            "desc": "A trio of labour disputes at the Port of Prince Rupert are threatening to slow down shipments overseas, as Canada looks to diversify trade away from the United States.",
+            "pubDate": "2026-11-10T08:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/prince-rupert-labour-disputes-9.7413422?cmp=rss"
+          },
+          {
+            "title": "Descendants say reviving Japanese Canadian veterans' Legion rights historical wrong",
+            "desc": "After internment forced its closure, a Legion that served Japanese Canadian veterans of the First World War is being resurrected.",
+            "pubDate": "2026-11-10T07:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/japanese-canadian-legion-revival-bc-9.7415415?cmp=rss"
+          },
+          {
+            "title": "Why health care for Canadian women veterans is falling short",
+            "desc": "Women are the fastest growing segment of Canada’s veteran population, but they have complex physical and mental health problems that often get treated in isolation. A report released in June identified an urgent need for co-ordinated, trauma-informed care for female vets with chronic pain.",
+            "pubDate": "2026-11-10T04:00:00Z",
+            "link": "https://www.cbc.ca/radio/whitecoat/women-veterans-health-care-9.7414966?cmp=rss"
+          },
           {
             "title": "Changes to Canada's caregiver benefit 'an excellent step,' but more needed: advocates",
             "desc": "An advocate for British Columbia caregivers says proposed changes to a federal tax credit will help throw a lifeline to struggling families, but that \"more support is still needed financially.\"",
@@ -428,86 +458,56 @@
             "desc": "At the coroner's inquest into the death of Chase de Balinhard, mother Crystal de Balinhard described the day he was been killed.",
             "pubDate": "2026-11-09T19:41:57Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/chase-de-balinhard-inquest-9.7415605?cmp=rss"
-          },
-          {
-            "title": "First Nation in Alberta launches lawsuit claiming B.C. hydroelectric projects violate rights",
-            "desc": "Chief Allan Adam filed a notice of civil claim on behalf of the First Nation in B.C. Supreme Court last week, claiming the projects have unlawfully interfered with the Athabasca Chipewyan's treaty rights, dating from the 1960s when the W.A.C. Bennett Dam was built.",
-            "pubDate": "2026-11-09T19:59:56Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/athabasca-chipewyan-first-nation-bc-hydroelectric-9.7415742?cmp=rss"
-          },
-          {
-            "title": "Community-led search for missing Ma’amtagila Nation man amplifies, family says resources still needed",
-            "desc": "Community resources for a family-led search have intensified for a missing Ma’amtagila Nation father last seen canoeing in ocean waters 85 kilometres northwest of Campbell River, B.C., on Vancouver Island.",
-            "pubDate": "2026-11-09T18:57:19Z",
-            "link": "https://www.cbc.ca/news/indigenous/james-smith-missing-maamtagila-nation-9.7415743?cmp=rss"
-          },
-          {
-            "title": "Operations at Quesnel River Pulp curtailed indefinitely, company says",
-            "desc": "Millar Western Forest Products Ltd. says it will indefinitely curtail operations at  Quesnel River Pulp mill.",
-            "pubDate": "2026-11-09T19:23:41Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/quesnel-pulp-mill-indefinite-curtailment-9.7415856?cmp=rss"
-          },
-          {
-            "title": "Mental state of Steven Galloway's accuser detailed at ongoing defamation trial",
-            "desc": "Galloway is suing his accuser and other defendants, alleging they defamed him by publishing unproven claims on social media and elsewhere.",
-            "pubDate": "2026-11-09T18:08:53Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/steven-galloway-pr-expert-trial-9.7415662?cmp=rss"
-          },
-          {
-            "title": "Canada can't control climate change on its own, economist tells landmark trial",
-            "desc": "The case was brought by 15 youth, who argue that federal legislation violates their constitutional rights by continuing the trajectory of greenhouse gas emissions.",
-            "pubDate": "2026-11-09T17:44:11Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/canada-climate-change-trial-economist-youth-9.7415629?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Driver who killed cyclist gets two-year driving prohibition",
-            "desc": "The judge who handed down the sentence for running a red light and fatally striking a cyclist on Quadra Street acknowledged that many will see it as “grossly inadequate.”",
-            "pubDate": "2026-11-10T11:30:00Z",
-            "link": "https://www.nsnews.com/bc-news/driver-who-killed-cyclist-gets-two-year-driving-prohibition-12998020"
+            "title": "UN body agrees to postpone review of US rights record after Trump administration snub",
+            "desc": "GENEVA (AP) — The U.N.’s top human rights body has agreed by consensus to push back a regular review of the U.S. human rights record until January, after the Trump administration snubbed the process.",
+            "pubDate": "2026-11-10T14:22:15Z",
+            "link": "https://www.nsnews.com/world-news/un-body-agrees-to-postpone-review-of-us-rights-record-after-trump-administration-snub-13000237"
           },
           {
-            "title": "Photos: Vancouver Opera members perform for Amica West Vancouver residents",
-            "desc": "The professional performers delivered standards from Madama Butterfly, Tosca and The Barber of Seville",
-            "pubDate": "2026-11-10T03:30:00Z",
-            "link": "https://www.nsnews.com/local-news/photos-vancouver-opera-members-perform-for-amica-west-vancouver-residents-12998650"
+            "title": "'Grand Theft Auto VI' is almost here. What to know about the characters, music and billions at stake",
+            "desc": "LOS ANGELES (AP) —  “Grand Theft Auto”  has never been much for following the rules.",
+            "pubDate": "2026-11-10T14:19:13Z",
+            "link": "https://www.nsnews.com/the-mix/grand-theft-auto-vi-is-almost-here-what-to-know-about-the-characters-music-and-billions-at-stake-12997205"
           },
           {
-            "title": "Ty Jerome's 27-point night powers Grizzlies past undermanned Raptors 118-102",
-            "desc": "TORONTO — Ty Jerome led all scorers with 27 points as the Memphis Grizzlies topped the undermanned Toronto Raptors 118-102 on Monday.  Jerome, an early candidate for Most Improved Player, also had six rebounds and two assists for Memphis (7-3).",
-            "pubDate": "2026-11-10T03:03:11Z",
-            "link": "https://www.nsnews.com/national-sports/ty-jeromes-27-point-night-powers-grizzlies-past-undermanned-raptors-118-102-12999093"
+            "title": "British children's author David Walliams accused of sexual misconduct",
+            "desc": "LONDON (AP) — British children’s author and comedian  David Walliams  used his fame to groom girls and young women for sex, two British news outlets reported on Tuesday.",
+            "pubDate": "2026-11-10T14:05:47Z",
+            "link": "https://www.nsnews.com/the-mix/british-childrens-author-david-walliams-accused-of-sexual-misconduct-13000236"
           },
           {
-            "title": "Carey Price leads 2026 induction class into Hockey Hall of Fame",
-            "desc": "TORONTO — Carey Price first visited the Hockey Hall of Fame as a teenager.",
-            "pubDate": "2026-11-10T02:52:34Z",
-            "link": "https://www.nsnews.com/national-sports/carey-price-leads-2026-induction-class-into-hockey-hall-of-fame-12999543"
+            "title": "The Literary Arts Fund gives $250,000 prizes to 3 literary nonprofits",
+            "desc": "NEW YORK (AP) — A Minneapolis-based publishing house, a Nashville-based writers collective and a New York City-based magazine dedicated to short fiction have each received $250,000 grants from a philanthropy launched in 2025 to benefit literary nonpr",
+            "pubDate": "2026-11-10T14:04:12Z",
+            "link": "https://www.nsnews.com/the-mix/the-literary-arts-fund-gives-250000-prizes-to-3-literary-nonprofits-13000071"
           },
           {
-            "title": "California voters reject measure to tax the wealth of billionaires",
-            "desc": "WASHINGTON (AP) — California voters have rejected a  first-in-the-nation tax  on the net worth of billionaires following a  contentious  ballot fight that generated huge spending by some prominent tech leaders eager to stop their taxes from going up.",
-            "pubDate": "2026-11-10T02:47:17Z",
-            "link": "https://www.nsnews.com/world-news/california-voters-reject-measure-to-tax-the-wealth-of-billionaires-12999541"
+            "title": "Devils goalie Hellebuyck won't play against Jets tonight in return to Winnipeg",
+            "desc": "WINNIPEG — Connor Hellebuyck will face the media — but not the Jets — when he returns to Winnipeg for the first time since his trade to the New Jersey Devils.",
+            "pubDate": "2026-11-10T14:04:10Z",
+            "link": "https://www.nsnews.com/national-sports/devils-goalie-hellebuyck-wont-play-against-jets-tonight-in-return-to-winnipeg-12999775"
           },
           {
-            "title": "Republican Ken Calvert wins reelection to U.S. House in California's 40th Congressional District",
-            "desc": "Republican Ken Calvert won election Monday to the U.S. House of Representatives representing California's 40th Congressional District, defeating Republican incumbent Young Kim.",
-            "pubDate": "2026-11-10T02:32:15Z",
-            "link": "https://www.nsnews.com/world-news/republican-ken-calvert-wins-reelection-to-us-house-in-californias-40th-congressional-district-12999520"
+            "title": "Press Forward completes nearly $600M in journalism investments about 2 years early",
+            "desc": "Press Forward, the nonprofit  launched in 2023  to strengthen local news as outlets struggle with economic and technological changes, announced Tuesday that it has completed investing nearly $600 million in journalism organizations, about two years a",
+            "pubDate": "2026-11-10T14:01:25Z",
+            "link": "https://www.nsnews.com/the-mix/press-forward-completes-nearly-600m-in-journalism-investments-about-2-years-early-13000072"
           },
           {
-            "title": "Dabrowski, Stefani win doubles opener in WTA Finals",
-            "desc": "INDIAN WELLS — Gabriela Dabrowski of Ottawa and her Brazilian playing partner Luisa Stefani opened the W-T-A Finals doubles tournament at the Indian Wells Tennis Garden on Monday with a straight-sets victory over Belgian Elise Mertens and Zhang Shuai",
-            "pubDate": "2026-11-10T02:10:55Z",
-            "link": "https://www.nsnews.com/national-sports/dabrowski-stefani-win-doubles-opener-in-wta-finals-12999521"
+            "title": "Hegseth says bipartisan impeachment push is about ‘policy disagreements,’ not high crimes",
+            "desc": "WASHINGTON (AP) —  Defense Secretary Pete Hegseth  dug in for a fight Tuesday against his potential impeachment in Congress, telling reporters that a rogue lawmaker is targeting him over “policy disagreements” and not the high crimes or offenses the",
+            "pubDate": "2026-11-10T13:56:53Z",
+            "link": "https://www.nsnews.com/world-news/hegseth-says-bipartisan-impeachment-push-is-about-policy-disagreements-not-high-crimes-12999957"
           },
           {
-            "title": "The Rock & Roll Hall of Fame ceremony is this weekend. Who's getting in, and who's honoring them?",
-            "desc": "LOS ANGELES (AP) —  Billy Idol ,  Oasis ,  Wu-Tang Clan , Phil Collins,  Sade ,  Queen Latifah ,  Iron Maiden , Joy Division/New Order and the late  Luther Vandross  will be inducted into the  Rock &amp; Roll Hall of Fame  on Saturday.",
-            "pubDate": "2026-11-10T01:57:47Z",
-            "link": "https://www.nsnews.com/the-mix/the-rock-roll-hall-of-fame-ceremony-is-this-weekend-whos-getting-in-and-whos-honoring-them-12997941"
+            "title": "Pet food and supplies retailer Pet Valu reports Q3 profit and sales up from year ago",
+            "desc": "MARKHAM — Pet Valu Holdings Ltd. reported its third-quarter profit rose compared with year ago, helped by improved sales.  The pet food and supplies retailer said it earned $26.3 million or 39 cents per diluted share for the quarter, up from $24.",
+            "pubDate": "2026-11-10T13:52:44Z",
+            "link": "https://www.nsnews.com/national-business/pet-food-and-supplies-retailer-pet-valu-reports-q3-profit-and-sales-up-from-year-ago-13000079"
           }
         ]
       },
