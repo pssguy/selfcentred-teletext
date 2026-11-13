@@ -2,20 +2,32 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-11-13T17:11:13Z",
+      "fetchedAt": "2026-11-13T23:31:01Z",
       "sections": {
         "top": [
           {
             "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-            "desc": "The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week.",
+            "desc": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
             "pubDate": "2026-11-13T16:53:50Z",
             "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Why is the Microsoft outage lasting so long?",
-            "desc": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
-            "pubDate": "2026-11-13T14:21:26Z",
-            "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+            "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+            "desc": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+            "pubDate": "2026-11-13T22:12:33Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+            "desc": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+            "pubDate": "2026-11-13T21:14:22Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+            "desc": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+            "pubDate": "2026-11-13T16:40:31Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Former Hamas bodyguard guilty of UK knife attack",
@@ -30,35 +42,29 @@
             "link": "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-            "desc": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-            "pubDate": "2026-11-13T16:40:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
+            "title": "New campaign against EU membership launches ahead of UK-EU summit",
+            "desc": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
+            "pubDate": "2026-11-13T21:39:46Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
-            "desc": "Reform's Zia Yusuf and Tory Chris Philp were speaking against converting a former military site into asylum accommodation.",
-            "pubDate": "2026-11-13T14:34:21Z",
-            "link": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "More women make allegations against Russell Brand",
-            "desc": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
-            "pubDate": "2026-11-13T12:14:17Z",
-            "link": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-            "desc": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-            "pubDate": "2026-11-13T12:22:30Z",
-            "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
+            "title": "Man jailed for grooming at least 70 girls online",
+            "desc": "Bilal Kazi targeted his victims - aged between 10 and 17 - using Snapchat, Wink and Roblox.",
+            "pubDate": "2026-11-13T17:10:27Z",
+            "link": "https://www.bbc.co.uk/news/articles/ckqx5r3j2j4xo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
           {
-            "title": "Why is the Microsoft outage lasting so long?",
-            "desc": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
-            "pubDate": "2026-11-13T14:21:26Z",
+            "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+            "desc": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+            "pubDate": "2026-11-13T21:14:22Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+            "desc": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+            "pubDate": "2026-11-13T18:36:57Z",
             "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -68,46 +74,40 @@
             "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-            "desc": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-            "pubDate": "2026-11-13T03:57:01Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+            "title": "SpaceX to attempt double catch of huge Starship rocket",
+            "desc": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+            "pubDate": "2026-11-13T20:12:02Z",
+            "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-            "desc": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-            "pubDate": "2026-11-13T02:01:35Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+            "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+            "desc": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+            "pubDate": "2026-11-13T16:40:31Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-            "desc": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
-            "pubDate": "2026-11-13T12:28:28Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss"
+            "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+            "desc": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+            "pubDate": "2026-11-13T19:53:57Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-            "desc": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-            "pubDate": "2026-11-13T07:01:43Z",
-            "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss"
+            "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+            "desc": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+            "pubDate": "2026-11-13T18:34:45Z",
+            "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Nigerian university in mourning after four students die at post-exam party",
-            "desc": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
-            "pubDate": "2026-11-13T11:37:08Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-            "desc": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-            "pubDate": "2026-11-13T02:48:29Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
+            "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+            "desc": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+            "pubDate": "2026-11-13T15:42:52Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
           {
             "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-            "desc": "The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week.",
+            "desc": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
             "pubDate": "2026-11-13T16:53:50Z",
             "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
           },
@@ -116,6 +116,12 @@
             "desc": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
             "pubDate": "2026-11-13T13:41:25Z",
             "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+            "desc": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+            "pubDate": "2026-11-13T22:12:33Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Former Hamas bodyguard guilty of UK knife attack",
@@ -130,16 +136,10 @@
             "link": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Doctor burnout putting maternity patients at risk, says regulator",
-            "desc": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
-            "pubDate": "2026-11-13T00:55:31Z",
-            "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Eleanor Donaldson given supervision order and placed on sex offenders' register",
-            "desc": "Eleanor Donaldson was found to have done the acts in relation to five charges, including four of aiding and abetting his offending, in a 'trial of the facts'.",
-            "pubDate": "2026-11-13T12:09:54Z",
-            "link": "https://www.bbc.co.uk/news/articles/cme87dnngnwjo?at_medium=RSS&at_campaign=rss"
+            "title": "Probation officers to take industrial action over pay and early release scheme",
+            "desc": "It comes as prisons prepare to free more inmates early in the coming months.",
+            "pubDate": "2026-11-13T22:39:33Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6pv92pl02kpo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "'Hardest challenge of my life' - Owain Wyn Evans completes Children in Need ride",
@@ -148,17 +148,23 @@
             "link": "https://www.bbc.co.uk/news/articles/cr86895201y9o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Man who transported Omagh bomb was an MI5 and Garda agent, inquiry told",
-            "desc": "The Policeman who headed up the investigation told the inquiry the bomb carrier may have been a Garda and MI5 agent.",
-            "pubDate": "2026-11-13T16:43:39Z",
-            "link": "https://www.bbc.co.uk/news/articles/cr0jxwv1v266o?at_medium=RSS&at_campaign=rss"
+            "title": "Man jailed for grooming at least 70 girls online",
+            "desc": "Bilal Kazi targeted his victims - aged between 10 and 17 - using Snapchat, Wink and Roblox.",
+            "pubDate": "2026-11-13T17:10:27Z",
+            "link": "https://www.bbc.co.uk/news/articles/ckqx5r3j2j4xo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
           {
-            "title": "Why is the Microsoft outage lasting so long?",
-            "desc": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
-            "pubDate": "2026-11-13T14:21:26Z",
+            "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+            "desc": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+            "pubDate": "2026-11-13T21:14:22Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+            "desc": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+            "pubDate": "2026-11-13T18:36:57Z",
             "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -168,9 +174,9 @@
             "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+            "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
             "desc": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-            "pubDate": "2026-11-13T15:40:08Z",
+            "pubDate": "2026-11-13T19:53:57Z",
             "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -196,15 +202,27 @@
             "desc": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
             "pubDate": "2026-11-13T01:17:58Z",
             "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-            "desc": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-            "pubDate": "2026-11-12T15:10:32Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "sport": [
+          {
+            "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+            "desc": "What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
+            "pubDate": "2026-11-13T22:53:17Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "France hold nerve to edge past South Africa in thriller",
+            "desc": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
+            "pubDate": "2026-11-13T23:03:36Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+            "desc": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
+            "pubDate": "2026-11-13T22:37:30Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss"
+          },
           {
             "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
             "desc": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
@@ -212,28 +230,10 @@
             "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
-            "desc": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
-            "pubDate": "2026-11-13T12:09:48Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Surfing speedster Beardman gives a glimpse of Ashes future",
-            "desc": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.",
-            "pubDate": "2026-11-13T11:39:43Z",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Fernandes rejects second Man Utd contract offer",
-            "desc": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.",
-            "pubDate": "2026-11-13T09:55:01Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Whatever happened to the diamond that went missing in F1 crash?",
-            "desc": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
-            "pubDate": "2026-11-13T06:12:20Z",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss"
+            "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
+            "desc": "Eight people face prison sentences for their part in mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili at a hotel in Abu Dhabi on Wednesday.",
+            "pubDate": "2026-11-13T17:15:52Z",
+            "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Sharks, ladders and a four-year plan - how England won World Cup",
@@ -242,75 +242,93 @@
             "link": "https://www.bbc.co.uk/sport/rugby-league/articles/crly54evvvv4o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "The driving-maul try machine - why rugby's steamroller gained traction",
-            "desc": "A kick to the corner is now a no-brainer for captains, with the driving maul a more potent weapon than ever.",
-            "pubDate": "2026-11-13T11:09:41Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy0egy6zkk0o?at_medium=RSS&at_campaign=rss"
+            "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+            "desc": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
+            "pubDate": "2026-11-13T22:11:27Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
-            "desc": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
-            "pubDate": "2026-11-13T04:26:57Z",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss"
+            "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
+            "desc": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
+            "pubDate": "2026-11-13T21:53:37Z",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-11-13T17:11:14Z",
+      "fetchedAt": "2026-11-13T23:31:01Z",
       "sections": {
         "top": [
           {
-            "title": "Richard Neil found guilty in 1990s 'woodland rapist' cold case",
-            "desc": "A three-decade search for a predator dubbed southern Ontario's \"woodland rapist\" has ended with a Toronto man convicted of kidnapping and sexual assault.",
-            "pubDate": "2026-11-13T11:11:43Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/richard-neil-woodland-verdict-9.7409563?cmp=rss"
+            "title": "Flights grounded across U.S. due to outage affecting air traffic control, FAA says",
+            "desc": "",
+            "pubDate": "2026-11-13T17:18:32Z",
+            "link": "https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss"
           },
           {
-            "title": "Microsoft blames server problems on issue affecting businesses, governments in multiple countries",
+            "title": "Stelco recalling 175 laid-off workers at Hamilton steel plant",
+            "desc": "",
+            "pubDate": "2026-11-13T14:04:12Z",
+            "link": "https://www.cbc.ca/news/politics/stelco-recalling-175-laid-off-workers-9.7420949?cmp=rss"
+          },
+          {
+            "title": "'Crypto King' Aiden Pleterski testifies he was beaten, tortured during alleged kidnapping",
+            "desc": "Self-described \"Crypto King\" Aiden Pleterski described being beaten with a gun and tortured with knives and a lighter in the back of a truck as he began his testimony at the trial of his alleged kidnappers Friday in Toronto.",
+            "pubDate": "2026-11-13T17:44:26Z",
+            "link": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-kidnapping-trial-9.7421121?cmp=rss"
+          },
+          {
+            "title": "Learning loss report finds COVID-19 school disruptions still impacting students today",
+            "desc": "A new report says Canadian students are still feeling the impact of the COVID pandemic's massive upset to their schooling, with declining achievement — particularly in math — and a discrepancy between standardized test scores and the grades kids receive in class.",
+            "pubDate": "2026-11-13T18:25:25Z",
+            "link": "https://www.cbc.ca/news/canada/pandemic-learning-loss-report-9.7420000?cmp=rss"
+          },
+          {
+            "title": "3 dead after boat crash in flooded river near Squamish, B.C.",
+            "desc": "Three people are confirmed dead after a boat crashed on the Squamish River on Thursday.",
+            "pubDate": "2026-11-13T13:14:19Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/3-dead-squamish-boating-incident-9.7420872?cmp=rss"
+          },
+          {
+            "title": "Rescue underway in New Orleans after tanker hits river cruise boat",
+            "desc": "A tanker struck a cruise boat with 129 passengers on board in New Orleans on Friday, partially submerging the boat.",
+            "pubDate": "2026-11-13T16:06:41Z",
+            "link": "https://www.cbc.ca/news/world/tanker-hits-cruise-boat-new-orleans-mississippi-river-9.7421309?cmp=rss"
+          },
+          {
+            "title": "Avril Lavigne welcomes baby girl",
+            "desc": "Canadian pop-punk princess Avril Lavigne has welcomed her first child — a baby girl — with an unnamed partner.",
+            "pubDate": "2026-11-13T13:09:56Z",
+            "link": "https://www.cbc.ca/news/entertainment/avril-lavigne-gives-birth-baby-girl-9.7420873?cmp=rss"
+          },
+          {
+            "title": "No timeline for when Microsoft's multi-day outage might be fully fixed, company says",
             "desc": "",
             "pubDate": "2026-11-13T07:44:25Z",
             "link": "https://www.cbc.ca/news/world/livestory/microsoft-outage-outlook-teams-copilot-9.7420354?cmp=rss"
-          },
-          {
-            "title": "They called her 'Mommy': Vulnerable senior dies after 2 strangers take over her life",
-            "desc": "Two men moved into an elderly Toronto woman's home and began claiming to be like her sons. She quickly gave them powers of attorney and signed a will, leaving them everything. Then she died.",
-            "pubDate": "2026-11-13T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/vulnerable-senior-death-9.7416801?cmp=rss"
-          },
-          {
-            "title": "What the Jensen Huang Nvidia scandal means for Trump and his administration",
-            "desc": "",
-            "pubDate": "2026-11-09T08:48:50Z",
-            "link": "https://www.cbc.ca/news/world/jensen-huang-nvidia-trump-congress-investigations-9.7419755?cmp=rss"
-          },
-          {
-            "title": "15 United Conservative constituency presidents won't sign agreement to publicly back Alberta referendum result",
-            "desc": "Presidents of 15 United Conservative Party constituency associations say they won’t sign a revised code of conduct requiring them to publicly respect and abide by the result of a provincial referendum on national unity.",
-            "pubDate": "2026-11-13T10:35:40Z",
-            "link": "https://www.cbc.ca/news/canada/edmonton/constituency-presidents-united-conservative-party-alberta-unity-referendum-9.7420042?cmp=rss"
-          },
-          {
-            "title": "Ebenezer review: Merry Christmas, Johnny Depp! Is this your comeback yet?",
-            "desc": "Ebenezer, the latest remake of Charles Dickens's A Christmas Carol, isn't terrible. It's also not particularly interesting.",
-            "pubDate": "2026-11-13T10:15:27Z",
-            "link": "https://www.cbc.ca/news/entertainment/ebenezer-review-9.7420174?cmp=rss"
-          },
-          {
-            "title": "Your genes could change your prescription. So why aren't doctors testing?",
-            "desc": "One in four people has been prescribed a drug for which their genetics could affect treatment, according to a recent study. Genetic testing could help doctors choose safer, more effective drugs, but cost and other barriers currently limit its routine use in Canada, researchers say.",
-            "pubDate": "2026-11-13T04:00:00Z",
-            "link": "https://www.cbc.ca/news/health/genetic-testing-drug-prescriptions-9.7418608?cmp=rss"
-          },
-          {
-            "title": "We tested 6 popular apps to see what data they collect and share. Here’s what we found",
-            "desc": "",
-            "pubDate": "2026-11-13T05:35:33Z",
-            "link": "https://www.cbc.ca/news/canada/app-data-privacy-9.7417814?cmp=rss"
           }
         ],
         "world": [
+          {
+            "title": "Flights grounded across U.S. due to outage affecting air traffic control, FAA says",
+            "desc": "",
+            "pubDate": "2026-11-13T17:18:32Z",
+            "link": "https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss"
+          },
+          {
+            "title": "Rescue underway in New Orleans after tanker hits river cruise boat",
+            "desc": "A tanker struck a cruise boat with 129 passengers on board in New Orleans on Friday, partially submerging the boat.",
+            "pubDate": "2026-11-13T16:06:41Z",
+            "link": "https://www.cbc.ca/news/world/tanker-hits-cruise-boat-new-orleans-mississippi-river-9.7421309?cmp=rss"
+          },
+          {
+            "title": "UN hails progress in Ebola response, cites insecurity as biggest challenge",
+            "desc": "UN health officials on Friday hailed progress in the Ebola response six months after the ​outbreak first prompted global concerns, but cautioned that ‌the disease continues to spread to more remote and dangerous parts of Congo.",
+            "pubDate": "2026-11-13T17:52:23Z",
+            "link": "https://www.cbc.ca/news/health/regional-insecurity-ebola-9.7421378?cmp=rss"
+          },
           {
             "title": "What the Jensen Huang scandal means for Trump and his administration",
             "desc": "Jensen Huang's 33-year tenure as the CEO of chip-making giant Nvidia is now finished, but the political repercussions of his affair with an alleged Chinese spy are only just beginning.",
@@ -318,54 +336,60 @@
             "link": "https://www.cbc.ca/news/world/jensen-huang-nvidia-trump-congress-investigations-9.7419755?cmp=rss"
           },
           {
-            "title": "Microsoft's global outage extends into 2nd day, company not aware of malicious activity",
-            "desc": "A more than 12-hour outage of Microsoft Outlook and Teams crippled communications for businesses and governments globally on Friday, forcing some organizations to ‌revert to fax machines and halting at least one bond repurchase in Europe.",
+            "title": "Microsoft reports progress in reviving some services amid global outage disrupting businesses, governments",
+            "desc": "Microsoft said progress is being made in bringing its popular workplace software back online as a global outage enters its second day, disrupting business communications, police crime reporting, court operations, AI tools and many other services.",
             "pubDate": "2026-11-13T05:55:43Z",
             "link": "https://www.cbc.ca/news/world/microsoft-outage-friday-activity-9.7420313?cmp=rss"
           },
           {
-            "title": "UN nuclear watchdog increasingly concerned about Iranian enrichment plant, report says",
-            "desc": "The United Nations nuclear watchdog is \"increasingly concerned\" about a uranium-enrichment plant at Isfahan that Iran declared to it last year but has still not let the watchdog inspect, it said in a confidential report on Friday seen by Reuters and The Associated Press.",
-            "pubDate": "2026-11-13T09:05:45Z",
-            "link": "https://www.cbc.ca/news/world/united-nations-nuclear-watchdog-iaea-iran-9.7420465?cmp=rss"
+            "title": "U.S. Treasury Secretary frustrated by Commerce Department's inaction on Nvidia chips",
+            "desc": "U.S. Treasury Secretary Scott Bessent said Friday he was frustrated with the Commerce Department's delay in placing restrictions on Nvidia chip exports to a company led by an alleged Chinese spy.",
+            "pubDate": "2026-11-13T16:17:33Z",
+            "link": "https://www.cbc.ca/news/world/bessent-lutnick-nvidia-chips-exports-9.7421237?cmp=rss"
           },
           {
-            "title": "Hegseth awards medal to Arlington soldier who scolded his group on decorum",
-            "desc": "U.S. War Secretary Pete Hegseth has given a top award to the service member who scolded him and his staff at the Tomb of the Unknown Soldier following a Veterans Day ceremony at Arlington National Cemetery.",
-            "pubDate": "2026-11-12T13:14:30Z",
-            "link": "https://www.cbc.ca/news/world/us-pentagon-hegseth-arlington-controversy-medal-9.7419227?cmp=rss"
+            "title": "Russell Brand accused by 6 women of sexual misconduct, assault following rape conviction",
+            "desc": "Six more women have come forward alleging sexual misconduct and predatory behaviour by ex-comedian Russell Brand, according to an investigation by the U.K.-based The Times, following his conviction on rape and sexual assault earlier this week.",
+            "pubDate": "2026-11-13T13:30:59Z",
+            "link": "https://www.cbc.ca/news/entertainment/russell-brand-sexual-assault-more-allegations-9.7420884?cmp=rss"
           },
           {
-            "title": "American Airlines resumes flights to Haiti, providing a vital route into the country",
-            "desc": "The U.S. airline has begun flying into northern Haiti on a daily basis, providing a vital route into the country at a time when Americans have few options to get there as the U.S. government advises people to avoid all travel to the Caribbean nation due to security concerns.",
-            "pubDate": "2026-11-12T04:00:00Z",
-            "link": "https://www.cbc.ca/news/world/american-airlines-haiti-air-service-9.7416000?cmp=rss"
-          },
-          {
-            "title": "Will U.S. travel pick up after midterm 'blue wave'? Not so fast, say these Canadians",
-            "desc": "Travel from Canada to the U.S. dropped amid President Donald Trump's threats and trade war. While many Canadians view the Democratic Party's midterm election victory as an 'encouraging' sign, they say it's too soon to visit the U.S. again amid continued distrust.",
-            "pubDate": "2026-11-12T14:24:05Z",
-            "link": "https://www.cbc.ca/news/world/us-travel-midterms-9.7417876?cmp=rss"
-          },
-          {
-            "title": "Russian federation head Tretiak says it will seek compensation if barred from world juniors in Alberta",
-            "desc": "Russian hockey federation president Vladislav Tretiak is threatening to seek compensation from Canada and push for the relocation or cancellation of next month's world junior championship in Alberta if Russia is barred from competing.",
-            "pubDate": "2026-11-12T16:21:01Z",
-            "link": "https://www.cbc.ca/sports/hockey/world-juniors-russia-valdislav-tretiak-9.7419768?cmp=rss"
-          },
-          {
-            "title": "Death toll climbs to 8 in Brooklyn building collapse as fire department ends rescue operation",
-            "desc": "Eight people died after a three-storey building in Brooklyn collapsed at the edge of a construction site, New York City's mayor said Thursday, as torrential rain hampered rescue efforts.",
-            "pubDate": "2026-11-11T18:42:52Z",
-            "link": "https://www.cbc.ca/news/world/new-york-fire-brooklyn-building-collapse-9.7418579?cmp=rss"
+            "title": "U.K. police launch sex offence investigation into children’s author and comedian David Walliams",
+            "desc": "London police said on Friday they are investigating children’s author and TV personality David Walliams for serious sexual offences, after news outlets reported that he used his fame to groom girls and young women for sex. The Metropolitan Police said it had received a number of allegations of past abuse following a joint investigation by ITV News and the Guardian newspaper.",
+            "pubDate": "2026-11-13T13:13:17Z",
+            "link": "https://www.cbc.ca/news/entertainment/david-walliams-investigation-9.7420901?cmp=rss"
           }
         ],
         "canada": [
+          {
+            "title": "'Crypto King' Aiden Pleterski testifies he was beaten, tortured during alleged kidnapping",
+            "desc": "Self-described \"Crypto King\" Aiden Pleterski described being beaten with a gun and tortured with knives and a lighter in the back of a truck as he began his testimony at the trial of his alleged kidnappers Friday in Toronto.",
+            "pubDate": "2026-11-13T17:44:26Z",
+            "link": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-kidnapping-trial-9.7421121?cmp=rss"
+          },
+          {
+            "title": "3 dead after boat crash in flooded river near Squamish, B.C.",
+            "desc": "Three people are confirmed dead after a boat crashed on the Squamish River on Thursday.",
+            "pubDate": "2026-11-13T13:14:19Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/3-dead-squamish-boating-incident-9.7420872?cmp=rss"
+          },
+          {
+            "title": "Alberta announces royalty program as part of plan to double oilsands production",
+            "desc": "The province says the OGP is designed to lower upfront financial barriers to new projects and expansions, particularly as proponents of the Pacific Link pipeline look for companies to fill upcoming capacity.",
+            "pubDate": "2026-11-13T15:20:12Z",
+            "link": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-oilsands-royalties-9.7421165?cmp=rss"
+          },
           {
             "title": "Guns, swords and pepper spray: Bishnoi-linked extortionists attacked in apparent retaliation",
             "desc": "Documents obtained by CBC News reveal the existence of a previously unreported Bishnoi cell known as the Baweja group. Members have been tied to multiple shootings and extortion threats in Alberta and B.C.",
             "pubDate": "2026-11-13T06:00:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-extortion-baweja-atip-9.7415879?cmp=rss"
+          },
+          {
+            "title": "Feds, Ontario offering Stellantis 'aggressive package' to keep Brampton auto plant open",
+            "desc": "The federal and Ontario governments are mounting a last-ditch effort to save the Stellantis auto plant in Brampton by pitching the company possible survival \"scenarios\" and offering an \"aggressive package\" of support to make it happen.",
+            "pubDate": "2026-11-13T13:04:27Z",
+            "link": "https://www.cbc.ca/news/politics/joly-fedeli-stellantis-brampton-plant-package-9.7420849?cmp=rss"
           },
           {
             "title": "Why experts fear Canada's not-for-profits are prime targets for hackers",
@@ -384,33 +408,33 @@
             "desc": "As rain persists on Vancouver Island, fog advisories have been issued for the Cariboo, East Kootenay, Similkameen and South Okanagan regions on Friday.",
             "pubDate": "2026-11-13T08:37:10Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/bc-weather-nov-13-2026-9.7420385?cmp=rss"
-          },
-          {
-            "title": "An AI agent pitched a story to CBC Quebec. We replied to see what would happen",
-            "desc": "An autonomous AI agent calling itself Nameless pitched a story to CBC Quebec, openly admitting it wasn't human. What followed was a bizarre back-and-forth — and a warning from experts about what’s coming for journalism.",
-            "pubDate": "2026-11-13T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/ai-autonomous-agent-independent-journalism-pitching-story-cbc-quebec-9.7419591?cmp=rss"
-          },
-          {
-            "title": "U of T music community celebrates beloved professor Mary Morrison's 100th birthday",
-            "desc": "Hundreds came together to celebrate the 100th birthday of a beloved music professor at the University of Toronto this week, along with her decades-long career teaching and performing opera.",
-            "pubDate": "2026-11-13T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/u-of-t-professor-turns-100-mary-morrison-9.7420019?cmp=rss"
-          },
-          {
-            "title": "Several people involved in fatal boating incident near Squamish: RCMP",
-            "desc": "Police are investigating a fatal boating incident in the Squamish Valley on Thursday.",
-            "pubDate": "2026-11-12T21:38:19Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/squamish-missing-river-fatal-boating-incident-9.7420190?cmp=rss"
-          },
-          {
-            "title": "After $350M investment, historic Niagara Falls, Ont. hydro plant to become tourist destination, 5-star hotel",
-            "desc": "An historic hydro generating station that hundreds of millions of people have viewed just upstream from the Horseshoe Falls in Niagara Falls, Ont., for more than a century will soon be transformed into what's being described as a major tourism destination.",
-            "pubDate": "2026-11-13T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/hamilton/niagara-falls-historic-hydro-station-350-million-tourism-9.7419801?cmp=rss"
           }
         ],
         "bc": [
+          {
+            "title": "Man sentenced to 10½ years after killing wife near UBC campus in 2024",
+            "desc": "Yang (Christopher) Liang pleaded guilty to manslaughter in the death of Men Cheung in March 2024, just days after they got married.",
+            "pubDate": "2026-11-13T17:11:35Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/yang-liang-men-cheung-ubc-death-2024-9.7421382?cmp=rss"
+          },
+          {
+            "title": "3 dead after boat crash in flooded river near Squamish, B.C.",
+            "desc": "Three people are confirmed dead after a boat crashed on the Squamish River on Thursday.",
+            "pubDate": "2026-11-13T13:14:19Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/3-dead-squamish-boating-incident-9.7420872?cmp=rss"
+          },
+          {
+            "title": "Following federal cuts, Immigrant Services Society of B.C. to close its Richmond branch",
+            "desc": "After over 20 years, the Immigrant Services Society (ISS) of B.C. says it will be closing its Richmond branch — a major blow to a community where well over half of its residents are born abroad.",
+            "pubDate": "2026-11-13T14:30:52Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/immigrant-services-society-bc-richmond-closes-9.7420991?cmp=rss"
+          },
+          {
+            "title": "Man charged in child luring case has 'spent time in' 5 provinces, including B.C., RCMP say",
+            "desc": "New Brunswick RCMP have released the photo of a Moncton man facing several charges in connection with a child luring investigation, as well as a list of communities he has \"spent time in\" across Canada to encourage people with information to come forward.",
+            "pubDate": "2026-11-13T17:34:50Z",
+            "link": "https://www.cbc.ca/news/canada/new-brunswick/timothy-roy-child-luring-moncton-rcmp-photo-nova-scotia-labrador-ontario-b-c-9.7420904?cmp=rss"
+          },
           {
             "title": "Guns, swords and pepper spray: Bishnoi-linked extortionists attacked in apparent retaliation",
             "desc": "Documents obtained by CBC News reveal the existence of a previously unreported Bishnoi cell known as the Baweja group. Members have been tied to multiple shootings and extortion threats in Alberta and B.C.",
@@ -424,90 +448,66 @@
             "link": "https://www.cbc.ca/news/canada/british-columbia/bc-weather-nov-13-2026-9.7420385?cmp=rss"
           },
           {
-            "title": "Several people involved in fatal boating incident near Squamish: RCMP",
-            "desc": "Police are investigating a fatal boating incident in the Squamish Valley on Thursday.",
-            "pubDate": "2026-11-12T21:38:19Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/squamish-missing-river-fatal-boating-incident-9.7420190?cmp=rss"
-          },
-          {
             "title": "Volunteers mobilize on land and water to help family find missing relative off Vancouver Island",
             "desc": "Community-driven efforts to find a man who went missing on Nov. 6 off the coast of northern Vancouver Island have intensified this week, after RCMP called off their search due to dangerous weather.",
             "pubDate": "2026-11-13T08:00:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/rcmp-suspends-search-james-dakota-smith-9.7419882?cmp=rss"
           },
           {
-            "title": "Wet, windy weather drives concern for people experiencing homelessness on Vancouver Island",
-            "desc": "Outreach workers and advocates for people experiencing homelessness on Vancouver Island say they're concerned about the effects of a prolonged series of fall storms on people living rough on the street, especially in communities with no additional shelter space for winter.",
-            "pubDate": "2026-11-13T09:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/rain-wind-vancouver-island-homeless-9.7419581?cmp=rss"
-          },
-          {
-            "title": "Documentary about queer experience in northern B.C. premieres in Prince George",
-            "desc": "The documentary follows queer historian Theresa Healy, trans advocate Jean Baptiste and drag queen Iris, driving into the milestones that have shaped queer life in northern B.C.",
-            "pubDate": "2026-11-13T07:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/north-of-queer-documentary-premiere-9.7419909?cmp=rss"
-          },
-          {
-            "title": "We tested 6 popular apps to see what data they collect and share. Here’s what we found",
-            "desc": "Marketplace tested six of the most popular Android and iOS apps in Canada — Tim Hortons, PC Optimum, Weather Network, Facebook, Amazon and YouTube — to find out what data they collect and where it goes.",
-            "pubDate": "2026-11-13T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/app-data-privacy-9.7417814?cmp=rss"
-          },
-          {
-            "title": "Judge warns gun violence is becoming normalized during Dawson Creek manslaughter sentencing",
-            "desc": "A Dawson Creek, B.C., man will serve five years and nine months behind bars for manslaughter, after a fatal shotgun killing in January 2025.",
-            "pubDate": "2026-11-12T20:06:45Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/shotgun-death-dawson-creek-nolan-schmidt-joel-freeman-9.7419550?cmp=rss"
+            "title": "Loneliest guy in town? Harry Bains on going solo against Surrey's supermajority city council",
+            "desc": "Bains was the only councillor to speak out or oppose any of the 16 priority projects passed by the newly elected Safe Surrey Coalition supermajority.",
+            "pubDate": "2026-11-12T19:51:47Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/harry-bains-surrey-city-councillor-opposition-9.7420006?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Pope says it's a \"joy\" to be home as Peru's Chiclayo welcomes back its former shepherd",
-            "desc": "CHICLAYO, Peru (AP) — Pope  Leo XIV  returned Friday to his beloved former diocese of  Chiclayo  and said it was a “joy” to be home, an emotional homecoming that underscored his love for his Peruvian flock and their pride that their shepherd now runs",
-            "pubDate": "2026-11-13T16:58:46Z",
-            "link": "https://www.nsnews.com/world-news/pope-says-its-a-joy-to-be-home-as-perus-chiclayo-welcomes-back-its-former-shepherd-13013263"
+            "title": "Nav Canada says systems operating normally after U.S. orders ground stop",
+            "desc": "OTTAWA — Nav Canada said it is implementing \"traffic management measures\" at Canada's four largest airports following the move by the U.S. Federal Aviation Administration to ground all flights across the United States on Friday.",
+            "pubDate": "2026-11-13T23:16:07Z",
+            "link": "https://www.nsnews.com/national-news/nav-canada-says-systems-operating-normally-after-us-orders-ground-stop-13016782"
           },
           {
-            "title": "Canada holds off Czechia for 3-2 win, advances to semifinals at women's worlds",
-            "desc": "HERNING — Renata Fast’s second-period goal stood as the winner as Canada held off Czechia 3-2 in the women’s world hockey championship quarterfinals Friday.",
-            "pubDate": "2026-11-13T16:57:25Z",
-            "link": "https://www.nsnews.com/national-sports/canada-holds-off-czechia-for-3-2-win-advances-to-semifinals-at-womens-worlds-13014314"
+            "title": "50 years after iconic film, a gathering of ‘Rocky’ fans in Philadelphia breaks a world record",
+            "desc": "PHILADELPHIA (AP) — The story of Rocky Balboa is one that audiences love and know well – of resilience, grit and persevering despite the odds.",
+            "pubDate": "2026-11-13T23:02:20Z",
+            "link": "https://www.nsnews.com/the-mix/50-years-after-iconic-film-a-gathering-of-rocky-fans-in-philadelphia-breaks-a-world-record-13017017"
           },
           {
-            "title": "UK police launch sex offense investigation into children’s author and comedian David Walliams",
-            "desc": "LONDON (AP) — London police said Friday that they are investigating children’s author and comedian  David Walliams  for serious sexual offenses after news outlets reported that he used his fame to groom girls and young women for sex.",
-            "pubDate": "2026-11-13T16:57:13Z",
-            "link": "https://www.nsnews.com/the-mix/uk-police-launch-sex-offense-investigation-into-childrens-author-and-comedian-david-walliams-13014068"
+            "title": "Rescues are underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River",
+            "desc": "NEW ORLEANS (AP) — A tanker in New Orleans that apparently lost its steering slammed into a docked river cruise boat with 180 people aboard Friday, the mayor said.",
+            "pubDate": "2026-11-13T22:59:35Z",
+            "link": "https://www.nsnews.com/world-news/rescues-are-underway-in-new-orleans-after-a-tanker-hits-a-river-cruise-boat-on-the-mississippi-river-13015988"
           },
           {
-            "title": "Ottawa, province hope 'aggressive package' can prevent Stellantis plant sale: Joly",
-            "desc": "TORONTO — A day after threatening to sue Stellantis to recoup federal cash given to the automaker, Industry Minister Mélanie Joly says she's still hopeful she can prevent the company from selling its Brampton, Ont., assembly plant to Roshel.",
-            "pubDate": "2026-11-13T16:55:47Z",
-            "link": "https://www.nsnews.com/the-mix/ottawa-province-hope-aggressive-package-can-prevent-stellantis-plant-sale-joly-13014308"
+            "title": "Stelco to recall 175 laid-off workers in Hamilton, Ont., on Dec. 1",
+            "desc": "HAMILTON — Stelco's American parent company has pledged to recall 175 temporarily laid-off steelworkers and repay their lost wages after weeks of federal pressure, including threats of legal action and the prospect of an investigation into anticompet",
+            "pubDate": "2026-11-13T22:55:57Z",
+            "link": "https://www.nsnews.com/national-business/stelco-to-recall-175-laid-off-workers-in-hamilton-ont-on-dec-1-13014762"
           },
           {
-            "title": "Ottawa, province hope 'aggressive package' can prevent Stellantis plant sale: Joly",
-            "desc": "TORONTO — A day after threatening to sue Stellantis to recoup federal cash given to the automaker, Industry Minister Mélanie Joly says she's still hopeful she can prevent the company from selling its Brampton, Ont., assembly plant to Roshel.",
-            "pubDate": "2026-11-13T16:55:47Z",
-            "link": "https://www.nsnews.com/national-business/ottawa-province-hope-aggressive-package-can-prevent-stellantis-plant-sale-joly-13014312"
+            "title": "Stelco to recall 175 laid-off workers in Hamilton, Ont., on Dec. 1",
+            "desc": "HAMILTON — Stelco's American parent company has pledged to recall 175 temporarily laid-off steelworkers and repay their lost wages after weeks of federal pressure, including threats of legal action and the prospect of an investigation into anticompet",
+            "pubDate": "2026-11-13T22:55:57Z",
+            "link": "https://www.nsnews.com/national-news/stelco-to-recall-175-laid-off-workers-in-hamilton-ont-on-dec-1-13014651"
           },
           {
-            "title": "Legislator says multiple fatalities in Squamish, B.C., flood zone",
-            "desc": "SQUAMISH — A British Columbia legislator says he's \"devastated\" by reports of multiple deaths in the Squamish Valley north of Vancouver where a river is swollen by days of heavy rain.",
-            "pubDate": "2026-11-13T16:44:13Z",
-            "link": "https://www.nsnews.com/national-news/legislator-says-multiple-fatalities-in-squamish-bc-flood-zone-13012753"
+            "title": "Stelco to recall 175 laid-off workers in Hamilton, Ont., on Dec. 1",
+            "desc": "HAMILTON — Stelco's American parent company has pledged to recall 175 temporarily laid-off steelworkers and repay their lost wages after weeks of federal pressure, including threats of legal action and the prospect of an investigation into anticompet",
+            "pubDate": "2026-11-13T22:55:57Z",
+            "link": "https://www.nsnews.com/the-mix/stelco-to-recall-175-laid-off-workers-in-hamilton-ont-on-dec-1-13014756"
           },
           {
-            "title": "At Sing Sing prison, incarcerated men get preview of new PBS documentary on nation's justice system",
-            "desc": "OSSINING, N.Y.",
-            "pubDate": "2026-11-13T16:42:18Z",
-            "link": "https://www.nsnews.com/the-mix/at-sing-sing-prison-incarcerated-men-get-preview-of-new-pbs-documentary-on-nations-justice-system-13012722"
+            "title": "Carney arrives in Manila for ASEAN summit, seeks trade pact with Philippines",
+            "desc": "MANILA — Prime Minister Mark Carney has arrived in the Philippines for the Association of Southeast Asian Nations summit.",
+            "pubDate": "2026-11-13T22:51:42Z",
+            "link": "https://www.nsnews.com/the-mix/carney-arrives-in-manila-for-asean-summit-seeks-trade-pact-with-philippines-13016679"
           },
           {
-            "title": "'I'm devastated': Two people confirmed dead in Squamish boating incident",
-            "desc": "Squamish RCMP have confirmed two people are dead and another remains missing following a boating incident in the Squamish Valley on Thursday afternoon.",
-            "pubDate": "2026-11-13T16:38:00Z",
-            "link": "https://www.nsnews.com/highlights/im-devastated-two-people-confirmed-dead-in-squamish-boating-incident-13014048"
+            "title": "Carney arrives in Manila for ASEAN summit, seeks trade pact with Philippines",
+            "desc": "MANILA — Prime Minister Mark Carney has arrived in the Philippines for the Association of Southeast Asian Nations summit.",
+            "pubDate": "2026-11-13T22:51:42Z",
+            "link": "https://www.nsnews.com/national-news/carney-arrives-in-manila-for-asean-summit-seeks-trade-pact-with-philippines-13016785"
           }
         ]
       },
