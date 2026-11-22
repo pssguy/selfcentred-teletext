@@ -2,7 +2,7 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-11-21T19:11:48Z",
+      "fetchedAt": "2026-11-22T01:15:54Z",
       "sections": {
         "top": [
           {
@@ -32,26 +32,26 @@
           {
             "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
             "desc": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-            "pubDate": "2026-11-21T14:54:24Z",
+            "pubDate": "2026-11-21T22:19:43Z",
             "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
-            "desc": "Speculation is rife as to who will play the new 007's leading lady, with commentators saying she will need a \"very strong identity\".",
-            "pubDate": "2026-11-21T00:03:16Z",
-            "link": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&at_campaign=rss"
+            "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+            "desc": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
+            "pubDate": "2026-11-21T21:39:22Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "England run up record win over New Zealand in rugby union's Nations Championship",
-            "desc": "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka.",
-            "pubDate": "2026-11-21T16:08:59Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss"
+            "title": "Australia hold on for narrow win against Wales",
+            "desc": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff.",
+            "pubDate": "2026-11-21T22:25:36Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Can AI really help spot Black Friday deals? We put it to the test",
-            "desc": "We put four AI models to the test to see if they could save us money on a new TV.",
-            "pubDate": "2026-11-21T00:06:11Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss"
+            "title": "How a teen gamer and his mother helped rescue a missing girl",
+            "desc": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+            "pubDate": "2026-11-22T00:09:58Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
@@ -64,44 +64,44 @@
           {
             "title": "Russia-bound ship attacked in Gulf of Finland",
             "desc": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-            "pubDate": "2026-11-21T18:22:09Z",
+            "pubDate": "2026-11-21T19:20:22Z",
             "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-            "desc": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-            "pubDate": "2026-11-20T22:42:47Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
             "desc": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-            "pubDate": "2026-11-21T14:54:24Z",
+            "pubDate": "2026-11-21T22:19:43Z",
             "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "FBI reportedly investigating apparent hack of its criminal database",
-            "desc": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-            "pubDate": "2026-11-21T16:35:15Z",
-            "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
             "desc": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-            "pubDate": "2026-11-21T13:15:21Z",
+            "pubDate": "2026-11-21T23:31:17Z",
             "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "French police officers sentenced for beating of music producer Michel Zecler",
-            "desc": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-            "pubDate": "2026-11-20T22:37:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+            "title": "FBI reportedly investigating apparent hack of its criminal database",
+            "desc": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+            "pubDate": "2026-11-22T00:10:44Z",
+            "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
             "desc": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
             "pubDate": "2026-11-21T10:26:36Z",
             "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Man convicted of starting Palisades fire in Los Angeles",
+            "desc": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+            "pubDate": "2026-11-21T04:34:00Z",
+            "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Lock of former US President George Washington's hair sells for $4,000",
+            "desc": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+            "pubDate": "2026-11-21T22:01:19Z",
+            "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
@@ -112,16 +112,22 @@
             "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-            "desc": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-            "pubDate": "2026-11-21T09:40:55Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "title": "England run up record win over New Zealand in rugby union's Nations Championship",
             "desc": "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka.",
             "pubDate": "2026-11-21T16:08:59Z",
             "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
+            "desc": "The former prime minister argues the European Union is probably moving in the wrong direction on technology innovation.",
+            "pubDate": "2026-11-21T19:33:49Z",
+            "link": "https://www.bbc.co.uk/news/articles/c893r4923wngo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Village votes to 'leave UK' over migrant plan",
+            "desc": "Barnham is the second village to declare \"independence\" in protest at plans to house asylum seekers.",
+            "pubDate": "2026-11-21T19:51:08Z",
+            "link": "https://www.bbc.co.uk/news/articles/cvze71y6g85yo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Man charged with attempted murder after Bradford councillor stabbed",
@@ -146,12 +152,6 @@
             "desc": "The increased cost after the proposed Visitors Levy is imposed could price some young people out of joining Scout camps and other trips, the group said.",
             "pubDate": "2026-11-21T13:29:55Z",
             "link": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Bad Girls star Helen Fraser dies aged 84",
-            "desc": "Actress Helen Fraser dies at 84 in an Eye care home after a successful career in TV, theatre and film.",
-            "pubDate": "2026-11-21T12:17:46Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
@@ -206,59 +206,59 @@
         ],
         "sport": [
           {
-            "title": "Superb England run up record win over New Zealand",
-            "desc": "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka.",
-            "pubDate": "2026-11-21T16:08:59Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss"
+            "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999 ",
+            "desc": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge.  They move up to sixth in the Premier League.",
+            "pubDate": "2026-11-21T19:59:13Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "'Officials can't use common sense' - was Rogers handball correct?",
-            "desc": "The decision to give Leeds a crucial penalty in their win at Chelsea reopens the Premier League handball debate around intent.",
-            "pubDate": "2026-11-21T18:30:22Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss"
+            "title": "Arsenal go six points clear after lively draw at Newcastle",
+            "desc": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
+            "pubDate": "2026-11-21T19:59:35Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
-            "desc": "The honeymoon period is over for Chelsea manager Xabi Alonso, who is now in firefighting mode after a 4-1 defeat by Leeds at Stamford Bridge.",
-            "pubDate": "2026-11-21T19:04:09Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss"
+            "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich ",
+            "desc": "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town.",
+            "pubDate": "2026-11-21T19:59:02Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
-            "desc": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
-            "pubDate": "2026-11-21T16:07:19Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss"
+            "title": "Coventry beat Palace in Frank's first game after late own goal",
+            "desc": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League.",
+            "pubDate": "2026-11-21T19:58:52Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Alcaraz battles back against Shelton to reach final",
-            "desc": "Carlos Alcaraz will have the chance to end his wait for a first ATP Finals title after completing a superb comeback victory over Ben Shelton.",
-            "pubDate": "2026-11-21T17:36:28Z",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss"
+            "title": "Man City drop points to Fulham despite superb Anderson volley",
+            "desc": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham.",
+            "pubDate": "2026-11-21T19:59:08Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Wales hungry to show they are not one-hit wonders",
-            "desc": "Wales must kick on when they host Australia in the Nations Championship on Saturday, fresh from making history against New Zealand.",
-            "pubDate": "2026-11-21T07:37:23Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n83rj3v9zmo?at_medium=RSS&at_campaign=rss"
+            "title": "Evanilson strikes again as Bournemouth beat Forest ",
+            "desc": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.",
+            "pubDate": "2026-11-21T19:59:17Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Scotland kept 'foot on throat' in ruthless display - captain McDowall",
-            "desc": "Stand-in captain Stafford McDowall praises Scotland for keeping their \"foot on the throat\" of opponents Japan in their thumping 67-5 Nations Championship win.",
-            "pubDate": "2026-11-21T17:44:20Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm62pz9xkvd7o?at_medium=RSS&at_campaign=rss"
+            "title": "Villa's home woes continue as Sunderland earn point",
+            "desc": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League.",
+            "pubDate": "2026-11-21T19:58:56Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "'Somebody has to stand up to that guy' - Verstappen-Russell rivalry blows up again",
-            "desc": "The George Russell-Max Verstappen feud surfaced again in Las Vegas, adding spice to a race where they will start on the front row.",
-            "pubDate": "2026-11-21T08:13:58Z",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss"
+            "title": "Can win over All Blacks finally break England's boom-bust cycle?",
+            "desc": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
+            "pubDate": "2026-11-21T22:27:36Z",
+            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-11-21T19:11:48Z",
+      "fetchedAt": "2026-11-22T01:15:55Z",
       "sections": {
         "top": [
           {
@@ -269,9 +269,21 @@
           },
           {
             "title": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust",
-            "desc": "The two officers had previously been placed on administrative leave and then fired from the Montreal police service. They were arrested after Quebec's Crown prosecutor's office, the DPCP, issued a warrant.",
+            "desc": "The two officers had previously been placed on administrative leave and then fired from the Montreal police service. They were arrested after Quebec's Crown prosecutor's office issued a warrant.",
             "pubDate": "2026-11-21T12:34:01Z",
             "link": "https://www.cbc.ca/news/canada/montreal/spvm-arrest-two-officers-racism-scandal-9.7431306?cmp=rss"
+          },
+          {
+            "title": "Capture of cartel leader in northern Mexico sets off gunfight that leaves 11 dead",
+            "desc": "A burst of violence in Mexico's Sinaloa state after authorities captured cartel boss Fausto Isidro Meza Flores, known as El Chapo Isidro, left at least 11 people dead, authorities said Saturday.",
+            "pubDate": "2026-11-21T11:32:44Z",
+            "link": "https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss"
+          },
+          {
+            "title": "Sunrise on the Reaping may be a prequel, but it's the worst way to start The Hunger Games",
+            "desc": "The framing of The Hunger Games: Sunrise on the Reaping as a painful, nihilistic and unrelentingly dour backstory for a single character makes it a deeply strange movie when viewed as a standalone feature.",
+            "pubDate": "2026-11-20T04:00:00Z",
+            "link": "https://www.cbc.ca/news/entertainment/hunger-games-sunrise-on-the-reaping-review-9.7429249?cmp=rss"
           },
           {
             "title": "Israeli settler violence at unprecedented levels during Palestinian olive harvest",
@@ -286,42 +298,36 @@
             "link": "https://www.cbc.ca/news/business/ai-personal-assistants-muse-dots-claude-duet-risks-9.7427574?cmp=rss"
           },
           {
-            "title": "A real '3 Body Problem': Astronomers discover a nearby 'weirdo' triple-star system",
-            "desc": "An international team of astronomers led by the University of Montreal has found a nearby triple-star system, much like the one in the Netflix show 3 Body Problem. But this one seems to be… a little odd.",
-            "pubDate": "2026-11-21T08:00:00Z",
-            "link": "https://www.cbc.ca/news/science/triple-star-system-9.7430178?cmp=rss"
+            "title": "UN talks on AI in warfare end with no commitment to binding rules",
+            "desc": "UN-backed talks this week on regulating AI in warfare ended Saturday with nations agreeing to further discussion, but without a consensus on developing firm rules on how to rein in deadly autonomous weapons.",
+            "pubDate": "2026-11-21T16:05:20Z",
+            "link": "https://www.cbc.ca/news/world/ai-warfare-regulations-un-talks-9.7431398?cmp=rss"
           },
           {
-            "title": "A Canadian study pinned a baby's death on codeine passed through breast milk. 20 years on, it's been retracted",
-            "desc": "A highly influential yet controversial Canadian study that linked a baby's death to codeine passed through breastmilk — and informed global guidance on breastfeeding and pain management over the last two decades — has been pulled from a leading medical journal, which said omissions in the research amounted to \"falsification.\"",
-            "pubDate": "2026-11-21T04:00:00Z",
-            "link": "https://www.cbc.ca/news/health/lancet-retraction-motherisk-gideon-koren-study-codeine-breast-milk-9.7430487?cmp=rss"
-          },
-          {
-            "title": "Canada's first climate lawsuit to go to trial has wrapped up hearings. Many more are underway",
-            "desc": "What level of responsibility does the federal government bear for the climate disasters Canadians are suffering? That's the question at the heart of a landmark lawsuit that wrapped up witness testimony in Federal Court in Vancouver on Friday, and whose outcome could have a big influence on how a growing number of other climate lawsuits in Canada pan out.",
-            "pubDate": "2026-11-21T04:00:00Z",
-            "link": "https://www.cbc.ca/news/science/climate-lawsuit-emissions-constitution-federal-court-9.7430780?cmp=rss"
-          },
-          {
-            "title": "Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'",
-            "desc": "Canada has a three-ocean coastline — 243,000 kilometres — and only 20 underwater drones to help defend it. The navy's commander confirms there isn't a solution ready a year after an internal document shows top officials talked about the need for a short-term fix.",
-            "pubDate": "2026-11-21T04:00:00Z",
-            "link": "https://www.cbc.ca/news/politics/canada-surveillance-gap-underwater-drone-technology-9.7425421?cmp=rss"
+            "title": "Woman's airport security ordeal with dad's ashes highlights challenges of travelling with cremated remains",
+            "desc": "Rules around transporting creamated remains through airports and challenges with new scanners can add \"another layer of grief\" to an already stressful time, says the head of the Funeral Service Association of Canada.",
+            "pubDate": "2026-11-21T06:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/manitoba/winnipeg-air-travel-ashes-rules-9.7426785?cmp=rss"
           }
         ],
         "world": [
+          {
+            "title": "UN talks on AI in warfare end with no commitment to binding rules",
+            "desc": "UN-backed talks this week on regulating AI in warfare ended Saturday with nations agreeing to further discussion, but without a consensus on developing firm rules on how to rein in deadly autonomous weapons.",
+            "pubDate": "2026-11-21T16:05:20Z",
+            "link": "https://www.cbc.ca/news/world/ai-warfare-regulations-un-talks-9.7431398?cmp=rss"
+          },
+          {
+            "title": "Capture of cartel leader in northern Mexico sets off gunfight that leaves 11 dead",
+            "desc": "A burst of violence in Mexico's Sinaloa state after authorities captured cartel boss Fausto Isidro Meza Flores, known as El Chapo Isidro, left at least 11 people dead, authorities said Saturday.",
+            "pubDate": "2026-11-21T11:32:44Z",
+            "link": "https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss"
+          },
           {
             "title": "Israeli settler violence at unprecedented levels during Palestinian olive harvest",
             "desc": "There have been more settler attacks against Palestinians and their property during this year’s olive harvest than in 20 years of record-keeping by the United Nations.",
             "pubDate": "2026-11-21T04:00:00Z",
             "link": "https://www.cbc.ca/news/world/israeli-settler-violence-at-unprecedented-levels-during-palestinian-olive-harvest-9.7426808?cmp=rss"
-          },
-          {
-            "title": "Mexico detains top cartel boss El Chapo Isidro, setting off burst of violence in Sinaloa",
-            "desc": "Mexican authorities captured top cartel boss Fausto Isidro Meza Flores, known as El Chapo Isidro, in the state of Sinaloa overnight, resulting in a burst of violence that rattled civilians.",
-            "pubDate": "2026-11-21T11:32:44Z",
-            "link": "https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss"
           },
           {
             "title": "FBI investigating apparent hack of its criminal database",
@@ -352,12 +358,6 @@
             "desc": "Israeli forces on Saturday hit a truck in Gaza, which witnesses said was carrying food and papers bearing the ‌logo of the World Central Kitchen charity, but the organization said the vehicle was not affiliated with it.",
             "pubDate": "2026-11-21T09:38:36Z",
             "link": "https://www.cbc.ca/news/world/israel-strike-gaza-aid-vehicle-9.7431224?cmp=rss"
-          },
-          {
-            "title": "Trump threatens to penalize U.S. tech companies that build AI data centres in other countries",
-            "desc": "U.S. tech companies that build artificial intelligence data centers in other countries will face \"a tremendous tax,\" President Donald Trump said on Friday.",
-            "pubDate": "2026-11-20T16:35:47Z",
-            "link": "https://www.cbc.ca/news/world/ai-data-centres-us-tech-companies-trump-9.7430426?cmp=rss"
           }
         ],
         "canada": [
@@ -369,9 +369,15 @@
           },
           {
             "title": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust",
-            "desc": "The two officers had previously been placed on administrative leave and then fired from the Montreal police service. They were arrested after Quebec's Crown prosecutor's office, the DPCP, issued a warrant.",
+            "desc": "The two officers had previously been placed on administrative leave and then fired from the Montreal police service. They were arrested after Quebec's Crown prosecutor's office issued a warrant.",
             "pubDate": "2026-11-21T12:34:01Z",
             "link": "https://www.cbc.ca/news/canada/montreal/spvm-arrest-two-officers-racism-scandal-9.7431306?cmp=rss"
+          },
+          {
+            "title": "Judge awards damages to both sides in lawsuit after neighbours' dispute over loose dogs 'spun out of control'",
+            "desc": "A judge has awarded an eastern Manitoba couple sued by their neighbour $10,000 in damages, and their neighbour $1,000, after an \"unfortunate series of events\" unfolded over dogs allowed to run loose on an unfenced property.",
+            "pubDate": "2026-11-21T06:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/manitoba/neighbour-dog-dispute-lawsuit-9.7429865?cmp=rss"
           },
           {
             "title": "NDP makes plea for stronger Indigenous rights protections in major projects bill",
@@ -386,36 +392,54 @@
             "link": "https://www.cbc.ca/news/canada/calgary/calgary-barburrito-rocks-burritos-apology-9.7430598?cmp=rss"
           },
           {
+            "title": "Cavalry FC defeats Atlético Ottawa 3-2 to claim CPL title and historic double",
+            "desc": "Cavalry FC defeated Atlético Ottawa 3-2 to claim the Canadian Premier League title and an unprecedented double in the soccer league.",
+            "pubDate": "2026-11-21T17:21:50Z",
+            "link": "https://www.cbc.ca/sports/soccer/cpl/cpl-final-atletico-ottawa-cavalry-fc-calgary-november-21-9.7429768?cmp=rss"
+          },
+          {
+            "title": "Ontario Liberals elect Navdeep Bains as new party leader",
+            "desc": "Ontario Liberals have elected Navdeep Bains as the party's new leader after a marathon nine-month leadership race, with Bains emerging as victor less than one percentage point ahead of his next closest competitor, provincial caucus member Lee Fairclough.",
+            "pubDate": "2026-11-21T16:35:51Z",
+            "link": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss"
+          },
+          {
             "title": "Peguis First Nation members, including chief and councillor, try to oust CFS leader",
             "desc": "Anger and frustration with Peguis Child and Family Services came to a head Thursday when the First Nation's chief and band members tried to enter the organization's building, and a chain was attached to its doors in an apparent attempt to break them open.",
             "pubDate": "2026-11-20T22:24:18Z",
             "link": "https://www.cbc.ca/news/canada/manitoba/peguis-tries-to-oust-cfs-leader-9.7429796?cmp=rss"
-          },
-          {
-            "title": "Mild months ahead: What we know about this winter across southern Ontario",
-            "desc": "Historically, the average high on Nov. 19 has been around 7.5 C in Toronto, so the weather outside is noticeably warmer. That's welcome news to those who fear the cold, but should we be concerned?",
-            "pubDate": "2026-11-21T05:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/toronto/2026-winter-warm-temperature-toronto-9.7430326?cmp=rss"
-          },
-          {
-            "title": "Northern Manitoba First Nation's operations 'in jeopardy' amid attempts to oust chief: lawsuit",
-            "desc": "A First Nation and chief in Manitoba's Island Lake region say they won't be able to properly govern if a court does not stop a group of people from defaming the current chief whom they attempted to oust following a financial update he gave.",
-            "pubDate": "2026-11-20T05:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/manitoba/wasagamack-lawsuit-knott-defamation-9.7426810?cmp=rss"
-          },
-          {
-            "title": "Hearing on controversial plans to export power from Powell River to U.S. wraps up",
-            "desc": "An unprecedented federal hearing for an independent power producer's application to export all its electricity from a small B.C. community to the U.S. for 30 years wrapped up on Friday, after arguments from the company and local intervenors opposed to the deal.",
-            "pubDate": "2026-11-21T08:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/cer-hearing-power-export-9.7428806?cmp=rss"
           }
         ],
         "bc": [
+          {
+            "title": "Death outside Vancouver Island hospital raises questions about rural emergency care access",
+            "desc": "The death of a person outside the Port Hardy Hospital on northern Vancouver Island has renewed concerns about access to emergency care in rural B.C., where staffing shortages have forced some hospitals to close their emergency departments overnight.",
+            "pubDate": "2026-11-21T19:26:27Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/death-outside-port-hardy-hospital-sheds-light-on-continuous-er-closures-9.7431561?cmp=rss"
+          },
+          {
+            "title": "Vancouver's Little Mountain Neighbourhood House opens at new location 3 years after destructive fire",
+            "desc": "More than three years after being displaced by a fire, a Vancouver community hub has opened its doors at a new location for child care and inclusive programs.",
+            "pubDate": "2026-11-21T16:50:45Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/little-mountain-neighbourhood-house-vancouver-9.7431409?cmp=rss"
+          },
           {
             "title": "B.C. nurses union 'gravely disappointed' with 3% wage hike in arbitrated settlement",
             "desc": "Arbitrators have imposed annual wage increases of three per cent through to 2029 for British Columbia's more than 60,000 nurses, a decision their union president says has left nurses feeling “gravely disappointed\" after they asked for eight per cent annually.",
             "pubDate": "2026-11-21T13:43:38Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/bc-nurses-union-settlement-arbitrator-9.7431278?cmp=rss"
+          },
+          {
+            "title": "Etsy faces backlash over including AI model training in new policy update",
+            "desc": "Some Etsy sellers across Canada are removing products from the platform amid criticism for introducing AI model training as part of a policy change.",
+            "pubDate": "2026-11-21T14:30:46Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/etsy-ai-model-training-backlash-9.7431142?cmp=rss"
+          },
+          {
+            "title": "Opposition says housing 'downgraded' in new B.C. Conservative cabinet",
+            "desc": "British Columbia's Official Opposition says the new Conservative cabinet is getting ready to tear down existing housing plans after eliminating the Ministry of Housing and Municipal Affairs as a separate office.",
+            "pubDate": "2026-11-21T14:12:44Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/bc-housing-conservative-cabinet-9.7431361?cmp=rss"
           },
           {
             "title": "Facial recognition plan draws pushback from Downtown Eastside housing workers",
@@ -434,80 +458,56 @@
             "desc": "Tara Marshall wants stronger mandatory minimum sentences for repeat and bulk drug traffickers, after the death of her daughter Kennedy Grace Crowe.",
             "pubDate": "2026-11-21T06:00:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/quesnel-57-days-kennedys-law-9.7430822?cmp=rss"
-          },
-          {
-            "title": "Want to cut down your own Christmas tree in B.C.? There’s an app for that",
-            "desc": "Have you ever considered heading out into B.C.’s forests in search of the perfect Christmas tree? It’s a lovely thought, but it can be confusing knowing where to go and what kind of permits you need to have.",
-            "pubDate": "2026-11-21T09:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/christmas-tree-cutting-app-9.7426891?cmp=rss"
-          },
-          {
-            "title": "Meet the Vancouver designer behind the new Hockey Night in Canada logo",
-            "desc": "CBC has officially unveiled a new logo to accompany a new era of Hockey Night in Canada. Vancouver's Greg Durrell, a designer and hockey fan himself, was tapped by CBC to design the new logo.",
-            "pubDate": "2026-11-21T10:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/vancouver-designer-new-hockey-night-in-canada-logo-9.7430197?cmp=rss"
-          },
-          {
-            "title": "Canada's first climate lawsuit to go to trial has wrapped up hearings. Many more are underway",
-            "desc": "What level of responsibility does the federal government bear for the climate disasters Canadians are suffering? That's the question at the heart of a landmark lawsuit that wrapped up witness testimony in Federal Court in Vancouver on Friday, and whose outcome could have a big influence on how a growing number of other climate lawsuits in Canada pan out.",
-            "pubDate": "2026-11-21T04:00:00Z",
-            "link": "https://www.cbc.ca/news/science/climate-lawsuit-emissions-constitution-federal-court-9.7430780?cmp=rss"
-          },
-          {
-            "title": "Premier Lorne Doerkson sworn in alongside 1st B.C. Conservative cabinet",
-            "desc": "Lorne Doerkson announced his cabinet Friday after being sworn in as B.C.'s 38th premier by Lt.-Gov. Wendy Cocchia. It is the first time the B.C. Conservative Party has been elected to government in more than 100 years.",
-            "pubDate": "2026-11-20T08:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "Canada's Maltais, Dubreuil each win bronze at speedskating World Cup event in Japan",
-            "desc": "OBIHIRO — Canadian national team veterans Valérie Maltais and Laurent Dubreuil each earned a bronze medal on Saturday at an ISU World Cup Speed Skating event.  Maltais, from La Baie, Que.",
-            "pubDate": "2026-11-21T18:51:02Z",
-            "link": "https://www.nsnews.com/national-sports/canadas-maltais-dubreuil-each-win-bronze-at-speedskating-world-cup-event-in-japan-13045410"
+            "title": "Young philanthropist honoured for raising thousands through lemonade stand",
+            "desc": "Anders Yee, who has raised more than $8,500 for the Victoria Hospitals Foundation, was one of several people honoured at a gala celebration this week.",
+            "pubDate": "2026-11-23T11:45:00Z",
+            "link": "https://www.nsnews.com/highlights/young-philanthropist-honoured-for-raising-thousands-through-lemonade-stand-13042279"
           },
           {
-            "title": "B.C. Greens say affordability, climate missing from Premier Lorne Doerkson's cabinet",
-            "desc": "VICTORIA — Greens in British Columbia say they are concerned about the direction of the new Conservative government after Premier Lorne Doerkson revealed his cabinet Friday.",
-            "pubDate": "2026-11-21T18:48:12Z",
-            "link": "https://www.nsnews.com/bc-news/bc-greens-say-affordability-climate-missing-from-premier-lorne-doerksons-cabinet-13045430"
+            "title": "Cavalry FC defeats Atletico Ottawa 3-2 to claim CPL title and historic double",
+            "desc": "CALGARY — Cavalry FC earned a historic soccer double in the Canadian Premier League with a 3-2 win over Atletico Ottawa for the North Star Cup on Saturday.",
+            "pubDate": "2026-11-22T00:52:20Z",
+            "link": "https://www.nsnews.com/national-sports/cavalry-fc-defeats-atletico-ottawa-3-2-to-claim-cpl-title-and-historic-double-13045729"
           },
           {
-            "title": "Canada wins four individual short-track speedskating medals at World Tour event",
-            "desc": "SEOUL — Courtney Sarault, Florence Brunelle, Mathieu Pelletier and Félix Roussel all reached the podium on Saturday as Canada earned four individual medals at the ISU Short Track World Tour in Seoul, South Korea.  Sarault, from Moncton, N.B.",
-            "pubDate": "2026-11-21T18:37:15Z",
-            "link": "https://www.nsnews.com/national-sports/canada-wins-four-individual-short-track-speedskating-medals-at-world-tour-event-13045432"
+            "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+            "desc": "GUASAVE, Mexico (AP) — Heavy gunfire, helicopters and burning trucks marked  Mexico's  Sinaloa state Saturday after authorities captured cartel boss Fausto Isidro Meza Flores, known as “El Chapo Isidro,” in an operation that left at least 11 people d",
+            "pubDate": "2026-11-22T00:13:20Z",
+            "link": "https://www.nsnews.com/the-mix/cartel-leader-captured-in-northern-mexico-in-a-bloody-firefight-that-left-11-dead-13045467"
           },
           {
-            "title": "Toronto zoo reviews enclosures and policies following Fiona the Hippo's death",
-            "desc": "TORONTO — The Toronto Zoo says it has reviewed several animal habitats in the wake of Fiona the Hippo's tragic death after swallowing a hat earlier this week.",
-            "pubDate": "2026-11-21T18:32:18Z",
-            "link": "https://www.nsnews.com/the-mix/toronto-zoo-reviews-enclosures-and-policies-following-fiona-the-hippos-death-13045409"
+            "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+            "desc": "GUASAVE, Mexico (AP) — Heavy gunfire, helicopters and burning trucks marked  Mexico's  Sinaloa state Saturday after authorities captured cartel boss Fausto Isidro Meza Flores, known as “El Chapo Isidro,” in an operation that left at least 11 people d",
+            "pubDate": "2026-11-22T00:13:20Z",
+            "link": "https://www.nsnews.com/national-business/cartel-leader-captured-in-northern-mexico-in-a-bloody-firefight-that-left-11-dead-13045468"
           },
           {
-            "title": "Conservative Premier Doerkson gets ready to tear housing plans: NDP interim leader",
-            "desc": "VICTORIA — British Columbia's official Opposition says the new Conservative cabinet is getting ready to tear down existing housing plans after eliminating the Ministry of Housing and Municipal Affairs as a separate office.",
-            "pubDate": "2026-11-21T17:50:15Z",
-            "link": "https://www.nsnews.com/the-mix/conservative-premier-doerkson-gets-ready-to-tear-housing-plans-ndp-interim-leader-13045363"
+            "title": "Rain at Sea Island washes out 3rd round and leads to another Monday finish on the PGA Tour",
+            "desc": "ST. SIMONS ISLAND, Ga. (AP) — Heavy rain at Sea Island on Saturday left the Seaside course unplayable and washed out the third round of the RSM Classic, setting up a second straight week of a Monday finish on the PGA Tour.",
+            "pubDate": "2026-11-21T23:56:39Z",
+            "link": "https://www.nsnews.com/national-sports/rain-at-sea-island-washes-out-3rd-round-and-leads-to-another-monday-finish-on-the-pga-tour-13045776"
           },
           {
-            "title": "Conservative Premier Doerkson gets ready to tear housing plans: NDP interim leader",
-            "desc": "VICTORIA — British Columbia's official Opposition says the new Conservative cabinet is getting ready to tear down existing housing plans after eliminating the Ministry of Housing and Municipal Affairs as a separate office.",
-            "pubDate": "2026-11-21T17:50:15Z",
-            "link": "https://www.nsnews.com/national-business/conservative-premier-doerkson-gets-ready-to-tear-housing-plans-ndp-interim-leader-13045364"
+            "title": "Sam Rinzel's overtime goal lifts Chicago Blackhawks over Calgary Flames 4-3",
+            "desc": "CALGARY — Sam Rinzel scored the overtime winner and had two assists to lead the Chicago Blackhawks past the Calgary Flames 4-3 on Saturday, snapping a nine-game road winless skid.  Patrick Kane had a goal and two assists for Chicago (7-14-2).",
+            "pubDate": "2026-11-21T23:38:51Z",
+            "link": "https://www.nsnews.com/national-sports/sam-rinzels-overtime-goal-lifts-chicago-blackhawks-over-calgary-flames-4-3-13045833"
           },
           {
-            "title": "Alcaraz shakes off thigh injury to beat Shelton and reach championship match at ATP Finals",
-            "desc": "TURIN, Italy (AP) —  Carlos Alcaraz  had his left thigh wrapped up. Tape on his right knee. Memories of the 4 1/2 months he missed earlier this year due to a right wrist injury.",
-            "pubDate": "2026-11-21T17:37:19Z",
-            "link": "https://www.nsnews.com/national-sports/alcaraz-shakes-off-thigh-injury-to-beat-shelton-and-reach-championship-match-at-atp-finals-13045178"
+            "title": "Canada loses to Brazil 3-2 in Billie Jean King Cup playoff tie",
+            "desc": "VITÓRIA — Canada lost to host nation Brazil 3-2 on Saturday in its Billie Jean King Cup playoff tie.  The tie was level at 1-1 after Canada and Brazil each earned a singles victory on Friday.",
+            "pubDate": "2026-11-21T23:38:40Z",
+            "link": "https://www.nsnews.com/national-sports/canada-loses-to-brazil-3-2-in-billie-jean-king-cup-playoff-tie-13045834"
           },
           {
-            "title": "McGuinty not aware U.S. has changed military co-operation policy with Canada",
-            "desc": "HALIFAX — Canada’s defence minister says he has not seen a memo from the U.S. secretary of war that reportedly restricts American defence co-operation with Canada.",
-            "pubDate": "2026-11-21T17:20:48Z",
-            "link": "https://www.nsnews.com/national-news/mcguinty-not-aware-us-has-changed-military-co-operation-policy-with-canada-13045332"
+            "title": "At least 24 dead in Nigeria when boat capsizes while carrying people to a funeral",
+            "desc": "ABUJA, Nigeria (AP) — A boat carrying people to a funeral has capsized in southern Nigeria, killing at least 24 people, emergency services said on Saturday.",
+            "pubDate": "2026-11-21T22:52:28Z",
+            "link": "https://www.nsnews.com/world-news/at-least-24-dead-in-nigeria-when-boat-capsizes-while-carrying-people-to-a-funeral-13045624"
           }
         ]
       },
