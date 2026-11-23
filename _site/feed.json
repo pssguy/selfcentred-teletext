@@ -2,26 +2,114 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-11-23T01:40:54Z",
+      "fetchedAt": "2026-11-23T12:27:36Z",
       "sections": {
         "top": [
           {
-            "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-            "desc": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
-            "pubDate": "2026-11-23T00:50:35Z",
+            "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+            "desc": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+            "pubDate": "2026-11-23T11:40:01Z",
+            "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Ukraine shares video of strikes on Russian ships off Libya",
+            "desc": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+            "pubDate": "2026-11-23T11:34:10Z",
+            "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Police investigate unknown substance that caused Manchester's Co-op Live evacuation",
+            "desc": "People describe a \"horrible smell\" and hearing screaming as they were evacuated from the Don Toliver gig.",
+            "pubDate": "2026-11-23T11:56:57Z",
+            "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Watch: What we know about Co-op Live 'major incident'",
+            "desc": "Thousands evacuated from concert in Manchester after an 'unknown substance' was released into the crowd.",
+            "pubDate": "2026-11-23T10:46:28Z",
+            "link": "https://www.bbc.co.uk/news/videos/cmn50yy0ypy3o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+            "desc": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+            "pubDate": "2026-11-23T11:57:33Z",
+            "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Tyson Fury reveals schizophrenia diagnosis",
+            "desc": "Tyson Fury describes hearing voices in his head when he suffered a breakdown in 2015, and was also diagnosed with bipolar disorder.",
+            "pubDate": "2026-11-23T09:53:52Z",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Five takeaways from the failed climate talks COP31",
+            "desc": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+            "pubDate": "2026-11-23T06:33:50Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "NHS launches world's largest AI breast cancer screening trial",
+            "desc": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+            "pubDate": "2026-11-23T00:49:22Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "world": [
+          {
+            "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+            "desc": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+            "pubDate": "2026-11-23T11:40:01Z",
+            "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+            "desc": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+            "pubDate": "2026-11-23T05:15:06Z",
             "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "What's next after no deal at COP31 climate talks?",
-            "desc": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-            "pubDate": "2026-11-22T18:57:24Z",
-            "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+            "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+            "desc": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+            "pubDate": "2026-11-23T11:57:33Z",
+            "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-            "desc": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-            "pubDate": "2026-11-22T22:49:10Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
+            "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+            "desc": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+            "pubDate": "2026-11-23T05:33:17Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Flights grounded in Belgium due to strike against austerity measures",
+            "desc": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+            "pubDate": "2026-11-23T11:26:12Z",
+            "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Presidential villa also hit by water and power cuts, Nigerian leader says",
+            "desc": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+            "pubDate": "2026-11-23T11:15:16Z",
+            "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+            "desc": "The couple have been together for four years and were engaged in 2025.",
+            "pubDate": "2026-11-22T21:22:40Z",
+            "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+            "desc": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
+            "pubDate": "2026-11-23T08:53:01Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "uk": [
+          {
+            "title": "Police investigate unknown substance that caused Manchester's Co-op Live evacuation",
+            "desc": "People describe a \"horrible smell\" and hearing screaming as they were evacuated from the Don Toliver gig.",
+            "pubDate": "2026-11-23T11:56:57Z",
+            "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
@@ -30,142 +118,54 @@
             "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-            "desc": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
-            "pubDate": "2026-11-22T23:53:45Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+            "title": "Tyson Fury reveals schizophrenia diagnosis",
+            "desc": "Tyson Fury describes hearing voices in his head when he suffered a breakdown in 2015, and was also diagnosed with bipolar disorder.",
+            "pubDate": "2026-11-23T09:53:52Z",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
-            "desc": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-            "pubDate": "2026-11-22T13:50:21Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
+            "title": "Pip assessments need 'fundamental overhaul', report to say",
+            "desc": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+            "pubDate": "2026-11-23T09:37:07Z",
+            "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-            "desc": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-            "pubDate": "2026-11-22T20:28:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
+            "title": "Mild Atlantic air collides with cold air across the UK, a recipe for some snow",
             "desc": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
             "pubDate": "2026-11-23T00:40:36Z",
             "link": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "world": [
-          {
-            "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-            "desc": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
-            "pubDate": "2026-11-23T00:50:35Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "What's next after no deal at COP31 climate talks?",
-            "desc": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-            "pubDate": "2026-11-22T18:57:24Z",
-            "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+            "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+            "desc": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+            "pubDate": "2026-11-23T11:24:37Z",
+            "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-            "desc": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-            "pubDate": "2026-11-22T20:28:09Z",
-            "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+            "title": "Paralympian charged with 11 counts of rape",
+            "desc": "Pontefract Paralympian Lee Fryer will stand trial in March charged with 11 counts of rape",
+            "pubDate": "2026-11-23T12:25:46Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2xj4j33d1o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-            "desc": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-            "pubDate": "2026-11-22T22:37:43Z",
-            "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-            "desc": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-            "pubDate": "2026-11-22T17:18:26Z",
-            "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "South Korea education minister resigns over exam cheating scandal",
-            "desc": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-            "pubDate": "2026-11-22T09:20:45Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Three killed and dozens missing after fire at Indonesian factory",
-            "desc": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-            "pubDate": "2026-11-22T14:05:20Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-            "desc": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-            "pubDate": "2026-11-23T01:23:43Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "uk": [
-          {
-            "title": "Boss of British Gas owners Centrica 'hugely concerned' over impact of soaring energy bills",
-            "desc": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-            "pubDate": "2026-11-22T13:50:21Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
-            "desc": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
-            "pubDate": "2026-11-22T11:50:20Z",
-            "link": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Tories would scrap Burnham's deal with EU, deputy leader says",
-            "desc": "Alex Burghart tells the BBC the agreement will not lead to lower prices in the shops.",
-            "pubDate": "2026-11-22T13:15:57Z",
-            "link": "https://www.bbc.co.uk/news/articles/cr868jnlllpgo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-            "desc": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
-            "pubDate": "2026-11-22T14:19:06Z",
-            "link": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Russell Brand's wife says she'll honour prison rules after message row",
-            "desc": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
-            "pubDate": "2026-11-22T16:51:57Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Man dies in M42 crash near Birmingham Airport",
-            "desc": "Police confirm a van driver died following a serious crash on the M42 on Saturday.",
-            "pubDate": "2026-11-22T12:38:03Z",
-            "link": "https://www.bbc.co.uk/news/articles/c61k94ype8keo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "BBC apologises for 'any offence caused' by Strictly noise disruption ",
-            "desc": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
-            "pubDate": "2026-11-22T04:39:13Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Widow fears losing home built by husband after support payments end",
-            "desc": "A petition calling for changes to bereavement support is due to be debated by MPs on Monday.",
-            "pubDate": "2026-11-22T07:14:14Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqevrx7xxz93o?at_medium=RSS&at_campaign=rss"
+            "title": "Woman faces hour-long drive to give birth as hospital suspends maternity services",
+            "desc": "From Monday, maternity services at Daisy Hill Hospital will move to Craigavon Area Hospital.",
+            "pubDate": "2026-11-23T11:25:35Z",
+            "link": "https://www.bbc.co.uk/news/articles/cv5y10xn90y3o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
           {
-            "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-            "desc": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-            "pubDate": "2026-11-22T13:50:21Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
+            "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+            "desc": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+            "pubDate": "2026-11-23T11:24:37Z",
+            "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "What is going on with Poundland?",
-            "desc": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
-            "pubDate": "2026-11-23T00:22:27Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss"
+            "title": "Catering giant to switch main share listing to US in further blow to UK",
+            "desc": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+            "pubDate": "2026-11-23T09:54:04Z",
+            "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Energy bills will soar - here's how you can ease the pain",
@@ -174,16 +174,10 @@
             "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Employers are being asked to give interview feedback - here's what applicants want",
-            "desc": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-            "pubDate": "2026-11-22T00:04:07Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Can AI really help spot Black Friday deals? We put it to the test",
-            "desc": "We put four AI models to the test to see if they could save us money on a new TV.",
-            "pubDate": "2026-11-21T00:06:11Z",
-            "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss"
+            "title": "Poundland is facing collapse - what's gone wrong?",
+            "desc": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+            "pubDate": "2026-11-23T10:09:25Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
@@ -192,16 +186,22 @@
             "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-            "desc": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-            "pubDate": "2026-11-23T00:33:36Z",
-            "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
+            "title": "Pip assessments need 'fundamental overhaul', report to say",
+            "desc": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+            "pubDate": "2026-11-23T09:37:07Z",
+            "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-            "desc": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-            "pubDate": "2026-11-20T16:41:52Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
+            "title": "South East Water reports loss after supply issues",
+            "desc": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
+            "pubDate": "2026-11-23T10:19:46Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Hundreds of applications, no replies: Inside the job ghosting problem‌",
+            "desc": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+            "pubDate": "2026-11-22T00:04:07Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "sport": [
@@ -212,102 +212,102 @@
             "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss"
           },
           {
+            "title": "De Villiers claims ball-tampering from first 2018 Test",
+            "desc": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
+            "pubDate": "2026-11-23T08:08:13Z",
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
             "desc": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
             "pubDate": "2026-11-22T23:20:16Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-            "desc": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
-            "pubDate": "2026-11-22T21:36:00Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss"
+            "title": "Fury reveals schizophrenia diagnosis",
+            "desc": "Tyson Fury describes hearing voices in his head when he suffered a breakdown in 2015, and was also diagnosed with bipolar disorder.",
+            "pubDate": "2026-11-23T09:53:52Z",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Price wins Grand Slam to end wait for major title",
-            "desc": "Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final.",
-            "pubDate": "2026-11-22T21:06:47Z",
-            "link": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss"
+            "title": "'Ridiculous stuff!' - Incredible touchdown throw in NFL best plays",
+            "desc": "A \"ridiculous\" touchdown throw by Tennessee Titans quarterback Cam Ward features in the best plays week 11 of the NFL regular season.",
+            "pubDate": "2026-11-23T12:19:19Z",
+            "link": "https://www.bbc.co.uk/sport/american-football/videos/cq07411l0xygo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
-            "desc": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
-            "pubDate": "2026-11-22T20:15:48Z",
-            "link": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss"
+            "title": "84 days, four titles, one historic feat - Alcaraz's remarkable return",
+            "desc": "Over the past 84 days, Carlos Alcaraz has won four titles, and he beat world number one Alexander Zverev to make history at the ATP Finals on Sunday.",
+            "pubDate": "2026-11-23T06:08:20Z",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/crp3e43gvgpwo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
-            "desc": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
-            "pubDate": "2026-11-22T19:59:35Z",
-            "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss"
+            "title": "49ers win in Mexico and Bills stay top - NFL week 11",
+            "desc": "The San Francisco 49ers and Buffalo Bills remain the pacesetters in each conference of the NFL.",
+            "pubDate": "2026-11-23T07:48:33Z",
+            "link": "https://www.bbc.co.uk/sport/american-football/articles/c3zxv0nyxl8ro?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
-            "desc": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
-            "pubDate": "2026-11-22T21:44:37Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "The red card that changed Liverpool-Man Utd: correct call?",
-            "desc": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-            "pubDate": "2026-11-22T17:55:54Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss"
+            "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+            "desc": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?",
+            "pubDate": "2026-11-23T07:52:55Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-11-23T01:40:55Z",
+      "fetchedAt": "2026-11-23T12:27:36Z",
       "sections": {
         "top": [
           {
-            "title": "COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
+            "title": "Canadians fed up with long hold times want telcos to answer calls within 10 minutes",
             "desc": "",
-            "pubDate": "2026-11-22T15:53:49Z",
-            "link": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847?cmp=rss"
+            "pubDate": "2026-11-23T06:05:06Z",
+            "link": "https://www.cbc.ca/news/gopublic/canadian-telecom-long-hold-times-9.7428880?cmp=rss"
           },
           {
-            "title": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
-            "desc": "Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.",
-            "pubDate": "2026-11-22T04:00:00Z",
-            "link": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss"
+            "title": "'Unprecedented': Why this round of Stellantis, Unifor contract talks is like no other",
+            "desc": "",
+            "pubDate": "2025-12-04T17:26:54Z",
+            "link": "https://www.cbc.ca/news/canada/windsor/stellantis-unifor-contract-negotiations-brampton-windsor-federal-9.7430088?cmp=rss"
           },
           {
-            "title": "Will Canadian workers refuse to handle Israeli goods? Why unions increasingly say they should",
-            "desc": "A movement to cut off Israeli goods is spreading across Canada's unions. The Canadian Labour Congress, which represents more than 3 million workers, passed a resolution last month declaring trade, services and relationships with Israel to be “hot cargo,\"  emphasizing a call for workers  to refuse to handle weapons and military equipment destined for Israel.",
-            "pubDate": "2026-11-22T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/clc-resolution-canadian-unions-israel-9.7428991?cmp=rss"
+            "title": "Spying on survivors: Why RCMP watched Wab Kinew's father in the 1960s",
+            "desc": "Manitoba Premier Wab Kinew wants to know who spied on his father for the RCMP, and why. Documents obtained by CBC News reveal the late Anishinaabe leader Tobasonakwut Kinew was under surveillance in the 1960s, an early target in a countrywide infiltration initiative later dubbed the \"Native extremism program.\"",
+            "pubDate": "2026-11-23T05:00:00Z",
+            "link": "https://www.cbc.ca/news/indigenous/rcmp-surveillance-kinew-9.7426927?cmp=rss"
           },
           {
-            "title": "FULL SPEECH | Carney roasts opposition, Trump at press gallery dinner",
-            "desc": "Prime Minister Mark Carney delivered a few jabs at his fellow politicians, journalists and U.S. President Donald Trump at the annual Parliamentary Press Gallery dinner in Ottawa on Saturday. 'This is a tough room. And I've been in the Oval Office, alone, with its new interior decorator,' Carney said, in an apparent poke at the U.S. leader. (Raw, unedited speech)",
-            "pubDate": "2026-11-22T20:29:23Z",
-            "link": "https://www.cbc.ca/player/play/9.7432128?cmp=rss"
+            "title": "Zelenskyy confirms Ukraine was behind attack that sank Russian warship off Libya",
+            "desc": "Ukrainian President Volodymyr Zelenskyy said Ukraine was behind an attack that sank a Russian warship off Libya.",
+            "pubDate": "2026-11-23T04:47:02Z",
+            "link": "https://www.cbc.ca/news/world/ukraine-behind-attack-that-sank-russian-warship-off-libya-9.7432215?cmp=rss"
           },
           {
-            "title": "Satellites are constantly photographing Earth. A Waterloo student has compiled the pictures into one spot",
-            "desc": "Satellites are constantly photographing Earth, and a new website designed by a University of Waterloo student is making these public photos more accessible to the general public.",
-            "pubDate": "2026-11-21T06:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/kitchener-waterloo/satellites-are-constantly-photographing-earth-a-waterloo-student-has-compiled-the-pictures-into-one-spot-9.7428257?cmp=rss"
+            "title": "More Canadians are using cannabis daily than are drinking alcohol daily: study",
+            "desc": "Daily use of cannabis has outstripped daily use of alcohol in Canada, with young Canadians at the front of the trend, new data shows. Experts say this generational shift brings some positives, but that many Canadians remain unaware that there are risks with overuse of cannabis.",
+            "pubDate": "2026-11-23T04:00:00Z",
+            "link": "https://www.cbc.ca/news/health/daily-cannabis-use-higher-alcohol-cigarettes-9.7430174?cmp=rss"
           },
           {
-            "title": "How a rainy afternoon in Montreal inspired an iconic Canadian board game",
-            "desc": "The bestselling Canadian board game of all time has sold more than 100 million copies worldwide, in 17 different languages. On the game's 45th anniversary, co-creator John Haney offers a personal account of the game's creation in his new book, My Trivial Pursuits: The Inside Story of the Board Game That Conquered the World.",
-            "pubDate": "2026-11-22T04:00:00Z",
-            "link": "https://www.cbc.ca/radio/sunday/how-a-rainy-afternoon-in-montreal-inspired-an-iconic-canadian-board-game-9.7425059?cmp=rss"
+            "title": "A gold mine has created a 'little town' in central Newfoundland — and it's about to get bigger",
+            "desc": "Step inside the Valentine gold mine near Buchans, which is now Atlantic Canada's largest.",
+            "pubDate": "2026-11-23T04:30:00Z",
+            "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/gold-mine-valentine-buchans-9.7426369?cmp=rss"
           },
           {
-            "title": "Pay halted for suspended Vancouver police officer charged with fraud and theft",
-            "desc": "The Vancouver Police Board has discontinued pay for a high-profile officer accused of fraud and theft.",
-            "pubDate": "2026-11-22T13:40:48Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/kal-dosanjh-pay-discontinued-9.7431776?cmp=rss"
+            "title": "Montreal Canadiens acquire centre Dylan Larkin from Red Wings in blockbuster trade",
+            "desc": "The Red Wings traded centre Dylan Larkin to the Montreal Canadiens in a blockbuster deal on Sunday, ending a drawn-out saga after Detroit's former captain requested a move in the off-season.",
+            "pubDate": "2026-11-22T21:39:36Z",
+            "link": "https://www.cbc.ca/news/canada/montreal/dylan-larkin-montreal-canadiens-9.7432157?cmp=rss"
           },
           {
-            "title": "Was mispronouncing ‘Newfoundland’ the motive for murder?",
-            "desc": "If you’re from Newfoundland, perhaps you’ve wanted to murder someone over their mangled pronunciation of the place’s name. But it really happened one Friday night in 1876. Author and cultural historian Ainsley Hawthorne tells this tale to die for.",
-            "pubDate": "2026-11-22T04:30:00Z",
-            "link": "https://www.cbc.ca/player/play/9.7431001?cmp=rss"
+            "title": "N.L. fisheries minister stayed in Scottish castle, ‘luxury’ shooting lodge on aquaculture giant’s dime",
+            "desc": "Newfoundland and Labrador’s NDP says the province’s fisheries minister put himself in a “brutal” conflict of interest when he stayed in a castle, then a “luxury” shooting lodge — all on the dime of an aquaculture company — during a trip to Scotland last June.",
+            "pubDate": "2026-11-23T04:30:00Z",
+            "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/odriscoll-stayed-at-castle-hunting-lodge-mowi-paid-9.7429872?cmp=rss"
           }
         ],
         "world": [
@@ -368,16 +368,28 @@
             "link": "https://www.cbc.ca/news/canada/lawful-access-bill-whatsapp-newcomers-9.7429493?cmp=rss"
           },
           {
+            "title": "Toronto to receive $29M top-up for crossing guards speed cameras used to fund",
+            "desc": "The Ford government banned speed cameras across Ontario in November 2025, leaving many cities worrying about safety and funding. Now, the City of Toronto looks set to receive a one-time payment of almost $30 million to help with lost revenue that used to pay for crossing guards.",
+            "pubDate": "2026-11-23T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/toronto/toronto-crossing-guard-ontario-money-9.7430436?cmp=rss"
+          },
+          {
+            "title": "Carney, opposition leaders trade comedic jabs at press gallery dinner",
+            "desc": "Two Mark Carneys and a Donald Trump shared the stage at the Parliamentary Press Gallery dinner Saturday, when the prime minister got a little help from This Hour Has 22 Minutes impersonators to give the traditional comedic speech.",
+            "pubDate": "2026-11-22T20:55:29Z",
+            "link": "https://www.cbc.ca/news/politics/carney-press-gallery-dinner-9.7432138?cmp=rss"
+          },
+          {
+            "title": "Closure of longtime Vancouver burger chain highlights growing pressures on B.C. restaurants",
+            "desc": "After 16 years in business, a Vancouver burger chain has announced the permanent closure of its restaurants because of ongoing financial challenges. It's the latest in a series of closures highlighting the pressures facing the food service industry.",
+            "pubDate": "2026-11-22T22:55:29Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/romer-s-burger-bar-shut-down-9.7432148?cmp=rss"
+          },
+          {
             "title": "First Nations leader warns of 'dire' consequences if B.C. repeals the Declaration on the Rights of Indigenous Peoples Act",
             "desc": "British Columbia's new Conservative government could face \"dire\" consequences if they repeal the Declaration on the Rights of Indigenous Peoples Act as promised, a First Nations leader said, adding that he's willing to work with new Premier Lorne Doerkson.",
             "pubDate": "2026-11-22T20:06:09Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/first-nations-leader-warns-consequences-of-dripa-repeal-9.7432127?cmp=rss"
-          },
-          {
-            "title": "FULL SPEECH | Carney roasts opposition, Trump at press gallery dinner",
-            "desc": "Prime Minister Mark Carney delivered a few jabs at his fellow politicians, journalists and U.S. President Donald Trump at the annual Parliamentary Press Gallery dinner in Ottawa on Saturday. 'This is a tough room. And I've been in the Oval Office, alone, with its new interior decorator,' Carney said, in an apparent poke at the U.S. leader. (Raw, unedited speech)",
-            "pubDate": "2026-11-22T20:29:23Z",
-            "link": "https://www.cbc.ca/player/play/9.7432128?cmp=rss"
           },
           {
             "title": "Pay halted for suspended Vancouver police officer charged with fraud and theft",
@@ -396,21 +408,27 @@
             "desc": "Prince George's Meryeta O'Dine suffered fractured ankle in a devastating crash during a snowboard cross training run in February and was unable to compete at the 2026 Olympics.",
             "pubDate": "2026-11-22T08:00:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/prince-george-olympian-fundraising-injury-debt-9.7427067?cmp=rss"
-          },
-          {
-            "title": "Was mispronouncing ‘Newfoundland’ the motive for murder?",
-            "desc": "If you’re from Newfoundland, perhaps you’ve wanted to murder someone over their mangled pronunciation of the place’s name. But it really happened one Friday night in 1876. Author and cultural historian Ainsley Hawthorne tells this tale to die for.",
-            "pubDate": "2026-11-22T04:30:00Z",
-            "link": "https://www.cbc.ca/player/play/9.7431001?cmp=rss"
-          },
-          {
-            "title": "A small latte and a chat, please: Why this B.C. café owner put conversation on the menu",
-            "desc": "Registered clinical counsellor Shane Trudell estimates one-third of the population suffers from loneliness — but many people aren't aware of it. A New Westminster café hopes to help.",
-            "pubDate": "2026-11-22T10:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/cafe-conversation-and-coffee-bc-9.7424432?cmp=rss"
           }
         ],
         "bc": [
+          {
+            "title": "Terrace elects its 2nd-ever Indigenous city councillor",
+            "desc": "Nikki Villeneuve, a Nisga’a and Gitxsan business owner who grew up in Gitanyow, is Terrace’s second-ever Indigenous city councillor. She hopes to bring more First Nations perspectives to city hall as the regional hub faces housing pressures and major industrial development.",
+            "pubDate": "2026-11-23T07:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/terrace-indigenous-city-councillor-9.7429295?cmp=rss"
+          },
+          {
+            "title": "Vancouver Island company turns to factory-built homes to tackle housing costs",
+            "desc": "A new housing manufacturer on Vancouver Island is using an assembly-line approach, similar to car manufacturing, which it says could help reduce construction costs and make homeownership more affordable.",
+            "pubDate": "2026-11-23T06:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/igv-housing-in-port-alberni-promises-faster-cheaper-homes-9.7432108?cmp=rss"
+          },
+          {
+            "title": "Closure of longtime Vancouver burger chain highlights growing pressures on B.C. restaurants",
+            "desc": "After 16 years in business, a Vancouver burger chain has announced the permanent closure of its restaurants because of ongoing financial challenges. It's the latest in a series of closures highlighting the pressures facing the food service industry.",
+            "pubDate": "2026-11-22T22:55:29Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/romer-s-burger-bar-shut-down-9.7432148?cmp=rss"
+          },
           {
             "title": "First Nations leader warns of consequences if B.C. repeals DRIPA",
             "desc": "British Columbia's new Conservative government could face \"dire\" consequences if they repeal the Declaration on the Rights of Indigenous Peoples Act as promised, a First Nations leader said, adding that he's willing to work with new Premier Lorne Doerkson.",
@@ -440,74 +458,56 @@
             "desc": "Geraldine Russ, a Haida Nation mom of 13, says her experience being from \"the remoteness of Haida Gwaii\" is what's helped propel her to the top of the cooking competition.",
             "pubDate": "2026-11-22T12:00:00Z",
             "link": "https://www.cbc.ca/news/indigenous/masterchef-canada-geraldine-russ-9.7428652?cmp=rss"
-          },
-          {
-            "title": "He thought he was going to die when his motorcycle hit a bear. The experience shifted his perspective",
-            "desc": "Even though he's still recovering from broken bones, Garret T. Willie plans to play three shows in B.C. in late November — he'll just be sitting down.",
-            "pubDate": "2026-11-22T09:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/garret-t-willie-accident-vancouver-island-motorcycle-bear-9.7428678?cmp=rss"
-          },
-          {
-            "title": "Elite B.C. snowboarder's injury highlights financial strain of Olympic dreams",
-            "desc": "Prince George's Meryeta O'Dine suffered fractured ankle in a devastating crash during a snowboard cross training run in February and was unable to compete at the 2026 Olympics.",
-            "pubDate": "2026-11-22T08:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/prince-george-olympian-fundraising-injury-debt-9.7427067?cmp=rss"
-          },
-          {
-            "title": "A small latte and a chat, please: Why this B.C. café owner put conversation on the menu",
-            "desc": "Registered clinical counsellor Shane Trudell estimates one-third of the population suffers from loneliness — but many people aren't aware of it. A New Westminster café hopes to help.",
-            "pubDate": "2026-11-22T10:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/cafe-conversation-and-coffee-bc-9.7424432?cmp=rss"
           }
         ],
         "local": [
           {
-            "title": "More remains recovered in the search for 34 workers missing after an Indonesian candy factory fire",
-            "desc": "JAKARTA, Indonesia (AP) — Rescue teams searching for 34 missing workers after a fire swept through a candy factory in  Indonesia  recovered human remains in 24 body bags, though authorities said Sunday it was too early to determine the death toll.",
-            "pubDate": "2026-11-23T01:27:19Z",
-            "link": "https://www.nsnews.com/the-mix/more-remains-recovered-in-the-search-for-34-workers-missing-after-an-indonesian-candy-factory-fire-13047112"
+            "title": "Writers unhappy with PEN America over Gaza and other issues seek to form a new PEN chapter",
+            "desc": "NEW YORK (AP) —  Ta-Nehisi Coates ,  M.",
+            "pubDate": "2026-11-23T12:00:43Z",
+            "link": "https://www.nsnews.com/the-mix/writers-unhappy-with-pen-america-over-gaza-and-other-issues-seek-to-form-a-new-pen-chapter-13047366"
           },
           {
-            "title": "More remains recovered in the search for 34 workers missing after an Indonesian candy factory fire",
-            "desc": "JAKARTA, Indonesia (AP) — Rescue teams searching for 34 missing workers after a fire swept through a candy factory in  Indonesia  recovered human remains in 24 body bags, though authorities said Sunday it was too early to determine the death toll.",
-            "pubDate": "2026-11-23T01:27:19Z",
-            "link": "https://www.nsnews.com/national-business/more-remains-recovered-in-the-search-for-34-workers-missing-after-an-indonesian-candy-factory-fire-13047113"
+            "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+            "desc": "KYIV, Ukraine (AP) — Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said Monday, claiming that sea  drones sank the navy vessel  in a surprise assault the previous day.",
+            "pubDate": "2026-11-23T11:51:19Z",
+            "link": "https://www.nsnews.com/world-news/ukrainian-drones-hit-a-russian-warship-at-a-naval-base-in-libya-zelenskyy-says-13047283"
           },
           {
-            "title": "Letter: To control the rat population, stop dropping food for birds",
-            "desc": "Residents of North Vancouver's Lower Lonsdale neighbourhood keep trying to feed the local birds but a lot of it ends up feeding mice, rats and other vermin, this letter writer says",
-            "pubDate": "2026-11-23T00:30:00Z",
-            "link": "https://www.nsnews.com/opinion/letter-to-control-the-rat-population-stop-dropping-food-for-birds-13034284"
+            "title": "Blackhawks rookie Roman Kantserov scores first NHL hat trick in win over Canucks",
+            "desc": "VANCOUVER — Chicago Blackhawks rookie Roman Kantserov says he’s learning on the job.  Kantserov scored his first NHL hat trick Sunday night and earned an assist as the Blackhawks used a four-goal first period to defeat the Vancouver Canucks 6-3.",
+            "pubDate": "2026-11-23T11:00:02Z",
+            "link": "https://www.nsnews.com/national-sports/blackhawks-rookie-roman-kantserov-scores-first-nhl-hat-trick-in-win-over-canucks-13047349"
           },
           {
-            "title": "Paolo Bulgari, the Italian jeweler who turned a family business into global luxury brand, dies at 89",
-            "desc": "ATHENS, Greece (AP) — Paolo Bulgari, the grandson of a  Greek  silversmith who helped transform the family jewelry business into a global luxury brand synonymous with  Italian  glamour and design, has died. He was 89.",
-            "pubDate": "2026-11-23T00:27:20Z",
-            "link": "https://www.nsnews.com/the-mix/paolo-bulgari-the-italian-jeweler-who-turned-a-family-business-into-global-luxury-brand-dies-at-89-13047052"
+            "title": "Audience evacuated from Don Toliver concert after unknown substance released in the crowd",
+            "desc": "LONDON (AP) — More than 12,000 fans were evacuated from a concert by American rapper Don Toliver after an unknown substance was released in the crowd, British police said Monday.   Greater Manchester Police said officers were called around 10 p.m.",
+            "pubDate": "2026-11-23T10:46:48Z",
+            "link": "https://www.nsnews.com/the-mix/audience-evacuated-from-don-toliver-concert-after-unknown-substance-released-in-the-crowd-13047298"
           },
           {
-            "title": "First Nations leader says he's open to talks with Doerkson, but opposes DRIPA repeal",
-            "desc": "VICTORIA — British Columbia's new Conservative government could face \"dire\" consequences if they repeal the Declaration on the Rights of Indigenous Peoples Act as promised, a First Nations leader said, adding that he's willing to work with new Premie",
-            "pubDate": "2026-11-23T00:06:00Z",
-            "link": "https://www.nsnews.com/national-news/first-nations-leader-says-hes-open-to-talks-with-doerkson-but-opposes-dripa-repeal-13046656"
+            "title": "B.C. trial in author Stephen Galloway's defamation lawsuit enters final week",
+            "desc": "VANCOUVER — Final submissions in the trial of author and former UBC professor Stephen Galloway's defamation lawsuit are set to begin in B.C. Supreme Court in Vancouver today.",
+            "pubDate": "2026-11-23T10:00:02Z",
+            "link": "https://www.nsnews.com/national-news/bc-trial-in-author-stephen-galloways-defamation-lawsuit-enters-final-week-13047325"
           },
           {
-            "title": "Tarik Skubal agrees to record $450 million, 9-year contract with New York Mets, AP source says",
-            "desc": "Tarik Skubal, the two-time Cy Young Award winner who was this offseason's top free agent, has agreed to a record $450 million, nine-year contract with the New York Mets, a person familiar with the negotiations told The Associated Press on Sunday.",
-            "pubDate": "2026-11-22T23:28:49Z",
-            "link": "https://www.nsnews.com/world-news/tarik-skubal-agrees-to-record-450-million-9-year-contract-with-new-york-mets-ap-source-says-13046986"
+            "title": "Whether you're team plastic or wood, here's how to sanitize your cutting board",
+            "desc": "The cutting board might be the hardest working  tool in the kitchen  yet one thought about least. It takes the raw chicken, then the onions, then sometimes the bread, and in between it typically gets a quick swipe with the nearest sponge.",
+            "pubDate": "2026-11-23T09:41:00Z",
+            "link": "https://www.nsnews.com/the-mix/whether-youre-team-plastic-or-wood-heres-how-to-sanitize-your-cutting-board-13046190"
           },
           {
-            "title": "Tarik Skubal agrees to record $450 million, 9-year contract with New York Mets, AP source says",
-            "desc": "Tarik Skubal, the two-time Cy Young Award winner who was this offseason's top free agent, has agreed to a record $450 million, nine-year contract with the New York Mets, a person familiar with the negotiations told The Associated Press on Sunday.",
-            "pubDate": "2026-11-22T23:28:49Z",
-            "link": "https://www.nsnews.com/national-sports/tarik-skubal-agrees-to-record-450-million-9-year-contract-with-new-york-mets-ap-source-says-13046951"
+            "title": "In the news today: cannabis over alcohol, wrongful conviction body, strike vote",
+            "desc": "Here is a roundup of stories from The Canadian Press designed to bring you up to speed …   There's been a 'generational shift' from daily drinking to daily cannabis use: study   A new study says daily cannabis use has surpassed daily drinking in wh",
+            "pubDate": "2026-11-23T09:21:25Z",
+            "link": "https://www.nsnews.com/national-news/in-the-news-today-cannabis-over-alcohol-wrongful-conviction-body-strike-vote-13047309"
           },
           {
-            "title": "Jeeno Thitikul cashes in at LPGA finale to win $4M prize for 3rd straight time",
-            "desc": "NAPLES, Fla.",
-            "pubDate": "2026-11-22T23:16:02Z",
-            "link": "https://www.nsnews.com/national-sports/jeeno-thitikul-cashes-in-at-lpga-finale-to-win-4m-prize-for-3rd-straight-time-13047009"
+            "title": "Amy Poehler returns to TV with 'Dig' - just in time for Thanksgiving",
+            "desc": "Amy Poehler’s back  on television and that’s a big deal.",
+            "pubDate": "2026-11-23T09:07:49Z",
+            "link": "https://www.nsnews.com/the-mix/amy-poehler-returns-to-tv-with-dig-just-in-time-for-thanksgiving-13047226"
           }
         ]
       },
