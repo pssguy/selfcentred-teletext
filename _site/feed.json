@@ -2,14 +2,38 @@
   "channels": {
     "uk": {
       "source": "BBC News",
-      "fetchedAt": "2026-11-22T19:33:39Z",
+      "fetchedAt": "2026-11-23T01:40:54Z",
       "sections": {
         "top": [
           {
             "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-            "desc": "The talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-            "pubDate": "2026-11-22T18:17:59Z",
+            "desc": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+            "pubDate": "2026-11-23T00:50:35Z",
             "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "What's next after no deal at COP31 climate talks?",
+            "desc": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+            "pubDate": "2026-11-22T18:57:24Z",
+            "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+            "desc": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+            "pubDate": "2026-11-22T22:49:10Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+            "desc": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+            "pubDate": "2026-11-23T00:49:22Z",
+            "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+            "desc": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+            "pubDate": "2026-11-22T23:53:45Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
@@ -20,63 +44,39 @@
           {
             "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
             "desc": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-            "pubDate": "2026-11-22T19:26:54Z",
+            "pubDate": "2026-11-22T20:28:09Z",
             "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-            "desc": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-            "pubDate": "2026-11-22T17:57:43Z",
-            "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-            "desc": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
-            "pubDate": "2026-11-22T14:19:06Z",
-            "link": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Russell Brand's wife says she'll honour prison rules after message row",
-            "desc": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
-            "pubDate": "2026-11-22T16:51:57Z",
-            "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "BBC apologises after noise disruption during Strictly",
-            "desc": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
-            "pubDate": "2026-11-22T13:46:00Z",
-            "link": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "How a teen gamer and his mother helped rescue a missing girl",
-            "desc": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
-            "pubDate": "2026-11-22T00:09:58Z",
-            "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
+            "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
+            "desc": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+            "pubDate": "2026-11-23T00:40:36Z",
+            "link": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "world": [
           {
             "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-            "desc": "The talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-            "pubDate": "2026-11-22T18:17:59Z",
+            "desc": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+            "pubDate": "2026-11-23T00:50:35Z",
             "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "What's next after no deal at COP31 climate talks?",
-            "desc": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+            "desc": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
             "pubDate": "2026-11-22T18:57:24Z",
             "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
             "desc": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-            "pubDate": "2026-11-22T19:26:54Z",
+            "pubDate": "2026-11-22T20:28:09Z",
             "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
             "desc": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-            "pubDate": "2026-11-22T17:57:43Z",
+            "pubDate": "2026-11-22T22:37:43Z",
             "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
           },
           {
@@ -98,10 +98,10 @@
             "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-            "desc": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
-            "pubDate": "2026-11-22T18:29:46Z",
-            "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss"
+            "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+            "desc": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+            "pubDate": "2026-11-23T01:23:43Z",
+            "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
           }
         ],
         "uk": [
@@ -136,6 +136,12 @@
             "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss"
           },
           {
+            "title": "Man dies in M42 crash near Birmingham Airport",
+            "desc": "Police confirm a van driver died following a serious crash on the M42 on Saturday.",
+            "pubDate": "2026-11-22T12:38:03Z",
+            "link": "https://www.bbc.co.uk/news/articles/c61k94ype8keo?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "title": "BBC apologises for 'any offence caused' by Strictly noise disruption ",
             "desc": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
             "pubDate": "2026-11-22T04:39:13Z",
@@ -146,12 +152,6 @@
             "desc": "A petition calling for changes to bereavement support is due to be debated by MPs on Monday.",
             "pubDate": "2026-11-22T07:14:14Z",
             "link": "https://www.bbc.co.uk/news/articles/cqevrx7xxz93o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Man dies in M42 crash near Birmingham Airport",
-            "desc": "Police confirm a van driver died following a serious crash on the M42 on Saturday.",
-            "pubDate": "2026-11-22T12:38:03Z",
-            "link": "https://www.bbc.co.uk/news/articles/c61k94ype8keo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "business": [
@@ -160,6 +160,18 @@
             "desc": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
             "pubDate": "2026-11-22T13:50:21Z",
             "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "What is going on with Poundland?",
+            "desc": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+            "pubDate": "2026-11-23T00:22:27Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Energy bills will soar - here's how you can ease the pain",
+            "desc": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+            "pubDate": "2026-11-23T01:05:07Z",
+            "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Employers are being asked to give interview feedback - here's what applicants want",
@@ -174,103 +186,85 @@
             "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-            "desc": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-            "pubDate": "2026-11-20T16:41:52Z",
-            "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
+            "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+            "desc": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+            "pubDate": "2026-11-23T00:08:00Z",
+            "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
             "desc": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-            "pubDate": "2026-11-22T07:12:41Z",
+            "pubDate": "2026-11-23T00:33:36Z",
             "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "title": "Should AI be judging our credit worthiness?",
-            "desc": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-            "pubDate": "2026-11-20T07:32:19Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-            "desc": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-            "pubDate": "2026-11-20T22:42:47Z",
-            "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "MP criticises Guernsey and Jersey company ownership register plans",
-            "desc": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
-            "pubDate": "2026-11-22T07:22:05Z",
-            "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss"
+            "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+            "desc": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+            "pubDate": "2026-11-20T16:41:52Z",
+            "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "sport": [
           {
-            "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
-            "desc": "How Liverpool and Manchester United's players rated following their Premier League match.",
-            "pubDate": "2026-11-22T18:28:51Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss"
+            "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+            "desc": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+            "pubDate": "2026-11-22T21:22:10Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+            "desc": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+            "pubDate": "2026-11-22T23:20:16Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+            "desc": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+            "pubDate": "2026-11-22T21:36:00Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Price wins Grand Slam to end wait for major title",
+            "desc": "Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final.",
+            "pubDate": "2026-11-22T21:06:47Z",
+            "link": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
+            "desc": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
+            "pubDate": "2026-11-22T20:15:48Z",
+            "link": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+            "desc": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+            "pubDate": "2026-11-22T19:59:35Z",
+            "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+            "desc": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+            "pubDate": "2026-11-22T21:44:37Z",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss"
           },
           {
             "title": "The red card that changed Liverpool-Man Utd: correct call?",
             "desc": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
             "pubDate": "2026-11-22T17:55:54Z",
             "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
-            "desc": "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
-            "pubDate": "2026-11-22T19:03:32Z",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
-            "desc": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
-            "pubDate": "2026-11-22T11:07:32Z",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
-            "desc": "Ferrari drivers Lewis Hamilton and Charles Leclerc face yet another tense discussion over their ability to race together cleanly on track after colliding in Las Vegas.",
-            "pubDate": "2026-11-22T09:07:15Z",
-            "link": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "England will not get carried away by beating All Blacks",
-            "desc": "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's record win over New Zealand and previews the final round of Nations Championship fixtures.",
-            "pubDate": "2026-11-22T12:45:57Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gdpm1q5no?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Did beaten Wales still show they have come a long way?",
-            "desc": "Wales believe they are on the up despite failing to back up their win against New Zealand when beaten by Australia in the Nations Championship.",
-            "pubDate": "2026-11-22T15:07:06Z",
-            "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjr4gn7yd9d5o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "title": "Liu Wenwei suspended amid match-fixing investigation",
-            "desc": "Chinese snooker player Liu Wenwei is suspended from \"attending or competing on the World Snooker Tour with immediate effect\" amid an investigation into match-fixing.",
-            "pubDate": "2026-11-22T15:17:49Z",
-            "link": "https://www.bbc.co.uk/sport/snooker/articles/c9p83k06160xo?at_medium=RSS&at_campaign=rss"
           }
         ]
       }
     },
     "ca": {
       "source": "CBC News",
-      "fetchedAt": "2026-11-22T19:33:39Z",
+      "fetchedAt": "2026-11-23T01:40:55Z",
       "sections": {
         "top": [
           {
-            "title": "A Montrealer died in Istanbul. Authorities blame food poisoning but what we found suggests something else",
-            "desc": "",
-            "pubDate": "2026-11-20T06:39:04Z",
-            "link": "https://www.cbc.ca/news/canada/canadian-death-istanbul-9.7427069?cmp=rss"
-          },
-          {
             "title": "COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
-            "desc": "Climate talks collapsed on Sunday at COP31 in Turkey, ending the longest ever UN climate summit with no deal to show for it.",
-            "pubDate": "2026-11-22T12:11:00Z",
+            "desc": "",
+            "pubDate": "2026-11-22T15:53:49Z",
             "link": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847?cmp=rss"
           },
           {
@@ -280,16 +274,22 @@
             "link": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss"
           },
           {
-            "title": "Quebecor CEO defends Telus bid, cites falling wireless prices and Canada's sovereignty",
-            "desc": "",
-            "pubDate": "2026-11-22T04:01:42Z",
-            "link": "https://www.cbc.ca/news/politics/pierre-karl-peladeau-quebecor-telus-bid-9.7431320?cmp=rss"
+            "title": "Will Canadian workers refuse to handle Israeli goods? Why unions increasingly say they should",
+            "desc": "A movement to cut off Israeli goods is spreading across Canada's unions. The Canadian Labour Congress, which represents more than 3 million workers, passed a resolution last month declaring trade, services and relationships with Israel to be “hot cargo,\"  emphasizing a call for workers  to refuse to handle weapons and military equipment destined for Israel.",
+            "pubDate": "2026-11-22T04:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/clc-resolution-canadian-unions-israel-9.7428991?cmp=rss"
           },
           {
-            "title": "Elite B.C. snowboarder's injury highlights financial strain of Olympic dreams",
-            "desc": "Prince George's Meryeta O'Dine suffered fractured ankle in a devastating crash during a snowboard cross training run in February and was unable to compete at the 2026 Olympics.",
-            "pubDate": "2026-11-22T08:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/prince-george-olympian-fundraising-injury-debt-9.7427067?cmp=rss"
+            "title": "FULL SPEECH | Carney roasts opposition, Trump at press gallery dinner",
+            "desc": "Prime Minister Mark Carney delivered a few jabs at his fellow politicians, journalists and U.S. President Donald Trump at the annual Parliamentary Press Gallery dinner in Ottawa on Saturday. 'This is a tough room. And I've been in the Oval Office, alone, with its new interior decorator,' Carney said, in an apparent poke at the U.S. leader. (Raw, unedited speech)",
+            "pubDate": "2026-11-22T20:29:23Z",
+            "link": "https://www.cbc.ca/player/play/9.7432128?cmp=rss"
+          },
+          {
+            "title": "Satellites are constantly photographing Earth. A Waterloo student has compiled the pictures into one spot",
+            "desc": "Satellites are constantly photographing Earth, and a new website designed by a University of Waterloo student is making these public photos more accessible to the general public.",
+            "pubDate": "2026-11-21T06:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/kitchener-waterloo/satellites-are-constantly-photographing-earth-a-waterloo-student-has-compiled-the-pictures-into-one-spot-9.7428257?cmp=rss"
           },
           {
             "title": "How a rainy afternoon in Montreal inspired an iconic Canadian board game",
@@ -298,19 +298,25 @@
             "link": "https://www.cbc.ca/radio/sunday/how-a-rainy-afternoon-in-montreal-inspired-an-iconic-canadian-board-game-9.7425059?cmp=rss"
           },
           {
-            "title": "How the Alberta government could fill a new pipeline with royalties paid in oil",
-            "desc": "",
-            "pubDate": "2026-11-10T09:15:29Z",
-            "link": "https://www.cbc.ca/news/canada/calgary/bakx-danielle-smith-pacific-link-royalties-in-kind-brik-9.7428691?cmp=rss"
+            "title": "Pay halted for suspended Vancouver police officer charged with fraud and theft",
+            "desc": "The Vancouver Police Board has discontinued pay for a high-profile officer accused of fraud and theft.",
+            "pubDate": "2026-11-22T13:40:48Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/kal-dosanjh-pay-discontinued-9.7431776?cmp=rss"
           },
           {
-            "title": "Frustrated? Angry? Why these Nova Scotians say you should scream it out",
-            "desc": "A group of Nova Scotians now meet weekly to scream their frustrations into the ocean. From grocery prices to global instability, they say there's plenty to motivate them these days.",
-            "pubDate": "2026-11-22T05:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/nova-scotia/bedford-scream-club-uses-screaming-as-therapy-9.7424996?cmp=rss"
+            "title": "Was mispronouncing ‘Newfoundland’ the motive for murder?",
+            "desc": "If you’re from Newfoundland, perhaps you’ve wanted to murder someone over their mangled pronunciation of the place’s name. But it really happened one Friday night in 1876. Author and cultural historian Ainsley Hawthorne tells this tale to die for.",
+            "pubDate": "2026-11-22T04:30:00Z",
+            "link": "https://www.cbc.ca/player/play/9.7431001?cmp=rss"
           }
         ],
         "world": [
+          {
+            "title": "COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
+            "desc": "Climate talks collapsed on Sunday at COP31 in Turkey, ending the longest ever United Nations climate summit with no deal to show for it.",
+            "pubDate": "2026-11-22T12:11:00Z",
+            "link": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847?cmp=rss"
+          },
           {
             "title": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
             "desc": "Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.",
@@ -318,10 +324,10 @@
             "link": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss"
           },
           {
-            "title": "COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
-            "desc": "Climate talks collapsed on Sunday at COP31 in Turkey, ending the longest ever UN climate summit with no deal to show for it.",
-            "pubDate": "2026-11-22T12:11:00Z",
-            "link": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847?cmp=rss"
+            "title": "Why some Americans are stockpiling for a 90-day power outage",
+            "desc": "The number of Americans stockpiling bottled water, non-perishable food and other emergency supplies has spiked over the past few weeks, a trend that has only accelerated in the wake of a series of high-profile tech outages.",
+            "pubDate": "2026-11-20T04:00:00Z",
+            "link": "https://www.cbc.ca/news/world/us-90-day-grid-outage-doomsday-prepping-stockpiling-9.7428489?cmp=rss"
           },
           {
             "title": "UN-affiliated athlete swims in dangerous Strait of Hormuz to highlight Iran war's impact on wildlife",
@@ -352,21 +358,9 @@
             "desc": "A burst of violence in Mexico's Sinaloa state after authorities captured cartel boss Fausto Isidro Meza Flores, known as El Chapo Isidro, left at least 11 people dead, authorities said Saturday.",
             "pubDate": "2026-11-21T11:32:44Z",
             "link": "https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss"
-          },
-          {
-            "title": "Israeli settler violence at unprecedented levels during Palestinian olive harvest",
-            "desc": "There have been more settler attacks against Palestinians and their property during this year’s olive harvest than in 20 years of record-keeping by the United Nations.",
-            "pubDate": "2026-11-21T04:00:00Z",
-            "link": "https://www.cbc.ca/news/world/israeli-settler-violence-at-unprecedented-levels-during-palestinian-olive-harvest-9.7426808?cmp=rss"
           }
         ],
         "canada": [
-          {
-            "title": "How a rainy afternoon in Montreal inspired an iconic Canadian board game",
-            "desc": "The bestselling Canadian board game of all time has sold more than 100 million copies worldwide, in 17 different languages. On the game's 45th anniversary, co-creator John Haney offers a personal account of the game's creation in his new book, My Trivial Pursuits: The Inside Story of the Board Game That Conquered the World.",
-            "pubDate": "2026-11-22T04:00:00Z",
-            "link": "https://www.cbc.ca/radio/sunday/how-a-rainy-afternoon-in-montreal-inspired-an-iconic-canadian-board-game-9.7425059?cmp=rss"
-          },
           {
             "title": "WhatsApp is a 'lifeline' for refugees. Advocates fear it could be severed in fight over federal bill",
             "desc": "Meta said this week that Bill C-22 could force it to \"consider\" withdrawing encrypted services like WhatsApp from Canada. Rights advocates say that would cut refugees and other newcomers off from a key platform they rely on to get information and stay connected to relatives back home.",
@@ -374,10 +368,28 @@
             "link": "https://www.cbc.ca/news/canada/lawful-access-bill-whatsapp-newcomers-9.7429493?cmp=rss"
           },
           {
-            "title": "B.C. couple lose business in devastating fire, credit volunteer firefighters with saving their home",
-            "desc": "A West Kootenay couple is counting their blessings after a massive fire destroyed their home-based mechanic shop in Burton, B.C. — and came dangerously close to taking their house with it.",
-            "pubDate": "2026-11-22T07:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/west-kootenay-fire-burton-family-saved-9.7426015?cmp=rss"
+            "title": "First Nations leader warns of 'dire' consequences if B.C. repeals the Declaration on the Rights of Indigenous Peoples Act",
+            "desc": "British Columbia's new Conservative government could face \"dire\" consequences if they repeal the Declaration on the Rights of Indigenous Peoples Act as promised, a First Nations leader said, adding that he's willing to work with new Premier Lorne Doerkson.",
+            "pubDate": "2026-11-22T20:06:09Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/first-nations-leader-warns-consequences-of-dripa-repeal-9.7432127?cmp=rss"
+          },
+          {
+            "title": "FULL SPEECH | Carney roasts opposition, Trump at press gallery dinner",
+            "desc": "Prime Minister Mark Carney delivered a few jabs at his fellow politicians, journalists and U.S. President Donald Trump at the annual Parliamentary Press Gallery dinner in Ottawa on Saturday. 'This is a tough room. And I've been in the Oval Office, alone, with its new interior decorator,' Carney said, in an apparent poke at the U.S. leader. (Raw, unedited speech)",
+            "pubDate": "2026-11-22T20:29:23Z",
+            "link": "https://www.cbc.ca/player/play/9.7432128?cmp=rss"
+          },
+          {
+            "title": "Pay halted for suspended Vancouver police officer charged with fraud and theft",
+            "desc": "The Vancouver Police Board has discontinued pay for a high-profile officer accused of fraud and theft.",
+            "pubDate": "2026-11-22T13:40:48Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/kal-dosanjh-pay-discontinued-9.7431776?cmp=rss"
+          },
+          {
+            "title": "Canada's first climate lawsuit to go to trial has wrapped up hearings. Many more are underway",
+            "desc": "What level of responsibility does the federal government bear for the climate disasters Canadians are suffering? That's the question at the heart of a landmark lawsuit that wrapped up witness testimony in Federal Court in Vancouver on Friday, and whose outcome could have a big influence on how a growing number of other climate lawsuits in Canada pan out.",
+            "pubDate": "2026-11-21T04:00:00Z",
+            "link": "https://www.cbc.ca/news/science/climate-lawsuit-emissions-constitution-federal-court-9.7430780?cmp=rss"
           },
           {
             "title": "Elite B.C. snowboarder's injury highlights financial strain of Olympic dreams",
@@ -386,31 +398,31 @@
             "link": "https://www.cbc.ca/news/canada/british-columbia/prince-george-olympian-fundraising-injury-debt-9.7427067?cmp=rss"
           },
           {
-            "title": "Will Canadian workers refuse to handle Israeli goods? Why unions increasingly say they should",
-            "desc": "A movement to cut off Israeli goods is spreading across Canada's unions. The Canadian Labour Congress, which represents more than 3 million workers, passed a resolution last month declaring trade, services and relationships with Israel to be “hot cargo,\"  emphasizing a call for workers  to refuse to handle weapons and military equipment destined for Israel.",
-            "pubDate": "2026-11-22T04:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/clc-resolution-canadian-unions-israel-9.7428991?cmp=rss"
+            "title": "Was mispronouncing ‘Newfoundland’ the motive for murder?",
+            "desc": "If you’re from Newfoundland, perhaps you’ve wanted to murder someone over their mangled pronunciation of the place’s name. But it really happened one Friday night in 1876. Author and cultural historian Ainsley Hawthorne tells this tale to die for.",
+            "pubDate": "2026-11-22T04:30:00Z",
+            "link": "https://www.cbc.ca/player/play/9.7431001?cmp=rss"
           },
           {
-            "title": "Frustrated? Angry? Why these Nova Scotians say you should scream it out",
-            "desc": "A group of Nova Scotians now meet weekly to scream their frustrations into the ocean. From grocery prices to global instability, they say there's plenty to motivate them these days.",
-            "pubDate": "2026-11-22T05:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/nova-scotia/bedford-scream-club-uses-screaming-as-therapy-9.7424996?cmp=rss"
-          },
-          {
-            "title": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust",
-            "desc": "The two officers had previously been placed on administrative leave and then fired from the Montreal police service. They were arrested after Quebec's Crown prosecutor's office issued a warrant.",
-            "pubDate": "2026-11-21T12:34:01Z",
-            "link": "https://www.cbc.ca/news/canada/montreal/spvm-arrest-two-officers-racism-scandal-9.7431306?cmp=rss"
-          },
-          {
-            "title": "Death outside Vancouver Island hospital raises questions about rural emergency care access",
-            "desc": "The death of a person outside the Port Hardy Hospital on northern Vancouver Island has renewed concerns about access to emergency care in rural B.C., where staffing shortages have forced some hospitals to close their emergency departments overnight.",
-            "pubDate": "2026-11-21T19:26:27Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/death-outside-port-hardy-hospital-sheds-light-on-continuous-er-closures-9.7431561?cmp=rss"
+            "title": "A small latte and a chat, please: Why this B.C. café owner put conversation on the menu",
+            "desc": "Registered clinical counsellor Shane Trudell estimates one-third of the population suffers from loneliness — but many people aren't aware of it. A New Westminster café hopes to help.",
+            "pubDate": "2026-11-22T10:00:00Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/cafe-conversation-and-coffee-bc-9.7424432?cmp=rss"
           }
         ],
         "bc": [
+          {
+            "title": "First Nations leader warns of consequences if B.C. repeals DRIPA",
+            "desc": "British Columbia's new Conservative government could face \"dire\" consequences if they repeal the Declaration on the Rights of Indigenous Peoples Act as promised, a First Nations leader said, adding that he's willing to work with new Premier Lorne Doerkson.",
+            "pubDate": "2026-11-22T20:06:09Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/first-nations-leader-warns-consequences-of-dripa-repeal-9.7432127?cmp=rss"
+          },
+          {
+            "title": "Arts groups in 'crisis mode' after lead contamination extends closure of B.C. theatre",
+            "desc": "It could be a blue Christmas for a number of arts and culture groups in New Westminster, where the city's premier venue will be unexpectedly closed over the holiday season.",
+            "pubDate": "2026-11-22T16:34:30Z",
+            "link": "https://www.cbc.ca/news/canada/british-columbia/massey-theatre-lead-contamination-9.7431927?cmp=rss"
+          },
           {
             "title": "84-year-old woman struck and killed in Burnaby collision",
             "desc": "Mounties were called to the crash on Kingsway at Randolph Avenue around 7:20 p.m. PCT Saturday.",
@@ -446,68 +458,56 @@
             "desc": "Registered clinical counsellor Shane Trudell estimates one-third of the population suffers from loneliness — but many people aren't aware of it. A New Westminster café hopes to help.",
             "pubDate": "2026-11-22T10:00:00Z",
             "link": "https://www.cbc.ca/news/canada/british-columbia/cafe-conversation-and-coffee-bc-9.7424432?cmp=rss"
-          },
-          {
-            "title": "West Kootenay couple lose business in devastating fire, credit volunteer firefighters with saving their home",
-            "desc": "A West Kootenay couple is counting their blessings after a massive fire destroyed their home-based mechanic shop in Burton, B.C. — and came dangerously close to taking their house with it.",
-            "pubDate": "2026-11-22T07:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/west-kootenay-fire-burton-family-saved-9.7426015?cmp=rss"
-          },
-          {
-            "title": "This First Nation community off Vancouver Island just got its first 'mini pharmacy'",
-            "desc": "Previously, Flores Island residents either needed money to take a water taxi to Tofino on Vancouver Island to get prescriptions, or relied on neighbours heading that way.",
-            "pubDate": "2026-11-22T06:00:00Z",
-            "link": "https://www.cbc.ca/news/canada/british-columbia/ahousaht-mini-pharmacy-9.7430789?cmp=rss"
           }
         ],
         "local": [
           {
+            "title": "More remains recovered in the search for 34 workers missing after an Indonesian candy factory fire",
+            "desc": "JAKARTA, Indonesia (AP) — Rescue teams searching for 34 missing workers after a fire swept through a candy factory in  Indonesia  recovered human remains in 24 body bags, though authorities said Sunday it was too early to determine the death toll.",
+            "pubDate": "2026-11-23T01:27:19Z",
+            "link": "https://www.nsnews.com/the-mix/more-remains-recovered-in-the-search-for-34-workers-missing-after-an-indonesian-candy-factory-fire-13047112"
+          },
+          {
+            "title": "More remains recovered in the search for 34 workers missing after an Indonesian candy factory fire",
+            "desc": "JAKARTA, Indonesia (AP) — Rescue teams searching for 34 missing workers after a fire swept through a candy factory in  Indonesia  recovered human remains in 24 body bags, though authorities said Sunday it was too early to determine the death toll.",
+            "pubDate": "2026-11-23T01:27:19Z",
+            "link": "https://www.nsnews.com/national-business/more-remains-recovered-in-the-search-for-34-workers-missing-after-an-indonesian-candy-factory-fire-13047113"
+          },
+          {
+            "title": "Letter: To control the rat population, stop dropping food for birds",
+            "desc": "Residents of North Vancouver's Lower Lonsdale neighbourhood keep trying to feed the local birds but a lot of it ends up feeding mice, rats and other vermin, this letter writer says",
+            "pubDate": "2026-11-23T00:30:00Z",
+            "link": "https://www.nsnews.com/opinion/letter-to-control-the-rat-population-stop-dropping-food-for-birds-13034284"
+          },
+          {
+            "title": "Paolo Bulgari, the Italian jeweler who turned a family business into global luxury brand, dies at 89",
+            "desc": "ATHENS, Greece (AP) — Paolo Bulgari, the grandson of a  Greek  silversmith who helped transform the family jewelry business into a global luxury brand synonymous with  Italian  glamour and design, has died. He was 89.",
+            "pubDate": "2026-11-23T00:27:20Z",
+            "link": "https://www.nsnews.com/the-mix/paolo-bulgari-the-italian-jeweler-who-turned-a-family-business-into-global-luxury-brand-dies-at-89-13047052"
+          },
+          {
             "title": "First Nations leader says he's open to talks with Doerkson, but opposes DRIPA repeal",
-            "desc": "VICTORIA — A British Columbia First Nations leader says he will try to work with Premier Lorne Doerkson, but warns of \"dire\" consequences if Conservatives follow through on their promise to repeal the Declaration on the Rights of Indigenous Peoples A",
-            "pubDate": "2026-11-22T19:11:30Z",
+            "desc": "VICTORIA — British Columbia's new Conservative government could face \"dire\" consequences if they repeal the Declaration on the Rights of Indigenous Peoples Act as promised, a First Nations leader said, adding that he's willing to work with new Premie",
+            "pubDate": "2026-11-23T00:06:00Z",
             "link": "https://www.nsnews.com/national-news/first-nations-leader-says-hes-open-to-talks-with-doerkson-but-opposes-dripa-repeal-13046656"
           },
           {
-            "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
-            "desc": "WASHINGTON (AP) — House Democrats have secured their best  general election  result in decades, winning at least 258 seats in  an election sweep  unseen since 1992 that creates not only vast opportunities to govern but also intense pressure to delive",
-            "pubDate": "2026-11-22T18:30:42Z",
-            "link": "https://www.nsnews.com/world-news/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992-13046586"
+            "title": "Tarik Skubal agrees to record $450 million, 9-year contract with New York Mets, AP source says",
+            "desc": "Tarik Skubal, the two-time Cy Young Award winner who was this offseason's top free agent, has agreed to a record $450 million, nine-year contract with the New York Mets, a person familiar with the negotiations told The Associated Press on Sunday.",
+            "pubDate": "2026-11-22T23:28:49Z",
+            "link": "https://www.nsnews.com/world-news/tarik-skubal-agrees-to-record-450-million-9-year-contract-with-new-york-mets-ap-source-says-13046986"
           },
           {
-            "title": "Nightmare start for Pochettino as Manchester United loses 4-0 to Liverpool in Premier League",
-            "desc": "LIVERPOOL, England (AP) —  Mauricio Pochettino  got off to a nightmare start as Manchester United manager, with a 4-0 loss at Liverpool in the  Premier League  on Sunday.",
-            "pubDate": "2026-11-22T18:27:43Z",
-            "link": "https://www.nsnews.com/national-sports/nightmare-start-for-pochettino-as-manchester-united-loses-4-0-to-liverpool-in-premier-league-13046588"
+            "title": "Tarik Skubal agrees to record $450 million, 9-year contract with New York Mets, AP source says",
+            "desc": "Tarik Skubal, the two-time Cy Young Award winner who was this offseason's top free agent, has agreed to a record $450 million, nine-year contract with the New York Mets, a person familiar with the negotiations told The Associated Press on Sunday.",
+            "pubDate": "2026-11-22T23:28:49Z",
+            "link": "https://www.nsnews.com/national-sports/tarik-skubal-agrees-to-record-450-million-9-year-contract-with-new-york-mets-ap-source-says-13046951"
           },
           {
-            "title": "Why the failure to reach a major deal at UN climate talks matters as extreme weather worsens",
-            "desc": "ANTALYA, Turkey (AP) — United Nations climate talks fizzled out Sunday without reaching an overarching agreement because of disputes over whether to mention the  fossil fuels that cause global warming.",
-            "pubDate": "2026-11-22T18:10:56Z",
-            "link": "https://www.nsnews.com/national-business/why-the-failure-to-reach-a-major-deal-at-un-climate-talks-matters-as-extreme-weather-worsens-13046250"
-          },
-          {
-            "title": "Why the failure to reach a major deal at UN climate talks matters as extreme weather worsens",
-            "desc": "ANTALYA, Turkey (AP) — United Nations climate talks fizzled out Sunday without reaching an overarching agreement because of disputes over whether to mention the  fossil fuels that cause global warming.",
-            "pubDate": "2026-11-22T18:10:56Z",
-            "link": "https://www.nsnews.com/the-mix/why-the-failure-to-reach-a-major-deal-at-un-climate-talks-matters-as-extreme-weather-worsens-13046249"
-          },
-          {
-            "title": "A resurgent ‘Hunger Games’ goes big at the box office, despite competition of 'Grand Theft Auto VI'",
-            "desc": "NEW YORK (AP) — Fourteen years and six movies in, “The Hunger Games” movie franchise rediscovered its box-office might, as  “Sunrise on the Reaping”  debuted with $120 million in North American theaters over the weekend, according to studio estimates",
-            "pubDate": "2026-11-22T17:59:15Z",
-            "link": "https://www.nsnews.com/the-mix/a-resurgent-hunger-games-goes-big-at-the-box-office-despite-competition-of-grand-theft-auto-vi-13046548"
-          },
-          {
-            "title": "Kings' Brian Dumoulin fined US$5,000 for cross-checking Senators' Jordan Spence",
-            "desc": "NEW YORK — Los Angeles Kings defenceman Brian Dumoulin has been fined US$5,000 for cross-checking Ottawa Senators defenceman Jordan Spence, the NHL's Department of Player Safety announced Sunday.",
-            "pubDate": "2026-11-22T17:20:50Z",
-            "link": "https://www.nsnews.com/national-sports/kings-brian-dumoulin-fined-us5000-for-cross-checking-senators-jordan-spence-13046522"
-          },
-          {
-            "title": "Courtney Sarault leads Canadian podium sweep at short track speedskating World Tour",
-            "desc": "SEOUL — Moncton's Courtney Sarault struck gold in the women's 500 metres to lead a Canadian podium sweep at a short track speedskating World Tour stop on Sunday.  Sarault won in 43.055 seconds, ahead of Danaé Blais (43.171) of Châteauguay, Que.",
-            "pubDate": "2026-11-22T16:50:17Z",
-            "link": "https://www.nsnews.com/national-sports/courtney-sarault-leads-canadian-podium-sweep-at-short-track-speedskating-world-tour-13046493"
+            "title": "Jeeno Thitikul cashes in at LPGA finale to win $4M prize for 3rd straight time",
+            "desc": "NAPLES, Fla.",
+            "pubDate": "2026-11-22T23:16:02Z",
+            "link": "https://www.nsnews.com/national-sports/jeeno-thitikul-cashes-in-at-lpga-finale-to-win-4m-prize-for-3rd-straight-time-13047009"
           }
         ]
       },
